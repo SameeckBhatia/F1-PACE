@@ -1,6 +1,3 @@
-# Uncomment the below line to install libraries
-# !pip -q install pandas requests bs4 threading
-
 # Importing required libraries
 import os
 import threading
