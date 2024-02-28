@@ -3,5 +3,3 @@
 
 library(tidyverse)
 library(tidyquant)
-
-lap_times <- read.csv("python/lap_times.csv")
