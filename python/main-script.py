@@ -1,3 +1,7 @@
+# Uncomment the below two lines to install libraries
+# from libraries import install_libs
+# install_libs()
+
 # Importing required libraries
 import os
 import threading
