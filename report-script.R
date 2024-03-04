@@ -18,3 +18,15 @@ driver_colors <- list(
   "RUS" = "#27F4D2", "NOR" = "#FF8000", "HAM" = "#09aa8f", "PIA" = "#994c00",
   "ALO" = "#229971", "STR" = "#104735"
 )
+
+outliers <- function(df, col) {
+  q1 <- quantile(df[[col]], 0.25)
+  q3 <- quantile(df[[col]], 0.75)
+  iqr <- q3 - q1
+
+  lower <- q1 - 1.5 * iqr
+  upper <- q3 + 1.5 * iqr
+
+  df %>% filter(lower < df[[col]], df[[col]] < upper)
+
+}
