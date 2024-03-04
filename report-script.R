@@ -12,3 +12,9 @@ constructor_colors <- list(
   "Mercedes" = "#27F4D2", "Racing Bulls" = "#6692FF", "Red Bull" = "#3671C6",
   "Williams" = "#64C4FF"
 )
+
+driver_colors <- list(
+  "VER" = "#3671C6", "PER" = "#204374", "SAI" = "#E8002D", "LEC" = "#800019",
+  "RUS" = "#27F4D2", "NOR" = "#FF8000", "HAM" = "#09aa8f", "PIA" = "#994c00",
+  "ALO" = "#229971", "STR" = "#104735"
+)
