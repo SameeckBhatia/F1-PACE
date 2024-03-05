@@ -53,6 +53,7 @@ plot_1 <- function(gp) {
   dev.off()
 }
 
+# Driver pace function
 plot_2 <- function(gp, driver1, driver2) {
   # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
@@ -69,9 +70,12 @@ plot_2 <- function(gp, driver1, driver2) {
          labs(x = "Lap", y = paste(driver1, "Gap to", driver2, "(sec behind)")))
 }
 
+# Lap time evolution function
 plot_3 <- function(gp, color) {
+  # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
       filename = paste0("plots/", gp, "_lrf.png"))
+  # Plotting the data
   plot(lap_times %>%
          filter(grand_prix == gp, lap != 1) %>%
          arrange(lap) %>%
