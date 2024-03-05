@@ -30,3 +30,19 @@ outliers <- function(df, col) {
   df %>% filter(lower < df[[col]], df[[col]] < upper)
 
 }
+
+plot_1 <- function(gp) {
+  png(width = 1000, height = 750, units = "px", res = 240,
+      filename = paste0("plots/", gp, "_compare.png"))
+  plot(lap_times %>%
+         filter(grand_prix == gp) %>%
+         outliers(col = "time") %>%
+         group_by(constructor) %>%
+         summarise(med = median(time)) %>%
+         mutate(delta = med - min(med)) %>%
+         ggplot(aes(x = reorder(constructor, desc(med)), y = delta)) +
+         geom_col(aes(fill = constructor_colors[constructor]), color = "black") +
+         labs(x = "Constructor", y = "Delta to Fastest (sec)") +
+         coord_flip())
+  dev.off()
+}
