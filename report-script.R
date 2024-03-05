@@ -53,3 +53,19 @@ plot_1 <- function(gp) {
          coord_flip())
   dev.off()
 }
+
+plot_2 <- function(gp, driver1, driver2) {
+  # Setting up the png device
+  png(width = 1000, height = 750, units = "px", res = 240,
+      filename = paste0("plots/", gp, "_h2h.png"))
+  # Plotting the data
+  plot(lap_times %>%
+         filter(driver %in% c(driver1, driver2)) %>%
+         select(driver, lap, time) %>%
+         arrange(lap) %>%
+         pivot_wider(names_from = driver, values_from = time) %>%
+         mutate(delta = cumsum(!!sym(driver1) - !!sym(driver2))) %>%
+         ggplot(aes(x = lap, y = delta, fill = driver_colors[driver1])) +
+         stat_smooth(geom = "area", span = 1 / 4) +
+         labs(x = "Lap", y = paste(driver1, "Gap to", driver2, "(sec behind)")))
+}
