@@ -68,3 +68,17 @@ plot_2 <- function(gp, driver1, driver2) {
          stat_smooth(geom = "area", span = 1 / 4) +
          labs(x = "Lap", y = paste(driver1, "Gap to", driver2, "(sec behind)")))
 }
+
+plot_3 <- function(gp, color) {
+  png(width = 1000, height = 750, units = "px", res = 240,
+      filename = paste0("plots/", gp, "_lrf.png"))
+  plot(lap_times %>%
+         filter(grand_prix == gp, lap != 1) %>%
+         arrange(lap) %>%
+         group_by(lap) %>%
+         summarise(med = median(time)) %>%
+         ggplot(aes(x = lap, y = med)) +
+         geom_line(color = "black") +
+         geom_smooth(method = "lm", se = FALSE, color = color) +
+         labs(x = "Lap", y = "Median Time (sec)"))
+}
