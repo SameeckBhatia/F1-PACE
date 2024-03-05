@@ -4,8 +4,10 @@
 library(tidyverse)
 library(tidyquant)
 
+# Reading the data
 lap_times <- read.csv("python/lap_times.csv")
 
+# Color list
 constructor_colors <- list(
   "Alpine" = "#FF87BC", "Aston Martin" = "#229971", "Ferrari" = "#E8002D",
   "Haas" = "#B6BABD", "Kick Sauber" = "#52E252", "McLaren" = "#FF8000",
@@ -13,12 +15,14 @@ constructor_colors <- list(
   "Williams" = "#64C4FF"
 )
 
+# Color list
 driver_colors <- list(
   "VER" = "#3671C6", "PER" = "#204374", "SAI" = "#E8002D", "LEC" = "#800019",
   "RUS" = "#27F4D2", "NOR" = "#FF8000", "HAM" = "#09aa8f", "PIA" = "#994c00",
   "ALO" = "#229971", "STR" = "#104735"
 )
 
+# Outlier function
 outliers <- function(df, col) {
   q1 <- quantile(df[[col]], 0.25)
   q3 <- quantile(df[[col]], 0.75)
@@ -31,9 +35,12 @@ outliers <- function(df, col) {
 
 }
 
+# Constructor pace function
 plot_1 <- function(gp) {
+  # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
       filename = paste0("plots/", gp, "_compare.png"))
+  # Plotting the data
   plot(lap_times %>%
          filter(grand_prix == gp) %>%
          outliers(col = "time") %>%
