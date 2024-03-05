@@ -28,10 +28,9 @@ outliers <- function(df, col) {
   q3 <- quantile(df[[col]], 0.75)
   iqr <- q3 - q1
 
-  lower <- q1 - 1.5 * iqr
   upper <- q3 + 1.5 * iqr
 
-  df %>% filter(lower < df[[col]], df[[col]] < upper)
+  df %>% filter(df[[col]] < upper)
 
 }
 
