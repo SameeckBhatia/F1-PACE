@@ -68,6 +68,7 @@ plot_2 <- function(gp, driver1, driver2) {
          ggplot(aes(x = lap, y = delta, fill = driver_colors[driver1])) +
          stat_smooth(geom = "area", span = 1 / 4) +
          labs(x = "Lap", y = paste(driver1, "Gap to", driver2, "(sec behind)")))
+  dev.off()
 }
 
 # Lap time evolution function
@@ -85,6 +86,7 @@ plot_3 <- function(gp, color) {
          geom_line(color = "black") +
          geom_smooth(method = "lm", se = FALSE, color = color) +
          labs(x = "Lap", y = "Median Time (sec)"))
+  dev.off()
 }
 
 # Wrapper function
