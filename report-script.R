@@ -86,3 +86,10 @@ plot_3 <- function(gp, color) {
          geom_smooth(method = "lm", se = FALSE, color = color) +
          labs(x = "Lap", y = "Median Time (sec)"))
 }
+
+# Wrapper function
+plot_all <- function(gp, driver1, driver2, color) {
+  plot_1(gp)
+  plot_2(gp, driver1, driver2)
+  plot_3(gp, color)
+}
