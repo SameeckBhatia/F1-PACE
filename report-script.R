@@ -95,3 +95,6 @@ plot_all <- function(gp, driver1, driver2, color) {
   plot_2(gp, driver1, driver2)
   plot_3(gp, color)
 }
+
+# Bahrain GP
+plot_all("Bahrain", "TSU", "RIC", "#DA291C")
