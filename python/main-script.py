@@ -44,8 +44,7 @@ constructor_driver_dict = {
 pair = []
 
 for constructor, drivers in constructor_driver_dict.items():
-    pair.append([constructor, drivers[0]])
-    pair.append([constructor, drivers[1]])
+    pair += [[constructor, j] for i, j in enumerate(drivers)]
 
 # Converting the dictionary to a data frame
 constructor_df = pd.DataFrame(pair, columns=["constructor", "driver"])
