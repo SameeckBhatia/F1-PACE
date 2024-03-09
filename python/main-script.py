@@ -35,7 +35,7 @@ print(f"\nFile: {file_check, set_diff[:5]}")
 # Creating a dictionary with each constructor's drivers
 constructor_driver_dict = {
     "Alpine": ["GAS", "OCO"], "Aston Martin": ["ALO", "STR"],
-    "Ferrari": ["LEC", "SAI"], "Haas": ["HUL", "MAG"],
+    "Ferrari": ["LEC", "SAI", "BEA"], "Haas": ["HUL", "MAG"],
     "Kick Sauber": ["BOT", "ZHO"], "McLaren": ["NOR", "PIA"],
     "Mercedes": ["HAM", "RUS"], "Racing Bulls": ["RIC", "TSU"],
     "Red Bull": ["PER", "VER"], "Williams": ["ALB", "SAR"]
