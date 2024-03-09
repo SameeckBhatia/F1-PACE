@@ -1,64 +1,64 @@
 round,grand_prix,constructor,driver,lap,position,time
-1,Bahrain,Red Bull,VER,15,1,97.011
-1,Bahrain,Aston Martin,ALO,15,2,101.101
-1,Bahrain,Red Bull,PER,15,3,96.815
-1,Bahrain,Mercedes,RUS,15,4,96.922
-1,Bahrain,Williams,ALB,15,5,101.171
-1,Bahrain,Ferrari,LEC,15,6,96.813
-1,Bahrain,Ferrari,SAI,15,7,117.225
-1,Bahrain,McLaren,NOR,15,8,96.912
-1,Bahrain,McLaren,PIA,15,9,96.823
-1,Bahrain,Mercedes,HAM,15,10,97.264
-1,Bahrain,Kick Sauber,ZHO,15,11,97.5
-1,Bahrain,Aston Martin,STR,15,12,97.533
-1,Bahrain,Racing Bulls,TSU,15,13,119.588
-1,Bahrain,Haas,MAG,15,14,98.332
-1,Bahrain,Alpine,OCO,15,15,97.843
-1,Bahrain,Racing Bulls,RIC,15,16,97.07
-1,Bahrain,Haas,HUL,15,17,98.11
-1,Bahrain,Kick Sauber,BOT,15,18,97.287
-1,Bahrain,Alpine,GAS,15,19,97.492
-1,Bahrain,Williams,SAR,15,20,97.594
-1,Bahrain,Red Bull,VER,25,1,95.342
-1,Bahrain,Red Bull,PER,25,2,96.344
-1,Bahrain,Ferrari,SAI,25,3,96.22
-1,Bahrain,Mercedes,RUS,25,4,96.928
-1,Bahrain,Ferrari,LEC,25,5,96.76
-1,Bahrain,McLaren,NOR,25,6,96.73
-1,Bahrain,McLaren,PIA,25,7,97.008
-1,Bahrain,Mercedes,HAM,25,8,96.919
-1,Bahrain,Aston Martin,ALO,25,9,97.179
-1,Bahrain,Kick Sauber,ZHO,25,10,97.883
-1,Bahrain,Racing Bulls,TSU,25,11,97.851
-1,Bahrain,Aston Martin,STR,25,12,97.994
-1,Bahrain,Haas,MAG,25,13,98.29
-1,Bahrain,Williams,ALB,25,14,98.226
-1,Bahrain,Racing Bulls,RIC,25,15,97.973
-1,Bahrain,Alpine,OCO,25,16,98.494
-1,Bahrain,Kick Sauber,BOT,25,17,98.262
-1,Bahrain,Alpine,GAS,25,18,98.16
-1,Bahrain,Haas,HUL,25,19,96.652
-1,Bahrain,Williams,SAR,25,20,99.093
-1,Bahrain,Red Bull,VER,17,1,99.896
-1,Bahrain,Red Bull,PER,17,2,96.454
-1,Bahrain,Mercedes,RUS,17,3,96.234
-1,Bahrain,Ferrari,SAI,17,4,95.507
-1,Bahrain,Ferrari,LEC,17,5,97.302
-1,Bahrain,McLaren,NOR,17,6,96.776
-1,Bahrain,McLaren,PIA,17,7,96.872
-1,Bahrain,Mercedes,HAM,17,8,97.111
-1,Bahrain,Aston Martin,ALO,17,9,96.97
-1,Bahrain,Kick Sauber,ZHO,17,10,98.475
-1,Bahrain,Racing Bulls,TSU,17,11,97.482
-1,Bahrain,Aston Martin,STR,17,12,98.777
-1,Bahrain,Haas,MAG,17,13,98.282
-1,Bahrain,Williams,ALB,17,14,97.392
-1,Bahrain,Alpine,OCO,17,15,98.911
-1,Bahrain,Racing Bulls,RIC,17,16,97.29
-1,Bahrain,Haas,HUL,17,17,97.891
-1,Bahrain,Kick Sauber,BOT,17,18,97.765
-1,Bahrain,Alpine,GAS,17,19,97.949
-1,Bahrain,Williams,SAR,17,20,99.758
+1,Bahrain,Red Bull,VER,4,1,96.647
+1,Bahrain,Mercedes,RUS,4,2,97.738
+1,Bahrain,Ferrari,LEC,4,3,97.752
+1,Bahrain,Red Bull,PER,4,4,97.722
+1,Bahrain,Ferrari,SAI,4,5,97.264
+1,Bahrain,McLaren,NOR,4,6,97.45
+1,Bahrain,Aston Martin,ALO,4,7,97.776
+1,Bahrain,McLaren,PIA,4,8,97.897
+1,Bahrain,Mercedes,HAM,4,9,98.287
+1,Bahrain,Racing Bulls,TSU,4,10,98.31
+1,Bahrain,Williams,ALB,4,11,98.422
+1,Bahrain,Haas,MAG,4,12,98.497
+1,Bahrain,Kick Sauber,ZHO,4,13,98.428
+1,Bahrain,Williams,SAR,4,14,98.39
+1,Bahrain,Racing Bulls,RIC,4,15,98.61
+1,Bahrain,Alpine,OCO,4,16,98.625
+1,Bahrain,Alpine,GAS,4,17,98.503
+1,Bahrain,Kick Sauber,BOT,4,18,98.643
+1,Bahrain,Aston Martin,STR,4,19,98.364
+1,Bahrain,Haas,HUL,4,20,97.349
+1,Bahrain,Red Bull,VER,12,1,97.045
+1,Bahrain,Ferrari,SAI,12,2,97.65
+1,Bahrain,Red Bull,PER,12,3,100.277
+1,Bahrain,McLaren,NOR,12,4,98.082
+1,Bahrain,McLaren,PIA,12,5,100.739
+1,Bahrain,Aston Martin,ALO,12,6,98.543
+1,Bahrain,Mercedes,HAM,12,7,100.889
+1,Bahrain,Racing Bulls,TSU,12,8,98.769
+1,Bahrain,Williams,ALB,12,9,98.934
+1,Bahrain,Racing Bulls,RIC,12,10,98.893
+1,Bahrain,Mercedes,RUS,12,11,118.46
+1,Bahrain,Alpine,GAS,12,12,101.456
+1,Bahrain,Ferrari,LEC,12,13,117.471
+1,Bahrain,Kick Sauber,BOT,12,14,103.145
+1,Bahrain,Kick Sauber,ZHO,12,15,96.995
+1,Bahrain,Aston Martin,STR,12,16,97.175
+1,Bahrain,Haas,MAG,12,17,119.682
+1,Bahrain,Alpine,OCO,12,18,97.599
+1,Bahrain,Haas,HUL,12,19,97.706
+1,Bahrain,Williams,SAR,12,20,98.493
+1,Bahrain,Red Bull,VER,9,1,97.229
+1,Bahrain,Mercedes,RUS,9,2,97.73
+1,Bahrain,Red Bull,PER,9,3,97.596
+1,Bahrain,Ferrari,LEC,9,4,97.844
+1,Bahrain,Ferrari,SAI,9,5,98.03
+1,Bahrain,McLaren,NOR,9,6,98.064
+1,Bahrain,McLaren,PIA,9,7,98.096
+1,Bahrain,Aston Martin,ALO,9,8,98.896
+1,Bahrain,Mercedes,HAM,9,9,98.645
+1,Bahrain,Racing Bulls,TSU,9,10,98.554
+1,Bahrain,Williams,ALB,9,11,98.652
+1,Bahrain,Haas,MAG,9,12,98.861
+1,Bahrain,Williams,SAR,9,13,99.366
+1,Bahrain,Racing Bulls,RIC,9,14,99.338
+1,Bahrain,Alpine,OCO,9,15,99.312
+1,Bahrain,Kick Sauber,ZHO,9,16,101.849
+1,Bahrain,Alpine,GAS,9,17,99.452
+1,Bahrain,Kick Sauber,BOT,9,18,99.425
+1,Bahrain,Aston Martin,STR,9,19,102.112
+1,Bahrain,Haas,HUL,9,20,97.883
 1,Bahrain,Red Bull,VER,26,1,95.223
 1,Bahrain,Red Bull,PER,26,2,96.347
 1,Bahrain,Ferrari,SAI,26,3,96.221
@@ -79,126 +79,26 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,26,18,98.379
 1,Bahrain,Haas,HUL,26,19,96.548
 1,Bahrain,Williams,SAR,26,20,97.859
-1,Bahrain,Red Bull,VER,24,1,95.289
-1,Bahrain,Red Bull,PER,24,2,96.211
-1,Bahrain,Ferrari,SAI,24,3,96.2
-1,Bahrain,Mercedes,RUS,24,4,96.736
-1,Bahrain,Ferrari,LEC,24,5,96.924
-1,Bahrain,McLaren,NOR,24,6,96.823
-1,Bahrain,McLaren,PIA,24,7,96.884
-1,Bahrain,Mercedes,HAM,24,8,96.666
-1,Bahrain,Aston Martin,ALO,24,9,97.046
-1,Bahrain,Kick Sauber,ZHO,24,10,97.894
-1,Bahrain,Racing Bulls,TSU,24,11,97.634
-1,Bahrain,Aston Martin,STR,24,12,98.138
-1,Bahrain,Haas,MAG,24,13,98.156
-1,Bahrain,Williams,ALB,24,14,98.204
-1,Bahrain,Racing Bulls,RIC,24,15,97.766
-1,Bahrain,Alpine,OCO,24,16,98.42
-1,Bahrain,Kick Sauber,BOT,24,17,98.146
-1,Bahrain,Alpine,GAS,24,18,98.192
-1,Bahrain,Haas,HUL,24,19,96.626
-1,Bahrain,Williams,SAR,24,20,99.437
-1,Bahrain,Red Bull,VER,19,1,95.283
-1,Bahrain,Red Bull,PER,19,2,96.038
-1,Bahrain,Ferrari,SAI,19,3,96.236
-1,Bahrain,Mercedes,RUS,19,4,97.233
-1,Bahrain,Ferrari,LEC,19,5,96.821
-1,Bahrain,McLaren,NOR,19,6,96.416
-1,Bahrain,McLaren,PIA,19,7,96.577
-1,Bahrain,Mercedes,HAM,19,8,96.694
-1,Bahrain,Aston Martin,ALO,19,9,97.072
-1,Bahrain,Kick Sauber,ZHO,19,10,97.652
-1,Bahrain,Racing Bulls,TSU,19,11,97.396
-1,Bahrain,Aston Martin,STR,19,12,97.554
-1,Bahrain,Haas,MAG,19,13,97.792
-1,Bahrain,Williams,ALB,19,14,97.763
-1,Bahrain,Alpine,OCO,19,15,98.332
-1,Bahrain,Racing Bulls,RIC,19,16,98.35
-1,Bahrain,Haas,HUL,19,17,97.862
-1,Bahrain,Kick Sauber,BOT,19,18,97.662
-1,Bahrain,Alpine,GAS,19,19,97.702
-1,Bahrain,Williams,SAR,19,20,97.742
-1,Bahrain,Red Bull,VER,6,1,97.092
-1,Bahrain,Mercedes,RUS,6,2,97.784
-1,Bahrain,Ferrari,LEC,6,3,97.782
-1,Bahrain,Red Bull,PER,6,4,97.823
-1,Bahrain,Ferrari,SAI,6,5,97.741
-1,Bahrain,McLaren,NOR,6,6,97.896
-1,Bahrain,McLaren,PIA,6,7,97.955
-1,Bahrain,Aston Martin,ALO,6,8,98.053
-1,Bahrain,Mercedes,HAM,6,9,98.183
-1,Bahrain,Racing Bulls,TSU,6,10,98.361
-1,Bahrain,Williams,ALB,6,11,98.575
-1,Bahrain,Haas,MAG,6,12,98.529
-1,Bahrain,Kick Sauber,ZHO,6,13,98.488
-1,Bahrain,Williams,SAR,6,14,98.582
-1,Bahrain,Racing Bulls,RIC,6,15,98.689
-1,Bahrain,Alpine,OCO,6,16,98.874
-1,Bahrain,Alpine,GAS,6,17,99.099
-1,Bahrain,Aston Martin,STR,6,18,98.925
-1,Bahrain,Kick Sauber,BOT,6,19,99.206
-1,Bahrain,Haas,HUL,6,20,97.896
-1,Bahrain,Red Bull,VER,29,1,95.793
-1,Bahrain,Red Bull,PER,29,2,96.437
-1,Bahrain,Ferrari,SAI,29,3,96.6
-1,Bahrain,Mercedes,RUS,29,4,97.066
-1,Bahrain,Ferrari,LEC,29,5,96.963
-1,Bahrain,McLaren,NOR,29,6,97.041
-1,Bahrain,McLaren,PIA,29,7,97.179
-1,Bahrain,Mercedes,HAM,29,8,96.786
-1,Bahrain,Aston Martin,ALO,29,9,97.104
-1,Bahrain,Racing Bulls,TSU,29,10,97.777
-1,Bahrain,Haas,MAG,29,11,97.965
-1,Bahrain,Williams,ALB,29,12,97.879
-1,Bahrain,Racing Bulls,RIC,29,13,97.96
-1,Bahrain,Alpine,OCO,29,14,98.556
-1,Bahrain,Kick Sauber,BOT,29,15,98.654
-1,Bahrain,Alpine,GAS,29,16,98.55
-1,Bahrain,Kick Sauber,ZHO,29,17,117.076
-1,Bahrain,Aston Martin,STR,29,18,95.854
-1,Bahrain,Haas,HUL,29,19,96.837
-1,Bahrain,Williams,SAR,29,20,121.581
-1,Bahrain,Red Bull,VER,11,1,97.085
-1,Bahrain,Red Bull,PER,11,2,97.836
-1,Bahrain,Ferrari,SAI,11,3,97.656
-1,Bahrain,Mercedes,RUS,11,4,100.515
-1,Bahrain,McLaren,NOR,11,5,98.172
-1,Bahrain,Ferrari,LEC,11,6,101.737
-1,Bahrain,McLaren,PIA,11,7,98.397
-1,Bahrain,Mercedes,HAM,11,8,98.236
-1,Bahrain,Aston Martin,ALO,11,9,98.554
-1,Bahrain,Racing Bulls,TSU,11,10,98.799
-1,Bahrain,Williams,ALB,11,11,98.835
-1,Bahrain,Haas,MAG,11,12,101.088
-1,Bahrain,Racing Bulls,RIC,11,13,99.033
-1,Bahrain,Alpine,GAS,11,14,98.656
-1,Bahrain,Kick Sauber,BOT,11,15,99.187
-1,Bahrain,Kick Sauber,ZHO,11,16,96.365
-1,Bahrain,Aston Martin,STR,11,17,96.494
-1,Bahrain,Alpine,OCO,11,18,119.014
-1,Bahrain,Haas,HUL,11,19,97.638
-1,Bahrain,Williams,SAR,11,20,132.438
-1,Bahrain,Red Bull,VER,28,1,95.477
-1,Bahrain,Red Bull,PER,28,2,96.226
-1,Bahrain,Ferrari,SAI,28,3,96.534
-1,Bahrain,Mercedes,RUS,28,4,96.911
-1,Bahrain,Ferrari,LEC,28,5,96.907
-1,Bahrain,McLaren,NOR,28,6,97.018
-1,Bahrain,McLaren,PIA,28,7,96.905
-1,Bahrain,Mercedes,HAM,28,8,96.692
-1,Bahrain,Aston Martin,ALO,28,9,97.256
-1,Bahrain,Racing Bulls,TSU,28,10,98.164
-1,Bahrain,Kick Sauber,ZHO,28,11,100.675
-1,Bahrain,Haas,MAG,28,12,97.936
-1,Bahrain,Williams,ALB,28,13,98.048
-1,Bahrain,Racing Bulls,RIC,28,14,98.045
-1,Bahrain,Alpine,OCO,28,15,98.372
-1,Bahrain,Kick Sauber,BOT,28,16,98.595
-1,Bahrain,Alpine,GAS,28,17,98.615
-1,Bahrain,Aston Martin,STR,28,18,116.64
-1,Bahrain,Haas,HUL,28,19,97.254
-1,Bahrain,Williams,SAR,28,20,100.535
+1,Bahrain,Red Bull,VER,8,1,97.024
+1,Bahrain,Mercedes,RUS,8,2,97.862
+1,Bahrain,Red Bull,PER,8,3,97.838
+1,Bahrain,Ferrari,LEC,8,4,98.136
+1,Bahrain,Ferrari,SAI,8,5,98.183
+1,Bahrain,McLaren,NOR,8,6,98.134
+1,Bahrain,McLaren,PIA,8,7,97.956
+1,Bahrain,Aston Martin,ALO,8,8,98.103
+1,Bahrain,Mercedes,HAM,8,9,98.221
+1,Bahrain,Racing Bulls,TSU,8,10,98.513
+1,Bahrain,Williams,ALB,8,11,98.66
+1,Bahrain,Haas,MAG,8,12,99.172
+1,Bahrain,Kick Sauber,ZHO,8,13,99.646
+1,Bahrain,Williams,SAR,8,14,99.58
+1,Bahrain,Racing Bulls,RIC,8,15,99.529
+1,Bahrain,Alpine,OCO,8,16,99.422
+1,Bahrain,Alpine,GAS,8,17,99.287
+1,Bahrain,Aston Martin,STR,8,18,98.857
+1,Bahrain,Kick Sauber,BOT,8,19,98.968
+1,Bahrain,Haas,HUL,8,20,97.82
 1,Bahrain,Red Bull,VER,14,1,97.028
 1,Bahrain,Ferrari,SAI,14,2,99.753
 1,Bahrain,Aston Martin,ALO,14,3,98.612
@@ -239,635 +139,6 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,27,18,98.4
 1,Bahrain,Haas,HUL,27,19,96.647
 1,Bahrain,Williams,SAR,27,20,98.288
-1,Bahrain,Red Bull,VER,10,1,96.96
-1,Bahrain,Mercedes,RUS,10,2,97.782
-1,Bahrain,Red Bull,PER,10,3,97.63
-1,Bahrain,Ferrari,LEC,10,4,97.884
-1,Bahrain,Ferrari,SAI,10,5,97.608
-1,Bahrain,McLaren,NOR,10,6,97.936
-1,Bahrain,McLaren,PIA,10,7,98.073
-1,Bahrain,Mercedes,HAM,10,8,98.037
-1,Bahrain,Aston Martin,ALO,10,9,99.325
-1,Bahrain,Racing Bulls,TSU,10,10,98.912
-1,Bahrain,Williams,ALB,10,11,98.952
-1,Bahrain,Haas,MAG,10,12,98.747
-1,Bahrain,Racing Bulls,RIC,10,13,98.782
-1,Bahrain,Alpine,GAS,10,14,98.929
-1,Bahrain,Kick Sauber,BOT,10,15,99.112
-1,Bahrain,Alpine,OCO,10,16,101.642
-1,Bahrain,Kick Sauber,ZHO,10,17,119.328
-1,Bahrain,Aston Martin,STR,10,18,117.815
-1,Bahrain,Haas,HUL,10,19,98.37
-1,Bahrain,Williams,SAR,10,20,161.86
-1,Bahrain,Red Bull,VER,7,1,97.038
-1,Bahrain,Mercedes,RUS,7,2,98.082
-1,Bahrain,Red Bull,PER,7,3,97.821
-1,Bahrain,Ferrari,LEC,7,4,98.957
-1,Bahrain,Ferrari,SAI,7,5,98.26
-1,Bahrain,McLaren,NOR,7,6,97.86
-1,Bahrain,McLaren,PIA,7,7,97.984
-1,Bahrain,Aston Martin,ALO,7,8,98.008
-1,Bahrain,Mercedes,HAM,7,9,97.839
-1,Bahrain,Racing Bulls,TSU,7,10,98.364
-1,Bahrain,Williams,ALB,7,11,98.971
-1,Bahrain,Haas,MAG,7,12,100.058
-1,Bahrain,Kick Sauber,ZHO,7,13,99.517
-1,Bahrain,Williams,SAR,7,14,99.464
-1,Bahrain,Racing Bulls,RIC,7,15,99.193
-1,Bahrain,Alpine,OCO,7,16,99.152
-1,Bahrain,Alpine,GAS,7,17,99.078
-1,Bahrain,Aston Martin,STR,7,18,98.769
-1,Bahrain,Kick Sauber,BOT,7,19,98.654
-1,Bahrain,Haas,HUL,7,20,97.682
-1,Bahrain,Red Bull,VER,4,1,96.647
-1,Bahrain,Mercedes,RUS,4,2,97.738
-1,Bahrain,Ferrari,LEC,4,3,97.752
-1,Bahrain,Red Bull,PER,4,4,97.722
-1,Bahrain,Ferrari,SAI,4,5,97.264
-1,Bahrain,McLaren,NOR,4,6,97.45
-1,Bahrain,Aston Martin,ALO,4,7,97.776
-1,Bahrain,McLaren,PIA,4,8,97.897
-1,Bahrain,Mercedes,HAM,4,9,98.287
-1,Bahrain,Racing Bulls,TSU,4,10,98.31
-1,Bahrain,Williams,ALB,4,11,98.422
-1,Bahrain,Haas,MAG,4,12,98.497
-1,Bahrain,Kick Sauber,ZHO,4,13,98.428
-1,Bahrain,Williams,SAR,4,14,98.39
-1,Bahrain,Racing Bulls,RIC,4,15,98.61
-1,Bahrain,Alpine,OCO,4,16,98.625
-1,Bahrain,Alpine,GAS,4,17,98.503
-1,Bahrain,Kick Sauber,BOT,4,18,98.643
-1,Bahrain,Aston Martin,STR,4,19,98.364
-1,Bahrain,Haas,HUL,4,20,97.349
-1,Bahrain,Red Bull,VER,22,1,95.204
-1,Bahrain,Red Bull,PER,22,2,96.037
-1,Bahrain,Ferrari,SAI,22,3,96.008
-1,Bahrain,Mercedes,RUS,22,4,96.992
-1,Bahrain,Ferrari,LEC,22,5,96.796
-1,Bahrain,McLaren,NOR,22,6,96.668
-1,Bahrain,McLaren,PIA,22,7,96.555
-1,Bahrain,Mercedes,HAM,22,8,96.633
-1,Bahrain,Aston Martin,ALO,22,9,97.122
-1,Bahrain,Kick Sauber,ZHO,22,10,97.852
-1,Bahrain,Racing Bulls,TSU,22,11,97.837
-1,Bahrain,Aston Martin,STR,22,12,98.175
-1,Bahrain,Haas,MAG,22,13,98.147
-1,Bahrain,Williams,ALB,22,14,98.031
-1,Bahrain,Racing Bulls,RIC,22,15,97.75
-1,Bahrain,Alpine,OCO,22,16,98.655
-1,Bahrain,Kick Sauber,BOT,22,17,97.998
-1,Bahrain,Alpine,GAS,22,18,97.868
-1,Bahrain,Haas,HUL,22,19,96.858
-1,Bahrain,Williams,SAR,22,20,97.728
-1,Bahrain,Red Bull,VER,12,1,97.045
-1,Bahrain,Ferrari,SAI,12,2,97.65
-1,Bahrain,Red Bull,PER,12,3,100.277
-1,Bahrain,McLaren,NOR,12,4,98.082
-1,Bahrain,McLaren,PIA,12,5,100.739
-1,Bahrain,Aston Martin,ALO,12,6,98.543
-1,Bahrain,Mercedes,HAM,12,7,100.889
-1,Bahrain,Racing Bulls,TSU,12,8,98.769
-1,Bahrain,Williams,ALB,12,9,98.934
-1,Bahrain,Racing Bulls,RIC,12,10,98.893
-1,Bahrain,Mercedes,RUS,12,11,118.46
-1,Bahrain,Alpine,GAS,12,12,101.456
-1,Bahrain,Ferrari,LEC,12,13,117.471
-1,Bahrain,Kick Sauber,BOT,12,14,103.145
-1,Bahrain,Kick Sauber,ZHO,12,15,96.995
-1,Bahrain,Aston Martin,STR,12,16,97.175
-1,Bahrain,Haas,MAG,12,17,119.682
-1,Bahrain,Alpine,OCO,12,18,97.599
-1,Bahrain,Haas,HUL,12,19,97.706
-1,Bahrain,Williams,SAR,12,20,98.493
-1,Bahrain,Red Bull,VER,23,1,95.216
-1,Bahrain,Red Bull,PER,23,2,96.249
-1,Bahrain,Ferrari,SAI,23,3,96.149
-1,Bahrain,Mercedes,RUS,23,4,96.954
-1,Bahrain,Ferrari,LEC,23,5,96.987
-1,Bahrain,McLaren,NOR,23,6,96.696
-1,Bahrain,McLaren,PIA,23,7,96.68
-1,Bahrain,Mercedes,HAM,23,8,96.717
-1,Bahrain,Aston Martin,ALO,23,9,97.265
-1,Bahrain,Kick Sauber,ZHO,23,10,97.788
-1,Bahrain,Racing Bulls,TSU,23,11,97.671
-1,Bahrain,Aston Martin,STR,23,12,97.826
-1,Bahrain,Haas,MAG,23,13,98.293
-1,Bahrain,Williams,ALB,23,14,97.869
-1,Bahrain,Racing Bulls,RIC,23,15,97.772
-1,Bahrain,Alpine,OCO,23,16,98.407
-1,Bahrain,Kick Sauber,BOT,23,17,98.18
-1,Bahrain,Alpine,GAS,23,18,98.104
-1,Bahrain,Haas,HUL,23,19,96.725
-1,Bahrain,Williams,SAR,23,20,97.621
-1,Bahrain,Red Bull,VER,9,1,97.229
-1,Bahrain,Mercedes,RUS,9,2,97.73
-1,Bahrain,Red Bull,PER,9,3,97.596
-1,Bahrain,Ferrari,LEC,9,4,97.844
-1,Bahrain,Ferrari,SAI,9,5,98.03
-1,Bahrain,McLaren,NOR,9,6,98.064
-1,Bahrain,McLaren,PIA,9,7,98.096
-1,Bahrain,Aston Martin,ALO,9,8,98.896
-1,Bahrain,Mercedes,HAM,9,9,98.645
-1,Bahrain,Racing Bulls,TSU,9,10,98.554
-1,Bahrain,Williams,ALB,9,11,98.652
-1,Bahrain,Haas,MAG,9,12,98.861
-1,Bahrain,Williams,SAR,9,13,99.366
-1,Bahrain,Racing Bulls,RIC,9,14,99.338
-1,Bahrain,Alpine,OCO,9,15,99.312
-1,Bahrain,Kick Sauber,ZHO,9,16,101.849
-1,Bahrain,Alpine,GAS,9,17,99.452
-1,Bahrain,Kick Sauber,BOT,9,18,99.425
-1,Bahrain,Aston Martin,STR,9,19,102.112
-1,Bahrain,Haas,HUL,9,20,97.883
-1,Bahrain,Red Bull,VER,18,1,117.854
-1,Bahrain,Red Bull,PER,18,2,96.311
-1,Bahrain,Ferrari,SAI,18,3,96.088
-1,Bahrain,Mercedes,RUS,18,4,97.819
-1,Bahrain,Ferrari,LEC,18,5,97.438
-1,Bahrain,McLaren,NOR,18,6,96.508
-1,Bahrain,McLaren,PIA,18,7,97.095
-1,Bahrain,Mercedes,HAM,18,8,96.85
-1,Bahrain,Aston Martin,ALO,18,9,97.361
-1,Bahrain,Kick Sauber,ZHO,18,10,97.552
-1,Bahrain,Racing Bulls,TSU,18,11,97.359
-1,Bahrain,Aston Martin,STR,18,12,97.417
-1,Bahrain,Haas,MAG,18,13,97.583
-1,Bahrain,Williams,ALB,18,14,97.59
-1,Bahrain,Alpine,OCO,18,15,98.12
-1,Bahrain,Racing Bulls,RIC,18,16,97.7
-1,Bahrain,Haas,HUL,18,17,98.216
-1,Bahrain,Kick Sauber,BOT,18,18,97.918
-1,Bahrain,Alpine,GAS,18,19,97.791
-1,Bahrain,Williams,SAR,18,20,98.077
-1,Bahrain,Red Bull,VER,1,1,97.284
-1,Bahrain,Ferrari,LEC,1,2,98.271
-1,Bahrain,Mercedes,RUS,1,3,99.228
-1,Bahrain,Red Bull,PER,1,4,100.053
-1,Bahrain,Ferrari,SAI,1,5,100.62
-1,Bahrain,Aston Martin,ALO,1,6,101.679
-1,Bahrain,McLaren,NOR,1,7,102.168
-1,Bahrain,McLaren,PIA,1,8,102.523
-1,Bahrain,Mercedes,HAM,1,9,103.122
-1,Bahrain,Racing Bulls,TSU,1,10,103.485
-1,Bahrain,Williams,ALB,1,11,103.888
-1,Bahrain,Haas,MAG,1,12,104.349
-1,Bahrain,Kick Sauber,ZHO,1,13,104.801
-1,Bahrain,Racing Bulls,RIC,1,14,105.668
-1,Bahrain,Williams,SAR,1,15,105.921
-1,Bahrain,Alpine,OCO,1,16,106.657
-1,Bahrain,Alpine,GAS,1,17,107.24
-1,Bahrain,Kick Sauber,BOT,1,18,108.536
-1,Bahrain,Aston Martin,STR,1,19,110.214
-1,Bahrain,Haas,HUL,1,20,113.555
-1,Bahrain,Red Bull,VER,5,1,97.173
-1,Bahrain,Mercedes,RUS,5,2,98.116
-1,Bahrain,Ferrari,LEC,5,3,98.131
-1,Bahrain,Red Bull,PER,5,4,98.044
-1,Bahrain,Ferrari,SAI,5,5,98.032
-1,Bahrain,McLaren,NOR,5,6,97.794
-1,Bahrain,McLaren,PIA,5,7,97.859
-1,Bahrain,Aston Martin,ALO,5,8,99.292
-1,Bahrain,Mercedes,HAM,5,9,98.35
-1,Bahrain,Racing Bulls,TSU,5,10,98.321
-1,Bahrain,Williams,ALB,5,11,98.509
-1,Bahrain,Haas,MAG,5,12,98.576
-1,Bahrain,Kick Sauber,ZHO,5,13,98.798
-1,Bahrain,Williams,SAR,5,14,98.757
-1,Bahrain,Racing Bulls,RIC,5,15,98.704
-1,Bahrain,Alpine,OCO,5,16,98.64
-1,Bahrain,Alpine,GAS,5,17,98.664
-1,Bahrain,Aston Martin,STR,5,18,98.725
-1,Bahrain,Kick Sauber,BOT,5,19,100.087
-1,Bahrain,Haas,HUL,5,20,97.663
-1,Bahrain,Red Bull,VER,2,1,96.296
-1,Bahrain,Ferrari,LEC,2,2,96.862
-1,Bahrain,Mercedes,RUS,2,3,96.635
-1,Bahrain,Red Bull,PER,2,4,96.541
-1,Bahrain,Ferrari,SAI,2,5,97.236
-1,Bahrain,Aston Martin,ALO,2,6,98.02
-1,Bahrain,McLaren,NOR,2,7,98.01
-1,Bahrain,McLaren,PIA,2,8,98.382
-1,Bahrain,Mercedes,HAM,2,9,98.273
-1,Bahrain,Racing Bulls,TSU,2,10,98.689
-1,Bahrain,Williams,ALB,2,11,98.826
-1,Bahrain,Haas,MAG,2,12,98.911
-1,Bahrain,Kick Sauber,ZHO,2,13,98.92
-1,Bahrain,Williams,SAR,2,14,98.481
-1,Bahrain,Racing Bulls,RIC,2,15,99.509
-1,Bahrain,Alpine,OCO,2,16,99.094
-1,Bahrain,Alpine,GAS,2,17,99.059
-1,Bahrain,Kick Sauber,BOT,2,18,98.259
-1,Bahrain,Aston Martin,STR,2,19,97.987
-1,Bahrain,Haas,HUL,2,20,130.911
-1,Bahrain,Red Bull,VER,13,1,97.03
-1,Bahrain,Ferrari,SAI,13,2,97.243
-1,Bahrain,McLaren,NOR,13,3,100.635
-1,Bahrain,Aston Martin,ALO,13,4,98.587
-1,Bahrain,Racing Bulls,TSU,13,5,98.86
-1,Bahrain,Williams,ALB,13,6,98.823
-1,Bahrain,Mercedes,RUS,13,7,97.167
-1,Bahrain,Red Bull,PER,13,8,117.624
-1,Bahrain,Ferrari,LEC,13,9,96.432
-1,Bahrain,Racing Bulls,RIC,13,10,102.173
-1,Bahrain,McLaren,PIA,13,11,118.689
-1,Bahrain,Mercedes,HAM,13,12,118.645
-1,Bahrain,Kick Sauber,ZHO,13,13,97.436
-1,Bahrain,Aston Martin,STR,13,14,97.289
-1,Bahrain,Haas,MAG,13,15,96.89
-1,Bahrain,Alpine,OCO,13,16,97.363
-1,Bahrain,Haas,HUL,13,17,97.801
-1,Bahrain,Alpine,GAS,13,18,124.565
-1,Bahrain,Kick Sauber,BOT,13,19,121.081
-1,Bahrain,Williams,SAR,13,20,100.989
-1,Bahrain,Red Bull,VER,8,1,97.024
-1,Bahrain,Mercedes,RUS,8,2,97.862
-1,Bahrain,Red Bull,PER,8,3,97.838
-1,Bahrain,Ferrari,LEC,8,4,98.136
-1,Bahrain,Ferrari,SAI,8,5,98.183
-1,Bahrain,McLaren,NOR,8,6,98.134
-1,Bahrain,McLaren,PIA,8,7,97.956
-1,Bahrain,Aston Martin,ALO,8,8,98.103
-1,Bahrain,Mercedes,HAM,8,9,98.221
-1,Bahrain,Racing Bulls,TSU,8,10,98.513
-1,Bahrain,Williams,ALB,8,11,98.66
-1,Bahrain,Haas,MAG,8,12,99.172
-1,Bahrain,Kick Sauber,ZHO,8,13,99.646
-1,Bahrain,Williams,SAR,8,14,99.58
-1,Bahrain,Racing Bulls,RIC,8,15,99.529
-1,Bahrain,Alpine,OCO,8,16,99.422
-1,Bahrain,Alpine,GAS,8,17,99.287
-1,Bahrain,Aston Martin,STR,8,18,98.857
-1,Bahrain,Kick Sauber,BOT,8,19,98.968
-1,Bahrain,Haas,HUL,8,20,97.82
-1,Bahrain,Red Bull,VER,16,1,97.168
-1,Bahrain,Red Bull,PER,16,2,95.783
-1,Bahrain,Mercedes,RUS,16,3,96.683
-1,Bahrain,Ferrari,LEC,16,4,96.673
-1,Bahrain,Ferrari,SAI,16,5,96.376
-1,Bahrain,McLaren,NOR,16,6,96.565
-1,Bahrain,McLaren,PIA,16,7,96.427
-1,Bahrain,Mercedes,HAM,16,8,97.091
-1,Bahrain,Kick Sauber,ZHO,16,9,97.659
-1,Bahrain,Aston Martin,ALO,16,10,118.814
-1,Bahrain,Aston Martin,STR,16,11,98.027
-1,Bahrain,Racing Bulls,TSU,16,12,97.516
-1,Bahrain,Haas,MAG,16,13,97.749
-1,Bahrain,Alpine,OCO,16,14,97.902
-1,Bahrain,Williams,ALB,16,15,119.341
-1,Bahrain,Racing Bulls,RIC,16,16,97.176
-1,Bahrain,Haas,HUL,16,17,97.796
-1,Bahrain,Kick Sauber,BOT,16,18,97.718
-1,Bahrain,Alpine,GAS,16,19,97.521
-1,Bahrain,Williams,SAR,16,20,101.37
-1,Bahrain,Red Bull,VER,21,1,95.316
-1,Bahrain,Red Bull,PER,21,2,96.165
-1,Bahrain,Ferrari,SAI,21,3,96.104
-1,Bahrain,Mercedes,RUS,21,4,96.769
-1,Bahrain,Ferrari,LEC,21,5,96.977
-1,Bahrain,McLaren,NOR,21,6,96.62
-1,Bahrain,McLaren,PIA,21,7,96.733
-1,Bahrain,Mercedes,HAM,21,8,96.51
-1,Bahrain,Aston Martin,ALO,21,9,97.342
-1,Bahrain,Kick Sauber,ZHO,21,10,97.947
-1,Bahrain,Racing Bulls,TSU,21,11,97.777
-1,Bahrain,Aston Martin,STR,21,12,98.022
-1,Bahrain,Haas,MAG,21,13,98.01
-1,Bahrain,Williams,ALB,21,14,97.918
-1,Bahrain,Racing Bulls,RIC,21,15,97.392
-1,Bahrain,Alpine,OCO,21,16,99.363
-1,Bahrain,Kick Sauber,BOT,21,17,97.73
-1,Bahrain,Alpine,GAS,21,18,98.094
-1,Bahrain,Haas,HUL,21,19,118.699
-1,Bahrain,Williams,SAR,21,20,98.009
-1,Bahrain,Red Bull,VER,30,1,95.771
-1,Bahrain,Red Bull,PER,30,2,96.313
-1,Bahrain,Ferrari,SAI,30,3,96.337
-1,Bahrain,Mercedes,RUS,30,4,97.186
-1,Bahrain,Ferrari,LEC,30,5,97.158
-1,Bahrain,McLaren,NOR,30,6,96.986
-1,Bahrain,McLaren,PIA,30,7,97.177
-1,Bahrain,Mercedes,HAM,30,8,97.244
-1,Bahrain,Aston Martin,ALO,30,9,96.982
-1,Bahrain,Racing Bulls,TSU,30,10,97.477
-1,Bahrain,Haas,MAG,30,11,98.04
-1,Bahrain,Williams,ALB,30,12,97.968
-1,Bahrain,Racing Bulls,RIC,30,13,97.978
-1,Bahrain,Alpine,OCO,30,14,101.21
-1,Bahrain,Alpine,GAS,30,15,98.832
-1,Bahrain,Kick Sauber,BOT,30,16,101.252
-1,Bahrain,Kick Sauber,ZHO,30,17,95.458
-1,Bahrain,Aston Martin,STR,30,18,95.632
-1,Bahrain,Haas,HUL,30,19,96.691
-1,Bahrain,Williams,SAR,30,20,95.715
-1,Bahrain,Red Bull,VER,20,1,95.16
-1,Bahrain,Red Bull,PER,20,2,96.278
-1,Bahrain,Ferrari,SAI,20,3,96.034
-1,Bahrain,Mercedes,RUS,20,4,96.732
-1,Bahrain,Ferrari,LEC,20,5,96.794
-1,Bahrain,McLaren,NOR,20,6,96.501
-1,Bahrain,McLaren,PIA,20,7,96.644
-1,Bahrain,Mercedes,HAM,20,8,96.264
-1,Bahrain,Aston Martin,ALO,20,9,97.357
-1,Bahrain,Kick Sauber,ZHO,20,10,97.749
-1,Bahrain,Racing Bulls,TSU,20,11,97.766
-1,Bahrain,Aston Martin,STR,20,12,97.859
-1,Bahrain,Haas,MAG,20,13,98.062
-1,Bahrain,Williams,ALB,20,14,97.701
-1,Bahrain,Alpine,OCO,20,15,98.185
-1,Bahrain,Racing Bulls,RIC,20,16,97.865
-1,Bahrain,Kick Sauber,BOT,20,17,98.285
-1,Bahrain,Alpine,GAS,20,18,98.036
-1,Bahrain,Haas,HUL,20,19,100.798
-1,Bahrain,Williams,SAR,20,20,97.82
-1,Bahrain,Red Bull,VER,38,1,116.445
-1,Bahrain,Red Bull,PER,38,2,94.804
-1,Bahrain,Ferrari,SAI,38,3,95.1
-1,Bahrain,Mercedes,RUS,38,4,95.479
-1,Bahrain,Ferrari,LEC,38,5,94.783
-1,Bahrain,McLaren,NOR,38,6,95.149
-1,Bahrain,Aston Martin,ALO,38,7,97.297
-1,Bahrain,Mercedes,HAM,38,8,94.966
-1,Bahrain,McLaren,PIA,38,9,95.298
-1,Bahrain,Aston Martin,STR,38,10,96.364
-1,Bahrain,Kick Sauber,ZHO,38,11,96.857
-1,Bahrain,Haas,MAG,38,12,96.042
-1,Bahrain,Racing Bulls,TSU,38,13,97.046
-1,Bahrain,Haas,HUL,38,14,100.083
-1,Bahrain,Racing Bulls,RIC,38,15,95.46
-1,Bahrain,Williams,ALB,38,16,96.129
-1,Bahrain,Alpine,OCO,38,17,96.814
-1,Bahrain,Alpine,GAS,38,18,96.802
-1,Bahrain,Kick Sauber,BOT,38,19,97.774
-1,Bahrain,Williams,SAR,38,20,96.732
-1,Bahrain,Red Bull,VER,45,1,94.249
-1,Bahrain,Red Bull,PER,45,2,94.592
-1,Bahrain,Ferrari,SAI,45,3,94.79
-1,Bahrain,Mercedes,RUS,45,4,95.276
-1,Bahrain,Ferrari,LEC,45,5,95.22
-1,Bahrain,McLaren,NOR,45,6,95.338
-1,Bahrain,Mercedes,HAM,45,7,95.184
-1,Bahrain,McLaren,PIA,45,8,95.306
-1,Bahrain,Aston Martin,STR,45,9,96.243
-1,Bahrain,Aston Martin,ALO,45,10,94.872
-1,Bahrain,Kick Sauber,ZHO,45,11,96.68
-1,Bahrain,Haas,MAG,45,12,96.349
-1,Bahrain,Racing Bulls,TSU,45,13,95.964
-1,Bahrain,Racing Bulls,RIC,45,14,95.57
-1,Bahrain,Williams,ALB,45,15,95.758
-1,Bahrain,Alpine,OCO,45,16,98.049
-1,Bahrain,Haas,HUL,45,17,95.119
-1,Bahrain,Alpine,GAS,45,18,94.805
-1,Bahrain,Kick Sauber,BOT,45,19,96.663
-1,Bahrain,Williams,SAR,45,20,95.333
-1,Bahrain,Red Bull,VER,53,1,95.6
-1,Bahrain,Red Bull,PER,53,2,95.842
-1,Bahrain,Ferrari,SAI,53,3,95.211
-1,Bahrain,Ferrari,LEC,53,4,95.48
-1,Bahrain,Mercedes,RUS,53,5,95.979
-1,Bahrain,McLaren,NOR,53,6,95.782
-1,Bahrain,Mercedes,HAM,53,7,95.55
-1,Bahrain,McLaren,PIA,53,8,95.739
-1,Bahrain,Aston Martin,ALO,53,9,95.249
-1,Bahrain,Aston Martin,STR,53,10,96.64
-1,Bahrain,Kick Sauber,ZHO,53,11,97.141
-1,Bahrain,Haas,MAG,53,12,97.958
-1,Bahrain,Racing Bulls,RIC,53,13,96.745
-1,Bahrain,Racing Bulls,TSU,53,14,96.838
-1,Bahrain,Williams,ALB,53,15,96.308
-1,Bahrain,Haas,HUL,53,16,95.994
-1,Bahrain,Alpine,OCO,53,17,97.145
-1,Bahrain,Alpine,GAS,53,18,95.389
-1,Bahrain,Kick Sauber,BOT,53,19,99.035
-1,Bahrain,Williams,SAR,53,20,96.088
-1,Bahrain,Red Bull,VER,44,1,94.531
-1,Bahrain,Red Bull,PER,44,2,94.799
-1,Bahrain,Ferrari,SAI,44,3,94.507
-1,Bahrain,Mercedes,RUS,44,4,95.162
-1,Bahrain,Ferrari,LEC,44,5,95.051
-1,Bahrain,McLaren,NOR,44,6,95.346
-1,Bahrain,Mercedes,HAM,44,7,95.169
-1,Bahrain,McLaren,PIA,44,8,95.238
-1,Bahrain,Aston Martin,STR,44,9,96.564
-1,Bahrain,Aston Martin,ALO,44,10,94.981
-1,Bahrain,Kick Sauber,ZHO,44,11,97.417
-1,Bahrain,Haas,MAG,44,12,96.249
-1,Bahrain,Racing Bulls,TSU,44,13,96.144
-1,Bahrain,Racing Bulls,RIC,44,14,95.49
-1,Bahrain,Williams,ALB,44,15,95.783
-1,Bahrain,Alpine,OCO,44,16,96.649
-1,Bahrain,Haas,HUL,44,17,95.59
-1,Bahrain,Alpine,GAS,44,18,116.481
-1,Bahrain,Kick Sauber,BOT,44,19,96.63
-1,Bahrain,Williams,SAR,44,20,95.13
-1,Bahrain,Red Bull,VER,40,1,96.589
-1,Bahrain,Red Bull,PER,40,2,94.364
-1,Bahrain,Ferrari,SAI,40,3,94.739
-1,Bahrain,Mercedes,RUS,40,4,95.065
-1,Bahrain,Ferrari,LEC,40,5,94.859
-1,Bahrain,McLaren,NOR,40,6,95.276
-1,Bahrain,Mercedes,HAM,40,7,95.041
-1,Bahrain,McLaren,PIA,40,8,95.005
-1,Bahrain,Aston Martin,ALO,40,9,98.061
-1,Bahrain,Aston Martin,STR,40,10,96.485
-1,Bahrain,Kick Sauber,ZHO,40,11,96.683
-1,Bahrain,Haas,MAG,40,12,96.071
-1,Bahrain,Racing Bulls,TSU,40,13,96.263
-1,Bahrain,Haas,HUL,40,14,97.088
-1,Bahrain,Racing Bulls,RIC,40,15,95.578
-1,Bahrain,Williams,ALB,40,16,95.723
-1,Bahrain,Alpine,OCO,40,17,96.608
-1,Bahrain,Alpine,GAS,40,18,96.742
-1,Bahrain,Kick Sauber,BOT,40,19,97.393
-1,Bahrain,Williams,SAR,40,20,99.817
-1,Bahrain,Red Bull,VER,57,1,94.923
-1,Bahrain,Red Bull,PER,57,2,95.746
-1,Bahrain,Ferrari,SAI,57,3,95.327
-1,Bahrain,Ferrari,LEC,57,4,96.324
-1,Bahrain,Mercedes,RUS,57,5,96.44
-1,Bahrain,McLaren,NOR,57,6,96.582
-1,Bahrain,Mercedes,HAM,57,7,96.138
-1,Bahrain,McLaren,PIA,57,8,95.92
-1,Bahrain,Aston Martin,ALO,57,9,95.276
-1,Bahrain,Aston Martin,STR,57,10,97.335
-1,Bahrain,Red Bull,VER,56,1,94.671
-1,Bahrain,Red Bull,PER,56,2,95.568
-1,Bahrain,Ferrari,SAI,56,3,95.305
-1,Bahrain,Ferrari,LEC,56,4,95.924
-1,Bahrain,Mercedes,RUS,56,5,96.35
-1,Bahrain,McLaren,NOR,56,6,95.976
-1,Bahrain,Mercedes,HAM,56,7,95.706
-1,Bahrain,McLaren,PIA,56,8,96.1
-1,Bahrain,Aston Martin,ALO,56,9,95.014
-1,Bahrain,Aston Martin,STR,56,10,96.582
-1,Bahrain,Kick Sauber,ZHO,56,11,97.333
-1,Bahrain,Haas,MAG,56,12,97.584
-1,Bahrain,Racing Bulls,RIC,56,13,97.662
-1,Bahrain,Racing Bulls,TSU,56,14,97.473
-1,Bahrain,Williams,ALB,56,15,96.922
-1,Bahrain,Haas,HUL,56,16,95.602
-1,Bahrain,Alpine,OCO,56,17,97.415
-1,Bahrain,Alpine,GAS,56,18,96.086
-1,Bahrain,Kick Sauber,BOT,56,19,97.956
-1,Bahrain,Red Bull,VER,48,1,94.35
-1,Bahrain,Red Bull,PER,48,2,94.885
-1,Bahrain,Ferrari,SAI,48,3,94.981
-1,Bahrain,Ferrari,LEC,48,4,95.308
-1,Bahrain,Mercedes,RUS,48,5,96.059
-1,Bahrain,McLaren,NOR,48,6,95.717
-1,Bahrain,Mercedes,HAM,48,7,96.165
-1,Bahrain,McLaren,PIA,48,8,95.702
-1,Bahrain,Aston Martin,ALO,48,9,94.199
-1,Bahrain,Aston Martin,STR,48,10,97.325
-1,Bahrain,Kick Sauber,ZHO,48,11,96.654
-1,Bahrain,Haas,MAG,48,12,96.679
-1,Bahrain,Racing Bulls,TSU,48,13,96.554
-1,Bahrain,Racing Bulls,RIC,48,14,96.236
-1,Bahrain,Williams,ALB,48,15,96.135
-1,Bahrain,Alpine,OCO,48,16,97.117
-1,Bahrain,Haas,HUL,48,17,95.146
-1,Bahrain,Alpine,GAS,48,18,95.411
-1,Bahrain,Kick Sauber,BOT,48,19,96.765
-1,Bahrain,Williams,SAR,48,20,95.688
-1,Bahrain,Red Bull,VER,32,1,95.886
-1,Bahrain,Red Bull,PER,32,2,96.276
-1,Bahrain,Ferrari,SAI,32,3,96.762
-1,Bahrain,Ferrari,LEC,32,4,96.941
-1,Bahrain,McLaren,NOR,32,5,97.171
-1,Bahrain,McLaren,PIA,32,6,97.163
-1,Bahrain,Mercedes,HAM,32,7,97.325
-1,Bahrain,Aston Martin,ALO,32,8,97.056
-1,Bahrain,Mercedes,RUS,32,9,117.267
-1,Bahrain,Racing Bulls,TSU,32,10,97.847
-1,Bahrain,Williams,ALB,32,11,98.183
-1,Bahrain,Racing Bulls,RIC,32,12,98.025
-1,Bahrain,Haas,MAG,32,13,100.565
-1,Bahrain,Kick Sauber,ZHO,32,14,96.048
-1,Bahrain,Aston Martin,STR,32,15,95.821
-1,Bahrain,Haas,HUL,32,16,96.935
-1,Bahrain,Alpine,OCO,32,17,96.887
-1,Bahrain,Alpine,GAS,32,18,119.77
-1,Bahrain,Kick Sauber,BOT,32,19,96.763
-1,Bahrain,Williams,SAR,32,20,96.563
-1,Bahrain,Red Bull,VER,3,1,96.753
-1,Bahrain,Mercedes,RUS,3,2,96.406
-1,Bahrain,Ferrari,LEC,3,3,98.062
-1,Bahrain,Red Bull,PER,3,4,97.297
-1,Bahrain,Ferrari,SAI,3,5,97.08
-1,Bahrain,McLaren,NOR,3,6,97.787
-1,Bahrain,Aston Martin,ALO,3,7,99.046
-1,Bahrain,McLaren,PIA,3,8,98.258
-1,Bahrain,Mercedes,HAM,3,9,98.303
-1,Bahrain,Racing Bulls,TSU,3,10,98.431
-1,Bahrain,Williams,ALB,3,11,98.507
-1,Bahrain,Haas,MAG,3,12,98.399
-1,Bahrain,Kick Sauber,ZHO,3,13,98.582
-1,Bahrain,Williams,SAR,3,14,98.707
-1,Bahrain,Racing Bulls,RIC,3,15,98.76
-1,Bahrain,Alpine,OCO,3,16,98.771
-1,Bahrain,Alpine,GAS,3,17,98.744
-1,Bahrain,Kick Sauber,BOT,3,18,98.837
-1,Bahrain,Aston Martin,STR,3,19,98.279
-1,Bahrain,Haas,HUL,3,20,97.317
-1,Bahrain,Red Bull,VER,46,1,94.193
-1,Bahrain,Red Bull,PER,46,2,94.844
-1,Bahrain,Ferrari,SAI,46,3,94.853
-1,Bahrain,Ferrari,LEC,46,4,95.058
-1,Bahrain,Mercedes,RUS,46,5,96.657
-1,Bahrain,McLaren,NOR,46,6,95.371
-1,Bahrain,Mercedes,HAM,46,7,95.285
-1,Bahrain,McLaren,PIA,46,8,95.296
-1,Bahrain,Aston Martin,STR,46,9,96.379
-1,Bahrain,Aston Martin,ALO,46,10,95.126
-1,Bahrain,Kick Sauber,ZHO,46,11,96.741
-1,Bahrain,Haas,MAG,46,12,96.446
-1,Bahrain,Racing Bulls,TSU,46,13,96.187
-1,Bahrain,Racing Bulls,RIC,46,14,95.507
-1,Bahrain,Williams,ALB,46,15,96.008
-1,Bahrain,Alpine,OCO,46,16,96.975
-1,Bahrain,Haas,HUL,46,17,94.834
-1,Bahrain,Alpine,GAS,46,18,95.293
-1,Bahrain,Kick Sauber,BOT,46,19,96.297
-1,Bahrain,Williams,SAR,46,20,95.939
-1,Bahrain,Red Bull,VER,33,1,95.863
-1,Bahrain,Red Bull,PER,33,2,96.564
-1,Bahrain,Ferrari,SAI,33,3,96.556
-1,Bahrain,Ferrari,LEC,33,4,96.741
-1,Bahrain,McLaren,NOR,33,5,99.626
-1,Bahrain,McLaren,PIA,33,6,97.088
-1,Bahrain,Mercedes,HAM,33,7,99.696
-1,Bahrain,Aston Martin,ALO,33,8,97.202
-1,Bahrain,Mercedes,RUS,33,9,95.838
-1,Bahrain,Racing Bulls,TSU,33,10,97.498
-1,Bahrain,Williams,ALB,33,11,98.346
-1,Bahrain,Racing Bulls,RIC,33,12,98.15
-1,Bahrain,Aston Martin,STR,33,13,96.349
-1,Bahrain,Kick Sauber,ZHO,33,14,97.971
-1,Bahrain,Haas,HUL,33,15,96.784
-1,Bahrain,Haas,MAG,33,16,116.655
-1,Bahrain,Alpine,OCO,33,17,96.704
-1,Bahrain,Alpine,GAS,33,18,96.112
-1,Bahrain,Kick Sauber,BOT,33,19,96.202
-1,Bahrain,Williams,SAR,33,20,97.433
-1,Bahrain,Red Bull,VER,50,1,94.783
-1,Bahrain,Red Bull,PER,50,2,95.082
-1,Bahrain,Ferrari,SAI,50,3,95.142
-1,Bahrain,Ferrari,LEC,50,4,95.383
-1,Bahrain,Mercedes,RUS,50,5,96.181
-1,Bahrain,McLaren,NOR,50,6,95.657
-1,Bahrain,Mercedes,HAM,50,7,95.612
-1,Bahrain,McLaren,PIA,50,8,95.984
-1,Bahrain,Aston Martin,ALO,50,9,94.677
-1,Bahrain,Aston Martin,STR,50,10,96.541
-1,Bahrain,Kick Sauber,ZHO,50,11,96.792
-1,Bahrain,Haas,MAG,50,12,97.035
-1,Bahrain,Racing Bulls,TSU,50,13,96.827
-1,Bahrain,Racing Bulls,RIC,50,14,96.609
-1,Bahrain,Williams,ALB,50,15,97.616
-1,Bahrain,Haas,HUL,50,16,95.167
-1,Bahrain,Alpine,OCO,50,17,97.784
-1,Bahrain,Alpine,GAS,50,18,95.228
-1,Bahrain,Kick Sauber,BOT,50,19,96.91
-1,Bahrain,Williams,SAR,50,20,95.66
-1,Bahrain,Red Bull,VER,34,1,96.133
-1,Bahrain,Red Bull,PER,34,2,96.378
-1,Bahrain,Ferrari,SAI,34,3,96.551
-1,Bahrain,Ferrari,LEC,34,4,99.614
-1,Bahrain,McLaren,PIA,34,5,99.211
-1,Bahrain,Mercedes,RUS,34,6,95.241
-1,Bahrain,Aston Martin,ALO,34,7,97.601
-1,Bahrain,McLaren,NOR,34,8,116.898
-1,Bahrain,Mercedes,HAM,34,9,114.974
-1,Bahrain,Racing Bulls,TSU,34,10,100.835
-1,Bahrain,Williams,ALB,34,11,97.75
-1,Bahrain,Racing Bulls,RIC,34,12,98.246
-1,Bahrain,Aston Martin,STR,34,13,96.332
-1,Bahrain,Kick Sauber,ZHO,34,14,96.518
-1,Bahrain,Haas,HUL,34,15,96.692
-1,Bahrain,Haas,MAG,34,16,95.57
-1,Bahrain,Alpine,OCO,34,17,96.226
-1,Bahrain,Alpine,GAS,34,18,96.622
-1,Bahrain,Kick Sauber,BOT,34,19,98.009
-1,Bahrain,Williams,SAR,34,20,96.475
-1,Bahrain,Red Bull,VER,41,1,95.29
-1,Bahrain,Red Bull,PER,41,2,94.4
-1,Bahrain,Ferrari,SAI,41,3,95.041
-1,Bahrain,Mercedes,RUS,41,4,95.093
-1,Bahrain,Ferrari,LEC,41,5,95.028
-1,Bahrain,McLaren,NOR,41,6,95.069
-1,Bahrain,Mercedes,HAM,41,7,94.94
-1,Bahrain,McLaren,PIA,41,8,95.109
-1,Bahrain,Aston Martin,ALO,41,9,100.261
-1,Bahrain,Aston Martin,STR,41,10,96.322
-1,Bahrain,Kick Sauber,ZHO,41,11,96.695
-1,Bahrain,Haas,MAG,41,12,96.34
-1,Bahrain,Racing Bulls,TSU,41,13,96.179
-1,Bahrain,Racing Bulls,RIC,41,14,95.644
-1,Bahrain,Haas,HUL,41,15,99.569
-1,Bahrain,Williams,ALB,41,16,95.885
-1,Bahrain,Alpine,OCO,41,17,96.621
-1,Bahrain,Alpine,GAS,41,18,96.571
-1,Bahrain,Kick Sauber,BOT,41,19,96.437
-1,Bahrain,Williams,SAR,41,20,120.282
 1,Bahrain,Red Bull,VER,31,1,95.679
 1,Bahrain,Red Bull,PER,31,2,96.339
 1,Bahrain,Ferrari,SAI,31,3,96.537
@@ -888,126 +159,26 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,OCO,31,18,119.322
 1,Bahrain,Kick Sauber,BOT,31,19,170.266
 1,Bahrain,Williams,SAR,31,20,96.713
-1,Bahrain,Red Bull,VER,42,1,94.667
-1,Bahrain,Red Bull,PER,42,2,94.525
-1,Bahrain,Ferrari,SAI,42,3,94.861
-1,Bahrain,Mercedes,RUS,42,4,95.136
-1,Bahrain,Ferrari,LEC,42,5,94.982
-1,Bahrain,McLaren,NOR,42,6,95.165
-1,Bahrain,Mercedes,HAM,42,7,94.996
-1,Bahrain,McLaren,PIA,42,8,95.341
-1,Bahrain,Aston Martin,STR,42,9,96.343
-1,Bahrain,Kick Sauber,ZHO,42,10,96.652
-1,Bahrain,Aston Martin,ALO,42,11,116.899
-1,Bahrain,Haas,MAG,42,12,96.31
-1,Bahrain,Racing Bulls,TSU,42,13,95.981
-1,Bahrain,Racing Bulls,RIC,42,14,95.338
-1,Bahrain,Williams,ALB,42,15,95.799
-1,Bahrain,Alpine,OCO,42,16,96.592
-1,Bahrain,Alpine,GAS,42,17,96.631
-1,Bahrain,Haas,HUL,42,18,116.108
-1,Bahrain,Kick Sauber,BOT,42,19,96.374
-1,Bahrain,Williams,SAR,42,20,94.735
-1,Bahrain,Red Bull,VER,51,1,94.34
-1,Bahrain,Red Bull,PER,51,2,94.94
-1,Bahrain,Ferrari,SAI,51,3,95.282
-1,Bahrain,Ferrari,LEC,51,4,95.418
-1,Bahrain,Mercedes,RUS,51,5,95.852
-1,Bahrain,McLaren,NOR,51,6,96.038
-1,Bahrain,Mercedes,HAM,51,7,95.532
-1,Bahrain,McLaren,PIA,51,8,95.8
-1,Bahrain,Aston Martin,ALO,51,9,94.916
-1,Bahrain,Aston Martin,STR,51,10,96.763
-1,Bahrain,Kick Sauber,ZHO,51,11,97.042
-1,Bahrain,Haas,MAG,51,12,96.929
-1,Bahrain,Racing Bulls,TSU,51,13,97.067
-1,Bahrain,Racing Bulls,RIC,51,14,97.103
-1,Bahrain,Williams,ALB,51,15,97.493
-1,Bahrain,Haas,HUL,51,16,95.529
-1,Bahrain,Alpine,OCO,51,17,97.091
-1,Bahrain,Alpine,GAS,51,18,95.334
-1,Bahrain,Kick Sauber,BOT,51,19,96.819
-1,Bahrain,Williams,SAR,51,20,95.972
-1,Bahrain,Red Bull,VER,52,1,94.906
-1,Bahrain,Red Bull,PER,52,2,95.183
-1,Bahrain,Ferrari,SAI,52,3,95.083
-1,Bahrain,Ferrari,LEC,52,4,95.394
-1,Bahrain,Mercedes,RUS,52,5,96.186
-1,Bahrain,McLaren,NOR,52,6,95.922
-1,Bahrain,Mercedes,HAM,52,7,95.479
-1,Bahrain,McLaren,PIA,52,8,96.024
-1,Bahrain,Aston Martin,ALO,52,9,94.862
-1,Bahrain,Aston Martin,STR,52,10,96.934
-1,Bahrain,Kick Sauber,ZHO,52,11,97.394
-1,Bahrain,Haas,MAG,52,12,96.93
-1,Bahrain,Racing Bulls,RIC,52,13,97.529
-1,Bahrain,Racing Bulls,TSU,52,14,99.042
-1,Bahrain,Williams,ALB,52,15,96.218
-1,Bahrain,Haas,HUL,52,16,95.921
-1,Bahrain,Alpine,OCO,52,17,98.631
-1,Bahrain,Alpine,GAS,52,18,95.511
-1,Bahrain,Kick Sauber,BOT,52,19,96.949
-1,Bahrain,Williams,SAR,52,20,95.987
-1,Bahrain,Red Bull,VER,54,1,95.334
-1,Bahrain,Red Bull,PER,54,2,95.459
-1,Bahrain,Ferrari,SAI,54,3,95.309
-1,Bahrain,Ferrari,LEC,54,4,95.265
-1,Bahrain,Mercedes,RUS,54,5,96.013
-1,Bahrain,McLaren,NOR,54,6,95.934
-1,Bahrain,Mercedes,HAM,54,7,95.974
-1,Bahrain,McLaren,PIA,54,8,96.107
-1,Bahrain,Aston Martin,ALO,54,9,95.745
-1,Bahrain,Aston Martin,STR,54,10,96.693
-1,Bahrain,Kick Sauber,ZHO,54,11,98.389
-1,Bahrain,Haas,MAG,54,12,96.89
-1,Bahrain,Racing Bulls,RIC,54,13,96.661
-1,Bahrain,Racing Bulls,TSU,54,14,96.672
-1,Bahrain,Williams,ALB,54,15,96.334
-1,Bahrain,Haas,HUL,54,16,95.786
-1,Bahrain,Alpine,OCO,54,17,98.707
-1,Bahrain,Alpine,GAS,54,18,95.853
-1,Bahrain,Kick Sauber,BOT,54,19,97.095
-1,Bahrain,Williams,SAR,54,20,99.614
-1,Bahrain,Red Bull,VER,49,1,94.403
-1,Bahrain,Red Bull,PER,49,2,94.966
-1,Bahrain,Ferrari,SAI,49,3,95.44
-1,Bahrain,Ferrari,LEC,49,4,95.302
-1,Bahrain,Mercedes,RUS,49,5,95.954
-1,Bahrain,McLaren,NOR,49,6,95.674
-1,Bahrain,Mercedes,HAM,49,7,95.914
-1,Bahrain,McLaren,PIA,49,8,95.653
-1,Bahrain,Aston Martin,ALO,49,9,94.571
-1,Bahrain,Aston Martin,STR,49,10,96.871
-1,Bahrain,Kick Sauber,ZHO,49,11,96.72
-1,Bahrain,Haas,MAG,49,12,96.842
-1,Bahrain,Racing Bulls,TSU,49,13,96.695
-1,Bahrain,Racing Bulls,RIC,49,14,96.442
-1,Bahrain,Williams,ALB,49,15,97.102
-1,Bahrain,Alpine,OCO,49,16,97.726
-1,Bahrain,Haas,HUL,49,17,95.494
-1,Bahrain,Alpine,GAS,49,18,95.511
-1,Bahrain,Kick Sauber,BOT,49,19,96.91
-1,Bahrain,Williams,SAR,49,20,95.59
-1,Bahrain,Red Bull,VER,47,1,94.239
-1,Bahrain,Red Bull,PER,47,2,94.73
-1,Bahrain,Ferrari,SAI,47,3,94.901
-1,Bahrain,Ferrari,LEC,47,4,95.057
-1,Bahrain,Mercedes,RUS,47,5,95.805
-1,Bahrain,McLaren,NOR,47,6,95.485
-1,Bahrain,Mercedes,HAM,47,7,95.226
-1,Bahrain,McLaren,PIA,47,8,95.376
-1,Bahrain,Aston Martin,STR,47,9,96.298
-1,Bahrain,Aston Martin,ALO,47,10,95.225
-1,Bahrain,Kick Sauber,ZHO,47,11,96.561
-1,Bahrain,Haas,MAG,47,12,96.454
-1,Bahrain,Racing Bulls,TSU,47,13,96.396
-1,Bahrain,Racing Bulls,RIC,47,14,95.831
-1,Bahrain,Williams,ALB,47,15,96.026
-1,Bahrain,Alpine,OCO,47,16,96.656
-1,Bahrain,Haas,HUL,47,17,95.226
-1,Bahrain,Alpine,GAS,47,18,95.341
-1,Bahrain,Kick Sauber,BOT,47,19,96.604
-1,Bahrain,Williams,SAR,47,20,96.729
+1,Bahrain,Red Bull,VER,30,1,95.771
+1,Bahrain,Red Bull,PER,30,2,96.313
+1,Bahrain,Ferrari,SAI,30,3,96.337
+1,Bahrain,Mercedes,RUS,30,4,97.186
+1,Bahrain,Ferrari,LEC,30,5,97.158
+1,Bahrain,McLaren,NOR,30,6,96.986
+1,Bahrain,McLaren,PIA,30,7,97.177
+1,Bahrain,Mercedes,HAM,30,8,97.244
+1,Bahrain,Aston Martin,ALO,30,9,96.982
+1,Bahrain,Racing Bulls,TSU,30,10,97.477
+1,Bahrain,Haas,MAG,30,11,98.04
+1,Bahrain,Williams,ALB,30,12,97.968
+1,Bahrain,Racing Bulls,RIC,30,13,97.978
+1,Bahrain,Alpine,OCO,30,14,101.21
+1,Bahrain,Alpine,GAS,30,15,98.832
+1,Bahrain,Kick Sauber,BOT,30,16,101.252
+1,Bahrain,Kick Sauber,ZHO,30,17,95.458
+1,Bahrain,Aston Martin,STR,30,18,95.632
+1,Bahrain,Haas,HUL,30,19,96.691
+1,Bahrain,Williams,SAR,30,20,95.715
 1,Bahrain,Red Bull,VER,35,1,96.018
 1,Bahrain,Red Bull,PER,35,2,96.776
 1,Bahrain,Ferrari,SAI,35,3,99.274
@@ -1028,26 +199,284 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,35,18,96.313
 1,Bahrain,Kick Sauber,BOT,35,19,96.578
 1,Bahrain,Williams,SAR,35,20,96.859
-1,Bahrain,Red Bull,VER,39,1,92.608
-1,Bahrain,Red Bull,PER,39,2,94.607
-1,Bahrain,Ferrari,SAI,39,3,94.709
-1,Bahrain,Mercedes,RUS,39,4,95.204
-1,Bahrain,Ferrari,LEC,39,5,95.087
-1,Bahrain,McLaren,NOR,39,6,94.88
-1,Bahrain,Mercedes,HAM,39,7,94.722
-1,Bahrain,Aston Martin,ALO,39,8,97.946
-1,Bahrain,McLaren,PIA,39,9,94.983
-1,Bahrain,Aston Martin,STR,39,10,96.353
-1,Bahrain,Kick Sauber,ZHO,39,11,96.637
-1,Bahrain,Haas,MAG,39,12,95.876
-1,Bahrain,Racing Bulls,TSU,39,13,96.125
-1,Bahrain,Haas,HUL,39,14,97.476
-1,Bahrain,Racing Bulls,RIC,39,15,95.475
-1,Bahrain,Williams,ALB,39,16,95.856
-1,Bahrain,Alpine,OCO,39,17,96.552
-1,Bahrain,Alpine,GAS,39,18,96.537
-1,Bahrain,Kick Sauber,BOT,39,19,97.189
-1,Bahrain,Williams,SAR,39,20,97.016
+1,Bahrain,Red Bull,VER,6,1,97.092
+1,Bahrain,Mercedes,RUS,6,2,97.784
+1,Bahrain,Ferrari,LEC,6,3,97.782
+1,Bahrain,Red Bull,PER,6,4,97.823
+1,Bahrain,Ferrari,SAI,6,5,97.741
+1,Bahrain,McLaren,NOR,6,6,97.896
+1,Bahrain,McLaren,PIA,6,7,97.955
+1,Bahrain,Aston Martin,ALO,6,8,98.053
+1,Bahrain,Mercedes,HAM,6,9,98.183
+1,Bahrain,Racing Bulls,TSU,6,10,98.361
+1,Bahrain,Williams,ALB,6,11,98.575
+1,Bahrain,Haas,MAG,6,12,98.529
+1,Bahrain,Kick Sauber,ZHO,6,13,98.488
+1,Bahrain,Williams,SAR,6,14,98.582
+1,Bahrain,Racing Bulls,RIC,6,15,98.689
+1,Bahrain,Alpine,OCO,6,16,98.874
+1,Bahrain,Alpine,GAS,6,17,99.099
+1,Bahrain,Aston Martin,STR,6,18,98.925
+1,Bahrain,Kick Sauber,BOT,6,19,99.206
+1,Bahrain,Haas,HUL,6,20,97.896
+1,Bahrain,Red Bull,VER,1,1,97.284
+1,Bahrain,Ferrari,LEC,1,2,98.271
+1,Bahrain,Mercedes,RUS,1,3,99.228
+1,Bahrain,Red Bull,PER,1,4,100.053
+1,Bahrain,Ferrari,SAI,1,5,100.62
+1,Bahrain,Aston Martin,ALO,1,6,101.679
+1,Bahrain,McLaren,NOR,1,7,102.168
+1,Bahrain,McLaren,PIA,1,8,102.523
+1,Bahrain,Mercedes,HAM,1,9,103.122
+1,Bahrain,Racing Bulls,TSU,1,10,103.485
+1,Bahrain,Williams,ALB,1,11,103.888
+1,Bahrain,Haas,MAG,1,12,104.349
+1,Bahrain,Kick Sauber,ZHO,1,13,104.801
+1,Bahrain,Racing Bulls,RIC,1,14,105.668
+1,Bahrain,Williams,SAR,1,15,105.921
+1,Bahrain,Alpine,OCO,1,16,106.657
+1,Bahrain,Alpine,GAS,1,17,107.24
+1,Bahrain,Kick Sauber,BOT,1,18,108.536
+1,Bahrain,Aston Martin,STR,1,19,110.214
+1,Bahrain,Haas,HUL,1,20,113.555
+1,Bahrain,Red Bull,VER,13,1,97.03
+1,Bahrain,Ferrari,SAI,13,2,97.243
+1,Bahrain,McLaren,NOR,13,3,100.635
+1,Bahrain,Aston Martin,ALO,13,4,98.587
+1,Bahrain,Racing Bulls,TSU,13,5,98.86
+1,Bahrain,Williams,ALB,13,6,98.823
+1,Bahrain,Mercedes,RUS,13,7,97.167
+1,Bahrain,Red Bull,PER,13,8,117.624
+1,Bahrain,Ferrari,LEC,13,9,96.432
+1,Bahrain,Racing Bulls,RIC,13,10,102.173
+1,Bahrain,McLaren,PIA,13,11,118.689
+1,Bahrain,Mercedes,HAM,13,12,118.645
+1,Bahrain,Kick Sauber,ZHO,13,13,97.436
+1,Bahrain,Aston Martin,STR,13,14,97.289
+1,Bahrain,Haas,MAG,13,15,96.89
+1,Bahrain,Alpine,OCO,13,16,97.363
+1,Bahrain,Haas,HUL,13,17,97.801
+1,Bahrain,Alpine,GAS,13,18,124.565
+1,Bahrain,Kick Sauber,BOT,13,19,121.081
+1,Bahrain,Williams,SAR,13,20,100.989
+1,Bahrain,Red Bull,VER,33,1,95.863
+1,Bahrain,Red Bull,PER,33,2,96.564
+1,Bahrain,Ferrari,SAI,33,3,96.556
+1,Bahrain,Ferrari,LEC,33,4,96.741
+1,Bahrain,McLaren,NOR,33,5,99.626
+1,Bahrain,McLaren,PIA,33,6,97.088
+1,Bahrain,Mercedes,HAM,33,7,99.696
+1,Bahrain,Aston Martin,ALO,33,8,97.202
+1,Bahrain,Mercedes,RUS,33,9,95.838
+1,Bahrain,Racing Bulls,TSU,33,10,97.498
+1,Bahrain,Williams,ALB,33,11,98.346
+1,Bahrain,Racing Bulls,RIC,33,12,98.15
+1,Bahrain,Aston Martin,STR,33,13,96.349
+1,Bahrain,Kick Sauber,ZHO,33,14,97.971
+1,Bahrain,Haas,HUL,33,15,96.784
+1,Bahrain,Haas,MAG,33,16,116.655
+1,Bahrain,Alpine,OCO,33,17,96.704
+1,Bahrain,Alpine,GAS,33,18,96.112
+1,Bahrain,Kick Sauber,BOT,33,19,96.202
+1,Bahrain,Williams,SAR,33,20,97.433
+1,Bahrain,Red Bull,VER,34,1,96.133
+1,Bahrain,Red Bull,PER,34,2,96.378
+1,Bahrain,Ferrari,SAI,34,3,96.551
+1,Bahrain,Ferrari,LEC,34,4,99.614
+1,Bahrain,McLaren,PIA,34,5,99.211
+1,Bahrain,Mercedes,RUS,34,6,95.241
+1,Bahrain,Aston Martin,ALO,34,7,97.601
+1,Bahrain,McLaren,NOR,34,8,116.898
+1,Bahrain,Mercedes,HAM,34,9,114.974
+1,Bahrain,Racing Bulls,TSU,34,10,100.835
+1,Bahrain,Williams,ALB,34,11,97.75
+1,Bahrain,Racing Bulls,RIC,34,12,98.246
+1,Bahrain,Aston Martin,STR,34,13,96.332
+1,Bahrain,Kick Sauber,ZHO,34,14,96.518
+1,Bahrain,Haas,HUL,34,15,96.692
+1,Bahrain,Haas,MAG,34,16,95.57
+1,Bahrain,Alpine,OCO,34,17,96.226
+1,Bahrain,Alpine,GAS,34,18,96.622
+1,Bahrain,Kick Sauber,BOT,34,19,98.009
+1,Bahrain,Williams,SAR,34,20,96.475
+1,Bahrain,Red Bull,VER,11,1,97.085
+1,Bahrain,Red Bull,PER,11,2,97.836
+1,Bahrain,Ferrari,SAI,11,3,97.656
+1,Bahrain,Mercedes,RUS,11,4,100.515
+1,Bahrain,McLaren,NOR,11,5,98.172
+1,Bahrain,Ferrari,LEC,11,6,101.737
+1,Bahrain,McLaren,PIA,11,7,98.397
+1,Bahrain,Mercedes,HAM,11,8,98.236
+1,Bahrain,Aston Martin,ALO,11,9,98.554
+1,Bahrain,Racing Bulls,TSU,11,10,98.799
+1,Bahrain,Williams,ALB,11,11,98.835
+1,Bahrain,Haas,MAG,11,12,101.088
+1,Bahrain,Racing Bulls,RIC,11,13,99.033
+1,Bahrain,Alpine,GAS,11,14,98.656
+1,Bahrain,Kick Sauber,BOT,11,15,99.187
+1,Bahrain,Kick Sauber,ZHO,11,16,96.365
+1,Bahrain,Aston Martin,STR,11,17,96.494
+1,Bahrain,Alpine,OCO,11,18,119.014
+1,Bahrain,Haas,HUL,11,19,97.638
+1,Bahrain,Williams,SAR,11,20,132.438
+1,Bahrain,Red Bull,VER,45,1,94.249
+1,Bahrain,Red Bull,PER,45,2,94.592
+1,Bahrain,Ferrari,SAI,45,3,94.79
+1,Bahrain,Mercedes,RUS,45,4,95.276
+1,Bahrain,Ferrari,LEC,45,5,95.22
+1,Bahrain,McLaren,NOR,45,6,95.338
+1,Bahrain,Mercedes,HAM,45,7,95.184
+1,Bahrain,McLaren,PIA,45,8,95.306
+1,Bahrain,Aston Martin,STR,45,9,96.243
+1,Bahrain,Aston Martin,ALO,45,10,94.872
+1,Bahrain,Kick Sauber,ZHO,45,11,96.68
+1,Bahrain,Haas,MAG,45,12,96.349
+1,Bahrain,Racing Bulls,TSU,45,13,95.964
+1,Bahrain,Racing Bulls,RIC,45,14,95.57
+1,Bahrain,Williams,ALB,45,15,95.758
+1,Bahrain,Alpine,OCO,45,16,98.049
+1,Bahrain,Haas,HUL,45,17,95.119
+1,Bahrain,Alpine,GAS,45,18,94.805
+1,Bahrain,Kick Sauber,BOT,45,19,96.663
+1,Bahrain,Williams,SAR,45,20,95.333
+1,Bahrain,Red Bull,VER,23,1,95.216
+1,Bahrain,Red Bull,PER,23,2,96.249
+1,Bahrain,Ferrari,SAI,23,3,96.149
+1,Bahrain,Mercedes,RUS,23,4,96.954
+1,Bahrain,Ferrari,LEC,23,5,96.987
+1,Bahrain,McLaren,NOR,23,6,96.696
+1,Bahrain,McLaren,PIA,23,7,96.68
+1,Bahrain,Mercedes,HAM,23,8,96.717
+1,Bahrain,Aston Martin,ALO,23,9,97.265
+1,Bahrain,Kick Sauber,ZHO,23,10,97.788
+1,Bahrain,Racing Bulls,TSU,23,11,97.671
+1,Bahrain,Aston Martin,STR,23,12,97.826
+1,Bahrain,Haas,MAG,23,13,98.293
+1,Bahrain,Williams,ALB,23,14,97.869
+1,Bahrain,Racing Bulls,RIC,23,15,97.772
+1,Bahrain,Alpine,OCO,23,16,98.407
+1,Bahrain,Kick Sauber,BOT,23,17,98.18
+1,Bahrain,Alpine,GAS,23,18,98.104
+1,Bahrain,Haas,HUL,23,19,96.725
+1,Bahrain,Williams,SAR,23,20,97.621
+1,Bahrain,Red Bull,VER,32,1,95.886
+1,Bahrain,Red Bull,PER,32,2,96.276
+1,Bahrain,Ferrari,SAI,32,3,96.762
+1,Bahrain,Ferrari,LEC,32,4,96.941
+1,Bahrain,McLaren,NOR,32,5,97.171
+1,Bahrain,McLaren,PIA,32,6,97.163
+1,Bahrain,Mercedes,HAM,32,7,97.325
+1,Bahrain,Aston Martin,ALO,32,8,97.056
+1,Bahrain,Mercedes,RUS,32,9,117.267
+1,Bahrain,Racing Bulls,TSU,32,10,97.847
+1,Bahrain,Williams,ALB,32,11,98.183
+1,Bahrain,Racing Bulls,RIC,32,12,98.025
+1,Bahrain,Haas,MAG,32,13,100.565
+1,Bahrain,Kick Sauber,ZHO,32,14,96.048
+1,Bahrain,Aston Martin,STR,32,15,95.821
+1,Bahrain,Haas,HUL,32,16,96.935
+1,Bahrain,Alpine,OCO,32,17,96.887
+1,Bahrain,Alpine,GAS,32,18,119.77
+1,Bahrain,Kick Sauber,BOT,32,19,96.763
+1,Bahrain,Williams,SAR,32,20,96.563
+1,Bahrain,Red Bull,VER,48,1,94.35
+1,Bahrain,Red Bull,PER,48,2,94.885
+1,Bahrain,Ferrari,SAI,48,3,94.981
+1,Bahrain,Ferrari,LEC,48,4,95.308
+1,Bahrain,Mercedes,RUS,48,5,96.059
+1,Bahrain,McLaren,NOR,48,6,95.717
+1,Bahrain,Mercedes,HAM,48,7,96.165
+1,Bahrain,McLaren,PIA,48,8,95.702
+1,Bahrain,Aston Martin,ALO,48,9,94.199
+1,Bahrain,Aston Martin,STR,48,10,97.325
+1,Bahrain,Kick Sauber,ZHO,48,11,96.654
+1,Bahrain,Haas,MAG,48,12,96.679
+1,Bahrain,Racing Bulls,TSU,48,13,96.554
+1,Bahrain,Racing Bulls,RIC,48,14,96.236
+1,Bahrain,Williams,ALB,48,15,96.135
+1,Bahrain,Alpine,OCO,48,16,97.117
+1,Bahrain,Haas,HUL,48,17,95.146
+1,Bahrain,Alpine,GAS,48,18,95.411
+1,Bahrain,Kick Sauber,BOT,48,19,96.765
+1,Bahrain,Williams,SAR,48,20,95.688
+2,Saudi Arabia,Red Bull,VER,13,1,93.144
+2,Saudi Arabia,McLaren,NOR,13,2,95.131
+2,Saudi Arabia,Red Bull,PER,13,3,94.053
+2,Saudi Arabia,Mercedes,HAM,13,4,95.312
+2,Saudi Arabia,Ferrari,LEC,13,5,94.627
+2,Saudi Arabia,McLaren,PIA,13,6,94.34
+2,Saudi Arabia,Aston Martin,ALO,13,7,94.664
+2,Saudi Arabia,Haas,HUL,13,8,95.367
+2,Saudi Arabia,Mercedes,RUS,13,9,95.082
+2,Saudi Arabia,Kick Sauber,ZHO,13,10,95.355
+2,Saudi Arabia,Ferrari,BEA,13,11,95.153
+2,Saudi Arabia,Racing Bulls,TSU,13,12,95.325
+2,Saudi Arabia,Haas,MAG,13,13,95.062
+2,Saudi Arabia,Alpine,OCO,13,14,95.107
+2,Saudi Arabia,Williams,ALB,13,15,95.213
+2,Saudi Arabia,Kick Sauber,BOT,13,16,95.447
+2,Saudi Arabia,Williams,SAR,13,17,95.751
+2,Saudi Arabia,Racing Bulls,RIC,13,18,96.337
+1,Bahrain,Red Bull,VER,15,1,97.011
+1,Bahrain,Aston Martin,ALO,15,2,101.101
+1,Bahrain,Red Bull,PER,15,3,96.815
+1,Bahrain,Mercedes,RUS,15,4,96.922
+1,Bahrain,Williams,ALB,15,5,101.171
+1,Bahrain,Ferrari,LEC,15,6,96.813
+1,Bahrain,Ferrari,SAI,15,7,117.225
+1,Bahrain,McLaren,NOR,15,8,96.912
+1,Bahrain,McLaren,PIA,15,9,96.823
+1,Bahrain,Mercedes,HAM,15,10,97.264
+1,Bahrain,Kick Sauber,ZHO,15,11,97.5
+1,Bahrain,Aston Martin,STR,15,12,97.533
+1,Bahrain,Racing Bulls,TSU,15,13,119.588
+1,Bahrain,Haas,MAG,15,14,98.332
+1,Bahrain,Alpine,OCO,15,15,97.843
+1,Bahrain,Racing Bulls,RIC,15,16,97.07
+1,Bahrain,Haas,HUL,15,17,98.11
+1,Bahrain,Kick Sauber,BOT,15,18,97.287
+1,Bahrain,Alpine,GAS,15,19,97.492
+1,Bahrain,Williams,SAR,15,20,97.594
+1,Bahrain,Red Bull,VER,16,1,97.168
+1,Bahrain,Red Bull,PER,16,2,95.783
+1,Bahrain,Mercedes,RUS,16,3,96.683
+1,Bahrain,Ferrari,LEC,16,4,96.673
+1,Bahrain,Ferrari,SAI,16,5,96.376
+1,Bahrain,McLaren,NOR,16,6,96.565
+1,Bahrain,McLaren,PIA,16,7,96.427
+1,Bahrain,Mercedes,HAM,16,8,97.091
+1,Bahrain,Kick Sauber,ZHO,16,9,97.659
+1,Bahrain,Aston Martin,ALO,16,10,118.814
+1,Bahrain,Aston Martin,STR,16,11,98.027
+1,Bahrain,Racing Bulls,TSU,16,12,97.516
+1,Bahrain,Haas,MAG,16,13,97.749
+1,Bahrain,Alpine,OCO,16,14,97.902
+1,Bahrain,Williams,ALB,16,15,119.341
+1,Bahrain,Racing Bulls,RIC,16,16,97.176
+1,Bahrain,Haas,HUL,16,17,97.796
+1,Bahrain,Kick Sauber,BOT,16,18,97.718
+1,Bahrain,Alpine,GAS,16,19,97.521
+1,Bahrain,Williams,SAR,16,20,101.37
+1,Bahrain,Red Bull,VER,22,1,95.204
+1,Bahrain,Red Bull,PER,22,2,96.037
+1,Bahrain,Ferrari,SAI,22,3,96.008
+1,Bahrain,Mercedes,RUS,22,4,96.992
+1,Bahrain,Ferrari,LEC,22,5,96.796
+1,Bahrain,McLaren,NOR,22,6,96.668
+1,Bahrain,McLaren,PIA,22,7,96.555
+1,Bahrain,Mercedes,HAM,22,8,96.633
+1,Bahrain,Aston Martin,ALO,22,9,97.122
+1,Bahrain,Kick Sauber,ZHO,22,10,97.852
+1,Bahrain,Racing Bulls,TSU,22,11,97.837
+1,Bahrain,Aston Martin,STR,22,12,98.175
+1,Bahrain,Haas,MAG,22,13,98.147
+1,Bahrain,Williams,ALB,22,14,98.031
+1,Bahrain,Racing Bulls,RIC,22,15,97.75
+1,Bahrain,Alpine,OCO,22,16,98.655
+1,Bahrain,Kick Sauber,BOT,22,17,97.998
+1,Bahrain,Alpine,GAS,22,18,97.868
+1,Bahrain,Haas,HUL,22,19,96.858
+1,Bahrain,Williams,SAR,22,20,97.728
 1,Bahrain,Red Bull,VER,36,1,96.205
 1,Bahrain,Red Bull,PER,36,2,99.365
 1,Bahrain,Ferrari,SAI,36,3,115.62
@@ -1068,6 +497,323 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,36,18,96.45
 1,Bahrain,Kick Sauber,BOT,36,19,96.792
 1,Bahrain,Williams,SAR,36,20,96.462
+1,Bahrain,Red Bull,VER,57,1,94.923
+1,Bahrain,Red Bull,PER,57,2,95.746
+1,Bahrain,Ferrari,SAI,57,3,95.327
+1,Bahrain,Ferrari,LEC,57,4,96.324
+1,Bahrain,Mercedes,RUS,57,5,96.44
+1,Bahrain,McLaren,NOR,57,6,96.582
+1,Bahrain,Mercedes,HAM,57,7,96.138
+1,Bahrain,McLaren,PIA,57,8,95.92
+1,Bahrain,Aston Martin,ALO,57,9,95.276
+1,Bahrain,Aston Martin,STR,57,10,97.335
+2,Saudi Arabia,Red Bull,VER,26,1,92.561
+2,Saudi Arabia,Red Bull,PER,26,2,92.75
+2,Saudi Arabia,McLaren,NOR,26,3,93.792
+2,Saudi Arabia,Ferrari,LEC,26,4,93.51
+2,Saudi Arabia,Mercedes,HAM,26,5,93.518
+2,Saudi Arabia,McLaren,PIA,26,6,93.312
+2,Saudi Arabia,Aston Martin,ALO,26,7,93.841
+2,Saudi Arabia,Mercedes,RUS,26,8,93.737
+2,Saudi Arabia,Ferrari,BEA,26,9,93.788
+2,Saudi Arabia,Haas,HUL,26,10,94.694
+2,Saudi Arabia,Kick Sauber,ZHO,26,11,95.036
+2,Saudi Arabia,Haas,MAG,26,12,96.26
+2,Saudi Arabia,Racing Bulls,TSU,26,13,96.662
+2,Saudi Arabia,Alpine,OCO,26,14,96.331
+2,Saudi Arabia,Williams,ALB,26,15,96.633
+2,Saudi Arabia,Williams,SAR,26,16,96.497
+2,Saudi Arabia,Racing Bulls,RIC,26,17,94.973
+2,Saudi Arabia,Kick Sauber,BOT,26,18,95.319
+1,Bahrain,Red Bull,VER,24,1,95.289
+1,Bahrain,Red Bull,PER,24,2,96.211
+1,Bahrain,Ferrari,SAI,24,3,96.2
+1,Bahrain,Mercedes,RUS,24,4,96.736
+1,Bahrain,Ferrari,LEC,24,5,96.924
+1,Bahrain,McLaren,NOR,24,6,96.823
+1,Bahrain,McLaren,PIA,24,7,96.884
+1,Bahrain,Mercedes,HAM,24,8,96.666
+1,Bahrain,Aston Martin,ALO,24,9,97.046
+1,Bahrain,Kick Sauber,ZHO,24,10,97.894
+1,Bahrain,Racing Bulls,TSU,24,11,97.634
+1,Bahrain,Aston Martin,STR,24,12,98.138
+1,Bahrain,Haas,MAG,24,13,98.156
+1,Bahrain,Williams,ALB,24,14,98.204
+1,Bahrain,Racing Bulls,RIC,24,15,97.766
+1,Bahrain,Alpine,OCO,24,16,98.42
+1,Bahrain,Kick Sauber,BOT,24,17,98.146
+1,Bahrain,Alpine,GAS,24,18,98.192
+1,Bahrain,Haas,HUL,24,19,96.626
+1,Bahrain,Williams,SAR,24,20,99.437
+2,Saudi Arabia,Red Bull,VER,18,1,93.139
+2,Saudi Arabia,Red Bull,PER,18,2,93.282
+2,Saudi Arabia,McLaren,NOR,18,3,95.607
+2,Saudi Arabia,Ferrari,LEC,18,4,94.142
+2,Saudi Arabia,Mercedes,HAM,18,5,94.307
+2,Saudi Arabia,McLaren,PIA,18,6,94.075
+2,Saudi Arabia,Aston Martin,ALO,18,7,94.651
+2,Saudi Arabia,Mercedes,RUS,18,8,94.559
+2,Saudi Arabia,Ferrari,BEA,18,9,95.27
+2,Saudi Arabia,Haas,HUL,18,10,95.687
+2,Saudi Arabia,Kick Sauber,ZHO,18,11,95.466
+2,Saudi Arabia,Haas,MAG,18,12,95.266
+2,Saudi Arabia,Racing Bulls,TSU,18,13,95.367
+2,Saudi Arabia,Alpine,OCO,18,14,95.436
+2,Saudi Arabia,Williams,ALB,18,15,95.608
+2,Saudi Arabia,Williams,SAR,18,16,96.039
+2,Saudi Arabia,Kick Sauber,BOT,18,17,96.058
+2,Saudi Arabia,Racing Bulls,RIC,18,18,96.093
+2,Saudi Arabia,Red Bull,VER,14,1,93.194
+2,Saudi Arabia,McLaren,NOR,14,2,93.971
+2,Saudi Arabia,Red Bull,PER,14,3,93.814
+2,Saudi Arabia,Mercedes,HAM,14,4,94.341
+2,Saudi Arabia,Ferrari,LEC,14,5,94.039
+2,Saudi Arabia,McLaren,PIA,14,6,94.431
+2,Saudi Arabia,Aston Martin,ALO,14,7,94.877
+2,Saudi Arabia,Mercedes,RUS,14,8,94.379
+2,Saudi Arabia,Haas,HUL,14,9,96.481
+2,Saudi Arabia,Ferrari,BEA,14,10,95.479
+2,Saudi Arabia,Kick Sauber,ZHO,14,11,96.658
+2,Saudi Arabia,Racing Bulls,TSU,14,12,95.575
+2,Saudi Arabia,Haas,MAG,14,13,95.553
+2,Saudi Arabia,Alpine,OCO,14,14,95.432
+2,Saudi Arabia,Williams,ALB,14,15,95.181
+2,Saudi Arabia,Kick Sauber,BOT,14,16,95.424
+2,Saudi Arabia,Williams,SAR,14,17,95.207
+2,Saudi Arabia,Racing Bulls,RIC,14,18,95.606
+1,Bahrain,Red Bull,VER,56,1,94.671
+1,Bahrain,Red Bull,PER,56,2,95.568
+1,Bahrain,Ferrari,SAI,56,3,95.305
+1,Bahrain,Ferrari,LEC,56,4,95.924
+1,Bahrain,Mercedes,RUS,56,5,96.35
+1,Bahrain,McLaren,NOR,56,6,95.976
+1,Bahrain,Mercedes,HAM,56,7,95.706
+1,Bahrain,McLaren,PIA,56,8,96.1
+1,Bahrain,Aston Martin,ALO,56,9,95.014
+1,Bahrain,Aston Martin,STR,56,10,96.582
+1,Bahrain,Kick Sauber,ZHO,56,11,97.333
+1,Bahrain,Haas,MAG,56,12,97.584
+1,Bahrain,Racing Bulls,RIC,56,13,97.662
+1,Bahrain,Racing Bulls,TSU,56,14,97.473
+1,Bahrain,Williams,ALB,56,15,96.922
+1,Bahrain,Haas,HUL,56,16,95.602
+1,Bahrain,Alpine,OCO,56,17,97.415
+1,Bahrain,Alpine,GAS,56,18,96.086
+1,Bahrain,Kick Sauber,BOT,56,19,97.956
+1,Bahrain,Red Bull,VER,25,1,95.342
+1,Bahrain,Red Bull,PER,25,2,96.344
+1,Bahrain,Ferrari,SAI,25,3,96.22
+1,Bahrain,Mercedes,RUS,25,4,96.928
+1,Bahrain,Ferrari,LEC,25,5,96.76
+1,Bahrain,McLaren,NOR,25,6,96.73
+1,Bahrain,McLaren,PIA,25,7,97.008
+1,Bahrain,Mercedes,HAM,25,8,96.919
+1,Bahrain,Aston Martin,ALO,25,9,97.179
+1,Bahrain,Kick Sauber,ZHO,25,10,97.883
+1,Bahrain,Racing Bulls,TSU,25,11,97.851
+1,Bahrain,Aston Martin,STR,25,12,97.994
+1,Bahrain,Haas,MAG,25,13,98.29
+1,Bahrain,Williams,ALB,25,14,98.226
+1,Bahrain,Racing Bulls,RIC,25,15,97.973
+1,Bahrain,Alpine,OCO,25,16,98.494
+1,Bahrain,Kick Sauber,BOT,25,17,98.262
+1,Bahrain,Alpine,GAS,25,18,98.16
+1,Bahrain,Haas,HUL,25,19,96.652
+1,Bahrain,Williams,SAR,25,20,99.093
+2,Saudi Arabia,Red Bull,VER,6,1,93.676
+2,Saudi Arabia,Red Bull,PER,6,2,93.842
+2,Saudi Arabia,Ferrari,LEC,6,3,94.244
+2,Saudi Arabia,McLaren,PIA,6,4,94.409
+2,Saudi Arabia,Aston Martin,ALO,6,5,94.48
+2,Saudi Arabia,McLaren,NOR,6,6,95.014
+2,Saudi Arabia,Mercedes,RUS,6,7,95.06
+2,Saudi Arabia,Mercedes,HAM,6,8,95.077
+2,Saudi Arabia,Racing Bulls,TSU,6,9,96.275
+2,Saudi Arabia,Ferrari,BEA,6,10,96.122
+2,Saudi Arabia,Haas,MAG,6,11,96.027
+2,Saudi Arabia,Williams,ALB,6,12,95.977
+2,Saudi Arabia,Haas,HUL,6,13,96.398
+2,Saudi Arabia,Racing Bulls,RIC,6,14,95.847
+2,Saudi Arabia,Alpine,OCO,6,15,96.798
+2,Saudi Arabia,Kick Sauber,BOT,6,16,96.225
+2,Saudi Arabia,Williams,SAR,6,17,96.203
+2,Saudi Arabia,Kick Sauber,ZHO,6,18,97.072
+2,Saudi Arabia,Red Bull,VER,24,1,92.683
+2,Saudi Arabia,Red Bull,PER,24,2,92.795
+2,Saudi Arabia,McLaren,NOR,24,3,93.561
+2,Saudi Arabia,Ferrari,LEC,24,4,93.511
+2,Saudi Arabia,Mercedes,HAM,24,5,94.025
+2,Saudi Arabia,McLaren,PIA,24,6,94.097
+2,Saudi Arabia,Aston Martin,ALO,24,7,94.033
+2,Saudi Arabia,Mercedes,RUS,24,8,94.256
+2,Saudi Arabia,Ferrari,BEA,24,9,93.966
+2,Saudi Arabia,Haas,HUL,24,10,94.843
+2,Saudi Arabia,Kick Sauber,ZHO,24,11,95.145
+2,Saudi Arabia,Haas,MAG,24,12,96.072
+2,Saudi Arabia,Racing Bulls,TSU,24,13,95.882
+2,Saudi Arabia,Alpine,OCO,24,14,96.124
+2,Saudi Arabia,Williams,ALB,24,15,95.967
+2,Saudi Arabia,Williams,SAR,24,16,95.133
+2,Saudi Arabia,Racing Bulls,RIC,24,17,94.935
+2,Saudi Arabia,Kick Sauber,BOT,24,18,96.902
+1,Bahrain,Red Bull,VER,29,1,95.793
+1,Bahrain,Red Bull,PER,29,2,96.437
+1,Bahrain,Ferrari,SAI,29,3,96.6
+1,Bahrain,Mercedes,RUS,29,4,97.066
+1,Bahrain,Ferrari,LEC,29,5,96.963
+1,Bahrain,McLaren,NOR,29,6,97.041
+1,Bahrain,McLaren,PIA,29,7,97.179
+1,Bahrain,Mercedes,HAM,29,8,96.786
+1,Bahrain,Aston Martin,ALO,29,9,97.104
+1,Bahrain,Racing Bulls,TSU,29,10,97.777
+1,Bahrain,Haas,MAG,29,11,97.965
+1,Bahrain,Williams,ALB,29,12,97.879
+1,Bahrain,Racing Bulls,RIC,29,13,97.96
+1,Bahrain,Alpine,OCO,29,14,98.556
+1,Bahrain,Kick Sauber,BOT,29,15,98.654
+1,Bahrain,Alpine,GAS,29,16,98.55
+1,Bahrain,Kick Sauber,ZHO,29,17,117.076
+1,Bahrain,Aston Martin,STR,29,18,95.854
+1,Bahrain,Haas,HUL,29,19,96.837
+1,Bahrain,Williams,SAR,29,20,121.581
+1,Bahrain,Red Bull,VER,38,1,116.445
+1,Bahrain,Red Bull,PER,38,2,94.804
+1,Bahrain,Ferrari,SAI,38,3,95.1
+1,Bahrain,Mercedes,RUS,38,4,95.479
+1,Bahrain,Ferrari,LEC,38,5,94.783
+1,Bahrain,McLaren,NOR,38,6,95.149
+1,Bahrain,Aston Martin,ALO,38,7,97.297
+1,Bahrain,Mercedes,HAM,38,8,94.966
+1,Bahrain,McLaren,PIA,38,9,95.298
+1,Bahrain,Aston Martin,STR,38,10,96.364
+1,Bahrain,Kick Sauber,ZHO,38,11,96.857
+1,Bahrain,Haas,MAG,38,12,96.042
+1,Bahrain,Racing Bulls,TSU,38,13,97.046
+1,Bahrain,Haas,HUL,38,14,100.083
+1,Bahrain,Racing Bulls,RIC,38,15,95.46
+1,Bahrain,Williams,ALB,38,16,96.129
+1,Bahrain,Alpine,OCO,38,17,96.814
+1,Bahrain,Alpine,GAS,38,18,96.802
+1,Bahrain,Kick Sauber,BOT,38,19,97.774
+1,Bahrain,Williams,SAR,38,20,96.732
+1,Bahrain,Red Bull,VER,3,1,96.753
+1,Bahrain,Mercedes,RUS,3,2,96.406
+1,Bahrain,Ferrari,LEC,3,3,98.062
+1,Bahrain,Red Bull,PER,3,4,97.297
+1,Bahrain,Ferrari,SAI,3,5,97.08
+1,Bahrain,McLaren,NOR,3,6,97.787
+1,Bahrain,Aston Martin,ALO,3,7,99.046
+1,Bahrain,McLaren,PIA,3,8,98.258
+1,Bahrain,Mercedes,HAM,3,9,98.303
+1,Bahrain,Racing Bulls,TSU,3,10,98.431
+1,Bahrain,Williams,ALB,3,11,98.507
+1,Bahrain,Haas,MAG,3,12,98.399
+1,Bahrain,Kick Sauber,ZHO,3,13,98.582
+1,Bahrain,Williams,SAR,3,14,98.707
+1,Bahrain,Racing Bulls,RIC,3,15,98.76
+1,Bahrain,Alpine,OCO,3,16,98.771
+1,Bahrain,Alpine,GAS,3,17,98.744
+1,Bahrain,Kick Sauber,BOT,3,18,98.837
+1,Bahrain,Aston Martin,STR,3,19,98.279
+1,Bahrain,Haas,HUL,3,20,97.317
+1,Bahrain,Red Bull,VER,20,1,95.16
+1,Bahrain,Red Bull,PER,20,2,96.278
+1,Bahrain,Ferrari,SAI,20,3,96.034
+1,Bahrain,Mercedes,RUS,20,4,96.732
+1,Bahrain,Ferrari,LEC,20,5,96.794
+1,Bahrain,McLaren,NOR,20,6,96.501
+1,Bahrain,McLaren,PIA,20,7,96.644
+1,Bahrain,Mercedes,HAM,20,8,96.264
+1,Bahrain,Aston Martin,ALO,20,9,97.357
+1,Bahrain,Kick Sauber,ZHO,20,10,97.749
+1,Bahrain,Racing Bulls,TSU,20,11,97.766
+1,Bahrain,Aston Martin,STR,20,12,97.859
+1,Bahrain,Haas,MAG,20,13,98.062
+1,Bahrain,Williams,ALB,20,14,97.701
+1,Bahrain,Alpine,OCO,20,15,98.185
+1,Bahrain,Racing Bulls,RIC,20,16,97.865
+1,Bahrain,Kick Sauber,BOT,20,17,98.285
+1,Bahrain,Alpine,GAS,20,18,98.036
+1,Bahrain,Haas,HUL,20,19,100.798
+1,Bahrain,Williams,SAR,20,20,97.82
+2,Saudi Arabia,Red Bull,VER,17,1,93.059
+2,Saudi Arabia,McLaren,NOR,17,2,94.497
+2,Saudi Arabia,Red Bull,PER,17,3,94.169
+2,Saudi Arabia,Ferrari,LEC,17,4,94.073
+2,Saudi Arabia,Mercedes,HAM,17,5,94.811
+2,Saudi Arabia,McLaren,PIA,17,6,95.057
+2,Saudi Arabia,Aston Martin,ALO,17,7,94.695
+2,Saudi Arabia,Mercedes,RUS,17,8,94.907
+2,Saudi Arabia,Haas,HUL,17,9,95.205
+2,Saudi Arabia,Ferrari,BEA,17,10,94.681
+2,Saudi Arabia,Kick Sauber,ZHO,17,11,95.882
+2,Saudi Arabia,Haas,MAG,17,12,96.621
+2,Saudi Arabia,Racing Bulls,TSU,17,13,97.603
+2,Saudi Arabia,Alpine,OCO,17,14,97.264
+2,Saudi Arabia,Williams,ALB,17,15,97.029
+2,Saudi Arabia,Williams,SAR,17,16,96.336
+2,Saudi Arabia,Kick Sauber,BOT,17,17,97.238
+2,Saudi Arabia,Racing Bulls,RIC,17,18,96.267
+1,Bahrain,Red Bull,VER,10,1,96.96
+1,Bahrain,Mercedes,RUS,10,2,97.782
+1,Bahrain,Red Bull,PER,10,3,97.63
+1,Bahrain,Ferrari,LEC,10,4,97.884
+1,Bahrain,Ferrari,SAI,10,5,97.608
+1,Bahrain,McLaren,NOR,10,6,97.936
+1,Bahrain,McLaren,PIA,10,7,98.073
+1,Bahrain,Mercedes,HAM,10,8,98.037
+1,Bahrain,Aston Martin,ALO,10,9,99.325
+1,Bahrain,Racing Bulls,TSU,10,10,98.912
+1,Bahrain,Williams,ALB,10,11,98.952
+1,Bahrain,Haas,MAG,10,12,98.747
+1,Bahrain,Racing Bulls,RIC,10,13,98.782
+1,Bahrain,Alpine,GAS,10,14,98.929
+1,Bahrain,Kick Sauber,BOT,10,15,99.112
+1,Bahrain,Alpine,OCO,10,16,101.642
+1,Bahrain,Kick Sauber,ZHO,10,17,119.328
+1,Bahrain,Aston Martin,STR,10,18,117.815
+1,Bahrain,Haas,HUL,10,19,98.37
+1,Bahrain,Williams,SAR,10,20,161.86
+1,Bahrain,Red Bull,VER,41,1,95.29
+1,Bahrain,Red Bull,PER,41,2,94.4
+1,Bahrain,Ferrari,SAI,41,3,95.041
+1,Bahrain,Mercedes,RUS,41,4,95.093
+1,Bahrain,Ferrari,LEC,41,5,95.028
+1,Bahrain,McLaren,NOR,41,6,95.069
+1,Bahrain,Mercedes,HAM,41,7,94.94
+1,Bahrain,McLaren,PIA,41,8,95.109
+1,Bahrain,Aston Martin,ALO,41,9,100.261
+1,Bahrain,Aston Martin,STR,41,10,96.322
+1,Bahrain,Kick Sauber,ZHO,41,11,96.695
+1,Bahrain,Haas,MAG,41,12,96.34
+1,Bahrain,Racing Bulls,TSU,41,13,96.179
+1,Bahrain,Racing Bulls,RIC,41,14,95.644
+1,Bahrain,Haas,HUL,41,15,99.569
+1,Bahrain,Williams,ALB,41,16,95.885
+1,Bahrain,Alpine,OCO,41,17,96.621
+1,Bahrain,Alpine,GAS,41,18,96.571
+1,Bahrain,Kick Sauber,BOT,41,19,96.437
+1,Bahrain,Williams,SAR,41,20,120.282
+1,Bahrain,Red Bull,VER,21,1,95.316
+1,Bahrain,Red Bull,PER,21,2,96.165
+1,Bahrain,Ferrari,SAI,21,3,96.104
+1,Bahrain,Mercedes,RUS,21,4,96.769
+1,Bahrain,Ferrari,LEC,21,5,96.977
+1,Bahrain,McLaren,NOR,21,6,96.62
+1,Bahrain,McLaren,PIA,21,7,96.733
+1,Bahrain,Mercedes,HAM,21,8,96.51
+1,Bahrain,Aston Martin,ALO,21,9,97.342
+1,Bahrain,Kick Sauber,ZHO,21,10,97.947
+1,Bahrain,Racing Bulls,TSU,21,11,97.777
+1,Bahrain,Aston Martin,STR,21,12,98.022
+1,Bahrain,Haas,MAG,21,13,98.01
+1,Bahrain,Williams,ALB,21,14,97.918
+1,Bahrain,Racing Bulls,RIC,21,15,97.392
+1,Bahrain,Alpine,OCO,21,16,99.363
+1,Bahrain,Kick Sauber,BOT,21,17,97.73
+1,Bahrain,Alpine,GAS,21,18,98.094
+1,Bahrain,Haas,HUL,21,19,118.699
+1,Bahrain,Williams,SAR,21,20,98.009
 1,Bahrain,Red Bull,VER,37,1,99.234
 1,Bahrain,Red Bull,PER,37,2,115.808
 1,Bahrain,Ferrari,SAI,37,3,95.302
@@ -1088,6 +834,216 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,37,18,96.629
 1,Bahrain,Kick Sauber,BOT,37,19,98.008
 1,Bahrain,Williams,SAR,37,20,96.785
+1,Bahrain,Red Bull,VER,44,1,94.531
+1,Bahrain,Red Bull,PER,44,2,94.799
+1,Bahrain,Ferrari,SAI,44,3,94.507
+1,Bahrain,Mercedes,RUS,44,4,95.162
+1,Bahrain,Ferrari,LEC,44,5,95.051
+1,Bahrain,McLaren,NOR,44,6,95.346
+1,Bahrain,Mercedes,HAM,44,7,95.169
+1,Bahrain,McLaren,PIA,44,8,95.238
+1,Bahrain,Aston Martin,STR,44,9,96.564
+1,Bahrain,Aston Martin,ALO,44,10,94.981
+1,Bahrain,Kick Sauber,ZHO,44,11,97.417
+1,Bahrain,Haas,MAG,44,12,96.249
+1,Bahrain,Racing Bulls,TSU,44,13,96.144
+1,Bahrain,Racing Bulls,RIC,44,14,95.49
+1,Bahrain,Williams,ALB,44,15,95.783
+1,Bahrain,Alpine,OCO,44,16,96.649
+1,Bahrain,Haas,HUL,44,17,95.59
+1,Bahrain,Alpine,GAS,44,18,116.481
+1,Bahrain,Kick Sauber,BOT,44,19,96.63
+1,Bahrain,Williams,SAR,44,20,95.13
+2,Saudi Arabia,Red Bull,VER,20,1,93.066
+2,Saudi Arabia,Red Bull,PER,20,2,93.377
+2,Saudi Arabia,McLaren,NOR,20,3,94.003
+2,Saudi Arabia,Ferrari,LEC,20,4,93.949
+2,Saudi Arabia,Mercedes,HAM,20,5,94.225
+2,Saudi Arabia,McLaren,PIA,20,6,94.324
+2,Saudi Arabia,Aston Martin,ALO,20,7,94.39
+2,Saudi Arabia,Mercedes,RUS,20,8,94.457
+2,Saudi Arabia,Haas,HUL,20,9,95.067
+2,Saudi Arabia,Ferrari,BEA,20,10,94.828
+2,Saudi Arabia,Kick Sauber,ZHO,20,11,95.087
+2,Saudi Arabia,Haas,MAG,20,12,95.012
+2,Saudi Arabia,Racing Bulls,TSU,20,13,95.06
+2,Saudi Arabia,Alpine,OCO,20,14,95.02
+2,Saudi Arabia,Williams,ALB,20,15,95.278
+2,Saudi Arabia,Williams,SAR,20,16,95.251
+2,Saudi Arabia,Kick Sauber,BOT,20,17,96.253
+2,Saudi Arabia,Racing Bulls,RIC,20,18,96.073
+1,Bahrain,Red Bull,VER,17,1,99.896
+1,Bahrain,Red Bull,PER,17,2,96.454
+1,Bahrain,Mercedes,RUS,17,3,96.234
+1,Bahrain,Ferrari,SAI,17,4,95.507
+1,Bahrain,Ferrari,LEC,17,5,97.302
+1,Bahrain,McLaren,NOR,17,6,96.776
+1,Bahrain,McLaren,PIA,17,7,96.872
+1,Bahrain,Mercedes,HAM,17,8,97.111
+1,Bahrain,Aston Martin,ALO,17,9,96.97
+1,Bahrain,Kick Sauber,ZHO,17,10,98.475
+1,Bahrain,Racing Bulls,TSU,17,11,97.482
+1,Bahrain,Aston Martin,STR,17,12,98.777
+1,Bahrain,Haas,MAG,17,13,98.282
+1,Bahrain,Williams,ALB,17,14,97.392
+1,Bahrain,Alpine,OCO,17,15,98.911
+1,Bahrain,Racing Bulls,RIC,17,16,97.29
+1,Bahrain,Haas,HUL,17,17,97.891
+1,Bahrain,Kick Sauber,BOT,17,18,97.765
+1,Bahrain,Alpine,GAS,17,19,97.949
+1,Bahrain,Williams,SAR,17,20,99.758
+2,Saudi Arabia,Red Bull,VER,27,1,92.722
+2,Saudi Arabia,Red Bull,PER,27,2,92.734
+2,Saudi Arabia,Ferrari,LEC,27,3,93.151
+2,Saudi Arabia,McLaren,NOR,27,4,94.718
+2,Saudi Arabia,Mercedes,HAM,27,5,93.918
+2,Saudi Arabia,McLaren,PIA,27,6,93.998
+2,Saudi Arabia,Aston Martin,ALO,27,7,93.58
+2,Saudi Arabia,Mercedes,RUS,27,8,93.571
+2,Saudi Arabia,Ferrari,BEA,27,9,93.808
+2,Saudi Arabia,Haas,HUL,27,10,94.704
+2,Saudi Arabia,Kick Sauber,ZHO,27,11,95.002
+2,Saudi Arabia,Haas,MAG,27,12,96.222
+2,Saudi Arabia,Racing Bulls,TSU,27,13,96.093
+2,Saudi Arabia,Alpine,OCO,27,14,96.399
+2,Saudi Arabia,Williams,ALB,27,15,96.127
+2,Saudi Arabia,Williams,SAR,27,16,96.198
+2,Saudi Arabia,Racing Bulls,RIC,27,17,95.648
+2,Saudi Arabia,Kick Sauber,BOT,27,18,95.254
+1,Bahrain,Red Bull,VER,49,1,94.403
+1,Bahrain,Red Bull,PER,49,2,94.966
+1,Bahrain,Ferrari,SAI,49,3,95.44
+1,Bahrain,Ferrari,LEC,49,4,95.302
+1,Bahrain,Mercedes,RUS,49,5,95.954
+1,Bahrain,McLaren,NOR,49,6,95.674
+1,Bahrain,Mercedes,HAM,49,7,95.914
+1,Bahrain,McLaren,PIA,49,8,95.653
+1,Bahrain,Aston Martin,ALO,49,9,94.571
+1,Bahrain,Aston Martin,STR,49,10,96.871
+1,Bahrain,Kick Sauber,ZHO,49,11,96.72
+1,Bahrain,Haas,MAG,49,12,96.842
+1,Bahrain,Racing Bulls,TSU,49,13,96.695
+1,Bahrain,Racing Bulls,RIC,49,14,96.442
+1,Bahrain,Williams,ALB,49,15,97.102
+1,Bahrain,Alpine,OCO,49,16,97.726
+1,Bahrain,Haas,HUL,49,17,95.494
+1,Bahrain,Alpine,GAS,49,18,95.511
+1,Bahrain,Kick Sauber,BOT,49,19,96.91
+1,Bahrain,Williams,SAR,49,20,95.59
+1,Bahrain,Red Bull,VER,40,1,96.589
+1,Bahrain,Red Bull,PER,40,2,94.364
+1,Bahrain,Ferrari,SAI,40,3,94.739
+1,Bahrain,Mercedes,RUS,40,4,95.065
+1,Bahrain,Ferrari,LEC,40,5,94.859
+1,Bahrain,McLaren,NOR,40,6,95.276
+1,Bahrain,Mercedes,HAM,40,7,95.041
+1,Bahrain,McLaren,PIA,40,8,95.005
+1,Bahrain,Aston Martin,ALO,40,9,98.061
+1,Bahrain,Aston Martin,STR,40,10,96.485
+1,Bahrain,Kick Sauber,ZHO,40,11,96.683
+1,Bahrain,Haas,MAG,40,12,96.071
+1,Bahrain,Racing Bulls,TSU,40,13,96.263
+1,Bahrain,Haas,HUL,40,14,97.088
+1,Bahrain,Racing Bulls,RIC,40,15,95.578
+1,Bahrain,Williams,ALB,40,16,95.723
+1,Bahrain,Alpine,OCO,40,17,96.608
+1,Bahrain,Alpine,GAS,40,18,96.742
+1,Bahrain,Kick Sauber,BOT,40,19,97.393
+1,Bahrain,Williams,SAR,40,20,99.817
+2,Saudi Arabia,Red Bull,VER,23,1,92.792
+2,Saudi Arabia,Red Bull,PER,23,2,92.97
+2,Saudi Arabia,McLaren,NOR,23,3,93.824
+2,Saudi Arabia,Ferrari,LEC,23,4,93.602
+2,Saudi Arabia,Mercedes,HAM,23,5,94.041
+2,Saudi Arabia,McLaren,PIA,23,6,93.715
+2,Saudi Arabia,Aston Martin,ALO,23,7,93.958
+2,Saudi Arabia,Mercedes,RUS,23,8,94.099
+2,Saudi Arabia,Ferrari,BEA,23,9,94.128
+2,Saudi Arabia,Haas,HUL,23,10,94.816
+2,Saudi Arabia,Kick Sauber,ZHO,23,11,95.296
+2,Saudi Arabia,Haas,MAG,23,12,96.198
+2,Saudi Arabia,Racing Bulls,TSU,23,13,96.285
+2,Saudi Arabia,Alpine,OCO,23,14,96.216
+2,Saudi Arabia,Williams,ALB,23,15,95.363
+2,Saudi Arabia,Williams,SAR,23,16,95.016
+2,Saudi Arabia,Kick Sauber,BOT,23,17,96.251
+2,Saudi Arabia,Racing Bulls,RIC,23,18,95.855
+1,Bahrain,Red Bull,VER,5,1,97.173
+1,Bahrain,Mercedes,RUS,5,2,98.116
+1,Bahrain,Ferrari,LEC,5,3,98.131
+1,Bahrain,Red Bull,PER,5,4,98.044
+1,Bahrain,Ferrari,SAI,5,5,98.032
+1,Bahrain,McLaren,NOR,5,6,97.794
+1,Bahrain,McLaren,PIA,5,7,97.859
+1,Bahrain,Aston Martin,ALO,5,8,99.292
+1,Bahrain,Mercedes,HAM,5,9,98.35
+1,Bahrain,Racing Bulls,TSU,5,10,98.321
+1,Bahrain,Williams,ALB,5,11,98.509
+1,Bahrain,Haas,MAG,5,12,98.576
+1,Bahrain,Kick Sauber,ZHO,5,13,98.798
+1,Bahrain,Williams,SAR,5,14,98.757
+1,Bahrain,Racing Bulls,RIC,5,15,98.704
+1,Bahrain,Alpine,OCO,5,16,98.64
+1,Bahrain,Alpine,GAS,5,17,98.664
+1,Bahrain,Aston Martin,STR,5,18,98.725
+1,Bahrain,Kick Sauber,BOT,5,19,100.087
+1,Bahrain,Haas,HUL,5,20,97.663
+2,Saudi Arabia,McLaren,NOR,9,1,161.791
+2,Saudi Arabia,Red Bull,VER,9,2,160.995
+2,Saudi Arabia,Mercedes,HAM,9,3,159.191
+2,Saudi Arabia,Red Bull,PER,9,4,158.896
+2,Saudi Arabia,Ferrari,LEC,9,5,158.648
+2,Saudi Arabia,McLaren,PIA,9,6,156.398
+2,Saudi Arabia,Aston Martin,ALO,9,7,154.968
+2,Saudi Arabia,Haas,HUL,9,8,153.089
+2,Saudi Arabia,Mercedes,RUS,9,9,151.48
+2,Saudi Arabia,Kick Sauber,ZHO,9,10,149.482
+2,Saudi Arabia,Racing Bulls,TSU,9,11,147.896
+2,Saudi Arabia,Ferrari,BEA,9,12,147.117
+2,Saudi Arabia,Haas,MAG,9,13,145.832
+2,Saudi Arabia,Williams,ALB,9,14,145.427
+2,Saudi Arabia,Alpine,OCO,9,15,143.747
+2,Saudi Arabia,Kick Sauber,BOT,9,16,141.83
+2,Saudi Arabia,Williams,SAR,9,17,141.181
+2,Saudi Arabia,Racing Bulls,RIC,9,18,129.998
+2,Saudi Arabia,Red Bull,VER,25,1,92.785
+2,Saudi Arabia,Red Bull,PER,25,2,93.029
+2,Saudi Arabia,McLaren,NOR,25,3,93.572
+2,Saudi Arabia,Ferrari,LEC,25,4,93.136
+2,Saudi Arabia,Mercedes,HAM,25,5,93.532
+2,Saudi Arabia,McLaren,PIA,25,6,93.694
+2,Saudi Arabia,Aston Martin,ALO,25,7,93.89
+2,Saudi Arabia,Mercedes,RUS,25,8,94.077
+2,Saudi Arabia,Ferrari,BEA,25,9,93.924
+2,Saudi Arabia,Haas,HUL,25,10,94.725
+2,Saudi Arabia,Kick Sauber,ZHO,25,11,95.145
+2,Saudi Arabia,Haas,MAG,25,12,96.555
+2,Saudi Arabia,Racing Bulls,TSU,25,13,96.548
+2,Saudi Arabia,Alpine,OCO,25,14,96.373
+2,Saudi Arabia,Williams,ALB,25,15,96.124
+2,Saudi Arabia,Williams,SAR,25,16,96.539
+2,Saudi Arabia,Racing Bulls,RIC,25,17,94.739
+2,Saudi Arabia,Kick Sauber,BOT,25,18,95.619
+1,Bahrain,Red Bull,VER,18,1,117.854
+1,Bahrain,Red Bull,PER,18,2,96.311
+1,Bahrain,Ferrari,SAI,18,3,96.088
+1,Bahrain,Mercedes,RUS,18,4,97.819
+1,Bahrain,Ferrari,LEC,18,5,97.438
+1,Bahrain,McLaren,NOR,18,6,96.508
+1,Bahrain,McLaren,PIA,18,7,97.095
+1,Bahrain,Mercedes,HAM,18,8,96.85
+1,Bahrain,Aston Martin,ALO,18,9,97.361
+1,Bahrain,Kick Sauber,ZHO,18,10,97.552
+1,Bahrain,Racing Bulls,TSU,18,11,97.359
+1,Bahrain,Aston Martin,STR,18,12,97.417
+1,Bahrain,Haas,MAG,18,13,97.583
+1,Bahrain,Williams,ALB,18,14,97.59
+1,Bahrain,Alpine,OCO,18,15,98.12
+1,Bahrain,Racing Bulls,RIC,18,16,97.7
+1,Bahrain,Haas,HUL,18,17,98.216
+1,Bahrain,Kick Sauber,BOT,18,18,97.918
+1,Bahrain,Alpine,GAS,18,19,97.791
+1,Bahrain,Williams,SAR,18,20,98.077
 1,Bahrain,Red Bull,VER,43,1,94.151
 1,Bahrain,Red Bull,PER,43,2,94.797
 1,Bahrain,Ferrari,SAI,43,3,94.795
@@ -1108,6 +1064,747 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Haas,HUL,43,18,95.76
 1,Bahrain,Kick Sauber,BOT,43,19,96.569
 1,Bahrain,Williams,SAR,43,20,95.001
+2,Saudi Arabia,Red Bull,VER,41,1,92.491
+2,Saudi Arabia,Red Bull,PER,41,2,92.48
+2,Saudi Arabia,Ferrari,LEC,41,3,92.504
+2,Saudi Arabia,McLaren,PIA,41,4,92.545
+2,Saudi Arabia,Aston Martin,ALO,41,5,92.662
+2,Saudi Arabia,Mercedes,RUS,41,6,92.458
+2,Saudi Arabia,Ferrari,BEA,41,7,92.691
+2,Saudi Arabia,McLaren,NOR,41,8,92.095
+2,Saudi Arabia,Mercedes,HAM,41,9,92.201
+2,Saudi Arabia,Kick Sauber,ZHO,41,10,96.379
+2,Saudi Arabia,Haas,HUL,41,11,92.84
+2,Saudi Arabia,Haas,MAG,41,12,92.855
+2,Saudi Arabia,Alpine,OCO,41,13,93.711
+2,Saudi Arabia,Williams,ALB,41,14,93.75
+2,Saudi Arabia,Racing Bulls,TSU,41,15,93.731
+2,Saudi Arabia,Williams,SAR,41,16,93.838
+2,Saudi Arabia,Racing Bulls,RIC,41,17,94.574
+2,Saudi Arabia,Kick Sauber,BOT,41,18,93.194
+2,Saudi Arabia,Red Bull,VER,28,1,92.674
+2,Saudi Arabia,Red Bull,PER,28,2,92.968
+2,Saudi Arabia,Ferrari,LEC,28,3,93.202
+2,Saudi Arabia,McLaren,NOR,28,4,93.794
+2,Saudi Arabia,Mercedes,HAM,28,5,93.56
+2,Saudi Arabia,McLaren,PIA,28,6,93.527
+2,Saudi Arabia,Aston Martin,ALO,28,7,93.863
+2,Saudi Arabia,Mercedes,RUS,28,8,93.775
+2,Saudi Arabia,Ferrari,BEA,28,9,93.639
+2,Saudi Arabia,Haas,HUL,28,10,94.482
+2,Saudi Arabia,Kick Sauber,ZHO,28,11,94.879
+2,Saudi Arabia,Haas,MAG,28,12,96.099
+2,Saudi Arabia,Racing Bulls,TSU,28,13,95.668
+2,Saudi Arabia,Alpine,OCO,28,14,95.884
+2,Saudi Arabia,Williams,ALB,28,15,96.166
+2,Saudi Arabia,Williams,SAR,28,16,95.886
+2,Saudi Arabia,Racing Bulls,RIC,28,17,95.285
+2,Saudi Arabia,Kick Sauber,BOT,28,18,95.324
+2,Saudi Arabia,Red Bull,VER,19,1,93.135
+2,Saudi Arabia,Red Bull,PER,19,2,93.545
+2,Saudi Arabia,McLaren,NOR,19,3,94.194
+2,Saudi Arabia,Ferrari,LEC,19,4,93.94
+2,Saudi Arabia,Mercedes,HAM,19,5,94.524
+2,Saudi Arabia,McLaren,PIA,19,6,94.631
+2,Saudi Arabia,Aston Martin,ALO,19,7,94.576
+2,Saudi Arabia,Mercedes,RUS,19,8,94.395
+2,Saudi Arabia,Haas,HUL,19,9,95.174
+2,Saudi Arabia,Ferrari,BEA,19,10,95.616
+2,Saudi Arabia,Kick Sauber,ZHO,19,11,95.407
+2,Saudi Arabia,Haas,MAG,19,12,95.22
+2,Saudi Arabia,Racing Bulls,TSU,19,13,95.146
+2,Saudi Arabia,Alpine,OCO,19,14,95.152
+2,Saudi Arabia,Williams,ALB,19,15,95.064
+2,Saudi Arabia,Williams,SAR,19,16,95.361
+2,Saudi Arabia,Kick Sauber,BOT,19,17,95.828
+2,Saudi Arabia,Racing Bulls,RIC,19,18,95.853
+2,Saudi Arabia,Red Bull,VER,16,1,93.192
+2,Saudi Arabia,McLaren,NOR,16,2,93.858
+2,Saudi Arabia,Red Bull,PER,16,3,93.536
+2,Saudi Arabia,Ferrari,LEC,16,4,94.033
+2,Saudi Arabia,Mercedes,HAM,16,5,94.435
+2,Saudi Arabia,McLaren,PIA,16,6,94.379
+2,Saudi Arabia,Aston Martin,ALO,16,7,94.773
+2,Saudi Arabia,Mercedes,RUS,16,8,94.638
+2,Saudi Arabia,Haas,HUL,16,9,95.153
+2,Saudi Arabia,Ferrari,BEA,16,10,94.715
+2,Saudi Arabia,Kick Sauber,ZHO,16,11,96.065
+2,Saudi Arabia,Racing Bulls,TSU,16,12,95.995
+2,Saudi Arabia,Haas,MAG,16,13,96.1
+2,Saudi Arabia,Alpine,OCO,16,14,96.245
+2,Saudi Arabia,Williams,ALB,16,15,96.47
+2,Saudi Arabia,Williams,SAR,16,16,96.062
+2,Saudi Arabia,Kick Sauber,BOT,16,17,96.825
+2,Saudi Arabia,Racing Bulls,RIC,16,18,95.805
+1,Bahrain,Red Bull,VER,19,1,95.283
+1,Bahrain,Red Bull,PER,19,2,96.038
+1,Bahrain,Ferrari,SAI,19,3,96.236
+1,Bahrain,Mercedes,RUS,19,4,97.233
+1,Bahrain,Ferrari,LEC,19,5,96.821
+1,Bahrain,McLaren,NOR,19,6,96.416
+1,Bahrain,McLaren,PIA,19,7,96.577
+1,Bahrain,Mercedes,HAM,19,8,96.694
+1,Bahrain,Aston Martin,ALO,19,9,97.072
+1,Bahrain,Kick Sauber,ZHO,19,10,97.652
+1,Bahrain,Racing Bulls,TSU,19,11,97.396
+1,Bahrain,Aston Martin,STR,19,12,97.554
+1,Bahrain,Haas,MAG,19,13,97.792
+1,Bahrain,Williams,ALB,19,14,97.763
+1,Bahrain,Alpine,OCO,19,15,98.332
+1,Bahrain,Racing Bulls,RIC,19,16,98.35
+1,Bahrain,Haas,HUL,19,17,97.862
+1,Bahrain,Kick Sauber,BOT,19,18,97.662
+1,Bahrain,Alpine,GAS,19,19,97.702
+1,Bahrain,Williams,SAR,19,20,97.742
+2,Saudi Arabia,Red Bull,VER,45,1,93.01
+2,Saudi Arabia,Red Bull,PER,45,2,92.562
+2,Saudi Arabia,Ferrari,LEC,45,3,92.552
+2,Saudi Arabia,McLaren,PIA,45,4,92.31
+2,Saudi Arabia,Aston Martin,ALO,45,5,92.413
+2,Saudi Arabia,Mercedes,RUS,45,6,92.573
+2,Saudi Arabia,Ferrari,BEA,45,7,92.613
+2,Saudi Arabia,McLaren,NOR,45,8,92.205
+2,Saudi Arabia,Mercedes,HAM,45,9,91.943
+2,Saudi Arabia,Haas,HUL,45,10,92.493
+2,Saudi Arabia,Haas,MAG,45,11,92.638
+2,Saudi Arabia,Williams,ALB,45,12,92.564
+2,Saudi Arabia,Alpine,OCO,45,13,93.643
+2,Saudi Arabia,Racing Bulls,TSU,45,14,93.644
+2,Saudi Arabia,Williams,SAR,45,15,94.077
+2,Saudi Arabia,Racing Bulls,RIC,45,16,93.75
+2,Saudi Arabia,Kick Sauber,BOT,45,17,92.903
+2,Saudi Arabia,Kick Sauber,ZHO,45,18,92.857
+1,Bahrain,Red Bull,VER,47,1,94.239
+1,Bahrain,Red Bull,PER,47,2,94.73
+1,Bahrain,Ferrari,SAI,47,3,94.901
+1,Bahrain,Ferrari,LEC,47,4,95.057
+1,Bahrain,Mercedes,RUS,47,5,95.805
+1,Bahrain,McLaren,NOR,47,6,95.485
+1,Bahrain,Mercedes,HAM,47,7,95.226
+1,Bahrain,McLaren,PIA,47,8,95.376
+1,Bahrain,Aston Martin,STR,47,9,96.298
+1,Bahrain,Aston Martin,ALO,47,10,95.225
+1,Bahrain,Kick Sauber,ZHO,47,11,96.561
+1,Bahrain,Haas,MAG,47,12,96.454
+1,Bahrain,Racing Bulls,TSU,47,13,96.396
+1,Bahrain,Racing Bulls,RIC,47,14,95.831
+1,Bahrain,Williams,ALB,47,15,96.026
+1,Bahrain,Alpine,OCO,47,16,96.656
+1,Bahrain,Haas,HUL,47,17,95.226
+1,Bahrain,Alpine,GAS,47,18,95.341
+1,Bahrain,Kick Sauber,BOT,47,19,96.604
+1,Bahrain,Williams,SAR,47,20,96.729
+2,Saudi Arabia,Red Bull,VER,15,1,93.512
+2,Saudi Arabia,McLaren,NOR,15,2,93.944
+2,Saudi Arabia,Red Bull,PER,15,3,93.45
+2,Saudi Arabia,Ferrari,LEC,15,4,94.225
+2,Saudi Arabia,Mercedes,HAM,15,5,95.355
+2,Saudi Arabia,McLaren,PIA,15,6,94.309
+2,Saudi Arabia,Aston Martin,ALO,15,7,94.678
+2,Saudi Arabia,Mercedes,RUS,15,8,94.803
+2,Saudi Arabia,Haas,HUL,15,9,95.495
+2,Saudi Arabia,Ferrari,BEA,15,10,95.118
+2,Saudi Arabia,Kick Sauber,ZHO,15,11,96.053
+2,Saudi Arabia,Racing Bulls,TSU,15,12,95.952
+2,Saudi Arabia,Haas,MAG,15,13,95.746
+2,Saudi Arabia,Alpine,OCO,15,14,95.717
+2,Saudi Arabia,Williams,ALB,15,15,95.533
+2,Saudi Arabia,Kick Sauber,BOT,15,16,95.721
+2,Saudi Arabia,Williams,SAR,15,17,95.601
+2,Saudi Arabia,Racing Bulls,RIC,15,18,95.466
+2,Saudi Arabia,McLaren,NOR,10,1,94.352
+2,Saudi Arabia,Red Bull,VER,10,2,95.024
+2,Saudi Arabia,Mercedes,HAM,10,3,95.257
+2,Saudi Arabia,Red Bull,PER,10,4,96.005
+2,Saudi Arabia,Ferrari,LEC,10,5,96.082
+2,Saudi Arabia,McLaren,PIA,10,6,96.768
+2,Saudi Arabia,Aston Martin,ALO,10,7,97.296
+2,Saudi Arabia,Haas,HUL,10,8,97.796
+2,Saudi Arabia,Mercedes,RUS,10,9,97.943
+2,Saudi Arabia,Kick Sauber,ZHO,10,10,98.417
+2,Saudi Arabia,Ferrari,BEA,10,11,98.427
+2,Saudi Arabia,Racing Bulls,TSU,10,12,99.222
+2,Saudi Arabia,Haas,MAG,10,13,99.463
+2,Saudi Arabia,Alpine,OCO,10,14,99.439
+2,Saudi Arabia,Williams,ALB,10,15,100.318
+2,Saudi Arabia,Kick Sauber,BOT,10,16,100.082
+2,Saudi Arabia,Williams,SAR,10,17,100.141
+2,Saudi Arabia,Racing Bulls,RIC,10,18,99.99
+2,Saudi Arabia,Red Bull,VER,33,1,92.309
+2,Saudi Arabia,Red Bull,PER,33,2,92.564
+2,Saudi Arabia,Ferrari,LEC,33,3,93.064
+2,Saudi Arabia,McLaren,NOR,33,4,93.514
+2,Saudi Arabia,Mercedes,HAM,33,5,93.36
+2,Saudi Arabia,McLaren,PIA,33,6,93.29
+2,Saudi Arabia,Aston Martin,ALO,33,7,93.452
+2,Saudi Arabia,Mercedes,RUS,33,8,93.32
+2,Saudi Arabia,Ferrari,BEA,33,9,93.551
+2,Saudi Arabia,Haas,HUL,33,10,96.601
+2,Saudi Arabia,Kick Sauber,ZHO,33,11,94.679
+2,Saudi Arabia,Haas,MAG,33,12,95.7
+2,Saudi Arabia,Alpine,OCO,33,13,95.753
+2,Saudi Arabia,Williams,ALB,33,14,95.221
+2,Saudi Arabia,Racing Bulls,TSU,33,15,96.118
+2,Saudi Arabia,Williams,SAR,33,16,95.7
+2,Saudi Arabia,Racing Bulls,RIC,33,17,95.753
+2,Saudi Arabia,Kick Sauber,BOT,33,18,95.792
+2,Saudi Arabia,Red Bull,VER,21,1,92.933
+2,Saudi Arabia,Red Bull,PER,21,2,93.132
+2,Saudi Arabia,McLaren,NOR,21,3,93.941
+2,Saudi Arabia,Ferrari,LEC,21,4,93.722
+2,Saudi Arabia,Mercedes,HAM,21,5,94.016
+2,Saudi Arabia,McLaren,PIA,21,6,93.793
+2,Saudi Arabia,Aston Martin,ALO,21,7,94.378
+2,Saudi Arabia,Mercedes,RUS,21,8,94.144
+2,Saudi Arabia,Ferrari,BEA,21,9,94.368
+2,Saudi Arabia,Haas,HUL,21,10,96.369
+2,Saudi Arabia,Kick Sauber,ZHO,21,11,95.399
+2,Saudi Arabia,Haas,MAG,21,12,94.923
+2,Saudi Arabia,Racing Bulls,TSU,21,13,94.71
+2,Saudi Arabia,Alpine,OCO,21,14,94.925
+2,Saudi Arabia,Williams,ALB,21,15,94.82
+2,Saudi Arabia,Williams,SAR,21,16,95.082
+2,Saudi Arabia,Kick Sauber,BOT,21,17,96.801
+2,Saudi Arabia,Racing Bulls,RIC,21,18,96.779
+1,Bahrain,Red Bull,VER,42,1,94.667
+1,Bahrain,Red Bull,PER,42,2,94.525
+1,Bahrain,Ferrari,SAI,42,3,94.861
+1,Bahrain,Mercedes,RUS,42,4,95.136
+1,Bahrain,Ferrari,LEC,42,5,94.982
+1,Bahrain,McLaren,NOR,42,6,95.165
+1,Bahrain,Mercedes,HAM,42,7,94.996
+1,Bahrain,McLaren,PIA,42,8,95.341
+1,Bahrain,Aston Martin,STR,42,9,96.343
+1,Bahrain,Kick Sauber,ZHO,42,10,96.652
+1,Bahrain,Aston Martin,ALO,42,11,116.899
+1,Bahrain,Haas,MAG,42,12,96.31
+1,Bahrain,Racing Bulls,TSU,42,13,95.981
+1,Bahrain,Racing Bulls,RIC,42,14,95.338
+1,Bahrain,Williams,ALB,42,15,95.799
+1,Bahrain,Alpine,OCO,42,16,96.592
+1,Bahrain,Alpine,GAS,42,17,96.631
+1,Bahrain,Haas,HUL,42,18,116.108
+1,Bahrain,Kick Sauber,BOT,42,19,96.374
+1,Bahrain,Williams,SAR,42,20,94.735
+1,Bahrain,Red Bull,VER,39,1,92.608
+1,Bahrain,Red Bull,PER,39,2,94.607
+1,Bahrain,Ferrari,SAI,39,3,94.709
+1,Bahrain,Mercedes,RUS,39,4,95.204
+1,Bahrain,Ferrari,LEC,39,5,95.087
+1,Bahrain,McLaren,NOR,39,6,94.88
+1,Bahrain,Mercedes,HAM,39,7,94.722
+1,Bahrain,Aston Martin,ALO,39,8,97.946
+1,Bahrain,McLaren,PIA,39,9,94.983
+1,Bahrain,Aston Martin,STR,39,10,96.353
+1,Bahrain,Kick Sauber,ZHO,39,11,96.637
+1,Bahrain,Haas,MAG,39,12,95.876
+1,Bahrain,Racing Bulls,TSU,39,13,96.125
+1,Bahrain,Haas,HUL,39,14,97.476
+1,Bahrain,Racing Bulls,RIC,39,15,95.475
+1,Bahrain,Williams,ALB,39,16,95.856
+1,Bahrain,Alpine,OCO,39,17,96.552
+1,Bahrain,Alpine,GAS,39,18,96.537
+1,Bahrain,Kick Sauber,BOT,39,19,97.189
+1,Bahrain,Williams,SAR,39,20,97.016
+2,Saudi Arabia,Red Bull,VER,31,1,92.454
+2,Saudi Arabia,Red Bull,PER,31,2,92.825
+2,Saudi Arabia,Ferrari,LEC,31,3,92.606
+2,Saudi Arabia,McLaren,NOR,31,4,93.562
+2,Saudi Arabia,Mercedes,HAM,31,5,93.384
+2,Saudi Arabia,McLaren,PIA,31,6,93.352
+2,Saudi Arabia,Aston Martin,ALO,31,7,93.67
+2,Saudi Arabia,Mercedes,RUS,31,8,93.565
+2,Saudi Arabia,Ferrari,BEA,31,9,93.446
+2,Saudi Arabia,Haas,HUL,31,10,94.182
+2,Saudi Arabia,Kick Sauber,ZHO,31,11,94.8
+2,Saudi Arabia,Haas,MAG,31,12,96.061
+2,Saudi Arabia,Alpine,OCO,31,13,95.912
+2,Saudi Arabia,Racing Bulls,TSU,31,14,95.939
+2,Saudi Arabia,Williams,ALB,31,15,95.84
+2,Saudi Arabia,Williams,SAR,31,16,95.879
+2,Saudi Arabia,Racing Bulls,RIC,31,17,95.433
+2,Saudi Arabia,Kick Sauber,BOT,31,18,95.415
+1,Bahrain,Red Bull,VER,7,1,97.038
+1,Bahrain,Mercedes,RUS,7,2,98.082
+1,Bahrain,Red Bull,PER,7,3,97.821
+1,Bahrain,Ferrari,LEC,7,4,98.957
+1,Bahrain,Ferrari,SAI,7,5,98.26
+1,Bahrain,McLaren,NOR,7,6,97.86
+1,Bahrain,McLaren,PIA,7,7,97.984
+1,Bahrain,Aston Martin,ALO,7,8,98.008
+1,Bahrain,Mercedes,HAM,7,9,97.839
+1,Bahrain,Racing Bulls,TSU,7,10,98.364
+1,Bahrain,Williams,ALB,7,11,98.971
+1,Bahrain,Haas,MAG,7,12,100.058
+1,Bahrain,Kick Sauber,ZHO,7,13,99.517
+1,Bahrain,Williams,SAR,7,14,99.464
+1,Bahrain,Racing Bulls,RIC,7,15,99.193
+1,Bahrain,Alpine,OCO,7,16,99.152
+1,Bahrain,Alpine,GAS,7,17,99.078
+1,Bahrain,Aston Martin,STR,7,18,98.769
+1,Bahrain,Kick Sauber,BOT,7,19,98.654
+1,Bahrain,Haas,HUL,7,20,97.682
+2,Saudi Arabia,Red Bull,VER,48,1,92.563
+2,Saudi Arabia,Red Bull,PER,48,2,92.514
+2,Saudi Arabia,Ferrari,LEC,48,3,93.364
+2,Saudi Arabia,McLaren,PIA,48,4,92.657
+2,Saudi Arabia,Aston Martin,ALO,48,5,92.629
+2,Saudi Arabia,Mercedes,RUS,48,6,92.88
+2,Saudi Arabia,Ferrari,BEA,48,7,92.262
+2,Saudi Arabia,McLaren,NOR,48,8,92.369
+2,Saudi Arabia,Mercedes,HAM,48,9,92.381
+2,Saudi Arabia,Haas,HUL,48,10,92.52
+2,Saudi Arabia,Haas,MAG,48,11,93.474
+2,Saudi Arabia,Williams,ALB,48,12,92.711
+2,Saudi Arabia,Alpine,OCO,48,13,93.481
+2,Saudi Arabia,Racing Bulls,TSU,48,14,93.84
+2,Saudi Arabia,Williams,SAR,48,15,93.383
+2,Saudi Arabia,Racing Bulls,RIC,48,16,103.781
+2,Saudi Arabia,Kick Sauber,BOT,48,17,92.947
+2,Saudi Arabia,Kick Sauber,ZHO,48,18,92.761
+1,Bahrain,Red Bull,VER,51,1,94.34
+1,Bahrain,Red Bull,PER,51,2,94.94
+1,Bahrain,Ferrari,SAI,51,3,95.282
+1,Bahrain,Ferrari,LEC,51,4,95.418
+1,Bahrain,Mercedes,RUS,51,5,95.852
+1,Bahrain,McLaren,NOR,51,6,96.038
+1,Bahrain,Mercedes,HAM,51,7,95.532
+1,Bahrain,McLaren,PIA,51,8,95.8
+1,Bahrain,Aston Martin,ALO,51,9,94.916
+1,Bahrain,Aston Martin,STR,51,10,96.763
+1,Bahrain,Kick Sauber,ZHO,51,11,97.042
+1,Bahrain,Haas,MAG,51,12,96.929
+1,Bahrain,Racing Bulls,TSU,51,13,97.067
+1,Bahrain,Racing Bulls,RIC,51,14,97.103
+1,Bahrain,Williams,ALB,51,15,97.493
+1,Bahrain,Haas,HUL,51,16,95.529
+1,Bahrain,Alpine,OCO,51,17,97.091
+1,Bahrain,Alpine,GAS,51,18,95.334
+1,Bahrain,Kick Sauber,BOT,51,19,96.819
+1,Bahrain,Williams,SAR,51,20,95.972
+2,Saudi Arabia,Red Bull,VER,1,1,95.505
+2,Saudi Arabia,Ferrari,LEC,1,2,96.681
+2,Saudi Arabia,Red Bull,PER,1,3,97.222
+2,Saudi Arabia,Aston Martin,ALO,1,4,98.507
+2,Saudi Arabia,McLaren,PIA,1,5,98.705
+2,Saudi Arabia,McLaren,NOR,1,6,99.926
+2,Saudi Arabia,Mercedes,RUS,1,7,100.459
+2,Saudi Arabia,Mercedes,HAM,1,8,100.9
+2,Saudi Arabia,Aston Martin,STR,1,9,102.429
+2,Saudi Arabia,Racing Bulls,TSU,1,10,102.531
+2,Saudi Arabia,Ferrari,BEA,1,11,102.621
+2,Saudi Arabia,Haas,MAG,1,12,103.159
+2,Saudi Arabia,Williams,ALB,1,13,103.626
+2,Saudi Arabia,Haas,HUL,1,14,103.748
+2,Saudi Arabia,Racing Bulls,RIC,1,15,104.329
+2,Saudi Arabia,Alpine,OCO,1,16,104.388
+2,Saudi Arabia,Kick Sauber,BOT,1,17,104.857
+2,Saudi Arabia,Williams,SAR,1,18,105.46
+2,Saudi Arabia,Kick Sauber,ZHO,1,19,105.821
+2,Saudi Arabia,Alpine,GAS,1,20,121.453
+1,Bahrain,Red Bull,VER,2,1,96.296
+1,Bahrain,Ferrari,LEC,2,2,96.862
+1,Bahrain,Mercedes,RUS,2,3,96.635
+1,Bahrain,Red Bull,PER,2,4,96.541
+1,Bahrain,Ferrari,SAI,2,5,97.236
+1,Bahrain,Aston Martin,ALO,2,6,98.02
+1,Bahrain,McLaren,NOR,2,7,98.01
+1,Bahrain,McLaren,PIA,2,8,98.382
+1,Bahrain,Mercedes,HAM,2,9,98.273
+1,Bahrain,Racing Bulls,TSU,2,10,98.689
+1,Bahrain,Williams,ALB,2,11,98.826
+1,Bahrain,Haas,MAG,2,12,98.911
+1,Bahrain,Kick Sauber,ZHO,2,13,98.92
+1,Bahrain,Williams,SAR,2,14,98.481
+1,Bahrain,Racing Bulls,RIC,2,15,99.509
+1,Bahrain,Alpine,OCO,2,16,99.094
+1,Bahrain,Alpine,GAS,2,17,99.059
+1,Bahrain,Kick Sauber,BOT,2,18,98.259
+1,Bahrain,Aston Martin,STR,2,19,97.987
+1,Bahrain,Haas,HUL,2,20,130.911
+2,Saudi Arabia,Red Bull,VER,50,1,91.773
+2,Saudi Arabia,Red Bull,PER,50,2,92.831
+2,Saudi Arabia,Ferrari,LEC,50,3,91.632
+2,Saudi Arabia,McLaren,PIA,50,4,92.769
+2,Saudi Arabia,Aston Martin,ALO,50,5,92.779
+2,Saudi Arabia,Mercedes,RUS,50,6,95.145
+2,Saudi Arabia,Ferrari,BEA,50,7,92.186
+2,Saudi Arabia,McLaren,NOR,50,8,92.841
+2,Saudi Arabia,Mercedes,HAM,50,9,93.314
+2,Saudi Arabia,Haas,HUL,50,10,93.081
+2,Saudi Arabia,Haas,MAG,50,11,94.603
+2,Saudi Arabia,Williams,ALB,50,12,92.307
+1,Bahrain,Red Bull,VER,53,1,95.6
+1,Bahrain,Red Bull,PER,53,2,95.842
+1,Bahrain,Ferrari,SAI,53,3,95.211
+1,Bahrain,Ferrari,LEC,53,4,95.48
+1,Bahrain,Mercedes,RUS,53,5,95.979
+1,Bahrain,McLaren,NOR,53,6,95.782
+1,Bahrain,Mercedes,HAM,53,7,95.55
+1,Bahrain,McLaren,PIA,53,8,95.739
+1,Bahrain,Aston Martin,ALO,53,9,95.249
+1,Bahrain,Aston Martin,STR,53,10,96.64
+1,Bahrain,Kick Sauber,ZHO,53,11,97.141
+1,Bahrain,Haas,MAG,53,12,97.958
+1,Bahrain,Racing Bulls,RIC,53,13,96.745
+1,Bahrain,Racing Bulls,TSU,53,14,96.838
+1,Bahrain,Williams,ALB,53,15,96.308
+1,Bahrain,Haas,HUL,53,16,95.994
+1,Bahrain,Alpine,OCO,53,17,97.145
+1,Bahrain,Alpine,GAS,53,18,95.389
+1,Bahrain,Kick Sauber,BOT,53,19,99.035
+1,Bahrain,Williams,SAR,53,20,96.088
+2,Saudi Arabia,Red Bull,VER,47,1,92.784
+2,Saudi Arabia,Red Bull,PER,47,2,92.832
+2,Saudi Arabia,Ferrari,LEC,47,3,92.029
+2,Saudi Arabia,McLaren,PIA,47,4,92.574
+2,Saudi Arabia,Aston Martin,ALO,47,5,92.579
+2,Saudi Arabia,Mercedes,RUS,47,6,92.494
+2,Saudi Arabia,Ferrari,BEA,47,7,92.583
+2,Saudi Arabia,McLaren,NOR,47,8,92.153
+2,Saudi Arabia,Mercedes,HAM,47,9,92.106
+2,Saudi Arabia,Haas,HUL,47,10,92.379
+2,Saudi Arabia,Haas,MAG,47,11,92.338
+2,Saudi Arabia,Williams,ALB,47,12,93.858
+2,Saudi Arabia,Alpine,OCO,47,13,95.294
+2,Saudi Arabia,Racing Bulls,TSU,47,14,93.525
+2,Saudi Arabia,Williams,SAR,47,15,93.718
+2,Saudi Arabia,Racing Bulls,RIC,47,16,93.323
+2,Saudi Arabia,Kick Sauber,BOT,47,17,92.852
+2,Saudi Arabia,Kick Sauber,ZHO,47,18,93.207
+2,Saudi Arabia,Red Bull,VER,40,1,92.555
+2,Saudi Arabia,Red Bull,PER,40,2,92.72
+2,Saudi Arabia,Ferrari,LEC,40,3,92.282
+2,Saudi Arabia,McLaren,PIA,40,4,92.603
+2,Saudi Arabia,Aston Martin,ALO,40,5,92.427
+2,Saudi Arabia,Mercedes,RUS,40,6,92.487
+2,Saudi Arabia,Ferrari,BEA,40,7,92.607
+2,Saudi Arabia,McLaren,NOR,40,8,91.944
+2,Saudi Arabia,Mercedes,HAM,40,9,92.37
+2,Saudi Arabia,Kick Sauber,ZHO,40,10,93.736
+2,Saudi Arabia,Haas,HUL,40,11,92.932
+2,Saudi Arabia,Haas,MAG,40,12,92.93
+2,Saudi Arabia,Alpine,OCO,40,13,93.716
+2,Saudi Arabia,Williams,ALB,40,14,93.424
+2,Saudi Arabia,Racing Bulls,TSU,40,15,93.601
+2,Saudi Arabia,Williams,SAR,40,16,93.547
+2,Saudi Arabia,Racing Bulls,RIC,40,17,93.494
+2,Saudi Arabia,Kick Sauber,BOT,40,18,93.175
+2,Saudi Arabia,McLaren,NOR,8,1,174.005
+2,Saudi Arabia,Red Bull,VER,8,2,189.083
+2,Saudi Arabia,Mercedes,HAM,8,3,173.631
+2,Saudi Arabia,Red Bull,PER,8,4,187.369
+2,Saudi Arabia,Ferrari,LEC,8,5,186.406
+2,Saudi Arabia,McLaren,PIA,8,6,184.373
+2,Saudi Arabia,Aston Martin,ALO,8,7,185.292
+2,Saudi Arabia,Haas,HUL,8,8,170.478
+2,Saudi Arabia,Mercedes,RUS,8,9,183.576
+2,Saudi Arabia,Kick Sauber,ZHO,8,10,166.499
+2,Saudi Arabia,Racing Bulls,TSU,8,11,179.562
+2,Saudi Arabia,Ferrari,BEA,8,12,179.588
+2,Saudi Arabia,Haas,MAG,8,13,180.027
+2,Saudi Arabia,Williams,ALB,8,14,179.983
+2,Saudi Arabia,Alpine,OCO,8,15,176.368
+2,Saudi Arabia,Kick Sauber,BOT,8,16,177.332
+2,Saudi Arabia,Williams,SAR,8,17,177.288
+2,Saudi Arabia,Racing Bulls,RIC,8,18,193.712
+2,Saudi Arabia,Red Bull,VER,2,1,94.205
+2,Saudi Arabia,Ferrari,LEC,2,2,94.179
+2,Saudi Arabia,Red Bull,PER,2,3,94.515
+2,Saudi Arabia,McLaren,PIA,2,4,95.082
+2,Saudi Arabia,Aston Martin,ALO,2,5,95.724
+2,Saudi Arabia,McLaren,NOR,2,6,95.246
+2,Saudi Arabia,Mercedes,RUS,2,7,95.146
+2,Saudi Arabia,Mercedes,HAM,2,8,95.541
+2,Saudi Arabia,Aston Martin,STR,2,9,96.094
+2,Saudi Arabia,Racing Bulls,TSU,2,10,96.873
+2,Saudi Arabia,Ferrari,BEA,2,11,97.415
+2,Saudi Arabia,Haas,MAG,2,12,97.522
+2,Saudi Arabia,Williams,ALB,2,13,97.553
+2,Saudi Arabia,Haas,HUL,2,14,97.836
+2,Saudi Arabia,Racing Bulls,RIC,2,15,98.035
+2,Saudi Arabia,Alpine,OCO,2,16,98.482
+2,Saudi Arabia,Kick Sauber,BOT,2,17,98.474
+2,Saudi Arabia,Williams,SAR,2,18,98.418
+2,Saudi Arabia,Kick Sauber,ZHO,2,19,98.539
+2,Saudi Arabia,Red Bull,VER,43,1,93.123
+2,Saudi Arabia,Red Bull,PER,43,2,92.392
+2,Saudi Arabia,Ferrari,LEC,43,3,92.556
+2,Saudi Arabia,McLaren,PIA,43,4,92.521
+2,Saudi Arabia,Aston Martin,ALO,43,5,92.387
+2,Saudi Arabia,Mercedes,RUS,43,6,92.499
+2,Saudi Arabia,Ferrari,BEA,43,7,92.672
+2,Saudi Arabia,McLaren,NOR,43,8,92.399
+2,Saudi Arabia,Mercedes,HAM,43,9,92.041
+2,Saudi Arabia,Haas,HUL,43,10,92.752
+2,Saudi Arabia,Haas,MAG,43,11,92.902
+2,Saudi Arabia,Williams,ALB,43,12,92.994
+2,Saudi Arabia,Alpine,OCO,43,13,94.59
+2,Saudi Arabia,Racing Bulls,TSU,43,14,93.767
+2,Saudi Arabia,Williams,SAR,43,15,93.766
+2,Saudi Arabia,Racing Bulls,RIC,43,16,93.705
+2,Saudi Arabia,Kick Sauber,BOT,43,17,93.068
+2,Saudi Arabia,Kick Sauber,ZHO,43,18,93.047
+2,Saudi Arabia,Red Bull,VER,4,1,93.754
+2,Saudi Arabia,Red Bull,PER,4,2,94.046
+2,Saudi Arabia,Ferrari,LEC,4,3,95.213
+2,Saudi Arabia,McLaren,PIA,4,4,94.589
+2,Saudi Arabia,Aston Martin,ALO,4,5,94.746
+2,Saudi Arabia,McLaren,NOR,4,6,94.897
+2,Saudi Arabia,Mercedes,RUS,4,7,95.033
+2,Saudi Arabia,Mercedes,HAM,4,8,95.672
+2,Saudi Arabia,Aston Martin,STR,4,9,95.735
+2,Saudi Arabia,Racing Bulls,TSU,4,10,95.378
+2,Saudi Arabia,Ferrari,BEA,4,11,95.645
+2,Saudi Arabia,Haas,MAG,4,12,95.367
+2,Saudi Arabia,Williams,ALB,4,13,95.553
+2,Saudi Arabia,Haas,HUL,4,14,96.231
+2,Saudi Arabia,Racing Bulls,RIC,4,15,96.271
+2,Saudi Arabia,Alpine,OCO,4,16,96.261
+2,Saudi Arabia,Kick Sauber,BOT,4,17,96.417
+2,Saudi Arabia,Williams,SAR,4,18,96.544
+2,Saudi Arabia,Kick Sauber,ZHO,4,19,96.526
+1,Bahrain,Red Bull,VER,54,1,95.334
+1,Bahrain,Red Bull,PER,54,2,95.459
+1,Bahrain,Ferrari,SAI,54,3,95.309
+1,Bahrain,Ferrari,LEC,54,4,95.265
+1,Bahrain,Mercedes,RUS,54,5,96.013
+1,Bahrain,McLaren,NOR,54,6,95.934
+1,Bahrain,Mercedes,HAM,54,7,95.974
+1,Bahrain,McLaren,PIA,54,8,96.107
+1,Bahrain,Aston Martin,ALO,54,9,95.745
+1,Bahrain,Aston Martin,STR,54,10,96.693
+1,Bahrain,Kick Sauber,ZHO,54,11,98.389
+1,Bahrain,Haas,MAG,54,12,96.89
+1,Bahrain,Racing Bulls,RIC,54,13,96.661
+1,Bahrain,Racing Bulls,TSU,54,14,96.672
+1,Bahrain,Williams,ALB,54,15,96.334
+1,Bahrain,Haas,HUL,54,16,95.786
+1,Bahrain,Alpine,OCO,54,17,98.707
+1,Bahrain,Alpine,GAS,54,18,95.853
+1,Bahrain,Kick Sauber,BOT,54,19,97.095
+1,Bahrain,Williams,SAR,54,20,99.614
+1,Bahrain,Red Bull,VER,28,1,95.477
+1,Bahrain,Red Bull,PER,28,2,96.226
+1,Bahrain,Ferrari,SAI,28,3,96.534
+1,Bahrain,Mercedes,RUS,28,4,96.911
+1,Bahrain,Ferrari,LEC,28,5,96.907
+1,Bahrain,McLaren,NOR,28,6,97.018
+1,Bahrain,McLaren,PIA,28,7,96.905
+1,Bahrain,Mercedes,HAM,28,8,96.692
+1,Bahrain,Aston Martin,ALO,28,9,97.256
+1,Bahrain,Racing Bulls,TSU,28,10,98.164
+1,Bahrain,Kick Sauber,ZHO,28,11,100.675
+1,Bahrain,Haas,MAG,28,12,97.936
+1,Bahrain,Williams,ALB,28,13,98.048
+1,Bahrain,Racing Bulls,RIC,28,14,98.045
+1,Bahrain,Alpine,OCO,28,15,98.372
+1,Bahrain,Kick Sauber,BOT,28,16,98.595
+1,Bahrain,Alpine,GAS,28,17,98.615
+1,Bahrain,Aston Martin,STR,28,18,116.64
+1,Bahrain,Haas,HUL,28,19,97.254
+1,Bahrain,Williams,SAR,28,20,100.535
+2,Saudi Arabia,Red Bull,VER,46,1,92.889
+2,Saudi Arabia,Red Bull,PER,46,2,92.481
+2,Saudi Arabia,Ferrari,LEC,46,3,92.052
+2,Saudi Arabia,McLaren,PIA,46,4,92.557
+2,Saudi Arabia,Aston Martin,ALO,46,5,92.641
+2,Saudi Arabia,Mercedes,RUS,46,6,92.64
+2,Saudi Arabia,Ferrari,BEA,46,7,92.749
+2,Saudi Arabia,McLaren,NOR,46,8,92.502
+2,Saudi Arabia,Mercedes,HAM,46,9,93.036
+2,Saudi Arabia,Haas,HUL,46,10,92.43
+2,Saudi Arabia,Haas,MAG,46,11,92.812
+2,Saudi Arabia,Williams,ALB,46,12,92.54
+2,Saudi Arabia,Alpine,OCO,46,13,93.757
+2,Saudi Arabia,Racing Bulls,TSU,46,14,94.961
+2,Saudi Arabia,Williams,SAR,46,15,94.141
+2,Saudi Arabia,Racing Bulls,RIC,46,16,93.4
+2,Saudi Arabia,Kick Sauber,BOT,46,17,92.948
+2,Saudi Arabia,Kick Sauber,ZHO,46,18,92.874
+2,Saudi Arabia,Red Bull,VER,35,1,92.536
+2,Saudi Arabia,Red Bull,PER,35,2,92.418
+2,Saudi Arabia,Ferrari,LEC,35,3,93.013
+2,Saudi Arabia,McLaren,NOR,35,4,93.571
+2,Saudi Arabia,Mercedes,HAM,35,5,93.742
+2,Saudi Arabia,McLaren,PIA,35,6,94.118
+2,Saudi Arabia,Aston Martin,ALO,35,7,93.395
+2,Saudi Arabia,Mercedes,RUS,35,8,93.081
+2,Saudi Arabia,Ferrari,BEA,35,9,93.266
+2,Saudi Arabia,Kick Sauber,ZHO,35,10,94.405
+2,Saudi Arabia,Haas,HUL,35,11,93.106
+2,Saudi Arabia,Haas,MAG,35,12,93.923
+2,Saudi Arabia,Alpine,OCO,35,13,94.061
+2,Saudi Arabia,Williams,ALB,35,14,95.05
+2,Saudi Arabia,Racing Bulls,TSU,35,15,94.781
+2,Saudi Arabia,Williams,SAR,35,16,94.716
+2,Saudi Arabia,Racing Bulls,RIC,35,17,94.658
+2,Saudi Arabia,Kick Sauber,BOT,35,18,97.864
+2,Saudi Arabia,Red Bull,VER,30,1,92.601
+2,Saudi Arabia,Red Bull,PER,30,2,92.782
+2,Saudi Arabia,Ferrari,LEC,30,3,92.863
+2,Saudi Arabia,McLaren,NOR,30,4,93.65
+2,Saudi Arabia,Mercedes,HAM,30,5,93.354
+2,Saudi Arabia,McLaren,PIA,30,6,93.376
+2,Saudi Arabia,Aston Martin,ALO,30,7,93.493
+2,Saudi Arabia,Mercedes,RUS,30,8,93.631
+2,Saudi Arabia,Ferrari,BEA,30,9,93.771
+2,Saudi Arabia,Haas,HUL,30,10,94.307
+2,Saudi Arabia,Kick Sauber,ZHO,30,11,94.885
+2,Saudi Arabia,Haas,MAG,30,12,95.843
+2,Saudi Arabia,Alpine,OCO,30,13,96.117
+2,Saudi Arabia,Racing Bulls,TSU,30,14,96.041
+2,Saudi Arabia,Williams,ALB,30,15,96.135
+2,Saudi Arabia,Williams,SAR,30,16,95.75
+2,Saudi Arabia,Racing Bulls,RIC,30,17,95.608
+2,Saudi Arabia,Kick Sauber,BOT,30,18,95.313
+2,Saudi Arabia,Red Bull,VER,32,1,92.545
+2,Saudi Arabia,Red Bull,PER,32,2,92.506
+2,Saudi Arabia,Ferrari,LEC,32,3,92.959
+2,Saudi Arabia,McLaren,NOR,32,4,93.309
+2,Saudi Arabia,Mercedes,HAM,32,5,93.406
+2,Saudi Arabia,McLaren,PIA,32,6,93.261
+2,Saudi Arabia,Aston Martin,ALO,32,7,93.398
+2,Saudi Arabia,Mercedes,RUS,32,8,93.39
+2,Saudi Arabia,Ferrari,BEA,32,9,93.086
+2,Saudi Arabia,Haas,HUL,32,10,93.999
+2,Saudi Arabia,Kick Sauber,ZHO,32,11,94.631
+2,Saudi Arabia,Haas,MAG,32,12,95.783
+2,Saudi Arabia,Alpine,OCO,32,13,95.709
+2,Saudi Arabia,Racing Bulls,TSU,32,14,95.694
+2,Saudi Arabia,Williams,ALB,32,15,95.621
+2,Saudi Arabia,Williams,SAR,32,16,95.897
+2,Saudi Arabia,Racing Bulls,RIC,32,17,95.804
+2,Saudi Arabia,Kick Sauber,BOT,32,18,95.173
+2,Saudi Arabia,Red Bull,VER,7,1,122.919
+2,Saudi Arabia,Red Bull,PER,7,2,124.615
+2,Saudi Arabia,Ferrari,LEC,7,3,124.831
+2,Saudi Arabia,McLaren,PIA,7,4,126.72
+2,Saudi Arabia,Aston Martin,ALO,7,5,126.883
+2,Saudi Arabia,McLaren,NOR,7,6,127.025
+2,Saudi Arabia,Mercedes,RUS,7,7,128.836
+2,Saudi Arabia,Mercedes,HAM,7,8,128.128
+2,Saudi Arabia,Racing Bulls,TSU,7,9,130.914
+2,Saudi Arabia,Ferrari,BEA,7,10,131.168
+2,Saudi Arabia,Haas,MAG,7,11,131.564
+2,Saudi Arabia,Williams,ALB,7,12,131.613
+2,Saudi Arabia,Haas,HUL,7,13,129.724
+2,Saudi Arabia,Racing Bulls,RIC,7,14,132.474
+2,Saudi Arabia,Alpine,OCO,7,15,132.702
+2,Saudi Arabia,Kick Sauber,BOT,7,16,133.58
+2,Saudi Arabia,Williams,SAR,7,17,134.35
+2,Saudi Arabia,Kick Sauber,ZHO,7,18,132.76
+2,Saudi Arabia,Red Bull,VER,22,1,92.98
+2,Saudi Arabia,Red Bull,PER,22,2,93.064
+2,Saudi Arabia,McLaren,NOR,22,3,93.698
+2,Saudi Arabia,Ferrari,LEC,22,4,93.702
+2,Saudi Arabia,Mercedes,HAM,22,5,94.419
+2,Saudi Arabia,McLaren,PIA,22,6,94.76
+2,Saudi Arabia,Aston Martin,ALO,22,7,94.173
+2,Saudi Arabia,Mercedes,RUS,22,8,94.264
+2,Saudi Arabia,Ferrari,BEA,22,9,94.559
+2,Saudi Arabia,Haas,HUL,22,10,95.358
+2,Saudi Arabia,Kick Sauber,ZHO,22,11,95.158
+2,Saudi Arabia,Haas,MAG,22,12,95.804
+2,Saudi Arabia,Racing Bulls,TSU,22,13,95.698
+2,Saudi Arabia,Alpine,OCO,22,14,95.218
+2,Saudi Arabia,Williams,ALB,22,15,96.016
+2,Saudi Arabia,Williams,SAR,22,16,95.601
+2,Saudi Arabia,Kick Sauber,BOT,22,17,96.425
+2,Saudi Arabia,Racing Bulls,RIC,22,18,96.433
+1,Bahrain,Red Bull,VER,50,1,94.783
+1,Bahrain,Red Bull,PER,50,2,95.082
+1,Bahrain,Ferrari,SAI,50,3,95.142
+1,Bahrain,Ferrari,LEC,50,4,95.383
+1,Bahrain,Mercedes,RUS,50,5,96.181
+1,Bahrain,McLaren,NOR,50,6,95.657
+1,Bahrain,Mercedes,HAM,50,7,95.612
+1,Bahrain,McLaren,PIA,50,8,95.984
+1,Bahrain,Aston Martin,ALO,50,9,94.677
+1,Bahrain,Aston Martin,STR,50,10,96.541
+1,Bahrain,Kick Sauber,ZHO,50,11,96.792
+1,Bahrain,Haas,MAG,50,12,97.035
+1,Bahrain,Racing Bulls,TSU,50,13,96.827
+1,Bahrain,Racing Bulls,RIC,50,14,96.609
+1,Bahrain,Williams,ALB,50,15,97.616
+1,Bahrain,Haas,HUL,50,16,95.167
+1,Bahrain,Alpine,OCO,50,17,97.784
+1,Bahrain,Alpine,GAS,50,18,95.228
+1,Bahrain,Kick Sauber,BOT,50,19,96.91
+1,Bahrain,Williams,SAR,50,20,95.66
+2,Saudi Arabia,Red Bull,VER,34,1,92.558
+2,Saudi Arabia,Red Bull,PER,34,2,92.631
+2,Saudi Arabia,Ferrari,LEC,34,3,93.097
+2,Saudi Arabia,McLaren,NOR,34,4,93.399
+2,Saudi Arabia,Mercedes,HAM,34,5,93.693
+2,Saudi Arabia,McLaren,PIA,34,6,93.405
+2,Saudi Arabia,Aston Martin,ALO,34,7,93.261
+2,Saudi Arabia,Mercedes,RUS,34,8,93.309
+2,Saudi Arabia,Ferrari,BEA,34,9,93.256
+2,Saudi Arabia,Kick Sauber,ZHO,34,10,94.65
+2,Saudi Arabia,Haas,HUL,34,11,111.863
+2,Saudi Arabia,Haas,MAG,34,12,94.174
+2,Saudi Arabia,Alpine,OCO,34,13,94.087
+2,Saudi Arabia,Williams,ALB,34,14,94.524
+2,Saudi Arabia,Racing Bulls,TSU,34,15,94.768
+2,Saudi Arabia,Williams,SAR,34,16,94.843
+2,Saudi Arabia,Racing Bulls,RIC,34,17,95.25
+2,Saudi Arabia,Kick Sauber,BOT,34,18,95.721
+2,Saudi Arabia,Red Bull,VER,3,1,94.043
+2,Saudi Arabia,Ferrari,LEC,3,2,94.549
+2,Saudi Arabia,Red Bull,PER,3,3,94.055
+2,Saudi Arabia,McLaren,PIA,3,4,94.379
+2,Saudi Arabia,Aston Martin,ALO,3,5,94.439
+2,Saudi Arabia,McLaren,NOR,3,6,95.079
+2,Saudi Arabia,Mercedes,RUS,3,7,95.219
+2,Saudi Arabia,Mercedes,HAM,3,8,95.184
+2,Saudi Arabia,Aston Martin,STR,3,9,95.79
+2,Saudi Arabia,Racing Bulls,TSU,3,10,95.703
+2,Saudi Arabia,Ferrari,BEA,3,11,95.515
+2,Saudi Arabia,Haas,MAG,3,12,95.85
+2,Saudi Arabia,Williams,ALB,3,13,95.986
+2,Saudi Arabia,Haas,HUL,3,14,96.382
+2,Saudi Arabia,Racing Bulls,RIC,3,15,96.766
+2,Saudi Arabia,Alpine,OCO,3,16,96.92
+2,Saudi Arabia,Kick Sauber,BOT,3,17,96.966
+2,Saudi Arabia,Williams,SAR,3,18,96.871
+2,Saudi Arabia,Kick Sauber,ZHO,3,19,97.232
+2,Saudi Arabia,Red Bull,VER,38,1,92.296
+2,Saudi Arabia,Red Bull,PER,38,2,92.711
+2,Saudi Arabia,Ferrari,LEC,38,3,92.632
+2,Saudi Arabia,McLaren,PIA,38,4,93.087
+2,Saudi Arabia,Aston Martin,ALO,38,5,92.937
+2,Saudi Arabia,Mercedes,RUS,38,6,93.018
+2,Saudi Arabia,Ferrari,BEA,38,7,92.708
+2,Saudi Arabia,McLaren,NOR,38,8,110.849
+2,Saudi Arabia,Mercedes,HAM,38,9,91.746
+2,Saudi Arabia,Kick Sauber,ZHO,38,10,93.914
+2,Saudi Arabia,Haas,HUL,38,11,93.153
+2,Saudi Arabia,Haas,MAG,38,12,93.429
+2,Saudi Arabia,Alpine,OCO,38,13,93.845
+2,Saudi Arabia,Williams,ALB,38,14,93.673
+2,Saudi Arabia,Racing Bulls,TSU,38,15,93.961
+2,Saudi Arabia,Williams,SAR,38,16,93.763
+2,Saudi Arabia,Racing Bulls,RIC,38,17,93.821
+2,Saudi Arabia,Kick Sauber,BOT,38,18,92.927
+2,Saudi Arabia,Red Bull,VER,49,1,92.163
+2,Saudi Arabia,Red Bull,PER,49,2,93.029
+2,Saudi Arabia,Ferrari,LEC,49,3,91.931
+2,Saudi Arabia,McLaren,PIA,49,4,92.588
+2,Saudi Arabia,Aston Martin,ALO,49,5,92.389
+2,Saudi Arabia,Mercedes,RUS,49,6,92.68
+2,Saudi Arabia,Ferrari,BEA,49,7,92.484
+2,Saudi Arabia,McLaren,NOR,49,8,92.388
+2,Saudi Arabia,Mercedes,HAM,49,9,92.615
+2,Saudi Arabia,Haas,HUL,49,10,92.366
+2,Saudi Arabia,Haas,MAG,49,11,93.437
+2,Saudi Arabia,Williams,ALB,49,12,92.56
+2,Saudi Arabia,Alpine,OCO,49,13,93.813
+2,Saudi Arabia,Racing Bulls,TSU,49,14,93.56
+2,Saudi Arabia,Williams,SAR,49,15,93.026
+2,Saudi Arabia,Racing Bulls,RIC,49,16,95.536
+2,Saudi Arabia,Kick Sauber,BOT,49,17,92.706
+2,Saudi Arabia,Kick Sauber,ZHO,49,18,92.208
 1,Bahrain,Red Bull,VER,55,1,95.184
 1,Bahrain,Red Bull,PER,55,2,95.611
 1,Bahrain,Ferrari,SAI,55,3,95.407
@@ -1128,3 +1825,206 @@ round,grand_prix,constructor,driver,lap,position,time
 1,Bahrain,Alpine,GAS,55,18,95.908
 1,Bahrain,Kick Sauber,BOT,55,19,97.205
 1,Bahrain,Williams,SAR,55,20,96.209
+2,Saudi Arabia,McLaren,NOR,12,1,93.877
+2,Saudi Arabia,Red Bull,VER,12,2,93.321
+2,Saudi Arabia,Mercedes,HAM,12,3,94.018
+2,Saudi Arabia,Red Bull,PER,12,4,93.93
+2,Saudi Arabia,Ferrari,LEC,12,5,93.599
+2,Saudi Arabia,McLaren,PIA,12,6,93.946
+2,Saudi Arabia,Aston Martin,ALO,12,7,94.735
+2,Saudi Arabia,Haas,HUL,12,8,94.605
+2,Saudi Arabia,Mercedes,RUS,12,9,94.488
+2,Saudi Arabia,Kick Sauber,ZHO,12,10,94.998
+2,Saudi Arabia,Ferrari,BEA,12,11,94.907
+2,Saudi Arabia,Racing Bulls,TSU,12,12,95.263
+2,Saudi Arabia,Haas,MAG,12,13,95.229
+2,Saudi Arabia,Alpine,OCO,12,14,95.4
+2,Saudi Arabia,Williams,ALB,12,15,95.441
+2,Saudi Arabia,Kick Sauber,BOT,12,16,95.827
+2,Saudi Arabia,Williams,SAR,12,17,95.642
+2,Saudi Arabia,Racing Bulls,RIC,12,18,96.095
+2,Saudi Arabia,Red Bull,VER,39,1,91.995
+2,Saudi Arabia,Red Bull,PER,39,2,92.35
+2,Saudi Arabia,Ferrari,LEC,39,3,92.722
+2,Saudi Arabia,McLaren,PIA,39,4,92.675
+2,Saudi Arabia,Aston Martin,ALO,39,5,92.692
+2,Saudi Arabia,Mercedes,RUS,39,6,92.607
+2,Saudi Arabia,Ferrari,BEA,39,7,92.756
+2,Saudi Arabia,McLaren,NOR,39,8,92.106
+2,Saudi Arabia,Mercedes,HAM,39,9,92.315
+2,Saudi Arabia,Kick Sauber,ZHO,39,10,93.915
+2,Saudi Arabia,Haas,HUL,39,11,93.045
+2,Saudi Arabia,Haas,MAG,39,12,93.203
+2,Saudi Arabia,Alpine,OCO,39,13,94.047
+2,Saudi Arabia,Williams,ALB,39,14,93.504
+2,Saudi Arabia,Racing Bulls,TSU,39,15,93.894
+2,Saudi Arabia,Williams,SAR,39,16,93.97
+2,Saudi Arabia,Racing Bulls,RIC,39,17,93.974
+2,Saudi Arabia,Kick Sauber,BOT,39,18,93.028
+2,Saudi Arabia,Red Bull,VER,37,1,92.412
+2,Saudi Arabia,Red Bull,PER,37,2,92.273
+2,Saudi Arabia,Ferrari,LEC,37,3,92.674
+2,Saudi Arabia,McLaren,NOR,37,4,96.675
+2,Saudi Arabia,McLaren,PIA,37,5,92.934
+2,Saudi Arabia,Aston Martin,ALO,37,6,93.116
+2,Saudi Arabia,Mercedes,RUS,37,7,93.258
+2,Saudi Arabia,Ferrari,BEA,37,8,93.052
+2,Saudi Arabia,Mercedes,HAM,37,9,109.485
+2,Saudi Arabia,Kick Sauber,ZHO,37,10,94.132
+2,Saudi Arabia,Haas,HUL,37,11,93.248
+2,Saudi Arabia,Haas,MAG,37,12,93.516
+2,Saudi Arabia,Alpine,OCO,37,13,93.81
+2,Saudi Arabia,Williams,ALB,37,14,93.939
+2,Saudi Arabia,Racing Bulls,TSU,37,15,94.233
+2,Saudi Arabia,Williams,SAR,37,16,94.228
+2,Saudi Arabia,Racing Bulls,RIC,37,17,94.125
+2,Saudi Arabia,Kick Sauber,BOT,37,18,93.08
+2,Saudi Arabia,Red Bull,VER,42,1,93.013
+2,Saudi Arabia,Red Bull,PER,42,2,92.433
+2,Saudi Arabia,Ferrari,LEC,42,3,92.66
+2,Saudi Arabia,McLaren,PIA,42,4,92.453
+2,Saudi Arabia,Aston Martin,ALO,42,5,92.41
+2,Saudi Arabia,Mercedes,RUS,42,6,92.254
+2,Saudi Arabia,Ferrari,BEA,42,7,92.656
+2,Saudi Arabia,McLaren,NOR,42,8,92.202
+2,Saudi Arabia,Mercedes,HAM,42,9,92.027
+2,Saudi Arabia,Haas,HUL,42,10,92.592
+2,Saudi Arabia,Haas,MAG,42,11,92.715
+2,Saudi Arabia,Alpine,OCO,42,12,93.633
+2,Saudi Arabia,Williams,ALB,42,13,92.85
+2,Saudi Arabia,Racing Bulls,TSU,42,14,93.623
+2,Saudi Arabia,Williams,SAR,42,15,93.648
+2,Saudi Arabia,Racing Bulls,RIC,42,16,95.812
+2,Saudi Arabia,Kick Sauber,BOT,42,17,92.996
+2,Saudi Arabia,Kick Sauber,ZHO,42,18,137.392
+2,Saudi Arabia,Red Bull,VER,5,1,93.955
+2,Saudi Arabia,Red Bull,PER,5,2,94.085
+2,Saudi Arabia,Ferrari,LEC,5,3,94.382
+2,Saudi Arabia,McLaren,PIA,5,4,94.557
+2,Saudi Arabia,Aston Martin,ALO,5,5,94.512
+2,Saudi Arabia,McLaren,NOR,5,6,94.902
+2,Saudi Arabia,Mercedes,RUS,5,7,95.15
+2,Saudi Arabia,Mercedes,HAM,5,8,95.107
+2,Saudi Arabia,Aston Martin,STR,5,9,95.56
+2,Saudi Arabia,Racing Bulls,TSU,5,10,95.589
+2,Saudi Arabia,Ferrari,BEA,5,11,95.593
+2,Saudi Arabia,Haas,MAG,5,12,95.684
+2,Saudi Arabia,Williams,ALB,5,13,95.59
+2,Saudi Arabia,Haas,HUL,5,14,95.723
+2,Saudi Arabia,Racing Bulls,RIC,5,15,95.699
+2,Saudi Arabia,Alpine,OCO,5,16,96.003
+2,Saudi Arabia,Kick Sauber,BOT,5,17,96.244
+2,Saudi Arabia,Williams,SAR,5,18,96.204
+2,Saudi Arabia,Kick Sauber,ZHO,5,19,96.238
+2,Saudi Arabia,Red Bull,VER,29,1,92.752
+2,Saudi Arabia,Red Bull,PER,29,2,92.671
+2,Saudi Arabia,Ferrari,LEC,29,3,93.305
+2,Saudi Arabia,McLaren,NOR,29,4,93.631
+2,Saudi Arabia,Mercedes,HAM,29,5,93.567
+2,Saudi Arabia,McLaren,PIA,29,6,93.821
+2,Saudi Arabia,Aston Martin,ALO,29,7,93.682
+2,Saudi Arabia,Mercedes,RUS,29,8,93.643
+2,Saudi Arabia,Ferrari,BEA,29,9,93.379
+2,Saudi Arabia,Haas,HUL,29,10,94.235
+2,Saudi Arabia,Kick Sauber,ZHO,29,11,94.99
+2,Saudi Arabia,Haas,MAG,29,12,95.797
+2,Saudi Arabia,Alpine,OCO,29,13,95.305
+2,Saudi Arabia,Racing Bulls,TSU,29,14,96.731
+2,Saudi Arabia,Williams,ALB,29,15,95.687
+2,Saudi Arabia,Williams,SAR,29,16,96.047
+2,Saudi Arabia,Racing Bulls,RIC,29,17,95.649
+2,Saudi Arabia,Kick Sauber,BOT,29,18,94.857
+2,Saudi Arabia,Red Bull,VER,44,1,92.377
+2,Saudi Arabia,Red Bull,PER,44,2,92.441
+2,Saudi Arabia,Ferrari,LEC,44,3,92.679
+2,Saudi Arabia,McLaren,PIA,44,4,92.539
+2,Saudi Arabia,Aston Martin,ALO,44,5,92.474
+2,Saudi Arabia,Mercedes,RUS,44,6,92.571
+2,Saudi Arabia,Ferrari,BEA,44,7,92.322
+2,Saudi Arabia,McLaren,NOR,44,8,92.151
+2,Saudi Arabia,Mercedes,HAM,44,9,92.232
+2,Saudi Arabia,Haas,HUL,44,10,92.636
+2,Saudi Arabia,Haas,MAG,44,11,92.644
+2,Saudi Arabia,Williams,ALB,44,12,92.997
+2,Saudi Arabia,Alpine,OCO,44,13,93.871
+2,Saudi Arabia,Racing Bulls,TSU,44,14,93.523
+2,Saudi Arabia,Williams,SAR,44,15,95.215
+2,Saudi Arabia,Racing Bulls,RIC,44,16,93.436
+2,Saudi Arabia,Kick Sauber,BOT,44,17,95.201
+2,Saudi Arabia,Kick Sauber,ZHO,44,18,92.77
+1,Bahrain,Red Bull,VER,52,1,94.906
+1,Bahrain,Red Bull,PER,52,2,95.183
+1,Bahrain,Ferrari,SAI,52,3,95.083
+1,Bahrain,Ferrari,LEC,52,4,95.394
+1,Bahrain,Mercedes,RUS,52,5,96.186
+1,Bahrain,McLaren,NOR,52,6,95.922
+1,Bahrain,Mercedes,HAM,52,7,95.479
+1,Bahrain,McLaren,PIA,52,8,96.024
+1,Bahrain,Aston Martin,ALO,52,9,94.862
+1,Bahrain,Aston Martin,STR,52,10,96.934
+1,Bahrain,Kick Sauber,ZHO,52,11,97.394
+1,Bahrain,Haas,MAG,52,12,96.93
+1,Bahrain,Racing Bulls,RIC,52,13,97.529
+1,Bahrain,Racing Bulls,TSU,52,14,99.042
+1,Bahrain,Williams,ALB,52,15,96.218
+1,Bahrain,Haas,HUL,52,16,95.921
+1,Bahrain,Alpine,OCO,52,17,98.631
+1,Bahrain,Alpine,GAS,52,18,95.511
+1,Bahrain,Kick Sauber,BOT,52,19,96.949
+1,Bahrain,Williams,SAR,52,20,95.987
+2,Saudi Arabia,McLaren,NOR,11,1,93.674
+2,Saudi Arabia,Red Bull,VER,11,2,93.61
+2,Saudi Arabia,Mercedes,HAM,11,3,94.334
+2,Saudi Arabia,Red Bull,PER,11,4,93.859
+2,Saudi Arabia,Ferrari,LEC,11,5,94.443
+2,Saudi Arabia,McLaren,PIA,11,6,94.448
+2,Saudi Arabia,Aston Martin,ALO,11,7,94.53
+2,Saudi Arabia,Haas,HUL,11,8,94.864
+2,Saudi Arabia,Mercedes,RUS,11,9,95.048
+2,Saudi Arabia,Kick Sauber,ZHO,11,10,95.695
+2,Saudi Arabia,Ferrari,BEA,11,11,95.645
+2,Saudi Arabia,Racing Bulls,TSU,11,12,95.738
+2,Saudi Arabia,Haas,MAG,11,13,96.036
+2,Saudi Arabia,Alpine,OCO,11,14,95.969
+2,Saudi Arabia,Williams,ALB,11,15,96.232
+2,Saudi Arabia,Kick Sauber,BOT,11,16,96.456
+2,Saudi Arabia,Williams,SAR,11,17,96.468
+2,Saudi Arabia,Racing Bulls,RIC,11,18,96.819
+1,Bahrain,Red Bull,VER,46,1,94.193
+1,Bahrain,Red Bull,PER,46,2,94.844
+1,Bahrain,Ferrari,SAI,46,3,94.853
+1,Bahrain,Ferrari,LEC,46,4,95.058
+1,Bahrain,Mercedes,RUS,46,5,96.657
+1,Bahrain,McLaren,NOR,46,6,95.371
+1,Bahrain,Mercedes,HAM,46,7,95.285
+1,Bahrain,McLaren,PIA,46,8,95.296
+1,Bahrain,Aston Martin,STR,46,9,96.379
+1,Bahrain,Aston Martin,ALO,46,10,95.126
+1,Bahrain,Kick Sauber,ZHO,46,11,96.741
+1,Bahrain,Haas,MAG,46,12,96.446
+1,Bahrain,Racing Bulls,TSU,46,13,96.187
+1,Bahrain,Racing Bulls,RIC,46,14,95.507
+1,Bahrain,Williams,ALB,46,15,96.008
+1,Bahrain,Alpine,OCO,46,16,96.975
+1,Bahrain,Haas,HUL,46,17,94.834
+1,Bahrain,Alpine,GAS,46,18,95.293
+1,Bahrain,Kick Sauber,BOT,46,19,96.297
+1,Bahrain,Williams,SAR,46,20,95.939
+2,Saudi Arabia,Red Bull,VER,36,1,92.413
+2,Saudi Arabia,Red Bull,PER,36,2,92.363
+2,Saudi Arabia,Ferrari,LEC,36,3,92.915
+2,Saudi Arabia,McLaren,NOR,36,4,93.573
+2,Saudi Arabia,McLaren,PIA,36,5,93.029
+2,Saudi Arabia,Mercedes,HAM,36,6,95.967
+2,Saudi Arabia,Aston Martin,ALO,36,7,93.014
+2,Saudi Arabia,Mercedes,RUS,36,8,93.125
+2,Saudi Arabia,Ferrari,BEA,36,9,93.053
+2,Saudi Arabia,Kick Sauber,ZHO,36,10,94.282
+2,Saudi Arabia,Haas,HUL,36,11,93.015
+2,Saudi Arabia,Haas,MAG,36,12,93.76
+2,Saudi Arabia,Alpine,OCO,36,13,93.799
+2,Saudi Arabia,Williams,ALB,36,14,93.987
+2,Saudi Arabia,Racing Bulls,TSU,36,15,94.358
+2,Saudi Arabia,Williams,SAR,36,16,94.576
+2,Saudi Arabia,Racing Bulls,RIC,36,17,94.92
+2,Saudi Arabia,Kick Sauber,BOT,36,18,114.249
