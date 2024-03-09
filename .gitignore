@@ -4,3 +4,8 @@
 *.iml
 *.ipr
 *.iws
+.latex/
+*.aux
+*.log
+*.tex
+*.gz
