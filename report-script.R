@@ -38,7 +38,7 @@ outliers <- function(df, col) {
 plot_1 <- function(gp) {
   # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
-      filename = paste0("plots/", gp, "_compare.png"))
+      filename = paste0("plots/", gsub(" ", "_", gp), "_compare.png"))
   # Plotting the data
   plot(lap_times %>%
          filter(grand_prix == gp) %>%
@@ -57,10 +57,10 @@ plot_1 <- function(gp) {
 plot_2 <- function(gp, driver1, driver2) {
   # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
-      filename = paste0("plots/", gp, "_h2h.png"))
+      filename = paste0("plots/", gsub(" ", "_", gp), "_h2h.png"))
   # Plotting the data
   plot(lap_times %>%
-         filter(driver %in% c(driver1, driver2)) %>%
+         filter(grand_prix == gp, driver %in% c(driver1, driver2)) %>%
          select(driver, lap, time) %>%
          arrange(lap) %>%
          pivot_wider(names_from = driver, values_from = time) %>%
@@ -75,10 +75,11 @@ plot_2 <- function(gp, driver1, driver2) {
 plot_3 <- function(gp, color) {
   # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
-      filename = paste0("plots/", gp, "_lrf.png"))
+      filename = paste0("plots/", gsub(" ", "_", gp), "_lrf.png"))
   # Plotting the data
   plot(lap_times %>%
          filter(grand_prix == gp, lap != 1) %>%
+         outliers(col = "time") %>%
          arrange(lap) %>%
          group_by(lap) %>%
          summarise(med = median(time)) %>%
