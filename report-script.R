@@ -99,7 +99,7 @@ plot_all <- function(gp, driver1, driver2, color) {
 }
 
 # Bahrain GP
-plot_all("Bahrain", "TSU", "RIC", "#DA291C")
+plot_all("Bahrain", "RIC", "TSU", "#DA291C")
 
 # Saudi GP
-plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
+#plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
