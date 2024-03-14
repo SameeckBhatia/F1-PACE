@@ -5,7 +5,7 @@ library(tidyverse)
 library(tidyquant)
 
 # Reading the data
-lap_times <- read.csv("python/lap_times.csv")
+lap_times <- read.csv("lap_times.csv")
 
 # Color list
 constructor_colors <- list(

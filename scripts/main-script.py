@@ -120,10 +120,10 @@ def transform_export(dataframe) -> None:
 
         # Export data frame based on CSV file existence
         if file_check:
-            new_df.to_csv("python/lap_times.csv", mode="a", index=False,
+            new_df.to_csv("lap_times.csv", mode="a", index=False,
                           header=False)
         else:
-            new_df.to_csv("python/lap_times.csv", index=False)
+            new_df.to_csv("lap_times.csv", index=False)
 
 
 if __name__ == "__main__":
