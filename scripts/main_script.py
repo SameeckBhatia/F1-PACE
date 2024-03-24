@@ -9,6 +9,8 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+os.chdir("..")
+
 # Creating a data frame for the rounds, Grands Prix, and number of laps
 grand_prix_df = pd.DataFrame({
     "round_num": [1, 2, 3, 4, 5],
