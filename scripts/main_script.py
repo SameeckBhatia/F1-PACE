@@ -24,8 +24,8 @@ print(f"Grand prix data frame: \n----- \n{grand_prix_df.head()}")
 file_check = False
 file_rounds = set()
 
-if os.path.exists("python/lap_times.csv"):
-    file_rounds = set(pd.read_csv("python/lap_times.csv")["round"])
+if os.path.exists("lap_times.csv"):
+    file_rounds = set(pd.read_csv("lap_times.csv")["round"])
     file_check = True
 
 # Returning the rounds in round_list that are not on file
