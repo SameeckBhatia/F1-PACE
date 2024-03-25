@@ -103,3 +103,6 @@ plot_all("Bahrain", "RIC", "TSU", "#DA291C")
 
 # Saudi GP
 plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
+
+# Australian GP
+plot_all("Australia", "LEC", "NOR", "#00008B")
