@@ -76,17 +76,17 @@ plot_2 <- function(gp, driver1, driver2) {
 plot_3 <- function(gp, color) {
   # Setting up the png device
   png(width = 1000, height = 750, units = "px", res = 240,
-      filename = paste0("plots/", gsub(" ", "_", gp), "_lrf.png"))
+      filename = paste0("plots/", gsub(" ", "_", gp), "_evo.png"))
   # Plotting the data
   plot(lap_times %>%
          filter(grand_prix == gp, lap != 1) %>%
          outliers(col = "time") %>%
          arrange(lap) %>%
-         group_by(lap) %>%
-         summarise(med = median(time)) %>%
-         ggplot(aes(x = lap, y = med)) +
-         geom_line(color = "black") +
+         ggplot(aes(x = lap, y = time)) +
+         geom_smooth(color = "black", se = FALSE, span = 1 / 5,
+                     linewidth = 0.5) +
          geom_smooth(method = "lm", se = FALSE, color = color) +
+         scale_y_continuous(breaks = seq(60, 120, 1)) +
          labs(x = "Lap", y = "Median Time (sec)"))
   dev.off()
 }
@@ -106,3 +106,6 @@ plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
 
 # Australian GP
 plot_all("Australia", "LEC", "NOR", "#00008B")
+
+# Japanese GP
+plot_all("Japan", "LEC", "SAI", "#B0000F")
