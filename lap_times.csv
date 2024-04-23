@@ -3928,3 +3928,1033 @@ round,grand_prix,constructor,driver,lap,position,time
 4,Japan,Alpine,GAS,13,15,102.475
 4,Japan,Haas,HUL,13,16,100.302
 4,Japan,Aston Martin,STR,13,17,116.221
+5,China,Red Bull,VER,2,1,100.103
+5,China,Aston Martin,ALO,2,2,101.128
+5,China,Red Bull,PER,2,3,100.881
+5,China,McLaren,NOR,2,4,101.267
+5,China,McLaren,PIA,2,5,101.607
+5,China,Mercedes,RUS,2,6,101.696
+5,China,Ferrari,LEC,2,7,101.812
+5,China,Ferrari,SAI,2,8,102.115
+5,China,Aston Martin,STR,2,9,102.326
+5,China,Haas,HUL,2,10,103.687
+5,China,Kick Sauber,BOT,2,11,103.041
+5,China,Alpine,OCO,2,12,103.022
+5,China,Williams,ALB,2,13,103.157
+5,China,Alpine,GAS,2,14,103.179
+5,China,Racing Bulls,RIC,2,15,103.47
+5,China,Racing Bulls,TSU,2,16,103.674
+5,China,Haas,MAG,2,17,103.907
+5,China,Kick Sauber,ZHO,2,18,104.398
+5,China,Mercedes,HAM,2,19,104.135
+5,China,Williams,SAR,2,20,104.088
+5,China,Red Bull,VER,36,1,98.825
+5,China,McLaren,NOR,36,2,99.166
+5,China,Ferrari,LEC,36,3,99.775
+5,China,Red Bull,PER,36,4,99.68
+5,China,Aston Martin,ALO,36,5,100.638
+5,China,Ferrari,SAI,36,6,100.615
+5,China,Mercedes,RUS,36,7,100.496
+5,China,McLaren,PIA,36,8,101.5
+5,China,Haas,HUL,36,9,101.223
+5,China,Mercedes,HAM,36,10,101.289
+5,China,Alpine,OCO,36,11,101.194
+5,China,Williams,ALB,36,12,101.38
+5,China,Williams,SAR,36,13,101.518
+5,China,Alpine,GAS,36,14,101.311
+5,China,Kick Sauber,ZHO,36,15,101.283
+5,China,Haas,MAG,36,16,101.298
+5,China,Aston Martin,STR,36,17,130.576
+5,China,Red Bull,VER,45,1,99.216
+5,China,McLaren,NOR,45,2,99.437
+5,China,Red Bull,PER,45,3,99.849
+5,China,Ferrari,LEC,45,4,100.025
+5,China,Ferrari,SAI,45,5,100.22
+5,China,Mercedes,RUS,45,6,100.619
+5,China,McLaren,PIA,45,7,101.301
+5,China,Mercedes,HAM,45,8,101.098
+5,China,Haas,HUL,45,9,101.234
+5,China,Alpine,OCO,45,10,101.423
+5,China,Aston Martin,ALO,45,11,97.81
+5,China,Williams,ALB,45,12,101.66
+5,China,Haas,MAG,45,13,101.077
+5,China,Williams,SAR,45,14,101.914
+5,China,Alpine,GAS,45,15,100.065
+5,China,Kick Sauber,ZHO,45,16,99.553
+5,China,Aston Martin,STR,45,17,100.291
+5,China,Red Bull,VER,27,1,107.123
+5,China,McLaren,NOR,27,2,108.631
+5,China,Ferrari,LEC,27,3,108.724
+5,China,Red Bull,PER,27,4,109.072
+5,China,Aston Martin,ALO,27,5,110.392
+5,China,Ferrari,SAI,27,6,112.235
+5,China,Mercedes,RUS,27,7,113.377
+5,China,McLaren,PIA,27,8,114.121
+5,China,Haas,HUL,27,9,114.261
+5,China,Racing Bulls,RIC,27,10,114.803
+5,China,Mercedes,HAM,27,11,115.435
+5,China,Alpine,OCO,27,12,116.712
+5,China,Williams,ALB,27,13,116.85
+5,China,Williams,SAR,27,14,117.209
+5,China,Kick Sauber,ZHO,27,15,118.405
+5,China,Alpine,GAS,27,16,118.826
+5,China,Haas,MAG,27,17,160.588
+5,China,Aston Martin,STR,27,18,221.52
+5,China,Red Bull,VER,35,1,98.765
+5,China,McLaren,NOR,35,2,99.094
+5,China,Ferrari,LEC,35,3,99.707
+5,China,Red Bull,PER,35,4,99.698
+5,China,Aston Martin,ALO,35,5,99.817
+5,China,Ferrari,SAI,35,6,100.311
+5,China,Mercedes,RUS,35,7,100.493
+5,China,McLaren,PIA,35,8,100.397
+5,China,Haas,HUL,35,9,101.035
+5,China,Mercedes,HAM,35,10,100.908
+5,China,Alpine,OCO,35,11,101.009
+5,China,Williams,ALB,35,12,101.335
+5,China,Williams,SAR,35,13,101.096
+5,China,Alpine,GAS,35,14,101.078
+5,China,Kick Sauber,ZHO,35,15,101.366
+5,China,Haas,MAG,35,16,102.616
+5,China,Aston Martin,STR,35,17,105.678
+5,China,Red Bull,VER,49,1,99.35
+5,China,McLaren,NOR,49,2,99.716
+5,China,Red Bull,PER,49,3,99.903
+5,China,Ferrari,LEC,49,4,100.423
+5,China,Ferrari,SAI,49,5,100.109
+5,China,Mercedes,RUS,49,6,100.218
+5,China,Aston Martin,ALO,49,7,99.403
+5,China,McLaren,PIA,49,8,102.046
+5,China,Mercedes,HAM,49,9,101.92
+5,China,Haas,HUL,49,10,101.241
+5,China,Alpine,OCO,49,11,101.297
+5,China,Williams,ALB,49,12,101.404
+5,China,Haas,MAG,49,13,101.355
+5,China,Alpine,GAS,49,14,100.305
+5,China,Kick Sauber,ZHO,49,15,101.502
+5,China,Williams,SAR,49,16,102.743
+5,China,Aston Martin,STR,49,17,100.569
+5,China,Red Bull,VER,43,1,99.224
+5,China,McLaren,NOR,43,2,99.932
+5,China,Red Bull,PER,43,3,99.607
+5,China,Ferrari,LEC,43,4,99.908
+5,China,Ferrari,SAI,43,5,100.345
+5,China,Mercedes,RUS,43,6,100.681
+5,China,Aston Martin,ALO,43,7,105.953
+5,China,McLaren,PIA,43,8,100.876
+5,China,Mercedes,HAM,43,9,101.222
+5,China,Haas,HUL,43,10,101.373
+5,China,Alpine,OCO,43,11,101.535
+5,China,Williams,ALB,43,12,101.423
+5,China,Haas,MAG,43,13,101.245
+5,China,Williams,SAR,43,14,103.096
+5,China,Alpine,GAS,43,15,100.029
+5,China,Kick Sauber,ZHO,43,16,99.32
+5,China,Aston Martin,STR,43,17,100.351
+5,China,Red Bull,VER,24,1,166.284
+5,China,McLaren,NOR,24,2,146.575
+5,China,Ferrari,LEC,24,3,136.842
+5,China,Red Bull,PER,24,4,152.493
+5,China,McLaren,PIA,24,5,137.575
+5,China,Ferrari,SAI,24,6,133.409
+5,China,Aston Martin,ALO,24,7,148.542
+5,China,Mercedes,RUS,24,8,148.872
+5,China,Racing Bulls,RIC,24,9,132.652
+5,China,Aston Martin,STR,24,10,132.862
+5,China,Haas,HUL,24,11,150.375
+5,China,Williams,SAR,24,12,135.351
+5,China,Alpine,OCO,24,13,148.655
+5,China,Mercedes,HAM,24,14,133.117
+5,China,Haas,MAG,24,15,132.967
+5,China,Racing Bulls,TSU,24,16,149.433
+5,China,Williams,ALB,24,17,149.799
+5,China,Kick Sauber,ZHO,24,18,152.471
+5,China,Alpine,GAS,24,19,149.898
+5,China,Red Bull,VER,33,1,98.406
+5,China,McLaren,NOR,33,2,98.751
+5,China,Ferrari,LEC,33,3,99.384
+5,China,Red Bull,PER,33,4,99.388
+5,China,Aston Martin,ALO,33,5,99.48
+5,China,Ferrari,SAI,33,6,100.048
+5,China,Mercedes,RUS,33,7,100.476
+5,China,McLaren,PIA,33,8,100.725
+5,China,Haas,HUL,33,9,100.879
+5,China,Mercedes,HAM,33,10,100.857
+5,China,Alpine,OCO,33,11,100.937
+5,China,Williams,ALB,33,12,101.269
+5,China,Williams,SAR,33,13,102.482
+5,China,Alpine,GAS,33,14,102.047
+5,China,Kick Sauber,ZHO,33,15,102.746
+5,China,Haas,MAG,33,16,102.473
+5,China,Aston Martin,STR,33,17,102.201
+5,China,Racing Bulls,RIC,33,18,115.415
+5,China,Red Bull,VER,51,1,99.276
+5,China,McLaren,NOR,51,2,99.949
+5,China,Red Bull,PER,51,3,99.906
+5,China,Ferrari,LEC,51,4,100.205
+5,China,Ferrari,SAI,51,5,100.239
+5,China,Mercedes,RUS,51,6,100.334
+5,China,Aston Martin,ALO,51,7,99.487
+5,China,McLaren,PIA,51,8,101.331
+5,China,Mercedes,HAM,51,9,101.485
+5,China,Haas,HUL,51,10,101.549
+5,China,Alpine,OCO,51,11,101.477
+5,China,Williams,ALB,51,12,101.437
+5,China,Haas,MAG,51,13,101.879
+5,China,Alpine,GAS,51,14,100.497
+5,China,Kick Sauber,ZHO,51,15,100.179
+5,China,Williams,SAR,51,16,102.32
+5,China,Aston Martin,STR,51,17,100.717
+5,China,Red Bull,VER,40,1,98.956
+5,China,McLaren,NOR,40,2,99.854
+5,China,Red Bull,PER,40,3,99.687
+5,China,Ferrari,LEC,40,4,99.731
+5,China,Aston Martin,ALO,40,5,100.693
+5,China,Ferrari,SAI,40,6,100.875
+5,China,Mercedes,RUS,40,7,100.78
+5,China,McLaren,PIA,40,8,101.119
+5,China,Haas,HUL,40,9,101.593
+5,China,Mercedes,HAM,40,10,101.5
+5,China,Alpine,OCO,40,11,101.592
+5,China,Williams,ALB,40,12,101.672
+5,China,Williams,SAR,40,13,102.428
+5,China,Haas,MAG,40,14,101.754
+5,China,Kick Sauber,ZHO,40,15,106.271
+5,China,Alpine,GAS,40,16,99.198
+5,China,Aston Martin,STR,40,17,99.905
+5,China,Red Bull,VER,21,1,100.49
+5,China,McLaren,NOR,21,2,103.566
+5,China,Red Bull,PER,21,3,107.126
+5,China,Ferrari,LEC,21,4,111.969
+5,China,Aston Martin,ALO,21,5,110.904
+5,China,Mercedes,RUS,21,6,112.13
+5,China,McLaren,PIA,21,7,112.541
+5,China,Ferrari,SAI,21,8,115.808
+5,China,Aston Martin,STR,21,9,118.981
+5,China,Haas,HUL,21,10,117.611
+5,China,Alpine,OCO,21,11,117.545
+5,China,Racing Bulls,RIC,21,12,119.371
+5,China,Racing Bulls,TSU,21,13,119.83
+5,China,Mercedes,HAM,21,14,122.779
+5,China,Williams,ALB,21,15,120.728
+5,China,Kick Sauber,ZHO,21,16,121.981
+5,China,Williams,SAR,21,17,122.122
+5,China,Alpine,GAS,21,18,123.25
+5,China,Haas,MAG,21,19,123.843
+5,China,Red Bull,VER,26,1,157.342
+5,China,McLaren,NOR,26,2,156.877
+5,China,Ferrari,LEC,26,3,155.69
+5,China,Red Bull,PER,26,4,155.243
+5,China,Ferrari,SAI,26,5,153.864
+5,China,Aston Martin,ALO,26,6,151.709
+5,China,Mercedes,RUS,26,7,151.943
+5,China,McLaren,PIA,26,8,151.077
+5,China,Haas,HUL,26,9,147.733
+5,China,Racing Bulls,RIC,26,10,152.359
+5,China,Alpine,OCO,26,11,147.921
+5,China,Mercedes,HAM,26,12,147.219
+5,China,Haas,MAG,26,13,146.068
+5,China,Racing Bulls,TSU,26,14,143.71
+5,China,Williams,ALB,26,15,143.336
+5,China,Williams,SAR,26,16,141.458
+5,China,Kick Sauber,ZHO,26,17,138.497
+5,China,Alpine,GAS,26,18,132.45
+5,China,Aston Martin,STR,26,19,155.395
+5,China,Red Bull,VER,28,1,151.449
+5,China,McLaren,NOR,28,2,149.965
+5,China,Ferrari,LEC,28,3,151.172
+5,China,Red Bull,PER,28,4,151.304
+5,China,Aston Martin,ALO,28,5,150.078
+5,China,Ferrari,SAI,28,6,150.037
+5,China,Mercedes,RUS,28,7,149.234
+5,China,McLaren,PIA,28,8,149.005
+5,China,Racing Bulls,RIC,28,9,146.589
+5,China,Haas,HUL,28,10,149.564
+5,China,Mercedes,HAM,28,11,147.598
+5,China,Alpine,OCO,28,12,147.622
+5,China,Williams,ALB,28,13,146.979
+5,China,Williams,SAR,28,14,146.89
+5,China,Kick Sauber,ZHO,28,15,147.061
+5,China,Alpine,GAS,28,16,146.862
+5,China,Haas,MAG,28,17,137.066
+5,China,Aston Martin,STR,28,18,138.015
+5,China,Red Bull,VER,23,1,137.938
+5,China,Red Bull,PER,23,2,137.492
+5,China,McLaren,NOR,23,3,148.677
+5,China,Ferrari,LEC,23,4,132.911
+5,China,Aston Martin,ALO,23,5,137.153
+5,China,McLaren,PIA,23,6,132.376
+5,China,Mercedes,RUS,23,7,138.074
+5,China,Ferrari,SAI,23,8,133.108
+5,China,Haas,HUL,23,9,137.671
+5,China,Racing Bulls,RIC,23,10,132.827
+5,China,Alpine,OCO,23,11,137.613
+5,China,Aston Martin,STR,23,12,132.612
+5,China,Racing Bulls,TSU,23,13,137.702
+5,China,Williams,ALB,23,14,136.59
+5,China,Williams,SAR,23,15,133.935
+5,China,Kick Sauber,ZHO,23,16,137.614
+5,China,Mercedes,HAM,23,17,133.536
+5,China,Haas,MAG,23,18,132.117
+5,China,Alpine,GAS,23,19,138.481
+5,China,Red Bull,VER,12,1,101.318
+5,China,Red Bull,PER,12,2,102.266
+5,China,McLaren,NOR,12,3,102.007
+5,China,Ferrari,LEC,12,4,101.939
+5,China,McLaren,PIA,12,5,102.975
+5,China,Ferrari,SAI,12,6,102.603
+5,China,Racing Bulls,RIC,12,7,103.115
+5,China,Haas,MAG,12,8,103.665
+5,China,Aston Martin,ALO,12,9,120.05
+5,China,Mercedes,RUS,12,10,118.003
+5,China,Aston Martin,STR,12,11,102.009
+5,China,Williams,SAR,12,12,109.069
+5,China,Haas,HUL,12,13,101.821
+5,China,Kick Sauber,BOT,12,14,101.994
+5,China,Alpine,OCO,12,15,101.793
+5,China,Racing Bulls,TSU,12,16,102.304
+5,China,Mercedes,HAM,12,17,101.904
+5,China,Williams,ALB,12,18,102.151
+5,China,Kick Sauber,ZHO,12,19,101.928
+5,China,Alpine,GAS,12,20,137.655
+5,China,Red Bull,VER,38,1,98.855
+5,China,McLaren,NOR,38,2,99.28
+5,China,Ferrari,LEC,38,3,100.058
+5,China,Red Bull,PER,38,4,100.068
+5,China,Aston Martin,ALO,38,5,100.119
+5,China,Ferrari,SAI,38,6,100.603
+5,China,Mercedes,RUS,38,7,100.451
+5,China,McLaren,PIA,38,8,100.946
+5,China,Haas,HUL,38,9,100.998
+5,China,Mercedes,HAM,38,10,100.974
+5,China,Alpine,OCO,38,11,101.131
+5,China,Williams,ALB,38,12,101.088
+5,China,Kick Sauber,ZHO,38,13,101.311
+5,China,Williams,SAR,38,14,102.347
+5,China,Haas,MAG,38,15,101.36
+5,China,Alpine,GAS,38,16,106.348
+5,China,Aston Martin,STR,38,17,99.449
+5,China,Red Bull,VER,10,1,101.424
+5,China,Red Bull,PER,10,2,101.84
+5,China,McLaren,NOR,10,3,101.695
+5,China,Aston Martin,ALO,10,4,103.083
+5,China,McLaren,PIA,10,5,102.658
+5,China,Ferrari,LEC,10,6,102.324
+5,China,Mercedes,RUS,10,7,103.227
+5,China,Ferrari,SAI,10,8,103.238
+5,China,Alpine,GAS,10,9,103.435
+5,China,Racing Bulls,RIC,10,10,103.309
+5,China,Haas,MAG,10,11,103.28
+5,China,Williams,SAR,10,12,103.684
+5,China,Aston Martin,STR,10,13,119.726
+5,China,Haas,HUL,10,14,101.429
+5,China,Kick Sauber,BOT,10,15,121.016
+5,China,Alpine,OCO,10,16,120.652
+5,China,Racing Bulls,TSU,10,17,102.171
+5,China,Williams,ALB,10,18,121.494
+5,China,Mercedes,HAM,10,19,118.909
+5,China,Kick Sauber,ZHO,10,20,101.765
+5,China,Red Bull,VER,3,1,100.494
+5,China,Aston Martin,ALO,3,2,100.988
+5,China,Red Bull,PER,3,3,100.973
+5,China,McLaren,NOR,3,4,101.282
+5,China,McLaren,PIA,3,5,101.754
+5,China,Mercedes,RUS,3,6,101.771
+5,China,Ferrari,LEC,3,7,102.09
+5,China,Ferrari,SAI,3,8,101.979
+5,China,Aston Martin,STR,3,9,102.305
+5,China,Haas,HUL,3,10,102.347
+5,China,Kick Sauber,BOT,3,11,102.548
+5,China,Alpine,OCO,3,12,102.807
+5,China,Williams,ALB,3,13,103.014
+5,China,Alpine,GAS,3,14,103.012
+5,China,Racing Bulls,RIC,3,15,103.073
+5,China,Racing Bulls,TSU,3,16,103.136
+5,China,Haas,MAG,3,17,103.179
+5,China,Mercedes,HAM,3,18,102.906
+5,China,Kick Sauber,ZHO,3,19,103.991
+5,China,Williams,SAR,3,20,103.644
+5,China,Red Bull,VER,13,1,106.526
+5,China,McLaren,NOR,13,2,101.805
+5,China,Red Bull,PER,13,3,106.866
+5,China,Ferrari,LEC,13,4,102.079
+5,China,McLaren,PIA,13,5,102.871
+5,China,Ferrari,SAI,13,6,102.4
+5,China,Racing Bulls,RIC,13,7,103.016
+5,China,Aston Martin,ALO,13,8,102.256
+5,China,Mercedes,RUS,13,9,100.785
+5,China,Haas,MAG,13,10,104.59
+5,China,Aston Martin,STR,13,11,101.472
+5,China,Haas,HUL,13,12,102.061
+5,China,Kick Sauber,BOT,13,13,102.144
+5,China,Alpine,OCO,13,14,102.193
+5,China,Mercedes,HAM,13,15,101.927
+5,China,Racing Bulls,TSU,13,16,103.531
+5,China,Williams,ALB,13,17,102.608
+5,China,Kick Sauber,ZHO,13,18,102.212
+5,China,Williams,SAR,13,19,120.228
+5,China,Alpine,GAS,13,20,101.071
+5,China,Red Bull,VER,46,1,99.433
+5,China,McLaren,NOR,46,2,99.718
+5,China,Red Bull,PER,46,3,99.966
+5,China,Ferrari,LEC,46,4,100.224
+5,China,Ferrari,SAI,46,5,100.227
+5,China,Mercedes,RUS,46,6,100.38
+5,China,McLaren,PIA,46,7,101.294
+5,China,Mercedes,HAM,46,8,101.341
+5,China,Haas,HUL,46,9,101.518
+5,China,Aston Martin,ALO,46,10,99.559
+5,China,Alpine,OCO,46,11,102.084
+5,China,Williams,ALB,46,12,101.776
+5,China,Haas,MAG,46,13,101.498
+5,China,Williams,SAR,46,14,102.396
+5,China,Alpine,GAS,46,15,100.25
+5,China,Kick Sauber,ZHO,46,16,99.636
+5,China,Aston Martin,STR,46,17,100.736
+5,China,Red Bull,VER,37,1,98.801
+5,China,McLaren,NOR,37,2,99.3
+5,China,Ferrari,LEC,37,3,100.04
+5,China,Red Bull,PER,37,4,100.005
+5,China,Aston Martin,ALO,37,5,100.4
+5,China,Ferrari,SAI,37,6,100.726
+5,China,Mercedes,RUS,37,7,100.687
+5,China,McLaren,PIA,37,8,101.45
+5,China,Haas,HUL,37,9,101.127
+5,China,Mercedes,HAM,37,10,101.215
+5,China,Alpine,OCO,37,11,101.361
+5,China,Williams,ALB,37,12,101.261
+5,China,Alpine,GAS,37,13,101.071
+5,China,Williams,SAR,37,14,102.43
+5,China,Kick Sauber,ZHO,37,15,101.738
+5,China,Haas,MAG,37,16,101.42
+5,China,Aston Martin,STR,37,17,99.444
+5,China,Red Bull,VER,42,1,99.227
+5,China,McLaren,NOR,42,2,100.701
+5,China,Red Bull,PER,42,3,99.521
+5,China,Ferrari,LEC,42,4,99.906
+5,China,Aston Martin,ALO,42,5,100.794
+5,China,Ferrari,SAI,42,6,100.756
+5,China,Mercedes,RUS,42,7,100.772
+5,China,McLaren,PIA,42,8,101.01
+5,China,Mercedes,HAM,42,9,101.068
+5,China,Haas,HUL,42,10,101.672
+5,China,Alpine,OCO,42,11,101.515
+5,China,Williams,ALB,42,12,101.558
+5,China,Williams,SAR,42,13,101.894
+5,China,Haas,MAG,42,14,101.513
+5,China,Alpine,GAS,42,15,100.024
+5,China,Kick Sauber,ZHO,42,16,98.633
+5,China,Aston Martin,STR,42,17,99.953
+5,China,Red Bull,VER,1,1,101.528
+5,China,Aston Martin,ALO,1,2,103.173
+5,China,Red Bull,PER,1,3,103.97
+5,China,McLaren,NOR,1,4,104.524
+5,China,McLaren,PIA,1,5,105.121
+5,China,Mercedes,RUS,1,6,105.746
+5,China,Ferrari,LEC,1,7,106.488
+5,China,Haas,HUL,1,8,107.041
+5,China,Ferrari,SAI,1,9,107.147
+5,China,Aston Martin,STR,1,10,107.73
+5,China,Kick Sauber,BOT,1,11,108.149
+5,China,Alpine,OCO,1,12,108.897
+5,China,Williams,ALB,1,13,109.364
+5,China,Alpine,GAS,1,14,109.907
+5,China,Racing Bulls,RIC,1,15,110.255
+5,China,Racing Bulls,TSU,1,16,110.625
+5,China,Kick Sauber,ZHO,1,17,110.671
+5,China,Haas,MAG,1,18,111.086
+5,China,Mercedes,HAM,1,19,111.502
+5,China,Williams,SAR,1,20,112.13
+5,China,Red Bull,VER,7,1,101.118
+5,China,Red Bull,PER,7,2,101.583
+5,China,McLaren,NOR,7,3,102.403
+5,China,Aston Martin,ALO,7,4,103.817
+5,China,McLaren,PIA,7,5,102.376
+5,China,Mercedes,RUS,7,6,102.589
+5,China,Ferrari,LEC,7,7,102.417
+5,China,Ferrari,SAI,7,8,102.783
+5,China,Aston Martin,STR,7,9,103.261
+5,China,Kick Sauber,BOT,7,10,102.959
+5,China,Haas,HUL,7,11,104.061
+5,China,Alpine,OCO,7,12,103.549
+5,China,Williams,ALB,7,13,103.361
+5,China,Alpine,GAS,7,14,103.352
+5,China,Racing Bulls,RIC,7,15,103.798
+5,China,Racing Bulls,TSU,7,16,103.951
+5,China,Mercedes,HAM,7,17,104.056
+5,China,Haas,MAG,7,18,103.93
+5,China,Kick Sauber,ZHO,7,19,104.073
+5,China,Williams,SAR,7,20,104.084
+5,China,Red Bull,VER,9,1,101.155
+5,China,Red Bull,PER,9,2,101.768
+5,China,McLaren,NOR,9,3,101.688
+5,China,Aston Martin,ALO,9,4,102.946
+5,China,McLaren,PIA,9,5,102.976
+5,China,Ferrari,LEC,9,6,102.189
+5,China,Mercedes,RUS,9,7,103.985
+5,China,Ferrari,SAI,9,8,102.8
+5,China,Aston Martin,STR,9,9,107.714
+5,China,Alpine,GAS,9,10,103.691
+5,China,Kick Sauber,BOT,9,11,107.977
+5,China,Racing Bulls,RIC,9,12,103.605
+5,China,Alpine,OCO,9,13,108.29
+5,China,Williams,ALB,9,14,108.371
+5,China,Haas,MAG,9,15,103.461
+5,China,Williams,SAR,9,16,103.236
+5,China,Mercedes,HAM,9,17,107.942
+5,China,Haas,HUL,9,18,119.939
+5,China,Racing Bulls,TSU,9,19,119.845
+5,China,Kick Sauber,ZHO,9,20,121.214
+5,China,Red Bull,VER,4,1,100.573
+5,China,Aston Martin,ALO,4,2,101.579
+5,China,Red Bull,PER,4,3,101.604
+5,China,McLaren,NOR,4,4,101.929
+5,China,McLaren,PIA,4,5,102.247
+5,China,Mercedes,RUS,4,6,102.413
+5,China,Ferrari,LEC,4,7,102.22
+5,China,Ferrari,SAI,4,8,102.145
+5,China,Aston Martin,STR,4,9,102.556
+5,China,Haas,HUL,4,10,102.824
+5,China,Kick Sauber,BOT,4,11,103.032
+5,China,Alpine,OCO,4,12,103.002
+5,China,Williams,ALB,4,13,102.975
+5,China,Alpine,GAS,4,14,102.847
+5,China,Racing Bulls,RIC,4,15,102.976
+5,China,Racing Bulls,TSU,4,16,103.095
+5,China,Mercedes,HAM,4,17,103.013
+5,China,Haas,MAG,4,18,104.116
+5,China,Kick Sauber,ZHO,4,19,103.484
+5,China,Williams,SAR,4,20,104.226
+5,China,Red Bull,VER,11,1,101.401
+5,China,Red Bull,PER,11,2,101.767
+5,China,McLaren,NOR,11,3,101.828
+5,China,Ferrari,LEC,11,4,102.128
+5,China,McLaren,PIA,11,5,103.456
+5,China,Ferrari,SAI,11,6,103.299
+5,China,Aston Martin,ALO,11,7,108.048
+5,China,Mercedes,RUS,11,8,108.016
+5,China,Racing Bulls,RIC,11,9,103.487
+5,China,Haas,MAG,11,10,103.549
+5,China,Alpine,GAS,11,11,108.722
+5,China,Williams,SAR,11,12,103.575
+5,China,Aston Martin,STR,11,13,101.281
+5,China,Haas,HUL,11,14,101.42
+5,China,Kick Sauber,BOT,11,15,101.276
+5,China,Alpine,OCO,11,16,101.472
+5,China,Racing Bulls,TSU,11,17,101.593
+5,China,Mercedes,HAM,11,18,101.409
+5,China,Williams,ALB,11,19,102.937
+5,China,Kick Sauber,ZHO,11,20,101.833
+5,China,Red Bull,VER,20,1,100.081
+5,China,McLaren,NOR,20,2,102.167
+5,China,Ferrari,LEC,20,3,102.041
+5,China,Red Bull,PER,20,4,100.522
+5,China,Aston Martin,ALO,20,5,101.64
+5,China,Mercedes,RUS,20,6,102.067
+5,China,McLaren,PIA,20,7,100.478
+5,China,Aston Martin,STR,20,8,102.095
+5,China,Ferrari,SAI,20,9,100.661
+5,China,Haas,HUL,20,10,102.187
+5,China,Alpine,OCO,20,11,102.599
+5,China,Mercedes,HAM,20,12,103.115
+5,China,Racing Bulls,RIC,20,13,101.817
+5,China,Racing Bulls,TSU,20,14,103.174
+5,China,Williams,ALB,20,15,103.186
+5,China,Kick Sauber,ZHO,20,16,103.17
+5,China,Williams,SAR,20,17,103.203
+5,China,Alpine,GAS,20,18,102.229
+5,China,Haas,MAG,20,19,101.312
+5,China,Red Bull,VER,52,1,99.694
+5,China,McLaren,NOR,52,2,99.944
+5,China,Red Bull,PER,52,3,100.123
+5,China,Ferrari,LEC,52,4,100.453
+5,China,Ferrari,SAI,52,5,100.413
+5,China,Mercedes,RUS,52,6,100.731
+5,China,Aston Martin,ALO,52,7,99.396
+5,China,McLaren,PIA,52,8,101.602
+5,China,Mercedes,HAM,52,9,101.461
+5,China,Haas,HUL,52,10,101.625
+5,China,Alpine,OCO,52,11,101.559
+5,China,Williams,ALB,52,12,101.67
+5,China,Haas,MAG,52,13,102.059
+5,China,Alpine,GAS,52,14,101.052
+5,China,Kick Sauber,ZHO,52,15,100.542
+5,China,Williams,SAR,52,16,102.55
+5,China,Aston Martin,STR,52,17,100.988
+5,China,Red Bull,VER,30,1,140.118
+5,China,McLaren,NOR,30,2,139.874
+5,China,Ferrari,LEC,30,3,140.784
+5,China,Red Bull,PER,30,4,141.644
+5,China,Aston Martin,ALO,30,5,142.1
+5,China,Ferrari,SAI,30,6,141.876
+5,China,Mercedes,RUS,30,7,141.655
+5,China,McLaren,PIA,30,8,141.071
+5,China,Racing Bulls,RIC,30,9,141.054
+5,China,Haas,HUL,30,10,141.361
+5,China,Mercedes,HAM,30,11,141.1
+5,China,Alpine,OCO,30,12,141.322
+5,China,Williams,ALB,30,13,141.349
+5,China,Williams,SAR,30,14,141.607
+5,China,Kick Sauber,ZHO,30,15,141.354
+5,China,Alpine,GAS,30,16,140.888
+5,China,Haas,MAG,30,17,141.596
+5,China,Aston Martin,STR,30,18,103.268
+5,China,Red Bull,VER,41,1,99.067
+5,China,McLaren,NOR,41,2,99.721
+5,China,Red Bull,PER,41,3,99.599
+5,China,Ferrari,LEC,41,4,99.625
+5,China,Aston Martin,ALO,41,5,100.819
+5,China,Ferrari,SAI,41,6,100.299
+5,China,Mercedes,RUS,41,7,101.024
+5,China,McLaren,PIA,41,8,101.621
+5,China,Mercedes,HAM,41,9,100.882
+5,China,Haas,HUL,41,10,102.174
+5,China,Alpine,OCO,41,11,101.653
+5,China,Williams,ALB,41,12,101.755
+5,China,Williams,SAR,41,13,101.943
+5,China,Haas,MAG,41,14,101.84
+5,China,Alpine,GAS,41,15,99.758
+5,China,Kick Sauber,ZHO,41,16,118.828
+5,China,Aston Martin,STR,41,17,100.145
+5,China,Red Bull,VER,19,1,100.139
+5,China,McLaren,NOR,19,2,102.658
+5,China,Ferrari,LEC,19,3,101.982
+5,China,Red Bull,PER,19,4,100.313
+5,China,Aston Martin,ALO,19,5,101.459
+5,China,Mercedes,RUS,19,6,101.416
+5,China,McLaren,PIA,19,7,100.632
+5,China,Aston Martin,STR,19,8,102.334
+5,China,Ferrari,SAI,19,9,99.764
+5,China,Haas,HUL,19,10,102.465
+5,China,Kick Sauber,BOT,19,11,102.252
+5,China,Alpine,OCO,19,12,102.544
+5,China,Mercedes,HAM,19,13,102.854
+5,China,Racing Bulls,RIC,19,14,101.955
+5,China,Racing Bulls,TSU,19,15,103.224
+5,China,Williams,ALB,19,16,103.187
+5,China,Kick Sauber,ZHO,19,17,102.827
+5,China,Williams,SAR,19,18,102.59
+5,China,Alpine,GAS,19,19,102.136
+5,China,Haas,MAG,19,20,101.106
+5,China,Red Bull,VER,34,1,98.426
+5,China,McLaren,NOR,34,2,99.022
+5,China,Ferrari,LEC,34,3,99.561
+5,China,Red Bull,PER,34,4,99.512
+5,China,Aston Martin,ALO,34,5,99.452
+5,China,Ferrari,SAI,34,6,100.416
+5,China,Mercedes,RUS,34,7,100.467
+5,China,McLaren,PIA,34,8,100.748
+5,China,Haas,HUL,34,9,100.864
+5,China,Mercedes,HAM,34,10,100.835
+5,China,Alpine,OCO,34,11,100.972
+5,China,Williams,ALB,34,12,100.79
+5,China,Williams,SAR,34,13,101.233
+5,China,Alpine,GAS,34,14,101.522
+5,China,Kick Sauber,ZHO,34,15,101.72
+5,China,Aston Martin,STR,34,16,102.969
+5,China,Haas,MAG,34,17,103.518
+5,China,Red Bull,VER,8,1,101.11
+5,China,Red Bull,PER,8,2,101.713
+5,China,McLaren,NOR,8,3,101.756
+5,China,Aston Martin,ALO,8,4,103.132
+5,China,McLaren,PIA,8,5,102.627
+5,China,Mercedes,RUS,8,6,103.114
+5,China,Ferrari,LEC,8,7,102.969
+5,China,Ferrari,SAI,8,8,102.951
+5,China,Aston Martin,STR,8,9,103.068
+5,China,Kick Sauber,BOT,8,10,103.45
+5,China,Alpine,OCO,8,11,104.045
+5,China,Williams,ALB,8,12,103.991
+5,China,Alpine,GAS,8,13,103.871
+5,China,Racing Bulls,RIC,8,14,103.843
+5,China,Haas,HUL,8,15,109.064
+5,China,Mercedes,HAM,8,16,103.769
+5,China,Haas,MAG,8,17,104.239
+5,China,Williams,SAR,8,18,104.213
+5,China,Racing Bulls,TSU,8,19,108.43
+5,China,Kick Sauber,ZHO,8,20,109.478
+5,China,McLaren,NOR,18,1,101.994
+5,China,Red Bull,VER,18,2,100.07
+5,China,Ferrari,LEC,18,3,102.114
+5,China,Red Bull,PER,18,4,100.199
+5,China,Aston Martin,ALO,18,5,101.229
+5,China,Mercedes,RUS,18,6,101.491
+5,China,McLaren,PIA,18,7,99.739
+5,China,Aston Martin,STR,18,8,102.436
+5,China,Ferrari,SAI,18,9,118.852
+5,China,Haas,HUL,18,10,103.019
+5,China,Kick Sauber,BOT,18,11,102.768
+5,China,Alpine,OCO,18,12,102.486
+5,China,Mercedes,HAM,18,13,102.564
+5,China,Racing Bulls,TSU,18,14,102.628
+5,China,Racing Bulls,RIC,18,15,101.542
+5,China,Williams,ALB,18,16,103.004
+5,China,Kick Sauber,ZHO,18,17,102.887
+5,China,Williams,SAR,18,18,102.301
+5,China,Alpine,GAS,18,19,101.812
+5,China,Haas,MAG,18,20,120.904
+5,China,McLaren,NOR,16,1,101.795
+5,China,Red Bull,VER,16,2,99.985
+5,China,Ferrari,LEC,16,3,102.729
+5,China,Ferrari,SAI,16,4,102.693
+5,China,Red Bull,PER,16,5,100.556
+5,China,McLaren,PIA,16,6,107.643
+5,China,Aston Martin,ALO,16,7,101.274
+5,China,Mercedes,RUS,16,8,101.4
+5,China,Aston Martin,STR,16,9,101.816
+5,China,Haas,MAG,16,10,103.648
+5,China,Haas,HUL,16,11,102.5
+5,China,Kick Sauber,BOT,16,12,102.215
+5,China,Alpine,OCO,16,13,102.443
+5,China,Mercedes,HAM,16,14,102.531
+5,China,Racing Bulls,TSU,16,15,102.528
+5,China,Williams,ALB,16,16,102.611
+5,China,Racing Bulls,RIC,16,17,100.994
+5,China,Kick Sauber,ZHO,16,18,103.24
+5,China,Williams,SAR,16,19,102.441
+5,China,Alpine,GAS,16,20,102.107
+5,China,Red Bull,VER,50,1,99.445
+5,China,McLaren,NOR,50,2,100.177
+5,China,Red Bull,PER,50,3,100.052
+5,China,Ferrari,LEC,50,4,100.337
+5,China,Ferrari,SAI,50,5,100.352
+5,China,Mercedes,RUS,50,6,100.466
+5,China,Aston Martin,ALO,50,7,99.174
+5,China,McLaren,PIA,50,8,101.297
+5,China,Mercedes,HAM,50,9,101.306
+5,China,Haas,HUL,50,10,101.331
+5,China,Alpine,OCO,50,11,101.567
+5,China,Williams,ALB,50,12,101.438
+5,China,Haas,MAG,50,13,101.376
+5,China,Alpine,GAS,50,14,100.138
+5,China,Kick Sauber,ZHO,50,15,100.534
+5,China,Williams,SAR,50,16,102.645
+5,China,Aston Martin,STR,50,17,100.588
+5,China,Red Bull,VER,56,1,100.253
+5,China,McLaren,NOR,56,2,100.284
+5,China,Red Bull,PER,56,3,100.65
+5,China,Ferrari,LEC,56,4,100.568
+5,China,Ferrari,SAI,56,5,100.41
+5,China,Mercedes,RUS,56,6,100.793
+5,China,Aston Martin,ALO,56,7,100.249
+5,China,McLaren,PIA,56,8,101.61
+5,China,Mercedes,HAM,56,9,102.084
+5,China,Haas,HUL,56,10,101.904
+5,China,Alpine,OCO,56,11,101.651
+5,China,Williams,ALB,56,12,101.524
+5,China,Alpine,GAS,56,13,100.819
+5,China,Kick Sauber,ZHO,56,14,101.192
+5,China,Haas,MAG,56,15,102.87
+5,China,Aston Martin,STR,56,16,101.502
+5,China,Williams,SAR,56,17,103.148
+5,China,Red Bull,VER,48,1,99.325
+5,China,McLaren,NOR,48,2,99.646
+5,China,Red Bull,PER,48,3,99.961
+5,China,Ferrari,LEC,48,4,100.158
+5,China,Ferrari,SAI,48,5,100.471
+5,China,Mercedes,RUS,48,6,100.394
+5,China,McLaren,PIA,48,7,101.437
+5,China,Mercedes,HAM,48,8,101.315
+5,China,Aston Martin,ALO,48,9,99.837
+5,China,Haas,HUL,48,10,101.196
+5,China,Alpine,OCO,48,11,101.301
+5,China,Williams,ALB,48,12,101.509
+5,China,Haas,MAG,48,13,101.603
+5,China,Alpine,GAS,48,14,101.551
+5,China,Williams,SAR,48,15,102.767
+5,China,Kick Sauber,ZHO,48,16,100.391
+5,China,Aston Martin,STR,48,17,100.297
+5,China,McLaren,NOR,15,1,102.04
+5,China,Ferrari,LEC,15,2,101.864
+5,China,Red Bull,VER,15,3,99.591
+5,China,McLaren,PIA,15,4,102.645
+5,China,Ferrari,SAI,15,5,102.792
+5,China,Red Bull,PER,15,6,100.038
+5,China,Aston Martin,ALO,15,7,100.983
+5,China,Mercedes,RUS,15,8,101.308
+5,China,Aston Martin,STR,15,9,101.47
+5,China,Haas,MAG,15,10,104.466
+5,China,Haas,HUL,15,11,102.408
+5,China,Kick Sauber,BOT,15,12,102.391
+5,China,Alpine,OCO,15,13,102.357
+5,China,Mercedes,HAM,15,14,102.314
+5,China,Racing Bulls,TSU,15,15,102.294
+5,China,Williams,ALB,15,16,102.762
+5,China,Kick Sauber,ZHO,15,17,102.994
+5,China,Racing Bulls,RIC,15,18,120.257
+5,China,Williams,SAR,15,19,101.741
+5,China,Alpine,GAS,15,20,101.679
+5,China,Red Bull,VER,31,1,148.77
+5,China,McLaren,NOR,31,2,148.01
+5,China,Ferrari,LEC,31,3,146.766
+5,China,Red Bull,PER,31,4,145.856
+5,China,Aston Martin,ALO,31,5,144.857
+5,China,Ferrari,SAI,31,6,144.652
+5,China,Mercedes,RUS,31,7,144.253
+5,China,McLaren,PIA,31,8,144.001
+5,China,Racing Bulls,RIC,31,9,143.797
+5,China,Haas,HUL,31,10,143.141
+5,China,Mercedes,HAM,31,11,142.834
+5,China,Alpine,OCO,31,12,142.345
+5,China,Williams,ALB,31,13,142.128
+5,China,Williams,SAR,31,14,141.503
+5,China,Kick Sauber,ZHO,31,15,139.42
+5,China,Alpine,GAS,31,16,139.27
+5,China,Haas,MAG,31,17,137.804
+5,China,Aston Martin,STR,31,18,124.24
+5,China,Red Bull,VER,54,1,99.773
+5,China,McLaren,NOR,54,2,100.217
+5,China,Red Bull,PER,54,3,100.228
+5,China,Ferrari,LEC,54,4,100.171
+5,China,Ferrari,SAI,54,5,100.281
+5,China,Mercedes,RUS,54,6,100.84
+5,China,Aston Martin,ALO,54,7,100.377
+5,China,McLaren,PIA,54,8,101.647
+5,China,Mercedes,HAM,54,9,101.493
+5,China,Haas,HUL,54,10,101.646
+5,China,Alpine,OCO,54,11,101.522
+5,China,Williams,ALB,54,12,102.424
+5,China,Alpine,GAS,54,13,100.727
+5,China,Kick Sauber,ZHO,54,14,101.258
+5,China,Haas,MAG,54,15,102.863
+5,China,Williams,SAR,54,16,102.402
+5,China,Aston Martin,STR,54,17,101.571
+5,China,Red Bull,VER,39,1,98.742
+5,China,McLaren,NOR,39,2,99.501
+5,China,Red Bull,PER,39,3,99.409
+5,China,Ferrari,LEC,39,4,100.789
+5,China,Aston Martin,ALO,39,5,100.447
+5,China,Ferrari,SAI,39,6,100.497
+5,China,Mercedes,RUS,39,7,100.112
+5,China,McLaren,PIA,39,8,101.496
+5,China,Haas,HUL,39,9,101.268
+5,China,Mercedes,HAM,39,10,101.113
+5,China,Alpine,OCO,39,11,101.313
+5,China,Williams,ALB,39,12,101.341
+5,China,Kick Sauber,ZHO,39,13,101.749
+5,China,Williams,SAR,39,14,102.346
+5,China,Haas,MAG,39,15,101.28
+5,China,Alpine,GAS,39,16,118.239
+5,China,Aston Martin,STR,39,17,99.639
+5,China,Red Bull,VER,53,1,99.654
+5,China,McLaren,NOR,53,2,100.208
+5,China,Red Bull,PER,53,3,100.196
+5,China,Ferrari,LEC,53,4,100.366
+5,China,Ferrari,SAI,53,5,100.561
+5,China,Mercedes,RUS,53,6,100.67
+5,China,Aston Martin,ALO,53,7,99.557
+5,China,McLaren,PIA,53,8,101.471
+5,China,Mercedes,HAM,53,9,101.521
+5,China,Haas,HUL,53,10,101.543
+5,China,Alpine,OCO,53,11,101.652
+5,China,Williams,ALB,53,12,101.354
+5,China,Alpine,GAS,53,13,101.373
+5,China,Kick Sauber,ZHO,53,14,101.049
+5,China,Haas,MAG,53,15,104.013
+5,China,Williams,SAR,53,16,102.274
+5,China,Aston Martin,STR,53,17,101.402
+5,China,Red Bull,VER,6,1,101.147
+5,China,Red Bull,PER,6,2,101.656
+5,China,Aston Martin,ALO,6,3,102.363
+5,China,McLaren,NOR,6,4,102.009
+5,China,McLaren,PIA,6,5,102.608
+5,China,Mercedes,RUS,6,6,102.597
+5,China,Ferrari,LEC,6,7,102.322
+5,China,Ferrari,SAI,6,8,102.409
+5,China,Aston Martin,STR,6,9,103.277
+5,China,Haas,HUL,6,10,103.384
+5,China,Kick Sauber,BOT,6,11,103.151
+5,China,Alpine,OCO,6,12,103.212
+5,China,Williams,ALB,6,13,103.353
+5,China,Alpine,GAS,6,14,103.494
+5,China,Racing Bulls,RIC,6,15,103.613
+5,China,Racing Bulls,TSU,6,16,103.669
+5,China,Mercedes,HAM,6,17,103.467
+5,China,Haas,MAG,6,18,103.899
+5,China,Kick Sauber,ZHO,6,19,104.212
+5,China,Williams,SAR,6,20,103.726
+5,China,Red Bull,VER,47,1,99.422
+5,China,McLaren,NOR,47,2,100.113
+5,China,Red Bull,PER,47,3,99.955
+5,China,Ferrari,LEC,47,4,100.316
+5,China,Ferrari,SAI,47,5,100.602
+5,China,Mercedes,RUS,47,6,100.404
+5,China,McLaren,PIA,47,7,101.45
+5,China,Mercedes,HAM,47,8,101.376
+5,China,Aston Martin,ALO,47,9,99.963
+5,China,Haas,HUL,47,10,101.998
+5,China,Alpine,OCO,47,11,101.743
+5,China,Williams,ALB,47,12,101.584
+5,China,Haas,MAG,47,13,101.366
+5,China,Williams,SAR,47,14,101.914
+5,China,Alpine,GAS,47,15,100.397
+5,China,Kick Sauber,ZHO,47,16,100.046
+5,China,Aston Martin,STR,47,17,100.654
+5,China,Red Bull,VER,5,1,100.919
+5,China,Red Bull,PER,5,2,101.625
+5,China,Aston Martin,ALO,5,3,103.06
+5,China,McLaren,NOR,5,4,101.94
+5,China,McLaren,PIA,5,5,102.227
+5,China,Mercedes,RUS,5,6,102.185
+5,China,Ferrari,LEC,5,7,102.095
+5,China,Ferrari,SAI,5,8,102.21
+5,China,Aston Martin,STR,5,9,102.984
+5,China,Haas,HUL,5,10,103.331
+5,China,Kick Sauber,BOT,5,11,103.192
+5,China,Alpine,OCO,5,12,103.105
+5,China,Williams,ALB,5,13,103.392
+5,China,Alpine,GAS,5,14,103.552
+5,China,Racing Bulls,RIC,5,15,103.449
+5,China,Racing Bulls,TSU,5,16,103.657
+5,China,Mercedes,HAM,5,17,103.499
+5,China,Haas,MAG,5,18,103.797
+5,China,Kick Sauber,ZHO,5,19,104.018
+5,China,Williams,SAR,5,20,103.516
+5,China,Red Bull,VER,32,1,98.604
+5,China,McLaren,NOR,32,2,98.957
+5,China,Ferrari,LEC,32,3,99.525
+5,China,Red Bull,PER,32,4,99.731
+5,China,Aston Martin,ALO,32,5,100.19
+5,China,Ferrari,SAI,32,6,100.401
+5,China,Mercedes,RUS,32,7,100.69
+5,China,McLaren,PIA,32,8,101.017
+5,China,Haas,HUL,32,9,100.815
+5,China,Mercedes,HAM,32,10,101.118
+5,China,Alpine,OCO,32,11,101.902
+5,China,Racing Bulls,RIC,32,12,104.075
+5,China,Williams,ALB,32,13,102.221
+5,China,Williams,SAR,32,14,102.185
+5,China,Kick Sauber,ZHO,32,15,102.002
+5,China,Alpine,GAS,32,16,101.886
+5,China,Haas,MAG,32,17,101.74
+5,China,Aston Martin,STR,32,18,101.485
+5,China,Red Bull,VER,44,1,99.305
+5,China,McLaren,NOR,44,2,99.435
+5,China,Red Bull,PER,44,3,99.722
+5,China,Ferrari,LEC,44,4,99.841
+5,China,Ferrari,SAI,44,5,100.109
+5,China,Mercedes,RUS,44,6,100.38
+5,China,McLaren,PIA,44,7,101.004
+5,China,Mercedes,HAM,44,8,100.915
+5,China,Haas,HUL,44,9,101.346
+5,China,Alpine,OCO,44,10,101.24
+5,China,Williams,ALB,44,11,101.504
+5,China,Aston Martin,ALO,44,12,117.277
+5,China,Haas,MAG,44,13,101.324
+5,China,Williams,SAR,44,14,102.394
+5,China,Alpine,GAS,44,15,99.906
+5,China,Kick Sauber,ZHO,44,16,99.682
+5,China,Aston Martin,STR,44,17,100.358
+5,China,Red Bull,VER,22,1,134.296
+5,China,McLaren,NOR,22,2,138.646
+5,China,Red Bull,PER,22,3,133.674
+5,China,Aston Martin,ALO,22,4,133.864
+5,China,Ferrari,LEC,22,5,150.205
+5,China,Mercedes,RUS,22,6,133.433
+5,China,McLaren,PIA,22,7,135.352
+5,China,Ferrari,SAI,22,8,134.775
+5,China,Haas,HUL,22,9,132.713
+5,China,Alpine,OCO,22,10,135.159
+5,China,Racing Bulls,RIC,22,11,134.125
+5,China,Racing Bulls,TSU,22,12,133.79
+5,China,Aston Martin,STR,22,13,150.849
+5,China,Williams,ALB,22,14,133.878
+5,China,Kick Sauber,ZHO,22,15,133.883
+5,China,Williams,SAR,22,16,133.694
+5,China,Mercedes,HAM,22,17,149.397
+5,China,Alpine,GAS,22,18,134.094
+5,China,Haas,MAG,22,19,135.385
+5,China,McLaren,NOR,17,1,101.7
+5,China,Red Bull,VER,17,2,99.519
+5,China,Ferrari,LEC,17,3,101.979
+5,China,Red Bull,PER,17,4,102.103
+5,China,Ferrari,SAI,17,5,107.863
+5,China,Aston Martin,ALO,17,6,101.251
+5,China,Mercedes,RUS,17,7,101.376
+5,China,Aston Martin,STR,17,8,101.721
+5,China,McLaren,PIA,17,9,119.282
+5,China,Haas,HUL,17,10,101.955
+5,China,Kick Sauber,BOT,17,11,102.606
+5,China,Alpine,OCO,17,12,102.55
+5,China,Mercedes,HAM,17,13,102.223
+5,China,Haas,MAG,17,14,110.262
+5,China,Racing Bulls,TSU,17,15,102.441
+5,China,Racing Bulls,RIC,17,16,101.077
+5,China,Williams,ALB,17,17,103.118
+5,China,Kick Sauber,ZHO,17,18,103.189
+5,China,Williams,SAR,17,19,102.275
+5,China,Alpine,GAS,17,20,101.956
+5,China,McLaren,NOR,14,1,101.656
+5,China,Ferrari,LEC,14,2,101.812
+5,China,Red Bull,VER,14,3,119.074
+5,China,McLaren,PIA,14,4,103.139
+5,China,Ferrari,SAI,14,5,103.087
+5,China,Red Bull,PER,14,6,118.255
+5,China,Aston Martin,ALO,14,7,100.944
+5,China,Mercedes,RUS,14,8,101.754
+5,China,Racing Bulls,RIC,14,9,107.802
+5,China,Haas,MAG,14,10,103.959
+5,China,Aston Martin,STR,14,11,101.825
+5,China,Haas,HUL,14,12,102.123
+5,China,Kick Sauber,BOT,14,13,102.359
+5,China,Alpine,OCO,14,14,102.112
+5,China,Mercedes,HAM,14,15,101.72
+5,China,Racing Bulls,TSU,14,16,102.51
+5,China,Williams,ALB,14,17,103.274
+5,China,Kick Sauber,ZHO,14,18,102.626
+5,China,Williams,SAR,14,19,101.0
+5,China,Alpine,GAS,14,20,101.893
+5,China,Red Bull,VER,55,1,99.805
+5,China,McLaren,NOR,55,2,100.686
+5,China,Red Bull,PER,55,3,100.593
+5,China,Ferrari,LEC,55,4,100.882
+5,China,Ferrari,SAI,55,5,100.711
+5,China,Mercedes,RUS,55,6,101.429
+5,China,Aston Martin,ALO,55,7,100.056
+5,China,McLaren,PIA,55,8,101.45
+5,China,Mercedes,HAM,55,9,101.604
+5,China,Haas,HUL,55,10,101.705
+5,China,Alpine,OCO,55,11,101.574
+5,China,Williams,ALB,55,12,101.998
+5,China,Alpine,GAS,55,13,100.737
+5,China,Kick Sauber,ZHO,55,14,100.785
+5,China,Haas,MAG,55,15,102.864
+5,China,Aston Martin,STR,55,16,101.143
+5,China,Williams,SAR,55,17,102.913
+5,China,Red Bull,VER,29,1,146.57
+5,China,McLaren,NOR,29,2,147.449
+5,China,Ferrari,LEC,29,3,146.334
+5,China,Red Bull,PER,29,4,145.947
+5,China,Aston Martin,ALO,29,5,145.818
+5,China,Ferrari,SAI,29,6,145.926
+5,China,Mercedes,RUS,29,7,145.225
+5,China,McLaren,PIA,29,8,145.655
+5,China,Racing Bulls,RIC,29,9,145.366
+5,China,Haas,HUL,29,10,145.148
+5,China,Mercedes,HAM,29,11,144.889
+5,China,Alpine,OCO,29,12,144.917
+5,China,Williams,ALB,29,13,144.784
+5,China,Williams,SAR,29,14,144.794
+5,China,Kick Sauber,ZHO,29,15,146.076
+5,China,Alpine,GAS,29,16,146.365
+5,China,Haas,MAG,29,17,117.805
+5,China,Aston Martin,STR,29,18,104.547
+5,China,Red Bull,VER,25,1,145.05
+5,China,McLaren,NOR,25,2,145.105
+5,China,Ferrari,LEC,25,3,145.209
+5,China,Red Bull,PER,25,4,144.356
+5,China,Ferrari,SAI,25,5,136.459
+5,China,Aston Martin,ALO,25,6,135.201
+5,China,Mercedes,RUS,25,7,131.356
+5,China,McLaren,PIA,25,8,145.072
+5,China,Racing Bulls,RIC,25,9,128.183
+5,China,Aston Martin,STR,25,10,127.034
+5,China,Haas,HUL,25,11,119.529
+5,China,Alpine,OCO,25,12,116.221
+5,China,Mercedes,HAM,25,13,114.977
+5,China,Haas,MAG,25,14,114.289
+5,China,Racing Bulls,TSU,25,15,114.27
+5,China,Williams,ALB,25,16,111.954
+5,China,Williams,SAR,25,17,126.753
+5,China,Kick Sauber,ZHO,25,18,109.955
+5,China,Alpine,GAS,25,19,109.465
