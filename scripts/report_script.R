@@ -109,3 +109,6 @@ plot_all("Australia", "LEC", "NOR", "#00008B")
 
 # Japanese GP
 plot_all("Japan", "LEC", "SAI", "#B0000F")
+
+# Chinese GP
+plot_all("China", "NOR", "PER", "#EE1C25")
