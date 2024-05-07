@@ -112,3 +112,6 @@ plot_all("Japan", "LEC", "SAI", "#B0000F")
 
 # Chinese GP
 plot_all("China", "NOR", "PER", "#EE1C25")
+
+# Miami GP
+plot_all("Miami", "NOR", "VER", "#00A8CC")
