@@ -13,10 +13,10 @@ os.chdir("..")
 
 # Creating a data frame for the rounds, Grands Prix, and number of laps
 grand_prix_df = pd.DataFrame({
-    "round_num": [1, 2, 3, 4, 5, 6],
+    "round_num": [1, 2, 3, 4, 5, 6, 7],
     "grand_prix": ["Bahrain", "Saudi Arabia", "Australia", "Japan", "China",
-                   "Miami"],
-    "laps": [57, 50, 58, 53, 56, 57]
+                   "Miami", "Emilia Romagna"],
+    "laps": [57, 50, 58, 53, 56, 57, 63]
 })
 
 # Setting the round number as the data frame index
