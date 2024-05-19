@@ -115,3 +115,6 @@ plot_all("China", "NOR", "PER", "#EE1C25")
 
 # Miami GP
 plot_all("Miami", "NOR", "VER", "#00A8CC")
+
+# Emilia Romagna GP
+plot_all("Emilia Romagna", "NOR", "VER", "#009B47")
