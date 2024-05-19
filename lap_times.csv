@@ -6068,3 +6068,1241 @@ round,grand_prix,constructor,driver,lap,position,time
 6,Miami,Aston Martin,STR,32,17,124.501
 6,Miami,Kick Sauber,BOT,32,18,121.903
 6,Miami,Haas,MAG,32,19,115.086
+7,Emilia Romagna,Red Bull,VER,63,1,81.035
+7,Emilia Romagna,McLaren,NOR,63,2,80.743
+7,Emilia Romagna,Ferrari,LEC,63,3,81.153
+7,Emilia Romagna,McLaren,PIA,63,4,80.8
+7,Emilia Romagna,Ferrari,SAI,63,5,80.22
+7,Emilia Romagna,Mercedes,HAM,63,6,80.649
+7,Emilia Romagna,Mercedes,RUS,63,7,80.092
+7,Emilia Romagna,Red Bull,PER,63,8,80.944
+7,Emilia Romagna,Aston Martin,STR,63,9,83.832
+7,Emilia Romagna,Red Bull,VER,24,1,86.212
+7,Emilia Romagna,Ferrari,LEC,24,2,81.6
+7,Emilia Romagna,Ferrari,SAI,24,3,81.773
+7,Emilia Romagna,Mercedes,HAM,24,4,82.345
+7,Emilia Romagna,McLaren,NOR,24,5,80.468
+7,Emilia Romagna,Red Bull,PER,24,6,82.684
+7,Emilia Romagna,Aston Martin,STR,24,7,82.592
+7,Emilia Romagna,McLaren,PIA,24,8,103.264
+7,Emilia Romagna,Mercedes,RUS,24,9,80.975
+7,Emilia Romagna,Alpine,OCO,24,10,83.042
+7,Emilia Romagna,Haas,MAG,24,11,82.939
+7,Emilia Romagna,Kick Sauber,ZHO,24,12,83.021
+7,Emilia Romagna,Williams,SAR,24,13,82.987
+7,Emilia Romagna,Racing Bulls,TSU,24,14,82.573
+7,Emilia Romagna,Haas,HUL,24,15,83.102
+7,Emilia Romagna,Racing Bulls,RIC,24,16,82.458
+7,Emilia Romagna,Alpine,GAS,24,17,82.518
+7,Emilia Romagna,Kick Sauber,BOT,24,18,82.589
+7,Emilia Romagna,Aston Martin,ALO,24,19,82.961
+7,Emilia Romagna,Williams,ALB,24,20,114.335
+7,Emilia Romagna,Red Bull,VER,10,1,81.093
+7,Emilia Romagna,McLaren,NOR,10,2,81.272
+7,Emilia Romagna,Ferrari,LEC,10,3,81.387
+7,Emilia Romagna,Ferrari,SAI,10,4,81.586
+7,Emilia Romagna,McLaren,PIA,10,5,81.586
+7,Emilia Romagna,Mercedes,RUS,10,6,81.596
+7,Emilia Romagna,Mercedes,HAM,10,7,81.544
+7,Emilia Romagna,Haas,HUL,10,8,82.538
+7,Emilia Romagna,Racing Bulls,TSU,10,9,82.513
+7,Emilia Romagna,Red Bull,PER,10,10,82.545
+7,Emilia Romagna,Racing Bulls,RIC,10,11,82.494
+7,Emilia Romagna,Aston Martin,STR,10,12,82.233
+7,Emilia Romagna,Alpine,OCO,10,13,83.802
+7,Emilia Romagna,Haas,MAG,10,14,83.013
+7,Emilia Romagna,Kick Sauber,ZHO,10,15,83.131
+7,Emilia Romagna,Williams,SAR,10,16,83.239
+7,Emilia Romagna,Alpine,GAS,10,17,81.371
+7,Emilia Romagna,Kick Sauber,BOT,10,18,81.529
+7,Emilia Romagna,Aston Martin,ALO,10,19,81.492
+7,Emilia Romagna,Williams,ALB,10,20,113.376
+7,Emilia Romagna,Red Bull,VER,13,1,81.073
+7,Emilia Romagna,McLaren,NOR,13,2,81.735
+7,Emilia Romagna,Ferrari,LEC,13,3,81.442
+7,Emilia Romagna,Ferrari,SAI,13,4,81.747
+7,Emilia Romagna,McLaren,PIA,13,5,81.888
+7,Emilia Romagna,Mercedes,RUS,13,6,81.867
+7,Emilia Romagna,Mercedes,HAM,13,7,81.767
+7,Emilia Romagna,Red Bull,PER,13,8,82.359
+7,Emilia Romagna,Haas,HUL,13,9,86.982
+7,Emilia Romagna,Aston Martin,STR,13,10,82.577
+7,Emilia Romagna,Alpine,OCO,13,11,82.907
+7,Emilia Romagna,Haas,MAG,13,12,82.955
+7,Emilia Romagna,Kick Sauber,ZHO,13,13,83.067
+7,Emilia Romagna,Williams,SAR,13,14,83.581
+7,Emilia Romagna,Racing Bulls,TSU,13,15,103.607
+7,Emilia Romagna,Racing Bulls,RIC,13,16,81.569
+7,Emilia Romagna,Alpine,GAS,13,17,82.007
+7,Emilia Romagna,Kick Sauber,BOT,13,18,81.605
+7,Emilia Romagna,Aston Martin,ALO,13,19,81.644
+7,Emilia Romagna,Williams,ALB,13,20,81.491
+7,Emilia Romagna,Red Bull,VER,16,1,81.362
+7,Emilia Romagna,McLaren,NOR,16,2,81.523
+7,Emilia Romagna,Ferrari,LEC,16,3,81.964
+7,Emilia Romagna,Ferrari,SAI,16,4,81.671
+7,Emilia Romagna,McLaren,PIA,16,5,81.734
+7,Emilia Romagna,Mercedes,RUS,16,6,81.767
+7,Emilia Romagna,Mercedes,HAM,16,7,82.199
+7,Emilia Romagna,Red Bull,PER,16,8,81.837
+7,Emilia Romagna,Aston Martin,STR,16,9,82.371
+7,Emilia Romagna,Alpine,OCO,16,10,83.049
+7,Emilia Romagna,Haas,MAG,16,11,83.135
+7,Emilia Romagna,Kick Sauber,ZHO,16,12,82.789
+7,Emilia Romagna,Williams,SAR,16,13,82.939
+7,Emilia Romagna,Racing Bulls,TSU,16,14,81.635
+7,Emilia Romagna,Haas,HUL,16,15,81.756
+7,Emilia Romagna,Racing Bulls,RIC,16,16,82.012
+7,Emilia Romagna,Alpine,GAS,16,17,82.152
+7,Emilia Romagna,Kick Sauber,BOT,16,18,81.896
+7,Emilia Romagna,Aston Martin,ALO,16,19,81.851
+7,Emilia Romagna,Williams,ALB,16,20,82.144
+7,Emilia Romagna,Red Bull,VER,18,1,81.411
+7,Emilia Romagna,McLaren,NOR,18,2,81.617
+7,Emilia Romagna,Ferrari,LEC,18,3,81.719
+7,Emilia Romagna,Ferrari,SAI,18,4,81.738
+7,Emilia Romagna,McLaren,PIA,18,5,81.867
+7,Emilia Romagna,Mercedes,RUS,18,6,82.208
+7,Emilia Romagna,Mercedes,HAM,18,7,82.02
+7,Emilia Romagna,Red Bull,PER,18,8,82.435
+7,Emilia Romagna,Aston Martin,STR,18,9,83.047
+7,Emilia Romagna,Alpine,OCO,18,10,83.082
+7,Emilia Romagna,Haas,MAG,18,11,83.338
+7,Emilia Romagna,Kick Sauber,ZHO,18,12,83.106
+7,Emilia Romagna,Williams,SAR,18,13,83.363
+7,Emilia Romagna,Racing Bulls,TSU,18,14,81.949
+7,Emilia Romagna,Haas,HUL,18,15,82.086
+7,Emilia Romagna,Racing Bulls,RIC,18,16,82.031
+7,Emilia Romagna,Alpine,GAS,18,17,82.419
+7,Emilia Romagna,Kick Sauber,BOT,18,18,82.36
+7,Emilia Romagna,Aston Martin,ALO,18,19,82.39
+7,Emilia Romagna,Williams,ALB,18,20,82.247
+7,Emilia Romagna,Red Bull,VER,56,1,80.49
+7,Emilia Romagna,McLaren,NOR,56,2,80.168
+7,Emilia Romagna,Ferrari,LEC,56,3,80.415
+7,Emilia Romagna,McLaren,PIA,56,4,80.44
+7,Emilia Romagna,Ferrari,SAI,56,5,80.959
+7,Emilia Romagna,Mercedes,HAM,56,6,81.297
+7,Emilia Romagna,Mercedes,RUS,56,7,79.571
+7,Emilia Romagna,Red Bull,PER,56,8,80.29
+7,Emilia Romagna,Aston Martin,STR,56,9,80.617
+7,Emilia Romagna,Racing Bulls,TSU,56,10,83.87
+7,Emilia Romagna,Haas,HUL,56,11,82.217
+7,Emilia Romagna,Racing Bulls,RIC,56,12,83.896
+7,Emilia Romagna,Haas,MAG,56,13,81.181
+7,Emilia Romagna,Kick Sauber,BOT,56,14,82.917
+7,Emilia Romagna,Alpine,OCO,56,15,83.017
+7,Emilia Romagna,Kick Sauber,ZHO,56,16,82.942
+7,Emilia Romagna,Alpine,GAS,56,17,83.8
+7,Emilia Romagna,Aston Martin,ALO,56,18,83.677
+7,Emilia Romagna,Williams,SAR,56,19,81.883
+7,Emilia Romagna,Red Bull,VER,8,1,80.762
+7,Emilia Romagna,McLaren,NOR,8,2,80.997
+7,Emilia Romagna,Ferrari,LEC,8,3,81.116
+7,Emilia Romagna,Ferrari,SAI,8,4,81.431
+7,Emilia Romagna,McLaren,PIA,8,5,81.523
+7,Emilia Romagna,Mercedes,RUS,8,6,81.375
+7,Emilia Romagna,Mercedes,HAM,8,7,81.593
+7,Emilia Romagna,Haas,HUL,8,8,82.148
+7,Emilia Romagna,Racing Bulls,TSU,8,9,82.138
+7,Emilia Romagna,Red Bull,PER,8,10,82.338
+7,Emilia Romagna,Racing Bulls,RIC,8,11,82.374
+7,Emilia Romagna,Alpine,OCO,8,12,82.424
+7,Emilia Romagna,Aston Martin,STR,8,13,82.392
+7,Emilia Romagna,Haas,MAG,8,14,82.411
+7,Emilia Romagna,Williams,ALB,8,15,86.643
+7,Emilia Romagna,Kick Sauber,ZHO,8,16,82.798
+7,Emilia Romagna,Williams,SAR,8,17,82.776
+7,Emilia Romagna,Alpine,GAS,8,18,86.945
+7,Emilia Romagna,Kick Sauber,BOT,8,19,87.265
+7,Emilia Romagna,Aston Martin,ALO,8,20,105.88
+7,Emilia Romagna,Red Bull,VER,45,1,81.364
+7,Emilia Romagna,McLaren,NOR,45,2,80.339
+7,Emilia Romagna,Ferrari,LEC,45,3,80.431
+7,Emilia Romagna,McLaren,PIA,45,4,80.888
+7,Emilia Romagna,Ferrari,SAI,45,5,81.256
+7,Emilia Romagna,Mercedes,RUS,45,6,80.928
+7,Emilia Romagna,Mercedes,HAM,45,7,80.581
+7,Emilia Romagna,Red Bull,PER,45,8,80.495
+7,Emilia Romagna,Racing Bulls,TSU,45,9,82.241
+7,Emilia Romagna,Haas,HUL,45,10,82.481
+7,Emilia Romagna,Aston Martin,STR,45,11,82.433
+7,Emilia Romagna,Racing Bulls,RIC,45,12,82.076
+7,Emilia Romagna,Kick Sauber,BOT,45,13,84.419
+7,Emilia Romagna,Alpine,OCO,45,14,82.572
+7,Emilia Romagna,Kick Sauber,ZHO,45,15,81.651
+7,Emilia Romagna,Haas,MAG,45,16,81.695
+7,Emilia Romagna,Alpine,GAS,45,17,83.463
+7,Emilia Romagna,Williams,SAR,45,18,82.435
+7,Emilia Romagna,Aston Martin,ALO,45,19,81.053
+7,Emilia Romagna,Williams,ALB,45,20,81.597
+7,Emilia Romagna,Red Bull,VER,19,1,81.517
+7,Emilia Romagna,McLaren,NOR,19,2,81.793
+7,Emilia Romagna,Ferrari,LEC,19,3,81.672
+7,Emilia Romagna,Ferrari,SAI,19,4,82.113
+7,Emilia Romagna,McLaren,PIA,19,5,82.042
+7,Emilia Romagna,Mercedes,RUS,19,6,82.03
+7,Emilia Romagna,Mercedes,HAM,19,7,81.974
+7,Emilia Romagna,Red Bull,PER,19,8,81.854
+7,Emilia Romagna,Aston Martin,STR,19,9,82.771
+7,Emilia Romagna,Alpine,OCO,19,10,83.179
+7,Emilia Romagna,Haas,MAG,19,11,83.271
+7,Emilia Romagna,Kick Sauber,ZHO,19,12,83.179
+7,Emilia Romagna,Williams,SAR,19,13,83.471
+7,Emilia Romagna,Racing Bulls,TSU,19,14,82.162
+7,Emilia Romagna,Haas,HUL,19,15,82.624
+7,Emilia Romagna,Racing Bulls,RIC,19,16,82.224
+7,Emilia Romagna,Alpine,GAS,19,17,82.231
+7,Emilia Romagna,Kick Sauber,BOT,19,18,82.283
+7,Emilia Romagna,Aston Martin,ALO,19,19,82.686
+7,Emilia Romagna,Williams,ALB,19,20,82.579
+7,Emilia Romagna,Red Bull,VER,51,1,80.736
+7,Emilia Romagna,McLaren,NOR,51,2,80.367
+7,Emilia Romagna,Ferrari,LEC,51,3,80.364
+7,Emilia Romagna,McLaren,PIA,51,4,81.203
+7,Emilia Romagna,Ferrari,SAI,51,5,81.748
+7,Emilia Romagna,Mercedes,RUS,51,6,81.145
+7,Emilia Romagna,Mercedes,HAM,51,7,80.776
+7,Emilia Romagna,Red Bull,PER,51,8,81.032
+7,Emilia Romagna,Aston Martin,STR,51,9,81.074
+7,Emilia Romagna,Racing Bulls,TSU,51,10,82.183
+7,Emilia Romagna,Haas,HUL,51,11,84.008
+7,Emilia Romagna,Racing Bulls,RIC,51,12,82.17
+7,Emilia Romagna,Haas,MAG,51,13,81.374
+7,Emilia Romagna,Kick Sauber,BOT,51,14,83.709
+7,Emilia Romagna,Alpine,OCO,51,15,84.114
+7,Emilia Romagna,Kick Sauber,ZHO,51,16,84.214
+7,Emilia Romagna,Alpine,GAS,51,17,82.176
+7,Emilia Romagna,Williams,SAR,51,18,82.157
+7,Emilia Romagna,Aston Martin,ALO,51,19,82.027
+7,Emilia Romagna,Williams,ALB,51,20,89.784
+7,Emilia Romagna,Ferrari,SAI,25,1,81.468
+7,Emilia Romagna,Ferrari,LEC,25,2,86.023
+7,Emilia Romagna,Mercedes,HAM,25,3,81.492
+7,Emilia Romagna,Red Bull,VER,25,4,103.602
+7,Emilia Romagna,McLaren,NOR,25,5,80.977
+7,Emilia Romagna,Red Bull,PER,25,6,82.228
+7,Emilia Romagna,McLaren,PIA,25,7,79.907
+7,Emilia Romagna,Aston Martin,STR,25,8,83.011
+7,Emilia Romagna,Mercedes,RUS,25,9,80.951
+7,Emilia Romagna,Haas,MAG,25,10,83.296
+7,Emilia Romagna,Alpine,OCO,25,11,87.881
+7,Emilia Romagna,Kick Sauber,ZHO,25,12,83.36
+7,Emilia Romagna,Williams,SAR,25,13,83.248
+7,Emilia Romagna,Racing Bulls,TSU,25,14,83.073
+7,Emilia Romagna,Haas,HUL,25,15,82.763
+7,Emilia Romagna,Racing Bulls,RIC,25,16,82.681
+7,Emilia Romagna,Alpine,GAS,25,17,82.607
+7,Emilia Romagna,Kick Sauber,BOT,25,18,82.605
+7,Emilia Romagna,Aston Martin,ALO,25,19,82.953
+7,Emilia Romagna,Williams,ALB,25,20,85.644
+7,Emilia Romagna,Red Bull,VER,61,1,80.698
+7,Emilia Romagna,McLaren,NOR,61,2,80.502
+7,Emilia Romagna,Ferrari,LEC,61,3,80.783
+7,Emilia Romagna,McLaren,PIA,61,4,80.982
+7,Emilia Romagna,Ferrari,SAI,61,5,81.378
+7,Emilia Romagna,Mercedes,HAM,61,6,80.726
+7,Emilia Romagna,Mercedes,RUS,61,7,80.703
+7,Emilia Romagna,Red Bull,PER,61,8,80.833
+7,Emilia Romagna,Aston Martin,STR,61,9,81.647
+7,Emilia Romagna,Racing Bulls,TSU,61,10,81.891
+7,Emilia Romagna,Haas,HUL,61,11,83.789
+7,Emilia Romagna,Racing Bulls,RIC,61,12,81.941
+7,Emilia Romagna,Haas,MAG,61,13,81.75
+7,Emilia Romagna,Alpine,OCO,61,14,81.745
+7,Emilia Romagna,Kick Sauber,ZHO,61,15,81.563
+7,Emilia Romagna,Alpine,GAS,61,16,83.355
+7,Emilia Romagna,Williams,SAR,61,17,84.394
+7,Emilia Romagna,Kick Sauber,BOT,61,18,86.165
+7,Emilia Romagna,Aston Martin,ALO,61,19,84.389
+7,Emilia Romagna,Red Bull,VER,21,1,81.608
+7,Emilia Romagna,McLaren,NOR,21,2,81.855
+7,Emilia Romagna,Ferrari,LEC,21,3,81.669
+7,Emilia Romagna,Ferrari,SAI,21,4,82.006
+7,Emilia Romagna,McLaren,PIA,21,5,82.212
+7,Emilia Romagna,Mercedes,HAM,21,6,82.275
+7,Emilia Romagna,Mercedes,RUS,21,7,86.88
+7,Emilia Romagna,Red Bull,PER,21,8,81.94
+7,Emilia Romagna,Aston Martin,STR,21,9,82.582
+7,Emilia Romagna,Alpine,OCO,21,10,83.219
+7,Emilia Romagna,Haas,MAG,21,11,82.686
+7,Emilia Romagna,Kick Sauber,ZHO,21,12,83.217
+7,Emilia Romagna,Williams,SAR,21,13,83.255
+7,Emilia Romagna,Racing Bulls,TSU,21,14,82.941
+7,Emilia Romagna,Haas,HUL,21,15,82.218
+7,Emilia Romagna,Racing Bulls,RIC,21,16,82.221
+7,Emilia Romagna,Alpine,GAS,21,17,82.44
+7,Emilia Romagna,Kick Sauber,BOT,21,18,82.231
+7,Emilia Romagna,Aston Martin,ALO,21,19,84.339
+7,Emilia Romagna,Williams,ALB,21,20,82.335
+7,Emilia Romagna,Red Bull,VER,35,1,80.8
+7,Emilia Romagna,McLaren,NOR,35,2,80.687
+7,Emilia Romagna,Ferrari,LEC,35,3,80.812
+7,Emilia Romagna,McLaren,PIA,35,4,80.913
+7,Emilia Romagna,Ferrari,SAI,35,5,80.705
+7,Emilia Romagna,Mercedes,RUS,35,6,81.209
+7,Emilia Romagna,Red Bull,PER,35,7,82.415
+7,Emilia Romagna,Mercedes,HAM,35,8,82.165
+7,Emilia Romagna,Aston Martin,STR,35,9,82.536
+7,Emilia Romagna,Haas,MAG,35,10,82.945
+7,Emilia Romagna,Racing Bulls,TSU,35,11,82.333
+7,Emilia Romagna,Haas,HUL,35,12,82.11
+7,Emilia Romagna,Racing Bulls,RIC,35,13,82.243
+7,Emilia Romagna,Kick Sauber,BOT,35,14,82.683
+7,Emilia Romagna,Aston Martin,ALO,35,15,82.783
+7,Emilia Romagna,Alpine,OCO,35,16,82.909
+7,Emilia Romagna,Kick Sauber,ZHO,35,17,81.317
+7,Emilia Romagna,Alpine,GAS,35,18,83.386
+7,Emilia Romagna,Williams,SAR,35,19,81.561
+7,Emilia Romagna,Williams,ALB,35,20,81.607
+7,Emilia Romagna,Red Bull,VER,17,1,81.328
+7,Emilia Romagna,McLaren,NOR,17,2,81.565
+7,Emilia Romagna,Ferrari,LEC,17,3,81.714
+7,Emilia Romagna,Ferrari,SAI,17,4,82.173
+7,Emilia Romagna,McLaren,PIA,17,5,81.912
+7,Emilia Romagna,Mercedes,RUS,17,6,81.991
+7,Emilia Romagna,Mercedes,HAM,17,7,81.846
+7,Emilia Romagna,Red Bull,PER,17,8,86.8
+7,Emilia Romagna,Aston Martin,STR,17,9,82.794
+7,Emilia Romagna,Alpine,OCO,17,10,83.06
+7,Emilia Romagna,Haas,MAG,17,11,83.577
+7,Emilia Romagna,Kick Sauber,ZHO,17,12,83.033
+7,Emilia Romagna,Williams,SAR,17,13,83.151
+7,Emilia Romagna,Racing Bulls,TSU,17,14,81.855
+7,Emilia Romagna,Haas,HUL,17,15,82.074
+7,Emilia Romagna,Racing Bulls,RIC,17,16,82.258
+7,Emilia Romagna,Alpine,GAS,17,17,82.391
+7,Emilia Romagna,Kick Sauber,BOT,17,18,82.468
+7,Emilia Romagna,Aston Martin,ALO,17,19,82.65
+7,Emilia Romagna,Williams,ALB,17,20,82.41
+7,Emilia Romagna,Red Bull,VER,14,1,80.982
+7,Emilia Romagna,McLaren,NOR,14,2,81.716
+7,Emilia Romagna,Ferrari,LEC,14,3,81.661
+7,Emilia Romagna,Ferrari,SAI,14,4,81.638
+7,Emilia Romagna,McLaren,PIA,14,5,81.653
+7,Emilia Romagna,Mercedes,RUS,14,6,81.818
+7,Emilia Romagna,Mercedes,HAM,14,7,82.08
+7,Emilia Romagna,Red Bull,PER,14,8,81.828
+7,Emilia Romagna,Aston Martin,STR,14,9,82.459
+7,Emilia Romagna,Alpine,OCO,14,10,82.861
+7,Emilia Romagna,Haas,MAG,14,11,83.09
+7,Emilia Romagna,Kick Sauber,ZHO,14,12,82.802
+7,Emilia Romagna,Williams,SAR,14,13,83.012
+7,Emilia Romagna,Racing Bulls,TSU,14,14,80.936
+7,Emilia Romagna,Haas,HUL,14,15,104.353
+7,Emilia Romagna,Racing Bulls,RIC,14,16,82.254
+7,Emilia Romagna,Alpine,GAS,14,17,81.839
+7,Emilia Romagna,Kick Sauber,BOT,14,18,81.732
+7,Emilia Romagna,Aston Martin,ALO,14,19,81.69
+7,Emilia Romagna,Williams,ALB,14,20,81.839
+7,Emilia Romagna,Red Bull,VER,42,1,80.832
+7,Emilia Romagna,McLaren,NOR,42,2,80.828
+7,Emilia Romagna,Ferrari,LEC,42,3,80.24
+7,Emilia Romagna,McLaren,PIA,42,4,81.122
+7,Emilia Romagna,Ferrari,SAI,42,5,80.667
+7,Emilia Romagna,Mercedes,RUS,42,6,81.077
+7,Emilia Romagna,Mercedes,HAM,42,7,80.434
+7,Emilia Romagna,Red Bull,PER,42,8,79.919
+7,Emilia Romagna,Racing Bulls,TSU,42,9,82.879
+7,Emilia Romagna,Haas,HUL,42,10,82.265
+7,Emilia Romagna,Racing Bulls,RIC,42,11,82.166
+7,Emilia Romagna,Aston Martin,STR,42,12,80.807
+7,Emilia Romagna,Kick Sauber,BOT,42,13,82.709
+7,Emilia Romagna,Alpine,OCO,42,14,82.224
+7,Emilia Romagna,Kick Sauber,ZHO,42,15,82.007
+7,Emilia Romagna,Haas,MAG,42,16,84.273
+7,Emilia Romagna,Alpine,GAS,42,17,83.721
+7,Emilia Romagna,Williams,SAR,42,18,81.496
+7,Emilia Romagna,Aston Martin,ALO,42,19,79.851
+7,Emilia Romagna,Williams,ALB,42,20,81.808
+7,Emilia Romagna,Red Bull,VER,30,1,80.571
+7,Emilia Romagna,McLaren,NOR,30,2,80.72
+7,Emilia Romagna,Ferrari,LEC,30,3,80.426
+7,Emilia Romagna,McLaren,PIA,30,4,80.578
+7,Emilia Romagna,Ferrari,SAI,30,5,80.648
+7,Emilia Romagna,Red Bull,PER,30,6,83.263
+7,Emilia Romagna,Mercedes,RUS,30,7,82.098
+7,Emilia Romagna,Aston Martin,STR,30,8,82.649
+7,Emilia Romagna,Mercedes,HAM,30,9,80.586
+7,Emilia Romagna,Haas,MAG,30,10,83.061
+7,Emilia Romagna,Kick Sauber,ZHO,30,11,83.117
+7,Emilia Romagna,Racing Bulls,TSU,30,12,82.892
+7,Emilia Romagna,Haas,HUL,30,13,82.732
+7,Emilia Romagna,Williams,SAR,30,14,84.026
+7,Emilia Romagna,Racing Bulls,RIC,30,15,84.07
+7,Emilia Romagna,Kick Sauber,BOT,30,16,83.276
+7,Emilia Romagna,Alpine,GAS,30,17,87.963
+7,Emilia Romagna,Aston Martin,ALO,30,18,82.896
+7,Emilia Romagna,Alpine,OCO,30,19,82.557
+7,Emilia Romagna,Williams,ALB,30,20,81.354
+7,Emilia Romagna,Red Bull,VER,58,1,80.513
+7,Emilia Romagna,McLaren,NOR,58,2,80.555
+7,Emilia Romagna,Ferrari,LEC,58,3,80.553
+7,Emilia Romagna,McLaren,PIA,58,4,80.698
+7,Emilia Romagna,Ferrari,SAI,58,5,80.792
+7,Emilia Romagna,Mercedes,HAM,58,6,81.561
+7,Emilia Romagna,Mercedes,RUS,58,7,79.616
+7,Emilia Romagna,Red Bull,PER,58,8,80.285
+7,Emilia Romagna,Aston Martin,STR,58,9,80.57
+7,Emilia Romagna,Racing Bulls,TSU,58,10,82.005
+7,Emilia Romagna,Haas,HUL,58,11,82.126
+7,Emilia Romagna,Racing Bulls,RIC,58,12,82.06
+7,Emilia Romagna,Haas,MAG,58,13,81.009
+7,Emilia Romagna,Kick Sauber,BOT,58,14,82.528
+7,Emilia Romagna,Alpine,OCO,58,15,82.824
+7,Emilia Romagna,Kick Sauber,ZHO,58,16,82.975
+7,Emilia Romagna,Alpine,GAS,58,17,83.004
+7,Emilia Romagna,Aston Martin,ALO,58,18,83.173
+7,Emilia Romagna,Williams,SAR,58,19,82.915
+7,Emilia Romagna,Red Bull,VER,31,1,80.545
+7,Emilia Romagna,McLaren,NOR,31,2,80.628
+7,Emilia Romagna,Ferrari,LEC,31,3,80.944
+7,Emilia Romagna,McLaren,PIA,31,4,80.728
+7,Emilia Romagna,Ferrari,SAI,31,5,80.652
+7,Emilia Romagna,Mercedes,RUS,31,6,81.517
+7,Emilia Romagna,Red Bull,PER,31,7,83.694
+7,Emilia Romagna,Mercedes,HAM,31,8,81.737
+7,Emilia Romagna,Aston Martin,STR,31,9,83.921
+7,Emilia Romagna,Haas,MAG,31,10,83.284
+7,Emilia Romagna,Kick Sauber,ZHO,31,11,83.326
+7,Emilia Romagna,Racing Bulls,TSU,31,12,83.137
+7,Emilia Romagna,Haas,HUL,31,13,83.01
+7,Emilia Romagna,Racing Bulls,RIC,31,14,83.689
+7,Emilia Romagna,Kick Sauber,BOT,31,15,82.862
+7,Emilia Romagna,Williams,SAR,31,16,88.215
+7,Emilia Romagna,Aston Martin,ALO,31,17,82.557
+7,Emilia Romagna,Alpine,OCO,31,18,82.589
+7,Emilia Romagna,Alpine,GAS,31,19,104.669
+7,Emilia Romagna,Williams,ALB,31,20,81.949
+7,Emilia Romagna,Red Bull,VER,28,1,80.709
+7,Emilia Romagna,McLaren,NOR,28,2,81.077
+7,Emilia Romagna,Ferrari,LEC,28,3,80.928
+7,Emilia Romagna,McLaren,PIA,28,4,80.599
+7,Emilia Romagna,Red Bull,PER,28,5,82.231
+7,Emilia Romagna,Ferrari,SAI,28,6,104.128
+7,Emilia Romagna,Mercedes,RUS,28,7,81.628
+7,Emilia Romagna,Aston Martin,STR,28,8,82.811
+7,Emilia Romagna,Mercedes,HAM,28,9,103.406
+7,Emilia Romagna,Haas,MAG,28,10,83.133
+7,Emilia Romagna,Kick Sauber,ZHO,28,11,82.921
+7,Emilia Romagna,Racing Bulls,TSU,28,12,82.523
+7,Emilia Romagna,Haas,HUL,28,13,82.744
+7,Emilia Romagna,Williams,SAR,28,14,83.234
+7,Emilia Romagna,Racing Bulls,RIC,28,15,83.291
+7,Emilia Romagna,Alpine,GAS,28,16,83.109
+7,Emilia Romagna,Kick Sauber,BOT,28,17,82.969
+7,Emilia Romagna,Aston Martin,ALO,28,18,82.927
+7,Emilia Romagna,Alpine,OCO,28,19,82.056
+7,Emilia Romagna,Williams,ALB,28,20,88.256
+7,Emilia Romagna,Red Bull,VER,9,1,80.543
+7,Emilia Romagna,McLaren,NOR,9,2,81.052
+7,Emilia Romagna,Ferrari,LEC,9,3,81.215
+7,Emilia Romagna,Ferrari,SAI,9,4,81.493
+7,Emilia Romagna,McLaren,PIA,9,5,81.508
+7,Emilia Romagna,Mercedes,RUS,9,6,81.591
+7,Emilia Romagna,Mercedes,HAM,9,7,81.51
+7,Emilia Romagna,Haas,HUL,9,8,82.175
+7,Emilia Romagna,Racing Bulls,TSU,9,9,82.216
+7,Emilia Romagna,Red Bull,PER,9,10,82.591
+7,Emilia Romagna,Racing Bulls,RIC,9,11,82.453
+7,Emilia Romagna,Alpine,OCO,9,12,82.715
+7,Emilia Romagna,Aston Martin,STR,9,13,82.569
+7,Emilia Romagna,Haas,MAG,9,14,82.32
+7,Emilia Romagna,Kick Sauber,ZHO,9,15,83.153
+7,Emilia Romagna,Williams,SAR,9,16,83.268
+7,Emilia Romagna,Alpine,GAS,9,17,105.303
+7,Emilia Romagna,Kick Sauber,BOT,9,18,105.836
+7,Emilia Romagna,Aston Martin,ALO,9,19,81.716
+7,Emilia Romagna,Williams,ALB,9,20,163.048
+7,Emilia Romagna,Red Bull,VER,29,1,80.615
+7,Emilia Romagna,McLaren,NOR,29,2,80.933
+7,Emilia Romagna,Ferrari,LEC,29,3,80.502
+7,Emilia Romagna,McLaren,PIA,29,4,80.313
+7,Emilia Romagna,Red Bull,PER,29,5,82.347
+7,Emilia Romagna,Ferrari,SAI,29,6,81.597
+7,Emilia Romagna,Mercedes,RUS,29,7,81.444
+7,Emilia Romagna,Aston Martin,STR,29,8,82.631
+7,Emilia Romagna,Mercedes,HAM,29,9,80.593
+7,Emilia Romagna,Haas,MAG,29,10,83.157
+7,Emilia Romagna,Kick Sauber,ZHO,29,11,83.118
+7,Emilia Romagna,Racing Bulls,TSU,29,12,82.593
+7,Emilia Romagna,Haas,HUL,29,13,82.829
+7,Emilia Romagna,Williams,SAR,29,14,83.436
+7,Emilia Romagna,Racing Bulls,RIC,29,15,83.321
+7,Emilia Romagna,Alpine,GAS,29,16,83.551
+7,Emilia Romagna,Kick Sauber,BOT,29,17,83.139
+7,Emilia Romagna,Aston Martin,ALO,29,18,82.913
+7,Emilia Romagna,Alpine,OCO,29,19,82.261
+7,Emilia Romagna,Williams,ALB,29,20,107.016
+7,Emilia Romagna,Red Bull,VER,62,1,80.753
+7,Emilia Romagna,McLaren,NOR,62,2,80.564
+7,Emilia Romagna,Ferrari,LEC,62,3,81.307
+7,Emilia Romagna,McLaren,PIA,62,4,80.599
+7,Emilia Romagna,Ferrari,SAI,62,5,80.97
+7,Emilia Romagna,Mercedes,HAM,62,6,80.645
+7,Emilia Romagna,Mercedes,RUS,62,7,81.563
+7,Emilia Romagna,Red Bull,PER,62,8,80.767
+7,Emilia Romagna,Aston Martin,STR,62,9,82.751
+7,Emilia Romagna,Racing Bulls,TSU,62,10,81.988
+7,Emilia Romagna,Haas,HUL,62,11,82.21
+7,Emilia Romagna,Haas,MAG,62,12,81.809
+7,Emilia Romagna,Racing Bulls,RIC,62,13,83.435
+7,Emilia Romagna,Alpine,OCO,62,14,82.013
+7,Emilia Romagna,Kick Sauber,ZHO,62,15,81.489
+7,Emilia Romagna,Alpine,GAS,62,16,81.812
+7,Emilia Romagna,Williams,SAR,62,17,81.272
+7,Emilia Romagna,Kick Sauber,BOT,62,18,85.985
+7,Emilia Romagna,Aston Martin,ALO,62,19,79.004
+7,Emilia Romagna,Red Bull,VER,15,1,81.323
+7,Emilia Romagna,McLaren,NOR,15,2,81.666
+7,Emilia Romagna,Ferrari,LEC,15,3,81.464
+7,Emilia Romagna,Ferrari,SAI,15,4,81.61
+7,Emilia Romagna,McLaren,PIA,15,5,81.679
+7,Emilia Romagna,Mercedes,RUS,15,6,81.844
+7,Emilia Romagna,Mercedes,HAM,15,7,81.729
+7,Emilia Romagna,Red Bull,PER,15,8,81.682
+7,Emilia Romagna,Aston Martin,STR,15,9,82.342
+7,Emilia Romagna,Alpine,OCO,15,10,83.006
+7,Emilia Romagna,Haas,MAG,15,11,83.215
+7,Emilia Romagna,Kick Sauber,ZHO,15,12,82.832
+7,Emilia Romagna,Williams,SAR,15,13,83.038
+7,Emilia Romagna,Racing Bulls,TSU,15,14,81.761
+7,Emilia Romagna,Haas,HUL,15,15,81.918
+7,Emilia Romagna,Racing Bulls,RIC,15,16,82.005
+7,Emilia Romagna,Alpine,GAS,15,17,81.955
+7,Emilia Romagna,Kick Sauber,BOT,15,18,81.982
+7,Emilia Romagna,Aston Martin,ALO,15,19,81.93
+7,Emilia Romagna,Williams,ALB,15,20,81.773
+7,Emilia Romagna,Red Bull,VER,32,1,80.713
+7,Emilia Romagna,McLaren,NOR,32,2,80.923
+7,Emilia Romagna,Ferrari,LEC,32,3,80.645
+7,Emilia Romagna,McLaren,PIA,32,4,80.839
+7,Emilia Romagna,Ferrari,SAI,32,5,80.636
+7,Emilia Romagna,Mercedes,RUS,32,6,81.116
+7,Emilia Romagna,Red Bull,PER,32,7,82.259
+7,Emilia Romagna,Mercedes,HAM,32,8,81.16
+7,Emilia Romagna,Aston Martin,STR,32,9,82.954
+7,Emilia Romagna,Haas,MAG,32,10,84.028
+7,Emilia Romagna,Kick Sauber,ZHO,32,11,83.806
+7,Emilia Romagna,Racing Bulls,TSU,32,12,83.537
+7,Emilia Romagna,Haas,HUL,32,13,83.256
+7,Emilia Romagna,Racing Bulls,RIC,32,14,81.853
+7,Emilia Romagna,Kick Sauber,BOT,32,15,82.673
+7,Emilia Romagna,Aston Martin,ALO,32,16,82.688
+7,Emilia Romagna,Alpine,OCO,32,17,82.454
+7,Emilia Romagna,Alpine,GAS,32,18,81.407
+7,Emilia Romagna,Williams,SAR,32,19,108.212
+7,Emilia Romagna,Williams,ALB,32,20,81.817
+7,Emilia Romagna,Red Bull,VER,33,1,81.141
+7,Emilia Romagna,McLaren,NOR,33,2,80.764
+7,Emilia Romagna,Ferrari,LEC,33,3,80.589
+7,Emilia Romagna,McLaren,PIA,33,4,80.701
+7,Emilia Romagna,Ferrari,SAI,33,5,80.724
+7,Emilia Romagna,Mercedes,RUS,33,6,80.934
+7,Emilia Romagna,Red Bull,PER,33,7,82.212
+7,Emilia Romagna,Mercedes,HAM,33,8,80.942
+7,Emilia Romagna,Aston Martin,STR,33,9,82.648
+7,Emilia Romagna,Haas,MAG,33,10,83.207
+7,Emilia Romagna,Racing Bulls,TSU,33,11,82.477
+7,Emilia Romagna,Haas,HUL,33,12,83.561
+7,Emilia Romagna,Racing Bulls,RIC,33,13,82.261
+7,Emilia Romagna,Kick Sauber,ZHO,33,14,89.428
+7,Emilia Romagna,Kick Sauber,BOT,33,15,83.028
+7,Emilia Romagna,Aston Martin,ALO,33,16,82.576
+7,Emilia Romagna,Alpine,OCO,33,17,82.35
+7,Emilia Romagna,Alpine,GAS,33,18,81.633
+7,Emilia Romagna,Williams,SAR,33,19,81.46
+7,Emilia Romagna,Williams,ALB,33,20,81.849
+7,Emilia Romagna,Red Bull,VER,54,1,80.918
+7,Emilia Romagna,McLaren,NOR,54,2,79.994
+7,Emilia Romagna,Ferrari,LEC,54,3,80.398
+7,Emilia Romagna,McLaren,PIA,54,4,80.413
+7,Emilia Romagna,Ferrari,SAI,54,5,80.827
+7,Emilia Romagna,Mercedes,HAM,54,6,80.841
+7,Emilia Romagna,Mercedes,RUS,54,7,78.589
+7,Emilia Romagna,Red Bull,PER,54,8,80.334
+7,Emilia Romagna,Aston Martin,STR,54,9,80.896
+7,Emilia Romagna,Racing Bulls,TSU,54,10,85.932
+7,Emilia Romagna,Haas,HUL,54,11,82.255
+7,Emilia Romagna,Racing Bulls,RIC,54,12,81.985
+7,Emilia Romagna,Haas,MAG,54,13,81.132
+7,Emilia Romagna,Kick Sauber,BOT,54,14,83.616
+7,Emilia Romagna,Alpine,OCO,54,15,83.855
+7,Emilia Romagna,Kick Sauber,ZHO,54,16,84.084
+7,Emilia Romagna,Alpine,GAS,54,17,82.249
+7,Emilia Romagna,Aston Martin,ALO,54,18,80.988
+7,Emilia Romagna,Williams,SAR,54,19,81.41
+7,Emilia Romagna,Red Bull,VER,55,1,80.962
+7,Emilia Romagna,McLaren,NOR,55,2,80.182
+7,Emilia Romagna,Ferrari,LEC,55,3,80.636
+7,Emilia Romagna,McLaren,PIA,55,4,80.394
+7,Emilia Romagna,Ferrari,SAI,55,5,80.803
+7,Emilia Romagna,Mercedes,HAM,55,6,81.027
+7,Emilia Romagna,Mercedes,RUS,55,7,79.778
+7,Emilia Romagna,Red Bull,PER,55,8,80.52
+7,Emilia Romagna,Aston Martin,STR,55,9,80.718
+7,Emilia Romagna,Racing Bulls,TSU,55,10,82.051
+7,Emilia Romagna,Haas,HUL,55,11,82.094
+7,Emilia Romagna,Racing Bulls,RIC,55,12,81.9
+7,Emilia Romagna,Haas,MAG,55,13,81.25
+7,Emilia Romagna,Kick Sauber,BOT,55,14,83.01
+7,Emilia Romagna,Alpine,OCO,55,15,82.991
+7,Emilia Romagna,Kick Sauber,ZHO,55,16,82.694
+7,Emilia Romagna,Alpine,GAS,55,17,82.53
+7,Emilia Romagna,Aston Martin,ALO,55,18,82.508
+7,Emilia Romagna,Williams,SAR,55,19,81.229
+7,Emilia Romagna,Ferrari,SAI,26,1,81.588
+7,Emilia Romagna,Mercedes,HAM,26,2,86.346
+7,Emilia Romagna,Red Bull,VER,26,3,80.482
+7,Emilia Romagna,McLaren,NOR,26,4,80.899
+7,Emilia Romagna,Red Bull,PER,26,5,82.376
+7,Emilia Romagna,Ferrari,LEC,26,6,105.006
+7,Emilia Romagna,McLaren,PIA,26,7,80.577
+7,Emilia Romagna,Aston Martin,STR,26,8,82.532
+7,Emilia Romagna,Mercedes,RUS,26,9,81.655
+7,Emilia Romagna,Haas,MAG,26,10,82.862
+7,Emilia Romagna,Kick Sauber,ZHO,26,11,83.041
+7,Emilia Romagna,Racing Bulls,TSU,26,12,82.175
+7,Emilia Romagna,Haas,HUL,26,13,82.669
+7,Emilia Romagna,Williams,SAR,26,14,85.354
+7,Emilia Romagna,Racing Bulls,RIC,26,15,83.245
+7,Emilia Romagna,Alpine,GAS,26,16,82.757
+7,Emilia Romagna,Kick Sauber,BOT,26,17,82.655
+7,Emilia Romagna,Aston Martin,ALO,26,18,82.911
+7,Emilia Romagna,Alpine,OCO,26,19,105.525
+7,Emilia Romagna,Williams,ALB,26,20,82.204
+7,Emilia Romagna,Red Bull,VER,3,1,80.872
+7,Emilia Romagna,McLaren,NOR,3,2,80.884
+7,Emilia Romagna,Ferrari,LEC,3,3,80.931
+7,Emilia Romagna,Ferrari,SAI,3,4,80.966
+7,Emilia Romagna,McLaren,PIA,3,5,80.808
+7,Emilia Romagna,Mercedes,RUS,3,6,81.135
+7,Emilia Romagna,Mercedes,HAM,3,7,81.222
+7,Emilia Romagna,Haas,HUL,3,8,81.7
+7,Emilia Romagna,Racing Bulls,TSU,3,9,81.758
+7,Emilia Romagna,Red Bull,PER,3,10,81.913
+7,Emilia Romagna,Racing Bulls,RIC,3,11,82.083
+7,Emilia Romagna,Alpine,OCO,3,12,82.29
+7,Emilia Romagna,Aston Martin,STR,3,13,82.356
+7,Emilia Romagna,Williams,ALB,3,14,82.652
+7,Emilia Romagna,Alpine,GAS,3,15,82.752
+7,Emilia Romagna,Haas,MAG,3,16,82.737
+7,Emilia Romagna,Kick Sauber,BOT,3,17,82.762
+7,Emilia Romagna,Kick Sauber,ZHO,3,18,82.718
+7,Emilia Romagna,Williams,SAR,3,19,82.784
+7,Emilia Romagna,Aston Martin,ALO,3,20,83.009
+7,Emilia Romagna,Red Bull,VER,48,1,80.923
+7,Emilia Romagna,McLaren,NOR,48,2,80.803
+7,Emilia Romagna,Ferrari,LEC,48,3,81.513
+7,Emilia Romagna,McLaren,PIA,48,4,81.416
+7,Emilia Romagna,Ferrari,SAI,48,5,80.999
+7,Emilia Romagna,Mercedes,RUS,48,6,81.391
+7,Emilia Romagna,Mercedes,HAM,48,7,80.921
+7,Emilia Romagna,Red Bull,PER,48,8,80.205
+7,Emilia Romagna,Racing Bulls,TSU,48,9,81.933
+7,Emilia Romagna,Aston Martin,STR,48,10,80.964
+7,Emilia Romagna,Haas,HUL,48,11,82.264
+7,Emilia Romagna,Racing Bulls,RIC,48,12,82.164
+7,Emilia Romagna,Kick Sauber,BOT,48,13,82.396
+7,Emilia Romagna,Alpine,OCO,48,14,82.55
+7,Emilia Romagna,Haas,MAG,48,15,81.068
+7,Emilia Romagna,Kick Sauber,ZHO,48,16,84.342
+7,Emilia Romagna,Alpine,GAS,48,17,81.85
+7,Emilia Romagna,Williams,SAR,48,18,82.186
+7,Emilia Romagna,Aston Martin,ALO,48,19,80.925
+7,Emilia Romagna,Williams,ALB,48,20,81.274
+7,Emilia Romagna,Red Bull,VER,36,1,80.704
+7,Emilia Romagna,McLaren,NOR,36,2,80.656
+7,Emilia Romagna,Ferrari,LEC,36,3,80.562
+7,Emilia Romagna,McLaren,PIA,36,4,80.684
+7,Emilia Romagna,Ferrari,SAI,36,5,80.849
+7,Emilia Romagna,Mercedes,RUS,36,6,80.902
+7,Emilia Romagna,Red Bull,PER,36,7,83.111
+7,Emilia Romagna,Mercedes,HAM,36,8,83.058
+7,Emilia Romagna,Aston Martin,STR,36,9,82.55
+7,Emilia Romagna,Haas,MAG,36,10,83.175
+7,Emilia Romagna,Racing Bulls,TSU,36,11,82.669
+7,Emilia Romagna,Haas,HUL,36,12,82.575
+7,Emilia Romagna,Racing Bulls,RIC,36,13,82.248
+7,Emilia Romagna,Kick Sauber,BOT,36,14,82.756
+7,Emilia Romagna,Aston Martin,ALO,36,15,82.708
+7,Emilia Romagna,Alpine,OCO,36,16,82.364
+7,Emilia Romagna,Kick Sauber,ZHO,36,17,83.077
+7,Emilia Romagna,Alpine,GAS,36,18,81.485
+7,Emilia Romagna,Williams,SAR,36,19,81.629
+7,Emilia Romagna,Williams,ALB,36,20,81.759
+7,Emilia Romagna,Red Bull,VER,38,1,80.366
+7,Emilia Romagna,McLaren,NOR,38,2,80.458
+7,Emilia Romagna,Ferrari,LEC,38,3,80.194
+7,Emilia Romagna,McLaren,PIA,38,4,80.499
+7,Emilia Romagna,Ferrari,SAI,38,5,80.496
+7,Emilia Romagna,Mercedes,RUS,38,6,80.69
+7,Emilia Romagna,Mercedes,HAM,38,7,80.546
+7,Emilia Romagna,Racing Bulls,TSU,38,8,82.075
+7,Emilia Romagna,Haas,HUL,38,9,82.48
+7,Emilia Romagna,Racing Bulls,RIC,38,10,82.219
+7,Emilia Romagna,Red Bull,PER,38,11,103.314
+7,Emilia Romagna,Kick Sauber,BOT,38,12,82.62
+7,Emilia Romagna,Aston Martin,STR,38,13,103.75
+7,Emilia Romagna,Alpine,OCO,38,14,82.062
+7,Emilia Romagna,Aston Martin,ALO,38,15,82.905
+7,Emilia Romagna,Kick Sauber,ZHO,38,16,81.549
+7,Emilia Romagna,Haas,MAG,38,17,105.988
+7,Emilia Romagna,Alpine,GAS,38,18,81.667
+7,Emilia Romagna,Williams,SAR,38,19,83.089
+7,Emilia Romagna,Williams,ALB,38,20,81.712
+7,Emilia Romagna,Red Bull,VER,40,1,80.645
+7,Emilia Romagna,McLaren,NOR,40,2,81.025
+7,Emilia Romagna,Ferrari,LEC,40,3,80.582
+7,Emilia Romagna,McLaren,PIA,40,4,81.001
+7,Emilia Romagna,Ferrari,SAI,40,5,80.519
+7,Emilia Romagna,Mercedes,RUS,40,6,81.156
+7,Emilia Romagna,Mercedes,HAM,40,7,80.837
+7,Emilia Romagna,Racing Bulls,TSU,40,8,82.339
+7,Emilia Romagna,Red Bull,PER,40,9,80.314
+7,Emilia Romagna,Haas,HUL,40,10,83.111
+7,Emilia Romagna,Racing Bulls,RIC,40,11,82.282
+7,Emilia Romagna,Aston Martin,STR,40,12,80.588
+7,Emilia Romagna,Kick Sauber,BOT,40,13,83.805
+7,Emilia Romagna,Alpine,OCO,40,14,82.04
+7,Emilia Romagna,Aston Martin,ALO,40,15,87.5
+7,Emilia Romagna,Kick Sauber,ZHO,40,16,81.914
+7,Emilia Romagna,Haas,MAG,40,17,82.407
+7,Emilia Romagna,Alpine,GAS,40,18,83.459
+7,Emilia Romagna,Williams,SAR,40,19,81.335
+7,Emilia Romagna,Williams,ALB,40,20,81.854
+7,Emilia Romagna,Red Bull,VER,44,1,80.834
+7,Emilia Romagna,McLaren,NOR,44,2,80.708
+7,Emilia Romagna,Ferrari,LEC,44,3,80.702
+7,Emilia Romagna,McLaren,PIA,44,4,80.843
+7,Emilia Romagna,Ferrari,SAI,44,5,81.066
+7,Emilia Romagna,Mercedes,RUS,44,6,81.164
+7,Emilia Romagna,Mercedes,HAM,44,7,80.843
+7,Emilia Romagna,Red Bull,PER,44,8,80.504
+7,Emilia Romagna,Racing Bulls,TSU,44,9,82.079
+7,Emilia Romagna,Haas,HUL,44,10,82.192
+7,Emilia Romagna,Aston Martin,STR,44,11,82.103
+7,Emilia Romagna,Racing Bulls,RIC,44,12,82.53
+7,Emilia Romagna,Kick Sauber,BOT,44,13,82.681
+7,Emilia Romagna,Alpine,OCO,44,14,83.818
+7,Emilia Romagna,Kick Sauber,ZHO,44,15,81.23
+7,Emilia Romagna,Haas,MAG,44,16,81.238
+7,Emilia Romagna,Alpine,GAS,44,17,81.908
+7,Emilia Romagna,Williams,SAR,44,18,83.923
+7,Emilia Romagna,Aston Martin,ALO,44,19,80.979
+7,Emilia Romagna,Williams,ALB,44,20,81.521
+7,Emilia Romagna,Red Bull,VER,46,1,80.7
+7,Emilia Romagna,McLaren,NOR,46,2,80.546
+7,Emilia Romagna,Ferrari,LEC,46,3,80.596
+7,Emilia Romagna,McLaren,PIA,46,4,81.038
+7,Emilia Romagna,Ferrari,SAI,46,5,81.064
+7,Emilia Romagna,Mercedes,RUS,46,6,81.227
+7,Emilia Romagna,Mercedes,HAM,46,7,80.944
+7,Emilia Romagna,Red Bull,PER,46,8,80.872
+7,Emilia Romagna,Racing Bulls,TSU,46,9,82.223
+7,Emilia Romagna,Aston Martin,STR,46,10,80.978
+7,Emilia Romagna,Haas,HUL,46,11,83.483
+7,Emilia Romagna,Racing Bulls,RIC,46,12,82.298
+7,Emilia Romagna,Kick Sauber,BOT,46,13,83.857
+7,Emilia Romagna,Alpine,OCO,46,14,83.905
+7,Emilia Romagna,Kick Sauber,ZHO,46,15,81.675
+7,Emilia Romagna,Haas,MAG,46,16,81.672
+7,Emilia Romagna,Alpine,GAS,46,17,82.874
+7,Emilia Romagna,Williams,SAR,46,18,82.333
+7,Emilia Romagna,Aston Martin,ALO,46,19,81.032
+7,Emilia Romagna,Williams,ALB,46,20,81.331
+7,Emilia Romagna,Red Bull,VER,2,1,80.596
+7,Emilia Romagna,McLaren,NOR,2,2,80.673
+7,Emilia Romagna,Ferrari,LEC,2,3,80.926
+7,Emilia Romagna,Ferrari,SAI,2,4,81.102
+7,Emilia Romagna,McLaren,PIA,2,5,81.311
+7,Emilia Romagna,Mercedes,RUS,2,6,81.562
+7,Emilia Romagna,Mercedes,HAM,2,7,81.841
+7,Emilia Romagna,Haas,HUL,2,8,82.111
+7,Emilia Romagna,Racing Bulls,TSU,2,9,82.366
+7,Emilia Romagna,Red Bull,PER,2,10,82.599
+7,Emilia Romagna,Racing Bulls,RIC,2,11,82.795
+7,Emilia Romagna,Alpine,OCO,2,12,82.923
+7,Emilia Romagna,Aston Martin,STR,2,13,83.115
+7,Emilia Romagna,Williams,ALB,2,14,83.115
+7,Emilia Romagna,Alpine,GAS,2,15,83.214
+7,Emilia Romagna,Haas,MAG,2,16,83.313
+7,Emilia Romagna,Kick Sauber,BOT,2,17,83.624
+7,Emilia Romagna,Kick Sauber,ZHO,2,18,83.939
+7,Emilia Romagna,Williams,SAR,2,19,84.242
+7,Emilia Romagna,Aston Martin,ALO,2,20,84.186
+7,Emilia Romagna,Red Bull,VER,22,1,81.763
+7,Emilia Romagna,Ferrari,LEC,22,2,82.018
+7,Emilia Romagna,McLaren,NOR,22,3,86.107
+7,Emilia Romagna,Ferrari,SAI,22,4,81.926
+7,Emilia Romagna,McLaren,PIA,22,5,81.869
+7,Emilia Romagna,Mercedes,HAM,22,6,81.846
+7,Emilia Romagna,Red Bull,PER,22,7,81.871
+7,Emilia Romagna,Aston Martin,STR,22,8,82.697
+7,Emilia Romagna,Alpine,OCO,22,9,83.376
+7,Emilia Romagna,Mercedes,RUS,22,10,104.938
+7,Emilia Romagna,Haas,MAG,22,11,83.013
+7,Emilia Romagna,Kick Sauber,ZHO,22,12,83.261
+7,Emilia Romagna,Williams,SAR,22,13,83.287
+7,Emilia Romagna,Racing Bulls,TSU,22,14,83.322
+7,Emilia Romagna,Haas,HUL,22,15,82.412
+7,Emilia Romagna,Racing Bulls,RIC,22,16,82.4
+7,Emilia Romagna,Alpine,GAS,22,17,82.296
+7,Emilia Romagna,Kick Sauber,BOT,22,18,82.436
+7,Emilia Romagna,Aston Martin,ALO,22,19,83.368
+7,Emilia Romagna,Williams,ALB,22,20,82.27
+7,Emilia Romagna,Red Bull,VER,41,1,80.675
+7,Emilia Romagna,McLaren,NOR,41,2,81.102
+7,Emilia Romagna,Ferrari,LEC,41,3,80.928
+7,Emilia Romagna,McLaren,PIA,41,4,80.966
+7,Emilia Romagna,Ferrari,SAI,41,5,80.615
+7,Emilia Romagna,Mercedes,RUS,41,6,81.109
+7,Emilia Romagna,Mercedes,HAM,41,7,80.639
+7,Emilia Romagna,Racing Bulls,TSU,41,8,82.288
+7,Emilia Romagna,Red Bull,PER,41,9,81.975
+7,Emilia Romagna,Haas,HUL,41,10,82.504
+7,Emilia Romagna,Racing Bulls,RIC,41,11,82.377
+7,Emilia Romagna,Aston Martin,STR,41,12,81.122
+7,Emilia Romagna,Kick Sauber,BOT,41,13,82.798
+7,Emilia Romagna,Alpine,OCO,41,14,82.145
+7,Emilia Romagna,Kick Sauber,ZHO,41,15,81.383
+7,Emilia Romagna,Haas,MAG,41,16,81.162
+7,Emilia Romagna,Alpine,GAS,41,17,83.03
+7,Emilia Romagna,Williams,SAR,41,18,81.504
+7,Emilia Romagna,Aston Martin,ALO,41,19,105.86
+7,Emilia Romagna,Williams,ALB,41,20,81.722
+7,Emilia Romagna,Red Bull,VER,7,1,80.868
+7,Emilia Romagna,McLaren,NOR,7,2,80.923
+7,Emilia Romagna,Ferrari,LEC,7,3,81.025
+7,Emilia Romagna,Ferrari,SAI,7,4,81.236
+7,Emilia Romagna,McLaren,PIA,7,5,81.08
+7,Emilia Romagna,Mercedes,RUS,7,6,81.267
+7,Emilia Romagna,Mercedes,HAM,7,7,81.446
+7,Emilia Romagna,Haas,HUL,7,8,82.36
+7,Emilia Romagna,Racing Bulls,TSU,7,9,82.672
+7,Emilia Romagna,Red Bull,PER,7,10,82.641
+7,Emilia Romagna,Racing Bulls,RIC,7,11,82.428
+7,Emilia Romagna,Alpine,OCO,7,12,82.562
+7,Emilia Romagna,Aston Martin,STR,7,13,82.535
+7,Emilia Romagna,Williams,ALB,7,14,82.495
+7,Emilia Romagna,Alpine,GAS,7,15,82.439
+7,Emilia Romagna,Haas,MAG,7,16,82.52
+7,Emilia Romagna,Kick Sauber,BOT,7,17,82.568
+7,Emilia Romagna,Kick Sauber,ZHO,7,18,82.971
+7,Emilia Romagna,Williams,SAR,7,19,82.978
+7,Emilia Romagna,Aston Martin,ALO,7,20,87.448
+7,Emilia Romagna,Red Bull,VER,20,1,81.55
+7,Emilia Romagna,McLaren,NOR,20,2,81.883
+7,Emilia Romagna,Ferrari,LEC,20,3,81.757
+7,Emilia Romagna,Ferrari,SAI,20,4,82.025
+7,Emilia Romagna,McLaren,PIA,20,5,81.853
+7,Emilia Romagna,Mercedes,RUS,20,6,82.215
+7,Emilia Romagna,Mercedes,HAM,20,7,82.222
+7,Emilia Romagna,Red Bull,PER,20,8,82.268
+7,Emilia Romagna,Aston Martin,STR,20,9,82.616
+7,Emilia Romagna,Alpine,OCO,20,10,83.156
+7,Emilia Romagna,Haas,MAG,20,11,82.85
+7,Emilia Romagna,Kick Sauber,ZHO,20,12,83.207
+7,Emilia Romagna,Williams,SAR,20,13,83.171
+7,Emilia Romagna,Racing Bulls,TSU,20,14,82.453
+7,Emilia Romagna,Haas,HUL,20,15,82.309
+7,Emilia Romagna,Racing Bulls,RIC,20,16,82.013
+7,Emilia Romagna,Alpine,GAS,20,17,82.233
+7,Emilia Romagna,Kick Sauber,BOT,20,18,82.239
+7,Emilia Romagna,Aston Martin,ALO,20,19,82.909
+7,Emilia Romagna,Williams,ALB,20,20,81.725
+7,Emilia Romagna,Red Bull,VER,53,1,80.638
+7,Emilia Romagna,McLaren,NOR,53,2,80.141
+7,Emilia Romagna,Ferrari,LEC,53,3,80.889
+7,Emilia Romagna,McLaren,PIA,53,4,80.699
+7,Emilia Romagna,Ferrari,SAI,53,5,81.238
+7,Emilia Romagna,Mercedes,HAM,53,6,81.415
+7,Emilia Romagna,Mercedes,RUS,53,7,102.845
+7,Emilia Romagna,Red Bull,PER,53,8,81.144
+7,Emilia Romagna,Aston Martin,STR,53,9,80.783
+7,Emilia Romagna,Racing Bulls,TSU,53,10,82.356
+7,Emilia Romagna,Haas,HUL,53,11,83.667
+7,Emilia Romagna,Racing Bulls,RIC,53,12,82.3
+7,Emilia Romagna,Haas,MAG,53,13,81.102
+7,Emilia Romagna,Kick Sauber,BOT,53,14,82.947
+7,Emilia Romagna,Alpine,OCO,53,15,82.756
+7,Emilia Romagna,Kick Sauber,ZHO,53,16,82.802
+7,Emilia Romagna,Alpine,GAS,53,17,81.945
+7,Emilia Romagna,Aston Martin,ALO,53,18,80.474
+7,Emilia Romagna,Williams,SAR,53,19,81.502
+7,Emilia Romagna,Red Bull,VER,60,1,80.637
+7,Emilia Romagna,McLaren,NOR,60,2,80.239
+7,Emilia Romagna,Ferrari,LEC,60,3,80.693
+7,Emilia Romagna,McLaren,PIA,60,4,80.649
+7,Emilia Romagna,Ferrari,SAI,60,5,80.992
+7,Emilia Romagna,Mercedes,HAM,60,6,80.629
+7,Emilia Romagna,Mercedes,RUS,60,7,80.093
+7,Emilia Romagna,Red Bull,PER,60,8,80.408
+7,Emilia Romagna,Aston Martin,STR,60,9,80.959
+7,Emilia Romagna,Racing Bulls,TSU,60,10,83.836
+7,Emilia Romagna,Haas,HUL,60,11,82.409
+7,Emilia Romagna,Racing Bulls,RIC,60,12,84.027
+7,Emilia Romagna,Haas,MAG,60,13,81.412
+7,Emilia Romagna,Alpine,OCO,60,14,82.154
+7,Emilia Romagna,Kick Sauber,ZHO,60,15,81.77
+7,Emilia Romagna,Kick Sauber,BOT,60,16,84.449
+7,Emilia Romagna,Alpine,GAS,60,17,84.01
+7,Emilia Romagna,Williams,SAR,60,18,83.767
+7,Emilia Romagna,Aston Martin,ALO,60,19,105.749
+7,Emilia Romagna,Red Bull,VER,39,1,80.547
+7,Emilia Romagna,McLaren,NOR,39,2,80.591
+7,Emilia Romagna,Ferrari,LEC,39,3,80.507
+7,Emilia Romagna,McLaren,PIA,39,4,80.801
+7,Emilia Romagna,Ferrari,SAI,39,5,80.531
+7,Emilia Romagna,Mercedes,RUS,39,6,80.924
+7,Emilia Romagna,Mercedes,HAM,39,7,80.677
+7,Emilia Romagna,Racing Bulls,TSU,39,8,82.427
+7,Emilia Romagna,Haas,HUL,39,9,82.62
+7,Emilia Romagna,Red Bull,PER,39,10,80.731
+7,Emilia Romagna,Racing Bulls,RIC,39,11,83.668
+7,Emilia Romagna,Kick Sauber,BOT,39,12,82.823
+7,Emilia Romagna,Aston Martin,STR,39,13,81.973
+7,Emilia Romagna,Alpine,OCO,39,14,82.139
+7,Emilia Romagna,Aston Martin,ALO,39,15,82.903
+7,Emilia Romagna,Kick Sauber,ZHO,39,16,81.58
+7,Emilia Romagna,Haas,MAG,39,17,81.485
+7,Emilia Romagna,Alpine,GAS,39,18,81.622
+7,Emilia Romagna,Williams,SAR,39,19,83.085
+7,Emilia Romagna,Williams,ALB,39,20,81.694
+7,Emilia Romagna,Red Bull,VER,37,1,80.484
+7,Emilia Romagna,McLaren,NOR,37,2,80.714
+7,Emilia Romagna,Ferrari,LEC,37,3,80.36
+7,Emilia Romagna,McLaren,PIA,37,4,80.587
+7,Emilia Romagna,Ferrari,SAI,37,5,80.466
+7,Emilia Romagna,Mercedes,RUS,37,6,80.856
+7,Emilia Romagna,Mercedes,HAM,37,7,80.748
+7,Emilia Romagna,Red Bull,PER,37,8,88.056
+7,Emilia Romagna,Aston Martin,STR,37,9,86.977
+7,Emilia Romagna,Racing Bulls,TSU,37,10,82.692
+7,Emilia Romagna,Haas,HUL,37,11,82.433
+7,Emilia Romagna,Haas,MAG,37,12,87.682
+7,Emilia Romagna,Racing Bulls,RIC,37,13,82.261
+7,Emilia Romagna,Kick Sauber,BOT,37,14,82.718
+7,Emilia Romagna,Alpine,OCO,37,15,81.304
+7,Emilia Romagna,Aston Martin,ALO,37,16,83.838
+7,Emilia Romagna,Kick Sauber,ZHO,37,17,81.016
+7,Emilia Romagna,Alpine,GAS,37,18,81.658
+7,Emilia Romagna,Williams,SAR,37,19,82.964
+7,Emilia Romagna,Williams,ALB,37,20,81.67
+7,Emilia Romagna,Red Bull,VER,23,1,81.988
+7,Emilia Romagna,Ferrari,LEC,23,2,81.943
+7,Emilia Romagna,Ferrari,SAI,23,3,81.812
+7,Emilia Romagna,McLaren,PIA,23,4,86.22
+7,Emilia Romagna,Mercedes,HAM,23,5,81.561
+7,Emilia Romagna,Red Bull,PER,23,6,81.97
+7,Emilia Romagna,McLaren,NOR,23,7,104.693
+7,Emilia Romagna,Aston Martin,STR,23,8,82.544
+7,Emilia Romagna,Mercedes,RUS,23,9,80.669
+7,Emilia Romagna,Alpine,OCO,23,10,83.609
+7,Emilia Romagna,Haas,MAG,23,11,82.761
+7,Emilia Romagna,Kick Sauber,ZHO,23,12,83.02
+7,Emilia Romagna,Williams,SAR,23,13,82.953
+7,Emilia Romagna,Racing Bulls,TSU,23,14,83.393
+7,Emilia Romagna,Haas,HUL,23,15,82.883
+7,Emilia Romagna,Racing Bulls,RIC,23,16,82.645
+7,Emilia Romagna,Alpine,GAS,23,17,82.614
+7,Emilia Romagna,Kick Sauber,BOT,23,18,82.334
+7,Emilia Romagna,Aston Martin,ALO,23,19,82.938
+7,Emilia Romagna,Williams,ALB,23,20,86.978
+7,Emilia Romagna,Red Bull,VER,1,1,82.881
+7,Emilia Romagna,McLaren,NOR,1,2,83.764
+7,Emilia Romagna,Ferrari,LEC,1,3,84.58
+7,Emilia Romagna,Ferrari,SAI,1,4,85.149
+7,Emilia Romagna,McLaren,PIA,1,5,85.726
+7,Emilia Romagna,Mercedes,RUS,1,6,86.498
+7,Emilia Romagna,Mercedes,HAM,1,7,87.111
+7,Emilia Romagna,Haas,HUL,1,8,87.748
+7,Emilia Romagna,Racing Bulls,TSU,1,9,88.256
+7,Emilia Romagna,Red Bull,PER,1,10,88.775
+7,Emilia Romagna,Racing Bulls,RIC,1,11,89.351
+7,Emilia Romagna,Alpine,OCO,1,12,89.949
+7,Emilia Romagna,Aston Martin,STR,1,13,90.475
+7,Emilia Romagna,Williams,ALB,1,14,91.012
+7,Emilia Romagna,Alpine,GAS,1,15,91.369
+7,Emilia Romagna,Haas,MAG,1,16,91.891
+7,Emilia Romagna,Kick Sauber,BOT,1,17,92.273
+7,Emilia Romagna,Kick Sauber,ZHO,1,18,92.781
+7,Emilia Romagna,Williams,SAR,1,19,93.076
+7,Emilia Romagna,Aston Martin,ALO,1,20,93.648
+7,Emilia Romagna,Red Bull,VER,47,1,80.909
+7,Emilia Romagna,McLaren,NOR,47,2,80.816
+7,Emilia Romagna,Ferrari,LEC,47,3,81.313
+7,Emilia Romagna,McLaren,PIA,47,4,81.485
+7,Emilia Romagna,Ferrari,SAI,47,5,82.064
+7,Emilia Romagna,Mercedes,RUS,47,6,81.423
+7,Emilia Romagna,Mercedes,HAM,47,7,81.069
+7,Emilia Romagna,Red Bull,PER,47,8,80.514
+7,Emilia Romagna,Racing Bulls,TSU,47,9,82.133
+7,Emilia Romagna,Aston Martin,STR,47,10,81.29
+7,Emilia Romagna,Haas,HUL,47,11,82.763
+7,Emilia Romagna,Racing Bulls,RIC,47,12,82.31
+7,Emilia Romagna,Kick Sauber,BOT,47,13,85.739
+7,Emilia Romagna,Alpine,OCO,47,14,85.675
+7,Emilia Romagna,Kick Sauber,ZHO,47,15,81.817
+7,Emilia Romagna,Haas,MAG,47,16,81.58
+7,Emilia Romagna,Alpine,GAS,47,17,82.242
+7,Emilia Romagna,Williams,SAR,47,18,82.308
+7,Emilia Romagna,Aston Martin,ALO,47,19,81.045
+7,Emilia Romagna,Williams,ALB,47,20,81.347
+7,Emilia Romagna,Red Bull,VER,43,1,80.757
+7,Emilia Romagna,McLaren,NOR,43,2,80.838
+7,Emilia Romagna,Ferrari,LEC,43,3,80.942
+7,Emilia Romagna,McLaren,PIA,43,4,81.333
+7,Emilia Romagna,Ferrari,SAI,43,5,80.701
+7,Emilia Romagna,Mercedes,RUS,43,6,80.801
+7,Emilia Romagna,Mercedes,HAM,43,7,80.331
+7,Emilia Romagna,Red Bull,PER,43,8,80.22
+7,Emilia Romagna,Racing Bulls,TSU,43,9,81.998
+7,Emilia Romagna,Haas,HUL,43,10,82.435
+7,Emilia Romagna,Aston Martin,STR,43,11,80.598
+7,Emilia Romagna,Racing Bulls,RIC,43,12,83.653
+7,Emilia Romagna,Kick Sauber,BOT,43,13,82.686
+7,Emilia Romagna,Alpine,OCO,43,14,82.081
+7,Emilia Romagna,Kick Sauber,ZHO,43,15,83.86
+7,Emilia Romagna,Haas,MAG,43,16,81.446
+7,Emilia Romagna,Alpine,GAS,43,17,81.633
+7,Emilia Romagna,Williams,SAR,43,18,81.857
+7,Emilia Romagna,Aston Martin,ALO,43,19,81.029
+7,Emilia Romagna,Williams,ALB,43,20,81.679
+7,Emilia Romagna,Red Bull,VER,50,1,80.817
+7,Emilia Romagna,McLaren,NOR,50,2,80.039
+7,Emilia Romagna,Ferrari,LEC,50,3,80.414
+7,Emilia Romagna,McLaren,PIA,50,4,80.979
+7,Emilia Romagna,Ferrari,SAI,50,5,80.988
+7,Emilia Romagna,Mercedes,RUS,50,6,81.491
+7,Emilia Romagna,Mercedes,HAM,50,7,80.698
+7,Emilia Romagna,Red Bull,PER,50,8,79.985
+7,Emilia Romagna,Aston Martin,STR,50,9,80.731
+7,Emilia Romagna,Racing Bulls,TSU,50,10,83.356
+7,Emilia Romagna,Haas,HUL,50,11,81.921
+7,Emilia Romagna,Racing Bulls,RIC,50,12,84.081
+7,Emilia Romagna,Kick Sauber,BOT,50,13,83.889
+7,Emilia Romagna,Haas,MAG,50,14,81.496
+7,Emilia Romagna,Alpine,OCO,50,15,83.073
+7,Emilia Romagna,Kick Sauber,ZHO,50,16,82.488
+7,Emilia Romagna,Alpine,GAS,50,17,81.905
+7,Emilia Romagna,Williams,SAR,50,18,82.079
+7,Emilia Romagna,Aston Martin,ALO,50,19,81.536
+7,Emilia Romagna,Williams,ALB,50,20,82.412
+7,Emilia Romagna,Red Bull,VER,12,1,81.287
+7,Emilia Romagna,McLaren,NOR,12,2,81.438
+7,Emilia Romagna,Ferrari,LEC,12,3,81.349
+7,Emilia Romagna,Ferrari,SAI,12,4,81.9
+7,Emilia Romagna,McLaren,PIA,12,5,82.11
+7,Emilia Romagna,Mercedes,RUS,12,6,81.82
+7,Emilia Romagna,Mercedes,HAM,12,7,81.756
+7,Emilia Romagna,Haas,HUL,12,8,82.571
+7,Emilia Romagna,Red Bull,PER,12,9,82.447
+7,Emilia Romagna,Aston Martin,STR,12,10,82.415
+7,Emilia Romagna,Racing Bulls,TSU,12,11,86.755
+7,Emilia Romagna,Alpine,OCO,12,12,83.042
+7,Emilia Romagna,Haas,MAG,12,13,82.927
+7,Emilia Romagna,Kick Sauber,ZHO,12,14,83.192
+7,Emilia Romagna,Williams,SAR,12,15,83.349
+7,Emilia Romagna,Racing Bulls,RIC,12,16,104.778
+7,Emilia Romagna,Alpine,GAS,12,17,81.906
+7,Emilia Romagna,Kick Sauber,BOT,12,18,81.971
+7,Emilia Romagna,Aston Martin,ALO,12,19,81.728
+7,Emilia Romagna,Williams,ALB,12,20,81.558
+7,Emilia Romagna,Ferrari,SAI,27,1,86.35
+7,Emilia Romagna,Red Bull,VER,27,2,80.943
+7,Emilia Romagna,Mercedes,HAM,27,3,86.215
+7,Emilia Romagna,McLaren,NOR,27,4,81.029
+7,Emilia Romagna,Ferrari,LEC,27,5,79.935
+7,Emilia Romagna,McLaren,PIA,27,6,80.785
+7,Emilia Romagna,Red Bull,PER,27,7,83.773
+7,Emilia Romagna,Mercedes,RUS,27,8,80.736
+7,Emilia Romagna,Aston Martin,STR,27,9,83.433
+7,Emilia Romagna,Haas,MAG,27,10,82.938
+7,Emilia Romagna,Kick Sauber,ZHO,27,11,82.929
+7,Emilia Romagna,Racing Bulls,TSU,27,12,82.391
+7,Emilia Romagna,Haas,HUL,27,13,82.322
+7,Emilia Romagna,Williams,SAR,27,14,83.498
+7,Emilia Romagna,Racing Bulls,RIC,27,15,83.506
+7,Emilia Romagna,Alpine,GAS,27,16,82.721
+7,Emilia Romagna,Kick Sauber,BOT,27,17,82.583
+7,Emilia Romagna,Aston Martin,ALO,27,18,82.757
+7,Emilia Romagna,Alpine,OCO,27,19,81.834
+7,Emilia Romagna,Williams,ALB,27,20,82.127
+7,Emilia Romagna,Red Bull,VER,4,1,80.671
+7,Emilia Romagna,McLaren,NOR,4,2,81.205
+7,Emilia Romagna,Ferrari,LEC,4,3,81.279
+7,Emilia Romagna,Ferrari,SAI,4,4,81.341
+7,Emilia Romagna,McLaren,PIA,4,5,81.377
+7,Emilia Romagna,Mercedes,RUS,4,6,81.628
+7,Emilia Romagna,Mercedes,HAM,4,7,81.715
+7,Emilia Romagna,Haas,HUL,4,8,82.157
+7,Emilia Romagna,Racing Bulls,TSU,4,9,82.07
+7,Emilia Romagna,Red Bull,PER,4,10,82.182
+7,Emilia Romagna,Racing Bulls,RIC,4,11,82.227
+7,Emilia Romagna,Alpine,OCO,4,12,82.229
+7,Emilia Romagna,Aston Martin,STR,4,13,82.349
+7,Emilia Romagna,Williams,ALB,4,14,82.578
+7,Emilia Romagna,Alpine,GAS,4,15,82.706
+7,Emilia Romagna,Haas,MAG,4,16,82.517
+7,Emilia Romagna,Kick Sauber,BOT,4,17,82.786
+7,Emilia Romagna,Kick Sauber,ZHO,4,18,83.046
+7,Emilia Romagna,Williams,SAR,4,19,82.99
+7,Emilia Romagna,Aston Martin,ALO,4,20,83.071
+7,Emilia Romagna,Red Bull,VER,57,1,80.511
+7,Emilia Romagna,McLaren,NOR,57,2,80.105
+7,Emilia Romagna,Ferrari,LEC,57,3,80.752
+7,Emilia Romagna,McLaren,PIA,57,4,80.602
+7,Emilia Romagna,Ferrari,SAI,57,5,80.759
+7,Emilia Romagna,Mercedes,HAM,57,6,81.664
+7,Emilia Romagna,Mercedes,RUS,57,7,79.457
+7,Emilia Romagna,Red Bull,PER,57,8,80.228
+7,Emilia Romagna,Aston Martin,STR,57,9,80.731
+7,Emilia Romagna,Racing Bulls,TSU,57,10,81.955
+7,Emilia Romagna,Haas,HUL,57,11,83.902
+7,Emilia Romagna,Racing Bulls,RIC,57,12,82.31
+7,Emilia Romagna,Haas,MAG,57,13,83.299
+7,Emilia Romagna,Kick Sauber,BOT,57,14,84.466
+7,Emilia Romagna,Alpine,OCO,57,15,83.961
+7,Emilia Romagna,Kick Sauber,ZHO,57,16,83.906
+7,Emilia Romagna,Alpine,GAS,57,17,82.959
+7,Emilia Romagna,Aston Martin,ALO,57,18,82.852
+7,Emilia Romagna,Williams,SAR,57,19,82.671
+7,Emilia Romagna,Red Bull,VER,49,1,80.823
+7,Emilia Romagna,McLaren,NOR,49,2,80.485
+7,Emilia Romagna,Ferrari,LEC,49,3,80.798
+7,Emilia Romagna,McLaren,PIA,49,4,81.309
+7,Emilia Romagna,Ferrari,SAI,49,5,80.737
+7,Emilia Romagna,Mercedes,RUS,49,6,81.158
+7,Emilia Romagna,Mercedes,HAM,49,7,81.182
+7,Emilia Romagna,Red Bull,PER,49,8,79.946
+7,Emilia Romagna,Racing Bulls,TSU,49,9,81.88
+7,Emilia Romagna,Aston Martin,STR,49,10,81.355
+7,Emilia Romagna,Haas,HUL,49,11,82.003
+7,Emilia Romagna,Racing Bulls,RIC,49,12,82.229
+7,Emilia Romagna,Kick Sauber,BOT,49,13,82.636
+7,Emilia Romagna,Alpine,OCO,49,14,84.384
+7,Emilia Romagna,Haas,MAG,49,15,83.71
+7,Emilia Romagna,Kick Sauber,ZHO,49,16,81.934
+7,Emilia Romagna,Alpine,GAS,49,17,81.981
+7,Emilia Romagna,Williams,SAR,49,18,83.806
+7,Emilia Romagna,Aston Martin,ALO,49,19,81.045
+7,Emilia Romagna,Williams,ALB,49,20,83.819
+7,Emilia Romagna,Red Bull,VER,34,1,80.76
+7,Emilia Romagna,McLaren,NOR,34,2,80.776
+7,Emilia Romagna,Ferrari,LEC,34,3,80.726
+7,Emilia Romagna,McLaren,PIA,34,4,80.96
+7,Emilia Romagna,Ferrari,SAI,34,5,80.848
+7,Emilia Romagna,Mercedes,RUS,34,6,81.139
+7,Emilia Romagna,Red Bull,PER,34,7,82.465
+7,Emilia Romagna,Mercedes,HAM,34,8,80.964
+7,Emilia Romagna,Aston Martin,STR,34,9,82.802
+7,Emilia Romagna,Haas,MAG,34,10,83.222
+7,Emilia Romagna,Racing Bulls,TSU,34,11,82.571
+7,Emilia Romagna,Haas,HUL,34,12,82.798
+7,Emilia Romagna,Racing Bulls,RIC,34,13,81.8
+7,Emilia Romagna,Kick Sauber,BOT,34,14,82.761
+7,Emilia Romagna,Aston Martin,ALO,34,15,83.13
+7,Emilia Romagna,Alpine,OCO,34,16,83.217
+7,Emilia Romagna,Kick Sauber,ZHO,34,17,105.17
+7,Emilia Romagna,Alpine,GAS,34,18,81.706
+7,Emilia Romagna,Williams,SAR,34,19,81.607
+7,Emilia Romagna,Williams,ALB,34,20,81.773
+7,Emilia Romagna,Red Bull,VER,52,1,80.556
+7,Emilia Romagna,McLaren,NOR,52,2,80.582
+7,Emilia Romagna,Ferrari,LEC,52,3,80.358
+7,Emilia Romagna,McLaren,PIA,52,4,80.777
+7,Emilia Romagna,Ferrari,SAI,52,5,81.601
+7,Emilia Romagna,Mercedes,HAM,52,6,81.176
+7,Emilia Romagna,Mercedes,RUS,52,7,86.242
+7,Emilia Romagna,Red Bull,PER,52,8,79.686
+7,Emilia Romagna,Aston Martin,STR,52,9,80.682
+7,Emilia Romagna,Racing Bulls,TSU,52,10,82.114
+7,Emilia Romagna,Haas,HUL,52,11,84.017
+7,Emilia Romagna,Racing Bulls,RIC,52,12,85.609
+7,Emilia Romagna,Haas,MAG,52,13,81.61
+7,Emilia Romagna,Kick Sauber,BOT,52,14,84.074
+7,Emilia Romagna,Alpine,OCO,52,15,82.762
+7,Emilia Romagna,Kick Sauber,ZHO,52,16,82.64
+7,Emilia Romagna,Alpine,GAS,52,17,82.187
+7,Emilia Romagna,Aston Martin,ALO,52,18,81.176
+7,Emilia Romagna,Williams,SAR,52,19,84.123
+7,Emilia Romagna,Red Bull,VER,6,1,80.868
+7,Emilia Romagna,McLaren,NOR,6,2,80.909
+7,Emilia Romagna,Ferrari,LEC,6,3,81.043
+7,Emilia Romagna,Ferrari,SAI,6,4,81.16
+7,Emilia Romagna,McLaren,PIA,6,5,81.307
+7,Emilia Romagna,Mercedes,RUS,6,6,81.492
+7,Emilia Romagna,Mercedes,HAM,6,7,81.569
+7,Emilia Romagna,Haas,HUL,6,8,82.361
+7,Emilia Romagna,Racing Bulls,TSU,6,9,82.24
+7,Emilia Romagna,Red Bull,PER,6,10,82.2
+7,Emilia Romagna,Racing Bulls,RIC,6,11,82.412
+7,Emilia Romagna,Alpine,OCO,6,12,82.436
+7,Emilia Romagna,Aston Martin,STR,6,13,82.339
+7,Emilia Romagna,Williams,ALB,6,14,82.472
+7,Emilia Romagna,Alpine,GAS,6,15,82.399
+7,Emilia Romagna,Haas,MAG,6,16,82.237
+7,Emilia Romagna,Kick Sauber,BOT,6,17,82.415
+7,Emilia Romagna,Kick Sauber,ZHO,6,18,82.647
+7,Emilia Romagna,Williams,SAR,6,19,82.755
+7,Emilia Romagna,Aston Martin,ALO,6,20,82.762
+7,Emilia Romagna,Red Bull,VER,11,1,80.885
+7,Emilia Romagna,McLaren,NOR,11,2,81.201
+7,Emilia Romagna,Ferrari,LEC,11,3,81.147
+7,Emilia Romagna,Ferrari,SAI,11,4,81.316
+7,Emilia Romagna,McLaren,PIA,11,5,81.191
+7,Emilia Romagna,Mercedes,RUS,11,6,81.466
+7,Emilia Romagna,Mercedes,HAM,11,7,81.472
+7,Emilia Romagna,Haas,HUL,11,8,82.516
+7,Emilia Romagna,Racing Bulls,TSU,11,9,82.447
+7,Emilia Romagna,Red Bull,PER,11,10,82.128
+7,Emilia Romagna,Aston Martin,STR,11,11,82.367
+7,Emilia Romagna,Alpine,OCO,11,12,82.745
+7,Emilia Romagna,Racing Bulls,RIC,11,13,87.088
+7,Emilia Romagna,Haas,MAG,11,14,82.858
+7,Emilia Romagna,Kick Sauber,ZHO,11,15,82.874
+7,Emilia Romagna,Williams,SAR,11,16,83.211
+7,Emilia Romagna,Alpine,GAS,11,17,81.502
+7,Emilia Romagna,Kick Sauber,BOT,11,18,81.455
+7,Emilia Romagna,Aston Martin,ALO,11,19,81.68
+7,Emilia Romagna,Williams,ALB,11,20,81.718
+7,Emilia Romagna,Red Bull,VER,5,1,80.734
+7,Emilia Romagna,McLaren,NOR,5,2,81.046
+7,Emilia Romagna,Ferrari,LEC,5,3,81.122
+7,Emilia Romagna,Ferrari,SAI,5,4,81.276
+7,Emilia Romagna,McLaren,PIA,5,5,81.269
+7,Emilia Romagna,Mercedes,RUS,5,6,81.475
+7,Emilia Romagna,Mercedes,HAM,5,7,81.544
+7,Emilia Romagna,Haas,HUL,5,8,82.184
+7,Emilia Romagna,Racing Bulls,TSU,5,9,82.167
+7,Emilia Romagna,Red Bull,PER,5,10,82.153
+7,Emilia Romagna,Racing Bulls,RIC,5,11,82.211
+7,Emilia Romagna,Alpine,OCO,5,12,82.267
+7,Emilia Romagna,Aston Martin,STR,5,13,82.252
+7,Emilia Romagna,Williams,ALB,5,14,82.357
+7,Emilia Romagna,Alpine,GAS,5,15,82.483
+7,Emilia Romagna,Haas,MAG,5,16,82.682
+7,Emilia Romagna,Kick Sauber,BOT,5,17,82.794
+7,Emilia Romagna,Kick Sauber,ZHO,5,18,82.565
+7,Emilia Romagna,Williams,SAR,5,19,82.702
+7,Emilia Romagna,Aston Martin,ALO,5,20,82.698
+7,Emilia Romagna,Red Bull,VER,59,1,80.367
+7,Emilia Romagna,McLaren,NOR,59,2,80.489
+7,Emilia Romagna,Ferrari,LEC,59,3,80.506
+7,Emilia Romagna,McLaren,PIA,59,4,80.288
+7,Emilia Romagna,Ferrari,SAI,59,5,80.74
+7,Emilia Romagna,Mercedes,HAM,59,6,80.649
+7,Emilia Romagna,Mercedes,RUS,59,7,79.881
+7,Emilia Romagna,Red Bull,PER,59,8,80.093
+7,Emilia Romagna,Aston Martin,STR,59,9,80.612
+7,Emilia Romagna,Racing Bulls,TSU,59,10,81.828
+7,Emilia Romagna,Haas,HUL,59,11,82.225
+7,Emilia Romagna,Racing Bulls,RIC,59,12,81.974
+7,Emilia Romagna,Haas,MAG,59,13,81.292
+7,Emilia Romagna,Alpine,OCO,59,14,82.068
+7,Emilia Romagna,Kick Sauber,BOT,59,15,84.53
+7,Emilia Romagna,Kick Sauber,ZHO,59,16,83.701
+7,Emilia Romagna,Alpine,GAS,59,17,83.449
+7,Emilia Romagna,Williams,SAR,59,18,83.522
+7,Emilia Romagna,Aston Martin,ALO,59,19,88.385
