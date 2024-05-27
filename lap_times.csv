@@ -7306,3 +7306,1236 @@ round,grand_prix,constructor,driver,lap,position,time
 7,Emilia Romagna,Alpine,GAS,59,17,83.449
 7,Emilia Romagna,Williams,SAR,59,18,83.522
 7,Emilia Romagna,Aston Martin,ALO,59,19,88.385
+8,Monaco,Ferrari,LEC,55,1,77.444
+8,Monaco,McLaren,PIA,55,2,77.445
+8,Monaco,Ferrari,SAI,55,3,78.661
+8,Monaco,McLaren,NOR,55,4,78.382
+8,Monaco,Mercedes,RUS,55,5,77.305
+8,Monaco,Red Bull,VER,55,6,75.398
+8,Monaco,Mercedes,HAM,55,7,76.492
+8,Monaco,Racing Bulls,TSU,55,8,79.781
+8,Monaco,Williams,ALB,55,9,79.085
+8,Monaco,Alpine,GAS,55,10,79.407
+8,Monaco,Aston Martin,ALO,55,11,79.411
+8,Monaco,Racing Bulls,RIC,55,12,79.457
+8,Monaco,Kick Sauber,BOT,55,13,80.375
+8,Monaco,Williams,SAR,55,14,80.342
+8,Monaco,Aston Martin,STR,55,15,79.963
+8,Monaco,Kick Sauber,ZHO,55,16,81.399
+8,Monaco,Ferrari,LEC,70,1,75.767
+8,Monaco,McLaren,PIA,70,2,77.27
+8,Monaco,Ferrari,SAI,70,3,77.117
+8,Monaco,McLaren,NOR,70,4,77.213
+8,Monaco,Mercedes,RUS,70,5,75.251
+8,Monaco,Red Bull,VER,70,6,75.449
+8,Monaco,Mercedes,HAM,70,7,75.638
+8,Monaco,Racing Bulls,TSU,70,8,79.347
+8,Monaco,Williams,ALB,70,9,79.37
+8,Monaco,Alpine,GAS,70,10,77.799
+8,Monaco,Aston Martin,ALO,70,11,78.473
+8,Monaco,Racing Bulls,RIC,70,12,78.706
+8,Monaco,Kick Sauber,BOT,70,13,78.778
+8,Monaco,Aston Martin,STR,70,14,78.557
+8,Monaco,Williams,SAR,70,15,76.866
+8,Monaco,Kick Sauber,ZHO,70,16,100.898
+8,Monaco,Ferrari,LEC,42,1,79.277
+8,Monaco,McLaren,PIA,42,2,79.795
+8,Monaco,Ferrari,SAI,42,3,79.171
+8,Monaco,McLaren,NOR,42,4,79.436
+8,Monaco,Mercedes,RUS,42,5,78.204
+8,Monaco,Red Bull,VER,42,6,78.074
+8,Monaco,Mercedes,HAM,42,7,77.542
+8,Monaco,Racing Bulls,TSU,42,8,80.32
+8,Monaco,Williams,ALB,42,9,80.084
+8,Monaco,Alpine,GAS,42,10,79.977
+8,Monaco,Aston Martin,STR,42,11,97.062
+8,Monaco,Aston Martin,ALO,42,12,83.332
+8,Monaco,Racing Bulls,RIC,42,13,81.527
+8,Monaco,Williams,SAR,42,14,81.87
+8,Monaco,Kick Sauber,ZHO,42,15,81.957
+8,Monaco,Kick Sauber,BOT,42,16,82.109
+8,Monaco,Ferrari,LEC,21,1,78.472
+8,Monaco,McLaren,PIA,21,2,78.601
+8,Monaco,Ferrari,SAI,21,3,78.917
+8,Monaco,McLaren,NOR,21,4,78.983
+8,Monaco,Mercedes,RUS,21,5,79.788
+8,Monaco,Red Bull,VER,21,6,80.255
+8,Monaco,Mercedes,HAM,21,7,79.76
+8,Monaco,Racing Bulls,TSU,21,8,80.557
+8,Monaco,Williams,ALB,21,9,80.937
+8,Monaco,Alpine,GAS,21,10,79.876
+8,Monaco,Aston Martin,STR,21,11,79.016
+8,Monaco,Aston Martin,ALO,21,12,80.317
+8,Monaco,Racing Bulls,RIC,21,13,80.817
+8,Monaco,Williams,SAR,21,14,80.849
+8,Monaco,Kick Sauber,ZHO,21,15,80.669
+8,Monaco,Kick Sauber,BOT,21,16,80.462
+8,Monaco,Ferrari,LEC,77,1,76.933
+8,Monaco,McLaren,PIA,77,2,76.734
+8,Monaco,Ferrari,SAI,77,3,76.701
+8,Monaco,McLaren,NOR,77,4,76.512
+8,Monaco,Mercedes,RUS,77,5,75.532
+8,Monaco,Red Bull,VER,77,6,75.543
+8,Monaco,Mercedes,HAM,77,7,75.697
+8,Monaco,Racing Bulls,TSU,77,8,74.72
+8,Monaco,Williams,ALB,77,9,77.06
+8,Monaco,Alpine,GAS,77,10,75.625
+8,Monaco,Ferrari,LEC,60,1,76.414
+8,Monaco,McLaren,PIA,60,2,76.617
+8,Monaco,Ferrari,SAI,60,3,75.159
+8,Monaco,McLaren,NOR,60,4,76.695
+8,Monaco,Mercedes,RUS,60,5,76.604
+8,Monaco,Red Bull,VER,60,6,75.238
+8,Monaco,Mercedes,HAM,60,7,75.848
+8,Monaco,Racing Bulls,TSU,60,8,79.659
+8,Monaco,Williams,ALB,60,9,79.533
+8,Monaco,Alpine,GAS,60,10,80.237
+8,Monaco,Aston Martin,ALO,60,11,79.166
+8,Monaco,Racing Bulls,RIC,60,12,79.23
+8,Monaco,Kick Sauber,BOT,60,13,79.069
+8,Monaco,Aston Martin,STR,60,14,77.326
+8,Monaco,Kick Sauber,ZHO,60,15,78.545
+8,Monaco,Williams,SAR,60,16,75.58
+8,Monaco,Ferrari,LEC,8,1,81.03
+8,Monaco,McLaren,PIA,8,2,81.058
+8,Monaco,Ferrari,SAI,8,3,80.272
+8,Monaco,McLaren,NOR,8,4,80.82
+8,Monaco,Mercedes,RUS,8,5,81.612
+8,Monaco,Red Bull,VER,8,6,81.657
+8,Monaco,Mercedes,HAM,8,7,81.612
+8,Monaco,Racing Bulls,TSU,8,8,81.651
+8,Monaco,Williams,ALB,8,9,81.536
+8,Monaco,Alpine,GAS,8,10,81.6
+8,Monaco,Aston Martin,STR,8,11,81.653
+8,Monaco,Aston Martin,ALO,8,12,82.284
+8,Monaco,Racing Bulls,RIC,8,13,82.433
+8,Monaco,Kick Sauber,BOT,8,14,82.249
+8,Monaco,Williams,SAR,8,15,82.221
+8,Monaco,Kick Sauber,ZHO,8,16,82.182
+8,Monaco,Ferrari,LEC,28,1,78.71
+8,Monaco,McLaren,PIA,28,2,78.791
+8,Monaco,Ferrari,SAI,28,3,79.281
+8,Monaco,McLaren,NOR,28,4,79.238
+8,Monaco,Mercedes,RUS,28,5,78.679
+8,Monaco,Red Bull,VER,28,6,78.682
+8,Monaco,Mercedes,HAM,28,7,78.587
+8,Monaco,Racing Bulls,TSU,28,8,80.184
+8,Monaco,Williams,ALB,28,9,79.51
+8,Monaco,Alpine,GAS,28,10,80.229
+8,Monaco,Aston Martin,STR,28,11,80.131
+8,Monaco,Aston Martin,ALO,28,12,81.544
+8,Monaco,Racing Bulls,RIC,28,13,81.566
+8,Monaco,Williams,SAR,28,14,81.604
+8,Monaco,Kick Sauber,ZHO,28,15,81.516
+8,Monaco,Kick Sauber,BOT,28,16,81.765
+8,Monaco,Ferrari,LEC,68,1,76.082
+8,Monaco,McLaren,PIA,68,2,76.601
+8,Monaco,Ferrari,SAI,68,3,75.595
+8,Monaco,McLaren,NOR,68,4,76.172
+8,Monaco,Mercedes,RUS,68,5,75.931
+8,Monaco,Red Bull,VER,68,6,75.954
+8,Monaco,Mercedes,HAM,68,7,75.836
+8,Monaco,Racing Bulls,TSU,68,8,78.209
+8,Monaco,Williams,ALB,68,9,78.385
+8,Monaco,Alpine,GAS,68,10,78.545
+8,Monaco,Aston Martin,ALO,68,11,77.939
+8,Monaco,Racing Bulls,RIC,68,12,78.116
+8,Monaco,Kick Sauber,BOT,68,13,78.052
+8,Monaco,Aston Martin,STR,68,14,78.057
+8,Monaco,Williams,SAR,68,15,80.004
+8,Monaco,Kick Sauber,ZHO,68,16,85.217
+8,Monaco,Ferrari,LEC,23,1,78.458
+8,Monaco,McLaren,PIA,23,2,78.658
+8,Monaco,Ferrari,SAI,23,3,78.993
+8,Monaco,McLaren,NOR,23,4,79.194
+8,Monaco,Mercedes,RUS,23,5,79.397
+8,Monaco,Red Bull,VER,23,6,78.979
+8,Monaco,Mercedes,HAM,23,7,79.089
+8,Monaco,Racing Bulls,TSU,23,8,80.45
+8,Monaco,Williams,ALB,23,9,80.143
+8,Monaco,Alpine,GAS,23,10,81.306
+8,Monaco,Aston Martin,STR,23,11,81.188
+8,Monaco,Aston Martin,ALO,23,12,80.246
+8,Monaco,Racing Bulls,RIC,23,13,80.662
+8,Monaco,Williams,SAR,23,14,80.593
+8,Monaco,Kick Sauber,ZHO,23,15,80.792
+8,Monaco,Kick Sauber,BOT,23,16,80.75
+8,Monaco,Ferrari,LEC,52,1,78.311
+8,Monaco,McLaren,PIA,52,2,78.214
+8,Monaco,Ferrari,SAI,52,3,78.094
+8,Monaco,McLaren,NOR,52,4,78.223
+8,Monaco,Mercedes,RUS,52,5,78.602
+8,Monaco,Red Bull,VER,52,6,93.905
+8,Monaco,Mercedes,HAM,52,7,79.702
+8,Monaco,Racing Bulls,TSU,52,8,80.114
+8,Monaco,Williams,ALB,52,9,81.554
+8,Monaco,Alpine,GAS,52,10,79.743
+8,Monaco,Aston Martin,ALO,52,11,83.377
+8,Monaco,Racing Bulls,RIC,52,12,80.696
+8,Monaco,Kick Sauber,BOT,52,13,77.202
+8,Monaco,Williams,SAR,52,14,80.78
+8,Monaco,Kick Sauber,ZHO,52,15,80.97
+8,Monaco,Aston Martin,STR,52,16,77.35
+8,Monaco,Ferrari,LEC,33,1,78.494
+8,Monaco,McLaren,PIA,33,2,79.06
+8,Monaco,Ferrari,SAI,33,3,78.778
+8,Monaco,McLaren,NOR,33,4,79.233
+8,Monaco,Mercedes,RUS,33,5,78.91
+8,Monaco,Red Bull,VER,33,6,79.005
+8,Monaco,Mercedes,HAM,33,7,78.746
+8,Monaco,Racing Bulls,TSU,33,8,80.749
+8,Monaco,Williams,ALB,33,9,79.491
+8,Monaco,Alpine,GAS,33,10,80.965
+8,Monaco,Aston Martin,STR,33,11,80.536
+8,Monaco,Aston Martin,ALO,33,12,80.35
+8,Monaco,Racing Bulls,RIC,33,13,80.395
+8,Monaco,Williams,SAR,33,14,80.53
+8,Monaco,Kick Sauber,ZHO,33,15,80.677
+8,Monaco,Kick Sauber,BOT,33,16,80.525
+8,Monaco,Ferrari,LEC,46,1,78.567
+8,Monaco,McLaren,PIA,46,2,78.623
+8,Monaco,Ferrari,SAI,46,3,78.731
+8,Monaco,McLaren,NOR,46,4,78.215
+8,Monaco,Mercedes,RUS,46,5,78.387
+8,Monaco,Red Bull,VER,46,6,78.203
+8,Monaco,Mercedes,HAM,46,7,78.104
+8,Monaco,Racing Bulls,TSU,46,8,80.294
+8,Monaco,Williams,ALB,46,9,80.594
+8,Monaco,Alpine,GAS,46,10,79.97
+8,Monaco,Aston Martin,STR,46,11,78.296
+8,Monaco,Aston Martin,ALO,46,12,78.928
+8,Monaco,Racing Bulls,RIC,46,13,77.172
+8,Monaco,Williams,SAR,46,14,80.124
+8,Monaco,Kick Sauber,ZHO,46,15,80.146
+8,Monaco,Kick Sauber,BOT,46,16,80.417
+8,Monaco,Ferrari,LEC,63,1,76.971
+8,Monaco,McLaren,PIA,63,2,76.921
+8,Monaco,Ferrari,SAI,63,3,78.207
+8,Monaco,McLaren,NOR,63,4,76.876
+8,Monaco,Mercedes,RUS,63,5,76.581
+8,Monaco,Red Bull,VER,63,6,76.547
+8,Monaco,Mercedes,HAM,63,7,74.165
+8,Monaco,Racing Bulls,TSU,63,8,83.218
+8,Monaco,Williams,ALB,63,9,83.085
+8,Monaco,Alpine,GAS,63,10,79.155
+8,Monaco,Aston Martin,ALO,63,11,78.556
+8,Monaco,Racing Bulls,RIC,63,12,78.805
+8,Monaco,Kick Sauber,BOT,63,13,79.024
+8,Monaco,Aston Martin,STR,63,14,79.1
+8,Monaco,Kick Sauber,ZHO,63,15,78.789
+8,Monaco,Williams,SAR,63,16,75.688
+8,Monaco,Ferrari,LEC,37,1,78.925
+8,Monaco,McLaren,PIA,37,2,78.612
+8,Monaco,Ferrari,SAI,37,3,77.577
+8,Monaco,McLaren,NOR,37,4,77.958
+8,Monaco,Mercedes,RUS,37,5,78.757
+8,Monaco,Red Bull,VER,37,6,79.429
+8,Monaco,Mercedes,HAM,37,7,78.605
+8,Monaco,Racing Bulls,TSU,37,8,80.071
+8,Monaco,Williams,ALB,37,9,80.775
+8,Monaco,Alpine,GAS,37,10,79.975
+8,Monaco,Aston Martin,STR,37,11,79.638
+8,Monaco,Aston Martin,ALO,37,12,81.512
+8,Monaco,Racing Bulls,RIC,37,13,81.358
+8,Monaco,Williams,SAR,37,14,81.404
+8,Monaco,Kick Sauber,ZHO,37,15,81.449
+8,Monaco,Kick Sauber,BOT,37,16,81.386
+8,Monaco,Ferrari,LEC,65,1,76.607
+8,Monaco,McLaren,PIA,65,2,76.391
+8,Monaco,Ferrari,SAI,65,3,78.137
+8,Monaco,McLaren,NOR,65,4,77.143
+8,Monaco,Mercedes,RUS,65,5,75.651
+8,Monaco,Red Bull,VER,65,6,75.468
+8,Monaco,Mercedes,HAM,65,7,75.19
+8,Monaco,Racing Bulls,TSU,65,8,77.019
+8,Monaco,Williams,ALB,65,9,77.261
+8,Monaco,Alpine,GAS,65,10,79.22
+8,Monaco,Aston Martin,ALO,65,11,78.633
+8,Monaco,Racing Bulls,RIC,65,12,78.73
+8,Monaco,Kick Sauber,BOT,65,13,78.642
+8,Monaco,Aston Martin,STR,65,14,78.732
+8,Monaco,Kick Sauber,ZHO,65,15,79.719
+8,Monaco,Williams,SAR,65,16,79.869
+8,Monaco,Ferrari,LEC,25,1,78.973
+8,Monaco,McLaren,PIA,25,2,78.784
+8,Monaco,Ferrari,SAI,25,3,78.537
+8,Monaco,McLaren,NOR,25,4,78.64
+8,Monaco,Mercedes,RUS,25,5,78.651
+8,Monaco,Red Bull,VER,25,6,79.38
+8,Monaco,Mercedes,HAM,25,7,79.342
+8,Monaco,Racing Bulls,TSU,25,8,80.329
+8,Monaco,Williams,ALB,25,9,80.323
+8,Monaco,Alpine,GAS,25,10,80.372
+8,Monaco,Aston Martin,STR,25,11,80.506
+8,Monaco,Aston Martin,ALO,25,12,81.091
+8,Monaco,Racing Bulls,RIC,25,13,81.029
+8,Monaco,Williams,SAR,25,14,80.903
+8,Monaco,Kick Sauber,ZHO,25,15,80.763
+8,Monaco,Kick Sauber,BOT,25,16,80.783
+8,Monaco,Ferrari,LEC,54,1,77.357
+8,Monaco,McLaren,PIA,54,2,77.362
+8,Monaco,Ferrari,SAI,54,3,77.742
+8,Monaco,McLaren,NOR,54,4,77.838
+8,Monaco,Mercedes,RUS,54,5,78.201
+8,Monaco,Red Bull,VER,54,6,75.815
+8,Monaco,Mercedes,HAM,54,7,76.388
+8,Monaco,Racing Bulls,TSU,54,8,85.77
+8,Monaco,Williams,ALB,54,9,83.647
+8,Monaco,Alpine,GAS,54,10,79.091
+8,Monaco,Aston Martin,ALO,54,11,79.191
+8,Monaco,Racing Bulls,RIC,54,12,79.176
+8,Monaco,Kick Sauber,BOT,54,13,79.403
+8,Monaco,Williams,SAR,54,14,82.289
+8,Monaco,Kick Sauber,ZHO,54,15,82.153
+8,Monaco,Aston Martin,STR,54,16,80.571
+8,Monaco,Ferrari,LEC,20,1,78.724
+8,Monaco,McLaren,PIA,20,2,79.055
+8,Monaco,Ferrari,SAI,20,3,79.403
+8,Monaco,McLaren,NOR,20,4,79.043
+8,Monaco,Mercedes,RUS,20,5,80.053
+8,Monaco,Red Bull,VER,20,6,79.886
+8,Monaco,Mercedes,HAM,20,7,80.504
+8,Monaco,Racing Bulls,TSU,20,8,79.991
+8,Monaco,Williams,ALB,20,9,80.36
+8,Monaco,Alpine,GAS,20,10,80.255
+8,Monaco,Aston Martin,STR,20,11,79.398
+8,Monaco,Aston Martin,ALO,20,12,81.11
+8,Monaco,Racing Bulls,RIC,20,13,80.942
+8,Monaco,Williams,SAR,20,14,80.853
+8,Monaco,Kick Sauber,ZHO,20,15,80.904
+8,Monaco,Kick Sauber,BOT,20,16,79.124
+8,Monaco,Ferrari,LEC,40,1,78.733
+8,Monaco,McLaren,PIA,40,2,78.951
+8,Monaco,Ferrari,SAI,40,3,78.653
+8,Monaco,McLaren,NOR,40,4,78.824
+8,Monaco,Mercedes,RUS,40,5,78.139
+8,Monaco,Red Bull,VER,40,6,78.409
+8,Monaco,Mercedes,HAM,40,7,78.673
+8,Monaco,Racing Bulls,TSU,40,8,79.745
+8,Monaco,Williams,ALB,40,9,79.812
+8,Monaco,Alpine,GAS,40,10,80.384
+8,Monaco,Aston Martin,STR,40,11,80.45
+8,Monaco,Aston Martin,ALO,40,12,80.755
+8,Monaco,Racing Bulls,RIC,40,13,80.87
+8,Monaco,Williams,SAR,40,14,81.78
+8,Monaco,Kick Sauber,ZHO,40,15,84.969
+8,Monaco,Kick Sauber,BOT,40,16,83.591
+8,Monaco,Ferrari,LEC,62,1,77.454
+8,Monaco,McLaren,PIA,62,2,77.095
+8,Monaco,Ferrari,SAI,62,3,74.726
+8,Monaco,McLaren,NOR,62,4,76.026
+8,Monaco,Mercedes,RUS,62,5,76.787
+8,Monaco,Red Bull,VER,62,6,76.561
+8,Monaco,Mercedes,HAM,62,7,75.414
+8,Monaco,Racing Bulls,TSU,62,8,79.375
+8,Monaco,Williams,ALB,62,9,79.506
+8,Monaco,Alpine,GAS,62,10,78.469
+8,Monaco,Aston Martin,ALO,62,11,78.816
+8,Monaco,Racing Bulls,RIC,62,12,78.977
+8,Monaco,Kick Sauber,BOT,62,13,78.964
+8,Monaco,Aston Martin,STR,62,14,79.07
+8,Monaco,Kick Sauber,ZHO,62,15,78.817
+8,Monaco,Williams,SAR,62,16,75.525
+8,Monaco,Ferrari,LEC,44,1,78.276
+8,Monaco,McLaren,PIA,44,2,78.277
+8,Monaco,Ferrari,SAI,44,3,78.762
+8,Monaco,McLaren,NOR,44,4,78.906
+8,Monaco,Mercedes,RUS,44,5,78.177
+8,Monaco,Red Bull,VER,44,6,78.405
+8,Monaco,Mercedes,HAM,44,7,78.225
+8,Monaco,Racing Bulls,TSU,44,8,80.394
+8,Monaco,Williams,ALB,44,9,79.683
+8,Monaco,Alpine,GAS,44,10,80.621
+8,Monaco,Aston Martin,STR,44,11,78.551
+8,Monaco,Aston Martin,ALO,44,12,78.852
+8,Monaco,Racing Bulls,RIC,44,13,78.003
+8,Monaco,Williams,SAR,44,14,79.511
+8,Monaco,Kick Sauber,ZHO,44,15,79.61
+8,Monaco,Kick Sauber,BOT,44,16,79.772
+8,Monaco,Ferrari,LEC,10,1,80.775
+8,Monaco,McLaren,PIA,10,2,80.89
+8,Monaco,Ferrari,SAI,10,3,81.259
+8,Monaco,McLaren,NOR,10,4,80.972
+8,Monaco,Mercedes,RUS,10,5,81.531
+8,Monaco,Red Bull,VER,10,6,81.244
+8,Monaco,Mercedes,HAM,10,7,81.437
+8,Monaco,Racing Bulls,TSU,10,8,81.591
+8,Monaco,Williams,ALB,10,9,81.562
+8,Monaco,Alpine,GAS,10,10,81.394
+8,Monaco,Aston Martin,STR,10,11,81.725
+8,Monaco,Aston Martin,ALO,10,12,81.864
+8,Monaco,Racing Bulls,RIC,10,13,81.976
+8,Monaco,Kick Sauber,BOT,10,14,81.947
+8,Monaco,Williams,SAR,10,15,81.944
+8,Monaco,Kick Sauber,ZHO,10,16,81.944
+8,Monaco,Ferrari,LEC,41,1,78.694
+8,Monaco,McLaren,PIA,41,2,78.846
+8,Monaco,Ferrari,SAI,41,3,78.714
+8,Monaco,McLaren,NOR,41,4,78.519
+8,Monaco,Mercedes,RUS,41,5,78.308
+8,Monaco,Red Bull,VER,41,6,78.083
+8,Monaco,Mercedes,HAM,41,7,78.946
+8,Monaco,Racing Bulls,TSU,41,8,80.772
+8,Monaco,Williams,ALB,41,9,79.329
+8,Monaco,Alpine,GAS,41,10,80.2
+8,Monaco,Aston Martin,STR,41,11,80.2
+8,Monaco,Aston Martin,ALO,41,12,83.446
+8,Monaco,Racing Bulls,RIC,41,13,85.218
+8,Monaco,Williams,SAR,41,14,84.378
+8,Monaco,Kick Sauber,ZHO,41,15,81.127
+8,Monaco,Kick Sauber,BOT,41,16,80.23
+8,Monaco,Ferrari,LEC,14,1,79.913
+8,Monaco,McLaren,PIA,14,2,80.014
+8,Monaco,Ferrari,SAI,14,3,79.48
+8,Monaco,McLaren,NOR,14,4,79.385
+8,Monaco,Mercedes,RUS,14,5,80.272
+8,Monaco,Red Bull,VER,14,6,79.723
+8,Monaco,Mercedes,HAM,14,7,80.126
+8,Monaco,Racing Bulls,TSU,14,8,81.249
+8,Monaco,Williams,ALB,14,9,80.591
+8,Monaco,Alpine,GAS,14,10,79.92
+8,Monaco,Aston Martin,STR,14,11,80.427
+8,Monaco,Aston Martin,ALO,14,12,81.392
+8,Monaco,Racing Bulls,RIC,14,13,81.391
+8,Monaco,Kick Sauber,BOT,14,14,81.221
+8,Monaco,Williams,SAR,14,15,81.219
+8,Monaco,Kick Sauber,ZHO,14,16,81.264
+8,Monaco,Ferrari,LEC,4,1,82.625
+8,Monaco,McLaren,PIA,4,2,82.314
+8,Monaco,Ferrari,SAI,4,3,82.358
+8,Monaco,McLaren,NOR,4,4,82.782
+8,Monaco,Mercedes,RUS,4,5,82.868
+8,Monaco,Red Bull,VER,4,6,83.275
+8,Monaco,Mercedes,HAM,4,7,83.376
+8,Monaco,Racing Bulls,TSU,4,8,83.327
+8,Monaco,Williams,ALB,4,9,83.286
+8,Monaco,Alpine,GAS,4,10,83.269
+8,Monaco,Aston Martin,STR,4,11,83.354
+8,Monaco,Aston Martin,ALO,4,12,83.736
+8,Monaco,Racing Bulls,RIC,4,13,83.524
+8,Monaco,Kick Sauber,BOT,4,14,83.386
+8,Monaco,Williams,SAR,4,15,83.682
+8,Monaco,Kick Sauber,ZHO,4,16,83.698
+8,Monaco,Ferrari,LEC,78,1,78.636
+8,Monaco,McLaren,PIA,78,2,77.126
+8,Monaco,Ferrari,SAI,78,3,77.072
+8,Monaco,McLaren,NOR,78,4,77.296
+8,Monaco,Mercedes,RUS,78,5,76.303
+8,Monaco,Red Bull,VER,78,6,76.248
+8,Monaco,Mercedes,HAM,78,7,76.355
+8,Monaco,Ferrari,LEC,38,1,78.528
+8,Monaco,McLaren,PIA,38,2,78.731
+8,Monaco,Ferrari,SAI,38,3,78.412
+8,Monaco,McLaren,NOR,38,4,77.994
+8,Monaco,Mercedes,RUS,38,5,78.446
+8,Monaco,Red Bull,VER,38,6,78.844
+8,Monaco,Mercedes,HAM,38,7,80.514
+8,Monaco,Racing Bulls,TSU,38,8,80.117
+8,Monaco,Williams,ALB,38,9,80.314
+8,Monaco,Alpine,GAS,38,10,79.428
+8,Monaco,Aston Martin,STR,38,11,79.706
+8,Monaco,Aston Martin,ALO,38,12,81.082
+8,Monaco,Racing Bulls,RIC,38,13,81.099
+8,Monaco,Williams,SAR,38,14,81.131
+8,Monaco,Kick Sauber,ZHO,38,15,81.09
+8,Monaco,Kick Sauber,BOT,38,16,80.948
+8,Monaco,Ferrari,LEC,15,1,79.838
+8,Monaco,McLaren,PIA,15,2,80.264
+8,Monaco,Ferrari,SAI,15,3,79.543
+8,Monaco,McLaren,NOR,15,4,79.775
+8,Monaco,Mercedes,RUS,15,5,80.202
+8,Monaco,Red Bull,VER,15,6,80.37
+8,Monaco,Mercedes,HAM,15,7,79.971
+8,Monaco,Racing Bulls,TSU,15,8,80.099
+8,Monaco,Williams,ALB,15,9,80.591
+8,Monaco,Alpine,GAS,15,10,81.066
+8,Monaco,Aston Martin,STR,15,11,80.781
+8,Monaco,Aston Martin,ALO,15,12,81.061
+8,Monaco,Racing Bulls,RIC,15,13,81.177
+8,Monaco,Williams,SAR,15,14,81.34
+8,Monaco,Kick Sauber,ZHO,15,15,81.447
+8,Monaco,Kick Sauber,BOT,15,16,97.899
+8,Monaco,Ferrari,LEC,59,1,77.034
+8,Monaco,McLaren,PIA,59,2,77.042
+8,Monaco,Ferrari,SAI,59,3,77.134
+8,Monaco,McLaren,NOR,59,4,77.122
+8,Monaco,Mercedes,RUS,59,5,76.842
+8,Monaco,Red Bull,VER,59,6,74.748
+8,Monaco,Mercedes,HAM,59,7,74.204
+8,Monaco,Racing Bulls,TSU,59,8,78.035
+8,Monaco,Williams,ALB,59,9,78.201
+8,Monaco,Alpine,GAS,59,10,81.378
+8,Monaco,Aston Martin,ALO,59,11,79.219
+8,Monaco,Racing Bulls,RIC,59,12,78.936
+8,Monaco,Kick Sauber,BOT,59,13,78.999
+8,Monaco,Aston Martin,STR,59,14,76.71
+8,Monaco,Kick Sauber,ZHO,59,15,77.936
+8,Monaco,Williams,SAR,59,16,75.594
+8,Monaco,Ferrari,LEC,39,1,78.181
+8,Monaco,McLaren,PIA,39,2,78.362
+8,Monaco,Ferrari,SAI,39,3,78.31
+8,Monaco,McLaren,NOR,39,4,78.303
+8,Monaco,Mercedes,RUS,39,5,78.45
+8,Monaco,Red Bull,VER,39,6,78.326
+8,Monaco,Mercedes,HAM,39,7,78.943
+8,Monaco,Racing Bulls,TSU,39,8,79.855
+8,Monaco,Williams,ALB,39,9,80.389
+8,Monaco,Alpine,GAS,39,10,80.32
+8,Monaco,Aston Martin,STR,39,11,79.867
+8,Monaco,Aston Martin,ALO,39,12,81.265
+8,Monaco,Racing Bulls,RIC,39,13,81.255
+8,Monaco,Williams,SAR,39,14,81.273
+8,Monaco,Kick Sauber,ZHO,39,15,81.233
+8,Monaco,Kick Sauber,BOT,39,16,83.172
+8,Monaco,Ferrari,LEC,35,1,78.53
+8,Monaco,McLaren,PIA,35,2,78.605
+8,Monaco,Ferrari,SAI,35,3,78.465
+8,Monaco,McLaren,NOR,35,4,78.714
+8,Monaco,Mercedes,RUS,35,5,80.448
+8,Monaco,Red Bull,VER,35,6,80.207
+8,Monaco,Mercedes,HAM,35,7,79.518
+8,Monaco,Racing Bulls,TSU,35,8,78.973
+8,Monaco,Williams,ALB,35,9,78.816
+8,Monaco,Alpine,GAS,35,10,79.361
+8,Monaco,Aston Martin,STR,35,11,79.497
+8,Monaco,Aston Martin,ALO,35,12,80.432
+8,Monaco,Racing Bulls,RIC,35,13,80.54
+8,Monaco,Williams,SAR,35,14,80.584
+8,Monaco,Kick Sauber,ZHO,35,15,80.372
+8,Monaco,Kick Sauber,BOT,35,16,80.254
+8,Monaco,Ferrari,LEC,53,1,77.748
+8,Monaco,McLaren,PIA,53,2,77.609
+8,Monaco,Ferrari,SAI,53,3,77.759
+8,Monaco,McLaren,NOR,53,4,77.57
+8,Monaco,Mercedes,RUS,53,5,80.891
+8,Monaco,Red Bull,VER,53,6,78.724
+8,Monaco,Mercedes,HAM,53,7,76.458
+8,Monaco,Racing Bulls,TSU,53,8,79.854
+8,Monaco,Williams,ALB,53,9,80.7
+8,Monaco,Alpine,GAS,53,10,79.917
+8,Monaco,Aston Martin,ALO,53,11,79.992
+8,Monaco,Racing Bulls,RIC,53,12,80.079
+8,Monaco,Kick Sauber,BOT,53,13,78.456
+8,Monaco,Williams,SAR,53,14,81.318
+8,Monaco,Kick Sauber,ZHO,53,15,81.375
+8,Monaco,Aston Martin,STR,53,16,81.547
+8,Monaco,Ferrari,LEC,26,1,78.445
+8,Monaco,McLaren,PIA,26,2,78.44
+8,Monaco,Ferrari,SAI,26,3,78.088
+8,Monaco,McLaren,NOR,26,4,78.396
+8,Monaco,Mercedes,RUS,26,5,79.006
+8,Monaco,Red Bull,VER,26,6,78.818
+8,Monaco,Mercedes,HAM,26,7,79.862
+8,Monaco,Racing Bulls,TSU,26,8,80.448
+8,Monaco,Williams,ALB,26,9,80.463
+8,Monaco,Alpine,GAS,26,10,80.593
+8,Monaco,Aston Martin,STR,26,11,80.589
+8,Monaco,Aston Martin,ALO,26,12,80.858
+8,Monaco,Racing Bulls,RIC,26,13,80.691
+8,Monaco,Williams,SAR,26,14,80.929
+8,Monaco,Kick Sauber,ZHO,26,15,80.869
+8,Monaco,Kick Sauber,BOT,26,16,80.851
+8,Monaco,Ferrari,LEC,61,1,76.863
+8,Monaco,McLaren,PIA,61,2,76.771
+8,Monaco,Ferrari,SAI,61,3,79.046
+8,Monaco,McLaren,NOR,61,4,77.614
+8,Monaco,Mercedes,RUS,61,5,76.697
+8,Monaco,Red Bull,VER,61,6,75.121
+8,Monaco,Mercedes,HAM,61,7,75.274
+8,Monaco,Racing Bulls,TSU,61,8,80.298
+8,Monaco,Williams,ALB,61,9,80.222
+8,Monaco,Alpine,GAS,61,10,80.407
+8,Monaco,Aston Martin,ALO,61,11,78.752
+8,Monaco,Racing Bulls,RIC,61,12,78.771
+8,Monaco,Kick Sauber,BOT,61,13,78.623
+8,Monaco,Aston Martin,STR,61,14,78.298
+8,Monaco,Kick Sauber,ZHO,61,15,78.707
+8,Monaco,Williams,SAR,61,16,75.558
+8,Monaco,Ferrari,LEC,12,1,80.252
+8,Monaco,McLaren,PIA,12,2,80.135
+8,Monaco,Ferrari,SAI,12,3,79.974
+8,Monaco,McLaren,NOR,12,4,79.933
+8,Monaco,Mercedes,RUS,12,5,80.316
+8,Monaco,Red Bull,VER,12,6,80.659
+8,Monaco,Mercedes,HAM,12,7,81.164
+8,Monaco,Racing Bulls,TSU,12,8,81.089
+8,Monaco,Williams,ALB,12,9,80.821
+8,Monaco,Alpine,GAS,12,10,81.289
+8,Monaco,Aston Martin,STR,12,11,81.471
+8,Monaco,Aston Martin,ALO,12,12,81.366
+8,Monaco,Racing Bulls,RIC,12,13,81.277
+8,Monaco,Kick Sauber,BOT,12,14,81.328
+8,Monaco,Williams,SAR,12,15,81.404
+8,Monaco,Kick Sauber,ZHO,12,16,81.193
+8,Monaco,Ferrari,LEC,9,1,80.114
+8,Monaco,McLaren,PIA,9,2,79.906
+8,Monaco,Ferrari,SAI,9,3,80.525
+8,Monaco,McLaren,NOR,9,4,80.397
+8,Monaco,Mercedes,RUS,9,5,81.433
+8,Monaco,Red Bull,VER,9,6,81.74
+8,Monaco,Mercedes,HAM,9,7,81.851
+8,Monaco,Racing Bulls,TSU,9,8,81.896
+8,Monaco,Williams,ALB,9,9,82.004
+8,Monaco,Alpine,GAS,9,10,82.071
+8,Monaco,Aston Martin,STR,9,11,82.09
+8,Monaco,Aston Martin,ALO,9,12,81.65
+8,Monaco,Racing Bulls,RIC,9,13,81.528
+8,Monaco,Kick Sauber,BOT,9,14,81.715
+8,Monaco,Williams,SAR,9,15,81.679
+8,Monaco,Kick Sauber,ZHO,9,16,81.81
+8,Monaco,Ferrari,LEC,3,1,84.624
+8,Monaco,McLaren,PIA,3,2,84.953
+8,Monaco,Ferrari,SAI,3,3,85.012
+8,Monaco,McLaren,NOR,3,4,85.283
+8,Monaco,Mercedes,RUS,3,5,85.319
+8,Monaco,Red Bull,VER,3,6,85.744
+8,Monaco,Mercedes,HAM,3,7,87.058
+8,Monaco,Racing Bulls,TSU,3,8,87.563
+8,Monaco,Williams,ALB,3,9,87.834
+8,Monaco,Alpine,GAS,3,10,88.269
+8,Monaco,Aston Martin,STR,3,11,88.303
+8,Monaco,Aston Martin,ALO,3,12,89.188
+8,Monaco,Racing Bulls,RIC,3,13,89.656
+8,Monaco,Kick Sauber,BOT,3,14,89.743
+8,Monaco,Williams,SAR,3,15,90.077
+8,Monaco,Kick Sauber,ZHO,3,16,90.396
+8,Monaco,Ferrari,LEC,73,1,76.219
+8,Monaco,McLaren,PIA,73,2,76.281
+8,Monaco,Ferrari,SAI,73,3,76.417
+8,Monaco,McLaren,NOR,73,4,76.285
+8,Monaco,Mercedes,RUS,73,5,75.228
+8,Monaco,Red Bull,VER,73,6,75.436
+8,Monaco,Mercedes,HAM,73,7,75.134
+8,Monaco,Racing Bulls,TSU,73,8,75.955
+8,Monaco,Williams,ALB,73,9,78.432
+8,Monaco,Alpine,GAS,73,10,77.992
+8,Monaco,Aston Martin,ALO,73,11,78.504
+8,Monaco,Racing Bulls,RIC,73,12,78.512
+8,Monaco,Kick Sauber,BOT,73,13,80.068
+8,Monaco,Aston Martin,STR,73,14,80.709
+8,Monaco,Williams,SAR,73,15,76.37
+8,Monaco,Kick Sauber,ZHO,73,16,75.233
+8,Monaco,Ferrari,LEC,22,1,78.62
+8,Monaco,McLaren,PIA,22,2,78.585
+8,Monaco,Ferrari,SAI,22,3,78.889
+8,Monaco,McLaren,NOR,22,4,78.981
+8,Monaco,Mercedes,RUS,22,5,79.691
+8,Monaco,Red Bull,VER,22,6,79.813
+8,Monaco,Mercedes,HAM,22,7,80.59
+8,Monaco,Racing Bulls,TSU,22,8,80.875
+8,Monaco,Williams,ALB,22,9,80.542
+8,Monaco,Alpine,GAS,22,10,80.554
+8,Monaco,Aston Martin,STR,22,11,81.307
+8,Monaco,Aston Martin,ALO,22,12,81.037
+8,Monaco,Racing Bulls,RIC,22,13,80.849
+8,Monaco,Williams,SAR,22,14,80.897
+8,Monaco,Kick Sauber,ZHO,22,15,81.083
+8,Monaco,Kick Sauber,BOT,22,16,81.022
+8,Monaco,Ferrari,LEC,75,1,76.387
+8,Monaco,McLaren,PIA,75,2,76.644
+8,Monaco,Ferrari,SAI,75,3,76.905
+8,Monaco,McLaren,NOR,75,4,76.517
+8,Monaco,Mercedes,RUS,75,5,75.525
+8,Monaco,Red Bull,VER,75,6,75.396
+8,Monaco,Mercedes,HAM,75,7,75.324
+8,Monaco,Racing Bulls,TSU,75,8,74.992
+8,Monaco,Williams,ALB,75,9,77.85
+8,Monaco,Alpine,GAS,75,10,78.12
+8,Monaco,Aston Martin,ALO,75,11,78.663
+8,Monaco,Racing Bulls,RIC,75,12,78.645
+8,Monaco,Kick Sauber,BOT,75,13,78.779
+8,Monaco,Aston Martin,STR,75,14,78.511
+8,Monaco,Williams,SAR,75,15,76.324
+8,Monaco,Kick Sauber,ZHO,75,16,74.718
+8,Monaco,Ferrari,LEC,69,1,76.373
+8,Monaco,McLaren,PIA,69,2,77.371
+8,Monaco,Ferrari,SAI,69,3,76.218
+8,Monaco,McLaren,NOR,69,4,76.314
+8,Monaco,Mercedes,RUS,69,5,75.869
+8,Monaco,Red Bull,VER,69,6,75.463
+8,Monaco,Mercedes,HAM,69,7,75.648
+8,Monaco,Racing Bulls,TSU,69,8,80.032
+8,Monaco,Williams,ALB,69,9,79.921
+8,Monaco,Alpine,GAS,69,10,78.363
+8,Monaco,Aston Martin,ALO,69,11,78.713
+8,Monaco,Racing Bulls,RIC,69,12,78.386
+8,Monaco,Kick Sauber,BOT,69,13,78.088
+8,Monaco,Aston Martin,STR,69,14,78.275
+8,Monaco,Williams,SAR,69,15,76.077
+8,Monaco,Kick Sauber,ZHO,69,16,80.484
+8,Monaco,Ferrari,LEC,16,1,80.156
+8,Monaco,McLaren,PIA,16,2,79.829
+8,Monaco,Ferrari,SAI,16,3,80.579
+8,Monaco,McLaren,NOR,16,4,79.637
+8,Monaco,Mercedes,RUS,16,5,79.913
+8,Monaco,Red Bull,VER,16,6,80.287
+8,Monaco,Mercedes,HAM,16,7,80.384
+8,Monaco,Racing Bulls,TSU,16,8,80.847
+8,Monaco,Williams,ALB,16,9,80.793
+8,Monaco,Alpine,GAS,16,10,81.054
+8,Monaco,Aston Martin,STR,16,11,81.189
+8,Monaco,Aston Martin,ALO,16,12,81.318
+8,Monaco,Racing Bulls,RIC,16,13,81.125
+8,Monaco,Williams,SAR,16,14,80.646
+8,Monaco,Kick Sauber,ZHO,16,15,80.481
+8,Monaco,Kick Sauber,BOT,16,16,80.012
+8,Monaco,Ferrari,LEC,49,1,78.506
+8,Monaco,McLaren,PIA,49,2,78.136
+8,Monaco,Ferrari,SAI,49,3,78.259
+8,Monaco,McLaren,NOR,49,4,78.177
+8,Monaco,Mercedes,RUS,49,5,78.985
+8,Monaco,Red Bull,VER,49,6,78.477
+8,Monaco,Mercedes,HAM,49,7,77.398
+8,Monaco,Racing Bulls,TSU,49,8,80.109
+8,Monaco,Williams,ALB,49,9,79.378
+8,Monaco,Alpine,GAS,49,10,80.534
+8,Monaco,Aston Martin,ALO,49,11,79.837
+8,Monaco,Racing Bulls,RIC,49,12,79.837
+8,Monaco,Williams,SAR,49,13,83.966
+8,Monaco,Kick Sauber,ZHO,49,14,82.134
+8,Monaco,Kick Sauber,BOT,49,15,80.818
+8,Monaco,Aston Martin,STR,49,16,79.089
+8,Monaco,Ferrari,LEC,51,1,77.79
+8,Monaco,McLaren,PIA,51,2,77.909
+8,Monaco,Ferrari,SAI,51,3,77.528
+8,Monaco,McLaren,NOR,51,4,77.772
+8,Monaco,Mercedes,RUS,51,5,78.049
+8,Monaco,Red Bull,VER,51,6,78.142
+8,Monaco,Mercedes,HAM,51,7,95.209
+8,Monaco,Racing Bulls,TSU,51,8,78.64
+8,Monaco,Williams,ALB,51,9,78.863
+8,Monaco,Alpine,GAS,51,10,84.473
+8,Monaco,Aston Martin,ALO,51,11,80.636
+8,Monaco,Racing Bulls,RIC,51,12,82.683
+8,Monaco,Kick Sauber,BOT,51,13,77.205
+8,Monaco,Williams,SAR,51,14,81.817
+8,Monaco,Kick Sauber,ZHO,51,15,80.962
+8,Monaco,Aston Martin,STR,51,16,76.982
+8,Monaco,Ferrari,LEC,30,1,79.935
+8,Monaco,McLaren,PIA,30,2,79.396
+8,Monaco,Ferrari,SAI,30,3,77.326
+8,Monaco,McLaren,NOR,30,4,78.403
+8,Monaco,Mercedes,RUS,30,5,78.811
+8,Monaco,Red Bull,VER,30,6,78.574
+8,Monaco,Mercedes,HAM,30,7,78.371
+8,Monaco,Racing Bulls,TSU,30,8,80.495
+8,Monaco,Williams,ALB,30,9,81.439
+8,Monaco,Alpine,GAS,30,10,81.764
+8,Monaco,Aston Martin,STR,30,11,81.422
+8,Monaco,Aston Martin,ALO,30,12,81.034
+8,Monaco,Racing Bulls,RIC,30,13,80.9
+8,Monaco,Williams,SAR,30,14,80.84
+8,Monaco,Kick Sauber,ZHO,30,15,81.044
+8,Monaco,Kick Sauber,BOT,30,16,81.47
+8,Monaco,Ferrari,LEC,27,1,78.351
+8,Monaco,McLaren,PIA,27,2,78.523
+8,Monaco,Ferrari,SAI,27,3,79.49
+8,Monaco,McLaren,NOR,27,4,78.72
+8,Monaco,Mercedes,RUS,27,5,78.927
+8,Monaco,Red Bull,VER,27,6,78.797
+8,Monaco,Mercedes,HAM,27,7,78.549
+8,Monaco,Racing Bulls,TSU,27,8,80.286
+8,Monaco,Williams,ALB,27,9,80.509
+8,Monaco,Alpine,GAS,27,10,80.521
+8,Monaco,Aston Martin,STR,27,11,80.307
+8,Monaco,Aston Martin,ALO,27,12,81.303
+8,Monaco,Racing Bulls,RIC,27,13,81.365
+8,Monaco,Williams,SAR,27,14,81.231
+8,Monaco,Kick Sauber,ZHO,27,15,81.293
+8,Monaco,Kick Sauber,BOT,27,16,81.37
+8,Monaco,Ferrari,LEC,47,1,79.185
+8,Monaco,McLaren,PIA,47,2,78.399
+8,Monaco,Ferrari,SAI,47,3,78.141
+8,Monaco,McLaren,NOR,47,4,78.141
+8,Monaco,Mercedes,RUS,47,5,78.314
+8,Monaco,Red Bull,VER,47,6,78.537
+8,Monaco,Mercedes,HAM,47,7,78.331
+8,Monaco,Racing Bulls,TSU,47,8,80.426
+8,Monaco,Williams,ALB,47,9,80.462
+8,Monaco,Alpine,GAS,47,10,79.435
+8,Monaco,Aston Martin,STR,47,11,78.062
+8,Monaco,Aston Martin,ALO,47,12,79.109
+8,Monaco,Racing Bulls,RIC,47,13,81.071
+8,Monaco,Williams,SAR,47,14,79.888
+8,Monaco,Kick Sauber,ZHO,47,15,80.075
+8,Monaco,Kick Sauber,BOT,47,16,82.969
+8,Monaco,Ferrari,LEC,18,1,79.58
+8,Monaco,McLaren,PIA,18,2,79.832
+8,Monaco,Ferrari,SAI,18,3,79.177
+8,Monaco,McLaren,NOR,18,4,79.398
+8,Monaco,Mercedes,RUS,18,5,79.438
+8,Monaco,Red Bull,VER,18,6,79.58
+8,Monaco,Mercedes,HAM,18,7,80.037
+8,Monaco,Racing Bulls,TSU,18,8,80.612
+8,Monaco,Williams,ALB,18,9,80.042
+8,Monaco,Alpine,GAS,18,10,80.797
+8,Monaco,Aston Martin,STR,18,11,80.698
+8,Monaco,Aston Martin,ALO,18,12,81.075
+8,Monaco,Racing Bulls,RIC,18,13,81.108
+8,Monaco,Williams,SAR,18,14,81.031
+8,Monaco,Kick Sauber,ZHO,18,15,80.911
+8,Monaco,Kick Sauber,BOT,18,16,76.567
+8,Monaco,Ferrari,LEC,19,1,78.842
+8,Monaco,McLaren,PIA,19,2,79.179
+8,Monaco,Ferrari,SAI,19,3,79.445
+8,Monaco,McLaren,NOR,19,4,79.28
+8,Monaco,Mercedes,RUS,19,5,80.157
+8,Monaco,Red Bull,VER,19,6,80.171
+8,Monaco,Mercedes,HAM,19,7,79.874
+8,Monaco,Racing Bulls,TSU,19,8,80.77
+8,Monaco,Williams,ALB,19,9,80.245
+8,Monaco,Alpine,GAS,19,10,79.904
+8,Monaco,Aston Martin,STR,19,11,80.353
+8,Monaco,Aston Martin,ALO,19,12,80.605
+8,Monaco,Racing Bulls,RIC,19,13,81.31
+8,Monaco,Williams,SAR,19,14,81.221
+8,Monaco,Kick Sauber,ZHO,19,15,81.42
+8,Monaco,Kick Sauber,BOT,19,16,77.829
+8,Monaco,Ferrari,LEC,48,1,77.941
+8,Monaco,McLaren,PIA,48,2,78.395
+8,Monaco,Ferrari,SAI,48,3,77.894
+8,Monaco,McLaren,NOR,48,4,77.975
+8,Monaco,Mercedes,RUS,48,5,78.702
+8,Monaco,Red Bull,VER,48,6,78.337
+8,Monaco,Mercedes,HAM,48,7,77.831
+8,Monaco,Racing Bulls,TSU,48,8,80.543
+8,Monaco,Williams,ALB,48,9,79.321
+8,Monaco,Alpine,GAS,48,10,79.865
+8,Monaco,Aston Martin,ALO,48,11,80.315
+8,Monaco,Racing Bulls,RIC,48,12,78.282
+8,Monaco,Williams,SAR,48,13,80.97
+8,Monaco,Kick Sauber,ZHO,48,14,82.481
+8,Monaco,Kick Sauber,BOT,48,15,80.562
+8,Monaco,Aston Martin,STR,48,16,109.132
+8,Monaco,Ferrari,LEC,24,1,78.725
+8,Monaco,McLaren,PIA,24,2,78.636
+8,Monaco,Ferrari,SAI,24,3,78.568
+8,Monaco,McLaren,NOR,24,4,78.699
+8,Monaco,Mercedes,RUS,24,5,79.484
+8,Monaco,Red Bull,VER,24,6,79.364
+8,Monaco,Mercedes,HAM,24,7,78.785
+8,Monaco,Racing Bulls,TSU,24,8,80.386
+8,Monaco,Williams,ALB,24,9,80.517
+8,Monaco,Alpine,GAS,24,10,80.949
+8,Monaco,Aston Martin,STR,24,11,81.621
+8,Monaco,Aston Martin,ALO,24,12,81.413
+8,Monaco,Racing Bulls,RIC,24,13,80.348
+8,Monaco,Williams,SAR,24,14,80.395
+8,Monaco,Kick Sauber,ZHO,24,15,80.347
+8,Monaco,Kick Sauber,BOT,24,16,80.564
+8,Monaco,Ferrari,LEC,1,1,2456.33
+8,Monaco,McLaren,PIA,1,2,2458.744
+8,Monaco,Ferrari,SAI,1,3,2462.721
+8,Monaco,McLaren,NOR,1,4,2468.042
+8,Monaco,Mercedes,RUS,1,5,2473.884
+8,Monaco,Red Bull,VER,1,6,2478.944
+8,Monaco,Mercedes,HAM,1,7,2483.804
+8,Monaco,Racing Bulls,TSU,1,8,2488.609
+8,Monaco,Williams,ALB,1,9,2494.817
+8,Monaco,Alpine,GAS,1,10,2497.695
+8,Monaco,Aston Martin,STR,1,11,2502.648
+8,Monaco,Racing Bulls,RIC,1,12,2507.607
+8,Monaco,Aston Martin,ALO,1,13,2513.184
+8,Monaco,Williams,SAR,1,14,2516.858
+8,Monaco,Kick Sauber,BOT,1,15,2521.748
+8,Monaco,Kick Sauber,ZHO,1,16,2526.253
+8,Monaco,Ferrari,LEC,32,1,79.125
+8,Monaco,McLaren,PIA,32,2,78.969
+8,Monaco,Ferrari,SAI,32,3,80.136
+8,Monaco,McLaren,NOR,32,4,79.538
+8,Monaco,Mercedes,RUS,32,5,79.122
+8,Monaco,Red Bull,VER,32,6,78.983
+8,Monaco,Mercedes,HAM,32,7,78.618
+8,Monaco,Racing Bulls,TSU,32,8,81.023
+8,Monaco,Williams,ALB,32,9,80.148
+8,Monaco,Alpine,GAS,32,10,81.121
+8,Monaco,Aston Martin,STR,32,11,81.252
+8,Monaco,Aston Martin,ALO,32,12,81.01
+8,Monaco,Racing Bulls,RIC,32,13,80.94
+8,Monaco,Williams,SAR,32,14,80.797
+8,Monaco,Kick Sauber,ZHO,32,15,80.782
+8,Monaco,Kick Sauber,BOT,32,16,80.658
+8,Monaco,Ferrari,LEC,66,1,76.489
+8,Monaco,McLaren,PIA,66,2,76.64
+8,Monaco,Ferrari,SAI,66,3,75.409
+8,Monaco,McLaren,NOR,66,4,76.214
+8,Monaco,Mercedes,RUS,66,5,75.848
+8,Monaco,Red Bull,VER,66,6,76.121
+8,Monaco,Mercedes,HAM,66,7,75.342
+8,Monaco,Racing Bulls,TSU,66,8,78.197
+8,Monaco,Williams,ALB,66,9,78.003
+8,Monaco,Alpine,GAS,66,10,78.726
+8,Monaco,Aston Martin,ALO,66,11,78.637
+8,Monaco,Racing Bulls,RIC,66,12,78.248
+8,Monaco,Kick Sauber,BOT,66,13,78.383
+8,Monaco,Aston Martin,STR,66,14,78.748
+8,Monaco,Kick Sauber,ZHO,66,15,79.749
+8,Monaco,Williams,SAR,66,16,80.799
+8,Monaco,Ferrari,LEC,57,1,77.64
+8,Monaco,McLaren,PIA,57,2,77.3
+8,Monaco,Ferrari,SAI,57,3,77.599
+8,Monaco,McLaren,NOR,57,4,77.815
+8,Monaco,Mercedes,RUS,57,5,76.91
+8,Monaco,Red Bull,VER,57,6,76.181
+8,Monaco,Mercedes,HAM,57,7,77.857
+8,Monaco,Racing Bulls,TSU,57,8,78.499
+8,Monaco,Williams,ALB,57,9,78.271
+8,Monaco,Alpine,GAS,57,10,79.448
+8,Monaco,Aston Martin,ALO,57,11,80.6
+8,Monaco,Racing Bulls,RIC,57,12,79.672
+8,Monaco,Kick Sauber,BOT,57,13,78.994
+8,Monaco,Aston Martin,STR,57,14,76.914
+8,Monaco,Kick Sauber,ZHO,57,15,81.119
+8,Monaco,Williams,SAR,57,16,97.746
+8,Monaco,Ferrari,LEC,56,1,77.266
+8,Monaco,McLaren,PIA,56,2,77.456
+8,Monaco,Ferrari,SAI,56,3,78.119
+8,Monaco,McLaren,NOR,56,4,78.155
+8,Monaco,Mercedes,RUS,56,5,77.071
+8,Monaco,Red Bull,VER,56,6,75.466
+8,Monaco,Mercedes,HAM,56,7,74.423
+8,Monaco,Racing Bulls,TSU,56,8,78.502
+8,Monaco,Williams,ALB,56,9,78.796
+8,Monaco,Alpine,GAS,56,10,79.704
+8,Monaco,Aston Martin,ALO,56,11,80.739
+8,Monaco,Racing Bulls,RIC,56,12,82.007
+8,Monaco,Kick Sauber,BOT,56,13,81.657
+8,Monaco,Aston Martin,STR,56,14,77.279
+8,Monaco,Williams,SAR,56,15,81.474
+8,Monaco,Kick Sauber,ZHO,56,16,80.315
+8,Monaco,Ferrari,LEC,6,1,81.145
+8,Monaco,McLaren,PIA,6,2,81.354
+8,Monaco,Ferrari,SAI,6,3,81.163
+8,Monaco,McLaren,NOR,6,4,81.804
+8,Monaco,Mercedes,RUS,6,5,83.012
+8,Monaco,Red Bull,VER,6,6,83.787
+8,Monaco,Mercedes,HAM,6,7,83.369
+8,Monaco,Racing Bulls,TSU,6,8,83.224
+8,Monaco,Williams,ALB,6,9,83.416
+8,Monaco,Alpine,GAS,6,10,83.106
+8,Monaco,Aston Martin,STR,6,11,82.977
+8,Monaco,Aston Martin,ALO,6,12,82.711
+8,Monaco,Racing Bulls,RIC,6,13,82.748
+8,Monaco,Kick Sauber,BOT,6,14,82.868
+8,Monaco,Williams,SAR,6,15,82.739
+8,Monaco,Kick Sauber,ZHO,6,16,82.649
+8,Monaco,Ferrari,LEC,76,1,76.808
+8,Monaco,McLaren,PIA,76,2,76.59
+8,Monaco,Ferrari,SAI,76,3,76.328
+8,Monaco,McLaren,NOR,76,4,76.671
+8,Monaco,Mercedes,RUS,76,5,75.753
+8,Monaco,Red Bull,VER,76,6,75.641
+8,Monaco,Mercedes,HAM,76,7,75.245
+8,Monaco,Racing Bulls,TSU,76,8,75.205
+8,Monaco,Williams,ALB,76,9,77.279
+8,Monaco,Alpine,GAS,76,10,77.516
+8,Monaco,Aston Martin,ALO,76,11,79.053
+8,Monaco,Racing Bulls,RIC,76,12,78.93
+8,Monaco,Kick Sauber,BOT,76,13,78.774
+8,Monaco,Aston Martin,STR,76,14,78.623
+8,Monaco,Williams,SAR,76,15,77.197
+8,Monaco,Kick Sauber,ZHO,76,16,77.173
+8,Monaco,Ferrari,LEC,34,1,79.319
+8,Monaco,McLaren,PIA,34,2,78.978
+8,Monaco,Ferrari,SAI,34,3,79.013
+8,Monaco,McLaren,NOR,34,4,79.243
+8,Monaco,Mercedes,RUS,34,5,79.379
+8,Monaco,Red Bull,VER,34,6,79.594
+8,Monaco,Mercedes,HAM,34,7,78.86
+8,Monaco,Racing Bulls,TSU,34,8,79.153
+8,Monaco,Williams,ALB,34,9,79.134
+8,Monaco,Alpine,GAS,34,10,80.751
+8,Monaco,Aston Martin,STR,34,11,79.789
+8,Monaco,Aston Martin,ALO,34,12,80.877
+8,Monaco,Racing Bulls,RIC,34,13,80.84
+8,Monaco,Williams,SAR,34,14,80.738
+8,Monaco,Kick Sauber,ZHO,34,15,80.736
+8,Monaco,Kick Sauber,BOT,34,16,80.903
+8,Monaco,Ferrari,LEC,7,1,80.98
+8,Monaco,McLaren,PIA,7,2,80.808
+8,Monaco,Ferrari,SAI,7,3,81.466
+8,Monaco,McLaren,NOR,7,4,80.828
+8,Monaco,Mercedes,RUS,7,5,81.415
+8,Monaco,Red Bull,VER,7,6,81.283
+8,Monaco,Mercedes,HAM,7,7,81.463
+8,Monaco,Racing Bulls,TSU,7,8,81.826
+8,Monaco,Williams,ALB,7,9,81.913
+8,Monaco,Alpine,GAS,7,10,82.233
+8,Monaco,Aston Martin,STR,7,11,82.634
+8,Monaco,Aston Martin,ALO,7,12,82.866
+8,Monaco,Racing Bulls,RIC,7,13,82.747
+8,Monaco,Kick Sauber,BOT,7,14,82.832
+8,Monaco,Williams,SAR,7,15,82.899
+8,Monaco,Kick Sauber,ZHO,7,16,82.934
+8,Monaco,Ferrari,LEC,2,1,177.857
+8,Monaco,McLaren,PIA,2,2,176.127
+8,Monaco,Ferrari,SAI,2,3,172.664
+8,Monaco,McLaren,NOR,2,4,167.666
+8,Monaco,Mercedes,RUS,2,5,162.166
+8,Monaco,Red Bull,VER,2,6,157.443
+8,Monaco,Mercedes,HAM,2,7,152.812
+8,Monaco,Racing Bulls,TSU,2,8,148.277
+8,Monaco,Williams,ALB,2,9,142.255
+8,Monaco,Alpine,GAS,2,10,139.618
+8,Monaco,Aston Martin,STR,2,11,134.844
+8,Monaco,Racing Bulls,RIC,2,12,130.108
+8,Monaco,Aston Martin,ALO,2,13,124.571
+8,Monaco,Williams,SAR,2,14,121.235
+8,Monaco,Kick Sauber,BOT,2,15,116.358
+8,Monaco,Kick Sauber,ZHO,2,16,112.131
+8,Monaco,Ferrari,LEC,64,1,76.56
+8,Monaco,McLaren,PIA,64,2,76.909
+8,Monaco,Ferrari,SAI,64,3,74.813
+8,Monaco,McLaren,NOR,64,4,75.742
+8,Monaco,Mercedes,RUS,64,5,76.133
+8,Monaco,Red Bull,VER,64,6,76.619
+8,Monaco,Mercedes,HAM,64,7,76.164
+8,Monaco,Racing Bulls,TSU,64,8,77.631
+8,Monaco,Williams,ALB,64,9,77.911
+8,Monaco,Alpine,GAS,64,10,78.868
+8,Monaco,Aston Martin,ALO,64,11,78.736
+8,Monaco,Racing Bulls,RIC,64,12,78.637
+8,Monaco,Kick Sauber,BOT,64,13,78.531
+8,Monaco,Aston Martin,STR,64,14,78.425
+8,Monaco,Kick Sauber,ZHO,64,15,79.295
+8,Monaco,Williams,SAR,64,16,76.895
+8,Monaco,Ferrari,LEC,67,1,75.941
+8,Monaco,McLaren,PIA,67,2,76.596
+8,Monaco,Ferrari,SAI,67,3,76.847
+8,Monaco,McLaren,NOR,67,4,76.115
+8,Monaco,Mercedes,RUS,67,5,76.157
+8,Monaco,Red Bull,VER,67,6,76.276
+8,Monaco,Mercedes,HAM,67,7,76.117
+8,Monaco,Racing Bulls,TSU,67,8,78.148
+8,Monaco,Williams,ALB,67,9,77.874
+8,Monaco,Alpine,GAS,67,10,78.624
+8,Monaco,Aston Martin,ALO,67,11,78.126
+8,Monaco,Racing Bulls,RIC,67,12,78.219
+8,Monaco,Kick Sauber,BOT,67,13,78.467
+8,Monaco,Aston Martin,STR,67,14,78.636
+8,Monaco,Kick Sauber,ZHO,67,15,80.357
+8,Monaco,Williams,SAR,67,16,80.347
+8,Monaco,Ferrari,LEC,29,1,79.053
+8,Monaco,McLaren,PIA,29,2,79.01
+8,Monaco,Ferrari,SAI,29,3,78.697
+8,Monaco,McLaren,NOR,29,4,78.766
+8,Monaco,Mercedes,RUS,29,5,78.624
+8,Monaco,Red Bull,VER,29,6,78.795
+8,Monaco,Mercedes,HAM,29,7,78.94
+8,Monaco,Racing Bulls,TSU,29,8,79.837
+8,Monaco,Williams,ALB,29,9,80.271
+8,Monaco,Alpine,GAS,29,10,79.376
+8,Monaco,Aston Martin,STR,29,11,79.464
+8,Monaco,Aston Martin,ALO,29,12,81.205
+8,Monaco,Racing Bulls,RIC,29,13,81.265
+8,Monaco,Williams,SAR,29,14,81.334
+8,Monaco,Kick Sauber,ZHO,29,15,81.338
+8,Monaco,Kick Sauber,BOT,29,16,80.857
+8,Monaco,Ferrari,LEC,17,1,80.279
+8,Monaco,McLaren,PIA,17,2,80.028
+8,Monaco,Ferrari,SAI,17,3,80.076
+8,Monaco,McLaren,NOR,17,4,80.337
+8,Monaco,Mercedes,RUS,17,5,80.15
+8,Monaco,Red Bull,VER,17,6,79.898
+8,Monaco,Mercedes,HAM,17,7,79.738
+8,Monaco,Racing Bulls,TSU,17,8,80.335
+8,Monaco,Williams,ALB,17,9,81.137
+8,Monaco,Alpine,GAS,17,10,81.961
+8,Monaco,Aston Martin,STR,17,11,81.97
+8,Monaco,Aston Martin,ALO,17,12,80.799
+8,Monaco,Racing Bulls,RIC,17,13,80.862
+8,Monaco,Williams,SAR,17,14,81.016
+8,Monaco,Kick Sauber,ZHO,17,15,80.979
+8,Monaco,Kick Sauber,BOT,17,16,76.561
+8,Monaco,Ferrari,LEC,71,1,75.162
+8,Monaco,McLaren,PIA,71,2,77.184
+8,Monaco,Ferrari,SAI,71,3,77.214
+8,Monaco,McLaren,NOR,71,4,76.609
+8,Monaco,Mercedes,RUS,71,5,75.827
+8,Monaco,Red Bull,VER,71,6,75.659
+8,Monaco,Mercedes,HAM,71,7,75.643
+8,Monaco,Racing Bulls,TSU,71,8,78.258
+8,Monaco,Williams,ALB,71,9,78.957
+8,Monaco,Alpine,GAS,71,10,78.14
+8,Monaco,Aston Martin,ALO,71,11,78.133
+8,Monaco,Racing Bulls,RIC,71,12,78.108
+8,Monaco,Kick Sauber,BOT,71,13,78.104
+8,Monaco,Aston Martin,STR,71,14,78.464
+8,Monaco,Williams,SAR,71,15,76.326
+8,Monaco,Kick Sauber,ZHO,71,16,85.295
+8,Monaco,Ferrari,LEC,5,1,81.795
+8,Monaco,McLaren,PIA,5,2,82.019
+8,Monaco,Ferrari,SAI,5,3,81.978
+8,Monaco,McLaren,NOR,5,4,82.147
+8,Monaco,Mercedes,RUS,5,5,83.045
+8,Monaco,Red Bull,VER,5,6,83.4
+8,Monaco,Mercedes,HAM,5,7,83.64
+8,Monaco,Racing Bulls,TSU,5,8,83.493
+8,Monaco,Williams,ALB,5,9,83.369
+8,Monaco,Alpine,GAS,5,10,83.428
+8,Monaco,Aston Martin,STR,5,11,83.731
+8,Monaco,Aston Martin,ALO,5,12,83.575
+8,Monaco,Racing Bulls,RIC,5,13,83.744
+8,Monaco,Kick Sauber,BOT,5,14,83.636
+8,Monaco,Williams,SAR,5,15,83.674
+8,Monaco,Kick Sauber,ZHO,5,16,83.494
+8,Monaco,Ferrari,LEC,43,1,77.865
+8,Monaco,McLaren,PIA,43,2,78.198
+8,Monaco,Ferrari,SAI,43,3,79.594
+8,Monaco,McLaren,NOR,43,4,79.796
+8,Monaco,Mercedes,RUS,43,5,78.684
+8,Monaco,Red Bull,VER,43,6,78.358
+8,Monaco,Mercedes,HAM,43,7,77.867
+8,Monaco,Racing Bulls,TSU,43,8,80.135
+8,Monaco,Williams,ALB,43,9,79.496
+8,Monaco,Alpine,GAS,43,10,81.048
+8,Monaco,Aston Martin,STR,43,11,82.775
+8,Monaco,Aston Martin,ALO,43,12,80.286
+8,Monaco,Racing Bulls,RIC,43,13,81.053
+8,Monaco,Williams,SAR,43,14,80.552
+8,Monaco,Kick Sauber,ZHO,43,15,80.578
+8,Monaco,Kick Sauber,BOT,43,16,80.912
+8,Monaco,Ferrari,LEC,74,1,76.105
+8,Monaco,McLaren,PIA,74,2,76.356
+8,Monaco,Ferrari,SAI,74,3,76.063
+8,Monaco,McLaren,NOR,74,4,76.429
+8,Monaco,Mercedes,RUS,74,5,75.376
+8,Monaco,Red Bull,VER,74,6,75.38
+8,Monaco,Mercedes,HAM,74,7,75.324
+8,Monaco,Racing Bulls,TSU,74,8,75.462
+8,Monaco,Williams,ALB,74,9,78.014
+8,Monaco,Alpine,GAS,74,10,76.689
+8,Monaco,Aston Martin,ALO,74,11,80.336
+8,Monaco,Racing Bulls,RIC,74,12,80.358
+8,Monaco,Kick Sauber,BOT,74,13,78.318
+8,Monaco,Aston Martin,STR,74,14,78.23
+8,Monaco,Williams,SAR,74,15,76.863
+8,Monaco,Kick Sauber,ZHO,74,16,80.473
+8,Monaco,Ferrari,LEC,50,1,78.185
+8,Monaco,McLaren,PIA,50,2,78.35
+8,Monaco,Ferrari,SAI,50,3,78.545
+8,Monaco,McLaren,NOR,50,4,78.218
+8,Monaco,Mercedes,RUS,50,5,78.447
+8,Monaco,Red Bull,VER,50,6,78.88
+8,Monaco,Mercedes,HAM,50,7,78.461
+8,Monaco,Racing Bulls,TSU,50,8,79.553
+8,Monaco,Williams,ALB,50,9,79.268
+8,Monaco,Alpine,GAS,50,10,81.023
+8,Monaco,Aston Martin,ALO,50,11,79.334
+8,Monaco,Racing Bulls,RIC,50,12,79.796
+8,Monaco,Williams,SAR,50,13,80.292
+8,Monaco,Kick Sauber,BOT,50,14,80.239
+8,Monaco,Kick Sauber,ZHO,50,15,80.946
+8,Monaco,Aston Martin,STR,50,16,77.788
+8,Monaco,Ferrari,LEC,11,1,81.046
+8,Monaco,McLaren,PIA,11,2,80.898
+8,Monaco,Ferrari,SAI,11,3,80.246
+8,Monaco,McLaren,NOR,11,4,80.87
+8,Monaco,Mercedes,RUS,11,5,81.452
+8,Monaco,Red Bull,VER,11,6,81.492
+8,Monaco,Mercedes,HAM,11,7,81.325
+8,Monaco,Racing Bulls,TSU,11,8,81.289
+8,Monaco,Williams,ALB,11,9,81.514
+8,Monaco,Alpine,GAS,11,10,81.298
+8,Monaco,Aston Martin,STR,11,11,81.517
+8,Monaco,Aston Martin,ALO,11,12,81.418
+8,Monaco,Racing Bulls,RIC,11,13,81.53
+8,Monaco,Kick Sauber,BOT,11,14,81.547
+8,Monaco,Williams,SAR,11,15,81.492
+8,Monaco,Kick Sauber,ZHO,11,16,81.563
+8,Monaco,Ferrari,LEC,45,1,78.541
+8,Monaco,McLaren,PIA,45,2,78.082
+8,Monaco,Ferrari,SAI,45,3,77.885
+8,Monaco,McLaren,NOR,45,4,77.897
+8,Monaco,Mercedes,RUS,45,5,78.449
+8,Monaco,Red Bull,VER,45,6,78.313
+8,Monaco,Mercedes,HAM,45,7,78.156
+8,Monaco,Racing Bulls,TSU,45,8,80.144
+8,Monaco,Williams,ALB,45,9,81.748
+8,Monaco,Alpine,GAS,45,10,79.382
+8,Monaco,Aston Martin,STR,45,11,78.806
+8,Monaco,Aston Martin,ALO,45,12,79.956
+8,Monaco,Racing Bulls,RIC,45,13,81.761
+8,Monaco,Williams,SAR,45,14,80.72
+8,Monaco,Kick Sauber,ZHO,45,15,80.686
+8,Monaco,Kick Sauber,BOT,45,16,80.043
+8,Monaco,Ferrari,LEC,58,1,77.028
+8,Monaco,McLaren,PIA,58,2,77.344
+8,Monaco,Ferrari,SAI,58,3,77.501
+8,Monaco,McLaren,NOR,58,4,77.395
+8,Monaco,Mercedes,RUS,58,5,77.142
+8,Monaco,Red Bull,VER,58,6,74.569
+8,Monaco,Mercedes,HAM,58,7,76.855
+8,Monaco,Racing Bulls,TSU,58,8,78.737
+8,Monaco,Williams,ALB,58,9,78.69
+8,Monaco,Alpine,GAS,58,10,79.097
+8,Monaco,Aston Martin,ALO,58,11,79.229
+8,Monaco,Racing Bulls,RIC,58,12,79.119
+8,Monaco,Kick Sauber,BOT,58,13,79.28
+8,Monaco,Aston Martin,STR,58,14,77.156
+8,Monaco,Kick Sauber,ZHO,58,15,78.795
+8,Monaco,Williams,SAR,58,16,79.809
+8,Monaco,Ferrari,LEC,31,1,78.393
+8,Monaco,McLaren,PIA,31,2,78.449
+8,Monaco,Ferrari,SAI,31,3,79.784
+8,Monaco,McLaren,NOR,31,4,78.78
+8,Monaco,Mercedes,RUS,31,5,79.101
+8,Monaco,Red Bull,VER,31,6,78.564
+8,Monaco,Mercedes,HAM,31,7,78.471
+8,Monaco,Racing Bulls,TSU,31,8,80.19
+8,Monaco,Williams,ALB,31,9,80.941
+8,Monaco,Alpine,GAS,31,10,81.427
+8,Monaco,Aston Martin,STR,31,11,82.535
+8,Monaco,Aston Martin,ALO,31,12,80.642
+8,Monaco,Racing Bulls,RIC,31,13,80.703
+8,Monaco,Williams,SAR,31,14,80.775
+8,Monaco,Kick Sauber,ZHO,31,15,80.806
+8,Monaco,Kick Sauber,BOT,31,16,80.752
+8,Monaco,Ferrari,LEC,13,1,79.017
+8,Monaco,McLaren,PIA,13,2,78.745
+8,Monaco,Ferrari,SAI,13,3,80.017
+8,Monaco,McLaren,NOR,13,4,79.82
+8,Monaco,Mercedes,RUS,13,5,80.525
+8,Monaco,Red Bull,VER,13,6,79.904
+8,Monaco,Mercedes,HAM,13,7,80.171
+8,Monaco,Racing Bulls,TSU,13,8,80.682
+8,Monaco,Williams,ALB,13,9,81.42
+8,Monaco,Alpine,GAS,13,10,81.53
+8,Monaco,Aston Martin,STR,13,11,81.314
+8,Monaco,Aston Martin,ALO,13,12,81.428
+8,Monaco,Racing Bulls,RIC,13,13,81.416
+8,Monaco,Kick Sauber,BOT,13,14,81.54
+8,Monaco,Williams,SAR,13,15,81.499
+8,Monaco,Kick Sauber,ZHO,13,16,81.529
+8,Monaco,Ferrari,LEC,36,1,78.689
+8,Monaco,McLaren,PIA,36,2,78.882
+8,Monaco,Ferrari,SAI,36,3,79.275
+8,Monaco,McLaren,NOR,36,4,78.582
+8,Monaco,Mercedes,RUS,36,5,79.728
+8,Monaco,Red Bull,VER,36,6,79.634
+8,Monaco,Mercedes,HAM,36,7,80.648
+8,Monaco,Racing Bulls,TSU,36,8,79.472
+8,Monaco,Williams,ALB,36,9,81.628
+8,Monaco,Alpine,GAS,36,10,79.576
+8,Monaco,Aston Martin,STR,36,11,79.297
+8,Monaco,Aston Martin,ALO,36,12,81.128
+8,Monaco,Racing Bulls,RIC,36,13,81.126
+8,Monaco,Williams,SAR,36,14,81.134
+8,Monaco,Kick Sauber,ZHO,36,15,80.986
+8,Monaco,Kick Sauber,BOT,36,16,81.196
+8,Monaco,Ferrari,LEC,72,1,75.547
+8,Monaco,McLaren,PIA,72,2,76.652
+8,Monaco,Ferrari,SAI,72,3,76.785
+8,Monaco,McLaren,NOR,72,4,76.801
+8,Monaco,Mercedes,RUS,72,5,75.839
+8,Monaco,Red Bull,VER,72,6,75.733
+8,Monaco,Mercedes,HAM,72,7,75.468
+8,Monaco,Racing Bulls,TSU,72,8,77.079
+8,Monaco,Williams,ALB,72,9,78.165
+8,Monaco,Alpine,GAS,72,10,78.382
+8,Monaco,Aston Martin,ALO,72,11,78.081
+8,Monaco,Racing Bulls,RIC,72,12,78.068
+8,Monaco,Kick Sauber,BOT,72,13,78.347
+8,Monaco,Aston Martin,STR,72,14,78.332
+8,Monaco,Williams,SAR,72,15,76.402
+8,Monaco,Kick Sauber,ZHO,72,16,80.585
