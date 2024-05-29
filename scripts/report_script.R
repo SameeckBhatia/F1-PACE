@@ -118,3 +118,6 @@ plot_all("Miami", "NOR", "VER", "#00A8CC")
 
 # Emilia Romagna GP
 plot_all("Emilia Romagna", "NOR", "VER", "#009B47")
+
+# Monaco GP
+plot_all("Monaco", "LEC", "PIA", "#CF0921")
