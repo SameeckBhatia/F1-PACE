@@ -8539,3 +8539,1270 @@ round,grand_prix,constructor,driver,lap,position,time
 8,Monaco,Aston Martin,STR,72,14,78.332
 8,Monaco,Williams,SAR,72,15,76.402
 8,Monaco,Kick Sauber,ZHO,72,16,80.585
+9,Canada,Red Bull,VER,43,1,84.292
+9,Canada,Mercedes,RUS,43,2,83.694
+9,Canada,McLaren,NOR,43,3,83.671
+9,Canada,McLaren,PIA,43,4,84.465
+9,Canada,Aston Martin,ALO,43,5,84.453
+9,Canada,Racing Bulls,TSU,43,6,84.662
+9,Canada,Mercedes,HAM,43,7,101.297
+9,Canada,Aston Martin,STR,43,8,85.612
+9,Canada,Alpine,OCO,43,9,84.927
+9,Canada,Williams,ALB,43,10,86.284
+9,Canada,Haas,HUL,43,11,86.465
+9,Canada,Kick Sauber,ZHO,43,12,87.246
+9,Canada,Racing Bulls,RIC,43,13,101.557
+9,Canada,Ferrari,SAI,43,14,101.456
+9,Canada,Red Bull,PER,43,15,102.006
+9,Canada,Kick Sauber,BOT,43,16,98.817
+9,Canada,Alpine,GAS,43,17,83.906
+9,Canada,Haas,MAG,43,18,88.313
+9,Canada,Mercedes,RUS,19,1,86.526
+9,Canada,Red Bull,VER,19,2,86.001
+9,Canada,McLaren,NOR,19,3,85.777
+9,Canada,McLaren,PIA,19,4,85.529
+9,Canada,Aston Martin,ALO,19,5,86.192
+9,Canada,Mercedes,HAM,19,6,86.817
+9,Canada,Racing Bulls,RIC,19,7,86.679
+9,Canada,Aston Martin,STR,19,8,86.88
+9,Canada,Ferrari,LEC,19,9,87.107
+9,Canada,Williams,ALB,19,10,85.842
+9,Canada,Racing Bulls,TSU,19,11,86.668
+9,Canada,Ferrari,SAI,19,12,86.898
+9,Canada,Haas,MAG,19,13,87.825
+9,Canada,Alpine,OCO,19,14,87.561
+9,Canada,Red Bull,PER,19,15,87.001
+9,Canada,Alpine,GAS,19,16,87.412
+9,Canada,Kick Sauber,BOT,19,17,88.149
+9,Canada,Kick Sauber,ZHO,19,18,88.23
+9,Canada,Haas,HUL,19,19,87.468
+9,Canada,Williams,SAR,19,20,86.484
+9,Canada,Red Bull,VER,59,1,78.361
+9,Canada,McLaren,NOR,59,2,79.368
+9,Canada,McLaren,PIA,59,3,79.586
+9,Canada,Mercedes,RUS,59,4,79.943
+9,Canada,Mercedes,HAM,59,5,80.267
+9,Canada,Aston Martin,ALO,59,6,80.627
+9,Canada,Aston Martin,STR,59,7,80.939
+9,Canada,Racing Bulls,TSU,59,8,80.714
+9,Canada,Alpine,OCO,59,9,81.087
+9,Canada,Racing Bulls,RIC,59,10,81.225
+9,Canada,Alpine,GAS,59,11,81.432
+9,Canada,Haas,HUL,59,12,81.788
+9,Canada,Kick Sauber,BOT,59,13,82.168
+9,Canada,Haas,MAG,59,14,82.613
+9,Canada,Kick Sauber,ZHO,59,15,80.26
+9,Canada,Mercedes,RUS,9,1,90.401
+9,Canada,Red Bull,VER,9,2,90.159
+9,Canada,McLaren,NOR,9,3,89.86
+9,Canada,McLaren,PIA,9,4,91.043
+9,Canada,Aston Martin,ALO,9,5,90.866
+9,Canada,Mercedes,HAM,9,6,91.01
+9,Canada,Haas,HUL,9,7,94.267
+9,Canada,Racing Bulls,RIC,9,8,92.518
+9,Canada,Aston Martin,STR,9,9,92.85
+9,Canada,Ferrari,LEC,9,10,92.791
+9,Canada,Racing Bulls,TSU,9,11,92.88
+9,Canada,Williams,ALB,9,12,92.225
+9,Canada,Ferrari,SAI,9,13,92.154
+9,Canada,Haas,MAG,9,14,93.695
+9,Canada,Alpine,OCO,9,15,92.887
+9,Canada,Red Bull,PER,9,16,93.168
+9,Canada,Alpine,GAS,9,17,91.76
+9,Canada,Kick Sauber,BOT,9,18,92.461
+9,Canada,Kick Sauber,ZHO,9,19,93.064
+9,Canada,Williams,SAR,9,20,91.967
+9,Canada,Mercedes,RUS,20,1,86.014
+9,Canada,McLaren,NOR,20,2,85.473
+9,Canada,Red Bull,VER,20,3,86.265
+9,Canada,McLaren,PIA,20,4,85.391
+9,Canada,Aston Martin,ALO,20,5,85.488
+9,Canada,Mercedes,HAM,20,6,85.298
+9,Canada,Racing Bulls,RIC,20,7,86.554
+9,Canada,Aston Martin,STR,20,8,86.894
+9,Canada,Williams,ALB,20,9,86.838
+9,Canada,Ferrari,LEC,20,10,88.214
+9,Canada,Racing Bulls,TSU,20,11,87.795
+9,Canada,Ferrari,SAI,20,12,87.228
+9,Canada,Haas,MAG,20,13,87.614
+9,Canada,Alpine,OCO,20,14,87.138
+9,Canada,Red Bull,PER,20,15,88.03
+9,Canada,Alpine,GAS,20,16,86.818
+9,Canada,Kick Sauber,BOT,20,17,86.765
+9,Canada,Haas,HUL,20,18,87.628
+9,Canada,Kick Sauber,ZHO,20,19,89.249
+9,Canada,Williams,SAR,20,20,89.257
+9,Canada,Mercedes,RUS,7,1,90.974
+9,Canada,Red Bull,VER,7,2,91.258
+9,Canada,McLaren,NOR,7,3,92.547
+9,Canada,McLaren,PIA,7,4,91.954
+9,Canada,Aston Martin,ALO,7,5,95.131
+9,Canada,Mercedes,HAM,7,6,95.866
+9,Canada,Haas,HUL,7,7,96.158
+9,Canada,Racing Bulls,RIC,7,8,93.997
+9,Canada,Aston Martin,STR,7,9,93.695
+9,Canada,Ferrari,LEC,7,10,94.541
+9,Canada,Racing Bulls,TSU,7,11,94.176
+9,Canada,Haas,MAG,7,12,115.419
+9,Canada,Williams,ALB,7,13,93.969
+9,Canada,Ferrari,SAI,7,14,93.725
+9,Canada,Alpine,OCO,7,15,93.72
+9,Canada,Red Bull,PER,7,16,94.071
+9,Canada,Alpine,GAS,7,17,95.344
+9,Canada,Kick Sauber,BOT,7,18,95.655
+9,Canada,Kick Sauber,ZHO,7,19,95.318
+9,Canada,Williams,SAR,7,20,94.031
+9,Canada,Red Bull,VER,69,1,75.935
+9,Canada,McLaren,NOR,69,2,76.075
+9,Canada,Mercedes,RUS,69,3,75.479
+9,Canada,Mercedes,HAM,69,4,76.065
+9,Canada,McLaren,PIA,69,5,76.66
+9,Canada,Aston Martin,ALO,69,6,76.387
+9,Canada,Aston Martin,STR,69,7,76.873
+9,Canada,Racing Bulls,RIC,69,8,77.234
+9,Canada,Alpine,GAS,69,9,77.621
+9,Canada,Alpine,OCO,69,10,78.293
+9,Canada,Haas,HUL,69,11,76.789
+9,Canada,Haas,MAG,69,12,76.653
+9,Canada,Kick Sauber,BOT,69,13,78.345
+9,Canada,Racing Bulls,TSU,69,14,77.816
+9,Canada,Kick Sauber,ZHO,69,15,77.62
+9,Canada,Mercedes,RUS,10,1,89.79
+9,Canada,Red Bull,VER,10,2,89.295
+9,Canada,McLaren,NOR,10,3,90.86
+9,Canada,McLaren,PIA,10,4,89.459
+9,Canada,Aston Martin,ALO,10,5,90.025
+9,Canada,Mercedes,HAM,10,6,90.417
+9,Canada,Haas,HUL,10,7,94.671
+9,Canada,Racing Bulls,RIC,10,8,93.382
+9,Canada,Aston Martin,STR,10,9,92.786
+9,Canada,Ferrari,LEC,10,10,92.094
+9,Canada,Racing Bulls,TSU,10,11,92.028
+9,Canada,Williams,ALB,10,12,91.606
+9,Canada,Ferrari,SAI,10,13,91.554
+9,Canada,Haas,MAG,10,14,91.129
+9,Canada,Alpine,OCO,10,15,91.432
+9,Canada,Red Bull,PER,10,16,91.205
+9,Canada,Alpine,GAS,10,17,91.486
+9,Canada,Kick Sauber,BOT,10,18,91.422
+9,Canada,Kick Sauber,ZHO,10,19,92.906
+9,Canada,Williams,SAR,10,20,91.06
+9,Canada,McLaren,NOR,45,1,83.569
+9,Canada,Red Bull,VER,45,2,100.612
+9,Canada,Mercedes,RUS,45,3,101.273
+9,Canada,McLaren,PIA,45,4,92.249
+9,Canada,Mercedes,HAM,45,5,83.763
+9,Canada,Aston Martin,ALO,45,6,93.457
+9,Canada,Racing Bulls,TSU,45,7,92.947
+9,Canada,Aston Martin,STR,45,8,92.774
+9,Canada,Alpine,OCO,45,9,93.259
+9,Canada,Williams,ALB,45,10,91.836
+9,Canada,Racing Bulls,RIC,45,11,84.267
+9,Canada,Ferrari,SAI,45,12,84.895
+9,Canada,Red Bull,PER,45,13,86.788
+9,Canada,Haas,HUL,45,14,91.09
+9,Canada,Alpine,GAS,45,15,83.452
+9,Canada,Kick Sauber,BOT,45,16,85.276
+9,Canada,Haas,MAG,45,17,84.688
+9,Canada,Kick Sauber,ZHO,45,18,105.189
+9,Canada,Red Bull,VER,63,1,75.983
+9,Canada,McLaren,NOR,63,2,76.38
+9,Canada,McLaren,PIA,63,3,77.279
+9,Canada,Mercedes,HAM,63,4,76.657
+9,Canada,Mercedes,RUS,63,5,78.447
+9,Canada,Aston Martin,ALO,63,6,77.153
+9,Canada,Aston Martin,STR,63,7,77.612
+9,Canada,Alpine,OCO,63,8,77.902
+9,Canada,Racing Bulls,TSU,63,9,78.027
+9,Canada,Racing Bulls,RIC,63,10,77.877
+9,Canada,Alpine,GAS,63,11,77.997
+9,Canada,Haas,HUL,63,12,78.039
+9,Canada,Kick Sauber,BOT,63,13,77.768
+9,Canada,Haas,MAG,63,14,77.617
+9,Canada,Kick Sauber,ZHO,63,15,78.754
+9,Canada,Red Bull,VER,31,1,89.219
+9,Canada,Mercedes,RUS,31,2,89.841
+9,Canada,McLaren,NOR,31,3,90.169
+9,Canada,McLaren,PIA,31,4,90.562
+9,Canada,Mercedes,HAM,31,5,90.533
+9,Canada,Aston Martin,ALO,31,6,90.492
+9,Canada,Racing Bulls,TSU,31,7,91.035
+9,Canada,Aston Martin,STR,31,8,90.97
+9,Canada,Williams,ALB,31,9,90.375
+9,Canada,Alpine,OCO,31,10,91.377
+9,Canada,Racing Bulls,RIC,31,11,92.15
+9,Canada,Kick Sauber,BOT,31,12,91.954
+9,Canada,Ferrari,SAI,31,13,92.345
+9,Canada,Alpine,GAS,31,14,92.523
+9,Canada,Haas,MAG,31,15,93.596
+9,Canada,Red Bull,PER,31,16,93.782
+9,Canada,Kick Sauber,ZHO,31,17,93.635
+9,Canada,Haas,HUL,31,18,95.98
+9,Canada,Ferrari,LEC,31,19,133.657
+9,Canada,McLaren,NOR,23,1,85.246
+9,Canada,Red Bull,VER,23,2,86.591
+9,Canada,Mercedes,RUS,23,3,86.894
+9,Canada,McLaren,PIA,23,4,85.85
+9,Canada,Aston Martin,ALO,23,5,85.977
+9,Canada,Mercedes,HAM,23,6,86.533
+9,Canada,Racing Bulls,RIC,23,7,86.684
+9,Canada,Aston Martin,STR,23,8,87.166
+9,Canada,Williams,ALB,23,9,86.766
+9,Canada,Racing Bulls,TSU,23,10,86.583
+9,Canada,Ferrari,LEC,23,11,86.623
+9,Canada,Ferrari,SAI,23,12,86.839
+9,Canada,Haas,MAG,23,13,87.198
+9,Canada,Alpine,OCO,23,14,86.736
+9,Canada,Alpine,GAS,23,15,85.084
+9,Canada,Red Bull,PER,23,16,86.418
+9,Canada,Kick Sauber,BOT,23,17,87.74
+9,Canada,Haas,HUL,23,18,86.137
+9,Canada,Kick Sauber,ZHO,23,19,89.086
+9,Canada,Williams,SAR,23,20,88.969
+9,Canada,Red Bull,VER,34,1,87.754
+9,Canada,Mercedes,RUS,34,2,87.683
+9,Canada,McLaren,NOR,34,3,88.097
+9,Canada,McLaren,PIA,34,4,87.454
+9,Canada,Mercedes,HAM,34,5,87.36
+9,Canada,Aston Martin,ALO,34,6,88.854
+9,Canada,Racing Bulls,TSU,34,7,89.198
+9,Canada,Aston Martin,STR,34,8,89.836
+9,Canada,Williams,ALB,34,9,89.966
+9,Canada,Alpine,OCO,34,10,88.896
+9,Canada,Racing Bulls,RIC,34,11,89.15
+9,Canada,Kick Sauber,BOT,34,12,88.766
+9,Canada,Ferrari,SAI,34,13,88.45
+9,Canada,Alpine,GAS,34,14,88.934
+9,Canada,Haas,MAG,34,15,89.007
+9,Canada,Red Bull,PER,34,16,88.604
+9,Canada,Kick Sauber,ZHO,34,17,89.049
+9,Canada,Haas,HUL,34,18,89.317
+9,Canada,Ferrari,LEC,34,19,88.054
+9,Canada,McLaren,NOR,24,1,84.743
+9,Canada,Red Bull,VER,24,2,87.034
+9,Canada,Mercedes,RUS,24,3,86.76
+9,Canada,McLaren,PIA,24,4,86.273
+9,Canada,Aston Martin,ALO,24,5,86.664
+9,Canada,Mercedes,HAM,24,6,86.331
+9,Canada,Racing Bulls,RIC,24,7,86.226
+9,Canada,Aston Martin,STR,24,8,86.27
+9,Canada,Williams,ALB,24,9,86.715
+9,Canada,Racing Bulls,TSU,24,10,86.986
+9,Canada,Ferrari,LEC,24,11,87.641
+9,Canada,Ferrari,SAI,24,12,86.527
+9,Canada,Haas,MAG,24,13,87.563
+9,Canada,Alpine,OCO,24,14,87.201
+9,Canada,Alpine,GAS,24,15,87.539
+9,Canada,Red Bull,PER,24,16,86.62
+9,Canada,Kick Sauber,BOT,24,17,89.076
+9,Canada,Haas,HUL,24,18,92.444
+9,Canada,Kick Sauber,ZHO,24,19,111.792
+9,Canada,Red Bull,VER,48,1,80.47
+9,Canada,McLaren,NOR,48,2,88.096
+9,Canada,Mercedes,RUS,48,3,81.029
+9,Canada,McLaren,PIA,48,4,81.014
+9,Canada,Mercedes,HAM,48,5,79.502
+9,Canada,Aston Martin,ALO,48,6,83.117
+9,Canada,Racing Bulls,TSU,48,7,82.657
+9,Canada,Aston Martin,STR,48,8,82.265
+9,Canada,Alpine,OCO,48,9,81.453
+9,Canada,Williams,ALB,48,10,81.247
+9,Canada,Ferrari,SAI,48,11,81.875
+9,Canada,Racing Bulls,RIC,48,12,84.303
+9,Canada,Red Bull,PER,48,13,81.565
+9,Canada,Alpine,GAS,48,14,81.407
+9,Canada,Haas,HUL,48,15,80.989
+9,Canada,Kick Sauber,BOT,48,16,82.121
+9,Canada,Haas,MAG,48,17,84.303
+9,Canada,Kick Sauber,ZHO,48,18,86.473
+9,Canada,Mercedes,RUS,11,1,89.741
+9,Canada,Red Bull,VER,11,2,89.7
+9,Canada,McLaren,NOR,11,3,88.032
+9,Canada,McLaren,PIA,11,4,89.005
+9,Canada,Aston Martin,ALO,11,5,89.371
+9,Canada,Mercedes,HAM,11,6,88.956
+9,Canada,Racing Bulls,RIC,11,7,93.504
+9,Canada,Haas,HUL,11,8,94.672
+9,Canada,Aston Martin,STR,11,9,94.245
+9,Canada,Ferrari,LEC,11,10,94.16
+9,Canada,Racing Bulls,TSU,11,11,94.0
+9,Canada,Williams,ALB,11,12,93.286
+9,Canada,Ferrari,SAI,11,13,93.036
+9,Canada,Haas,MAG,11,14,90.747
+9,Canada,Alpine,OCO,11,15,90.896
+9,Canada,Red Bull,PER,11,16,92.334
+9,Canada,Alpine,GAS,11,17,93.319
+9,Canada,Kick Sauber,BOT,11,18,91.668
+9,Canada,Kick Sauber,ZHO,11,19,91.991
+9,Canada,Williams,SAR,11,20,90.075
+9,Canada,Red Bull,VER,67,1,75.77
+9,Canada,McLaren,NOR,67,2,75.558
+9,Canada,Mercedes,HAM,67,3,75.922
+9,Canada,Mercedes,RUS,67,4,75.363
+9,Canada,McLaren,PIA,67,5,77.162
+9,Canada,Aston Martin,ALO,67,6,77.116
+9,Canada,Aston Martin,STR,67,7,77.661
+9,Canada,Racing Bulls,RIC,67,8,77.192
+9,Canada,Alpine,OCO,67,9,78.275
+9,Canada,Alpine,GAS,67,10,77.964
+9,Canada,Haas,HUL,67,11,76.683
+9,Canada,Haas,MAG,67,12,77.152
+9,Canada,Kick Sauber,BOT,67,13,80.026
+9,Canada,Racing Bulls,TSU,67,14,78.847
+9,Canada,Kick Sauber,ZHO,67,15,78.258
+9,Canada,McLaren,NOR,21,1,85.192
+9,Canada,Red Bull,VER,21,2,86.578
+9,Canada,Mercedes,RUS,21,3,88.455
+9,Canada,McLaren,PIA,21,4,85.351
+9,Canada,Aston Martin,ALO,21,5,86.07
+9,Canada,Mercedes,HAM,21,6,85.593
+9,Canada,Racing Bulls,RIC,21,7,86.135
+9,Canada,Aston Martin,STR,21,8,86.728
+9,Canada,Williams,ALB,21,9,87.129
+9,Canada,Racing Bulls,TSU,21,10,86.941
+9,Canada,Ferrari,LEC,21,11,88.317
+9,Canada,Ferrari,SAI,21,12,88.099
+9,Canada,Haas,MAG,21,13,87.411
+9,Canada,Alpine,OCO,21,14,87.829
+9,Canada,Alpine,GAS,21,15,87.756
+9,Canada,Red Bull,PER,21,16,91.463
+9,Canada,Kick Sauber,BOT,21,17,88.049
+9,Canada,Haas,HUL,21,18,87.075
+9,Canada,Kick Sauber,ZHO,21,19,88.014
+9,Canada,Williams,SAR,21,20,89.286
+9,Canada,Red Bull,VER,58,1,135.564
+9,Canada,McLaren,NOR,58,2,135.27
+9,Canada,McLaren,PIA,58,3,134.735
+9,Canada,Mercedes,RUS,58,4,133.486
+9,Canada,Mercedes,HAM,58,5,133.716
+9,Canada,Aston Martin,ALO,58,6,132.536
+9,Canada,Aston Martin,STR,58,7,131.641
+9,Canada,Racing Bulls,TSU,58,8,130.588
+9,Canada,Alpine,OCO,58,9,129.772
+9,Canada,Racing Bulls,RIC,58,10,129.092
+9,Canada,Alpine,GAS,58,11,128.079
+9,Canada,Haas,HUL,58,12,127.632
+9,Canada,Kick Sauber,BOT,58,13,125.666
+9,Canada,Haas,MAG,58,14,125.254
+9,Canada,Kick Sauber,ZHO,58,15,80.998
+9,Canada,Red Bull,VER,57,1,116.657
+9,Canada,McLaren,NOR,57,2,116.997
+9,Canada,McLaren,PIA,57,3,115.379
+9,Canada,Mercedes,RUS,57,4,114.47
+9,Canada,Mercedes,HAM,57,5,112.216
+9,Canada,Aston Martin,ALO,57,6,113.122
+9,Canada,Aston Martin,STR,57,7,113.17
+9,Canada,Racing Bulls,TSU,57,8,113.912
+9,Canada,Alpine,OCO,57,9,114.304
+9,Canada,Racing Bulls,RIC,57,10,113.596
+9,Canada,Alpine,GAS,57,11,112.791
+9,Canada,Haas,HUL,57,12,113.609
+9,Canada,Kick Sauber,BOT,57,13,114.231
+9,Canada,Haas,MAG,57,14,110.577
+9,Canada,Kick Sauber,ZHO,57,15,83.316
+9,Canada,Red Bull,VER,36,1,86.269
+9,Canada,Mercedes,RUS,36,2,86.649
+9,Canada,McLaren,NOR,36,3,86.37
+9,Canada,McLaren,PIA,36,4,87.062
+9,Canada,Mercedes,HAM,36,5,86.369
+9,Canada,Aston Martin,ALO,36,6,87.681
+9,Canada,Racing Bulls,TSU,36,7,87.766
+9,Canada,Aston Martin,STR,36,8,87.698
+9,Canada,Williams,ALB,36,9,88.014
+9,Canada,Alpine,OCO,36,10,87.907
+9,Canada,Racing Bulls,RIC,36,11,88.337
+9,Canada,Kick Sauber,BOT,36,12,88.177
+9,Canada,Ferrari,SAI,36,13,87.905
+9,Canada,Alpine,GAS,36,14,87.6
+9,Canada,Haas,MAG,36,15,87.577
+9,Canada,Red Bull,PER,36,16,87.346
+9,Canada,Kick Sauber,ZHO,36,17,87.649
+9,Canada,Haas,HUL,36,18,87.583
+9,Canada,Ferrari,LEC,36,19,91.95
+9,Canada,Red Bull,VER,33,1,89.528
+9,Canada,Mercedes,RUS,33,2,89.317
+9,Canada,McLaren,NOR,33,3,89.003
+9,Canada,McLaren,PIA,33,4,89.655
+9,Canada,Mercedes,HAM,33,5,88.936
+9,Canada,Aston Martin,ALO,33,6,90.703
+9,Canada,Racing Bulls,TSU,33,7,90.814
+9,Canada,Aston Martin,STR,33,8,90.845
+9,Canada,Williams,ALB,33,9,90.349
+9,Canada,Alpine,OCO,33,10,90.147
+9,Canada,Racing Bulls,RIC,33,11,89.874
+9,Canada,Kick Sauber,BOT,33,12,90.281
+9,Canada,Ferrari,SAI,33,13,90.702
+9,Canada,Alpine,GAS,33,14,90.925
+9,Canada,Haas,MAG,33,15,90.285
+9,Canada,Red Bull,PER,33,16,90.413
+9,Canada,Kick Sauber,ZHO,33,17,91.437
+9,Canada,Haas,HUL,33,18,91.331
+9,Canada,Ferrari,LEC,33,19,88.269
+9,Canada,Red Bull,VER,35,1,86.792
+9,Canada,Mercedes,RUS,35,2,87.325
+9,Canada,McLaren,NOR,35,3,87.307
+9,Canada,McLaren,PIA,35,4,87.187
+9,Canada,Mercedes,HAM,35,5,86.93
+9,Canada,Aston Martin,ALO,35,6,87.872
+9,Canada,Racing Bulls,TSU,35,7,88.531
+9,Canada,Aston Martin,STR,35,8,88.065
+9,Canada,Williams,ALB,35,9,88.754
+9,Canada,Alpine,OCO,35,10,88.819
+9,Canada,Racing Bulls,RIC,35,11,88.634
+9,Canada,Kick Sauber,BOT,35,12,88.408
+9,Canada,Ferrari,SAI,35,13,88.699
+9,Canada,Alpine,GAS,35,14,88.432
+9,Canada,Haas,MAG,35,15,88.5
+9,Canada,Red Bull,PER,35,16,88.705
+9,Canada,Kick Sauber,ZHO,35,17,89.16
+9,Canada,Haas,HUL,35,18,88.716
+9,Canada,Ferrari,LEC,35,19,90.236
+9,Canada,Red Bull,VER,56,1,123.992
+9,Canada,McLaren,NOR,56,2,124.066
+9,Canada,McLaren,PIA,56,3,125.192
+9,Canada,Mercedes,RUS,56,4,123.083
+9,Canada,Mercedes,HAM,56,5,121.618
+9,Canada,Aston Martin,ALO,56,6,118.627
+9,Canada,Aston Martin,STR,56,7,118.802
+9,Canada,Racing Bulls,TSU,56,8,117.555
+9,Canada,Alpine,OCO,56,9,116.628
+9,Canada,Racing Bulls,RIC,56,10,115.239
+9,Canada,Alpine,GAS,56,11,115.801
+9,Canada,Haas,HUL,56,12,114.698
+9,Canada,Kick Sauber,BOT,56,13,105.978
+9,Canada,Haas,MAG,56,14,86.229
+9,Canada,Kick Sauber,ZHO,56,15,87.004
+9,Canada,Red Bull,VER,55,1,130.789
+9,Canada,McLaren,NOR,55,2,124.823
+9,Canada,McLaren,PIA,55,3,121.632
+9,Canada,Mercedes,RUS,55,4,108.566
+9,Canada,Mercedes,HAM,55,5,106.626
+9,Canada,Aston Martin,ALO,55,6,100.877
+9,Canada,Aston Martin,STR,55,7,97.349
+9,Canada,Racing Bulls,TSU,55,8,96.346
+9,Canada,Alpine,OCO,55,9,95.307
+9,Canada,Racing Bulls,RIC,55,10,93.794
+9,Canada,Alpine,GAS,55,11,93.813
+9,Canada,Haas,HUL,55,12,94.557
+9,Canada,Kick Sauber,BOT,55,13,94.094
+9,Canada,Haas,MAG,55,14,99.525
+9,Canada,Kick Sauber,ZHO,55,15,96.313
+9,Canada,Mercedes,RUS,8,1,91.467
+9,Canada,Red Bull,VER,8,2,90.766
+9,Canada,McLaren,NOR,8,3,91.299
+9,Canada,McLaren,PIA,8,4,91.133
+9,Canada,Aston Martin,ALO,8,5,92.566
+9,Canada,Mercedes,HAM,8,6,92.524
+9,Canada,Haas,HUL,8,7,94.17
+9,Canada,Racing Bulls,RIC,8,8,93.341
+9,Canada,Aston Martin,STR,8,9,93.549
+9,Canada,Ferrari,LEC,8,10,93.768
+9,Canada,Racing Bulls,TSU,8,11,93.491
+9,Canada,Williams,ALB,8,12,92.963
+9,Canada,Ferrari,SAI,8,13,93.103
+9,Canada,Haas,MAG,8,14,97.984
+9,Canada,Alpine,OCO,8,15,93.301
+9,Canada,Red Bull,PER,8,16,93.132
+9,Canada,Alpine,GAS,8,17,92.862
+9,Canada,Kick Sauber,BOT,8,18,93.68
+9,Canada,Kick Sauber,ZHO,8,19,93.889
+9,Canada,Williams,SAR,8,20,94.161
+9,Canada,Red Bull,VER,32,1,90.715
+9,Canada,Mercedes,RUS,32,2,90.484
+9,Canada,McLaren,NOR,32,3,90.563
+9,Canada,McLaren,PIA,32,4,90.225
+9,Canada,Mercedes,HAM,32,5,91.549
+9,Canada,Aston Martin,ALO,32,6,91.726
+9,Canada,Racing Bulls,TSU,32,7,91.251
+9,Canada,Aston Martin,STR,32,8,90.959
+9,Canada,Williams,ALB,32,9,91.152
+9,Canada,Alpine,OCO,32,10,91.386
+9,Canada,Racing Bulls,RIC,32,11,91.669
+9,Canada,Kick Sauber,BOT,32,12,92.149
+9,Canada,Ferrari,SAI,32,13,91.832
+9,Canada,Alpine,GAS,32,14,91.747
+9,Canada,Haas,MAG,32,15,92.202
+9,Canada,Red Bull,PER,32,16,92.347
+9,Canada,Kick Sauber,ZHO,32,17,91.705
+9,Canada,Haas,HUL,32,18,91.076
+9,Canada,Ferrari,LEC,32,19,94.347
+9,Canada,Red Bull,VER,60,1,77.472
+9,Canada,McLaren,NOR,60,2,77.236
+9,Canada,McLaren,PIA,60,3,77.239
+9,Canada,Mercedes,RUS,60,4,77.103
+9,Canada,Mercedes,HAM,60,5,77.666
+9,Canada,Aston Martin,ALO,60,6,78.612
+9,Canada,Aston Martin,STR,60,7,78.504
+9,Canada,Racing Bulls,TSU,60,8,78.976
+9,Canada,Alpine,OCO,60,9,78.608
+9,Canada,Racing Bulls,RIC,60,10,78.796
+9,Canada,Alpine,GAS,60,11,78.567
+9,Canada,Haas,HUL,60,12,78.283
+9,Canada,Kick Sauber,BOT,60,13,78.927
+9,Canada,Haas,MAG,60,14,81.673
+9,Canada,Kick Sauber,ZHO,60,15,79.699
+9,Canada,Red Bull,VER,41,1,84.159
+9,Canada,Mercedes,RUS,41,2,83.783
+9,Canada,McLaren,NOR,41,3,83.927
+9,Canada,McLaren,PIA,41,4,83.938
+9,Canada,Mercedes,HAM,41,5,84.372
+9,Canada,Aston Martin,ALO,41,6,85.218
+9,Canada,Racing Bulls,TSU,41,7,85.333
+9,Canada,Aston Martin,STR,41,8,86.097
+9,Canada,Williams,ALB,41,9,85.222
+9,Canada,Alpine,OCO,41,10,85.547
+9,Canada,Racing Bulls,RIC,41,11,85.782
+9,Canada,Kick Sauber,BOT,41,12,85.784
+9,Canada,Ferrari,SAI,41,13,85.875
+9,Canada,Red Bull,PER,41,14,85.233
+9,Canada,Haas,HUL,41,15,85.789
+9,Canada,Kick Sauber,ZHO,41,16,87.373
+9,Canada,Haas,MAG,41,17,102.982
+9,Canada,Alpine,GAS,41,18,100.549
+9,Canada,McLaren,NOR,46,1,83.272
+9,Canada,Red Bull,VER,46,2,90.823
+9,Canada,Mercedes,RUS,46,3,90.477
+9,Canada,McLaren,PIA,46,4,83.49
+9,Canada,Mercedes,HAM,46,5,87.257
+9,Canada,Aston Martin,ALO,46,6,86.09
+9,Canada,Racing Bulls,TSU,46,7,85.271
+9,Canada,Aston Martin,STR,46,8,84.92
+9,Canada,Alpine,OCO,46,9,85.047
+9,Canada,Williams,ALB,46,10,84.215
+9,Canada,Racing Bulls,RIC,46,11,83.788
+9,Canada,Ferrari,SAI,46,12,82.795
+9,Canada,Red Bull,PER,46,13,83.303
+9,Canada,Haas,HUL,46,14,83.459
+9,Canada,Alpine,GAS,46,15,82.775
+9,Canada,Kick Sauber,BOT,46,16,83.564
+9,Canada,Haas,MAG,46,17,82.937
+9,Canada,Kick Sauber,ZHO,46,18,96.767
+9,Canada,McLaren,NOR,47,1,99.824
+9,Canada,Red Bull,VER,47,2,82.905
+9,Canada,Mercedes,RUS,47,3,82.977
+9,Canada,McLaren,PIA,47,4,81.898
+9,Canada,Mercedes,HAM,47,5,81.327
+9,Canada,Aston Martin,ALO,47,6,84.861
+9,Canada,Racing Bulls,TSU,47,7,84.457
+9,Canada,Aston Martin,STR,47,8,83.728
+9,Canada,Alpine,OCO,47,9,82.874
+9,Canada,Williams,ALB,47,10,83.231
+9,Canada,Ferrari,SAI,47,11,81.38
+9,Canada,Racing Bulls,RIC,47,12,83.86
+9,Canada,Red Bull,PER,47,13,81.015
+9,Canada,Alpine,GAS,47,14,80.553
+9,Canada,Haas,HUL,47,15,81.928
+9,Canada,Kick Sauber,BOT,47,16,81.91
+9,Canada,Haas,MAG,47,17,81.988
+9,Canada,Kick Sauber,ZHO,47,18,92.588
+9,Canada,Red Bull,VER,68,1,75.742
+9,Canada,McLaren,NOR,68,2,75.932
+9,Canada,Mercedes,RUS,68,3,75.439
+9,Canada,Mercedes,HAM,68,4,75.963
+9,Canada,McLaren,PIA,68,5,76.344
+9,Canada,Aston Martin,ALO,68,6,76.691
+9,Canada,Aston Martin,STR,68,7,77.16
+9,Canada,Racing Bulls,RIC,68,8,77.076
+9,Canada,Alpine,OCO,68,9,77.754
+9,Canada,Alpine,GAS,68,10,77.742
+9,Canada,Haas,HUL,68,11,77.028
+9,Canada,Haas,MAG,68,12,76.499
+9,Canada,Kick Sauber,BOT,68,13,78.613
+9,Canada,Racing Bulls,TSU,68,14,78.764
+9,Canada,Kick Sauber,ZHO,68,15,77.325
+9,Canada,Mercedes,RUS,3,1,96.396
+9,Canada,Red Bull,VER,3,2,96.443
+9,Canada,McLaren,NOR,3,3,96.569
+9,Canada,Haas,MAG,3,4,96.134
+9,Canada,McLaren,PIA,3,5,98.416
+9,Canada,Aston Martin,ALO,3,6,98.216
+9,Canada,Mercedes,HAM,3,7,98.714
+9,Canada,Haas,HUL,3,8,96.651
+9,Canada,Racing Bulls,RIC,3,9,100.559
+9,Canada,Aston Martin,STR,3,10,100.688
+9,Canada,Ferrari,LEC,3,11,99.247
+9,Canada,Racing Bulls,TSU,3,12,99.935
+9,Canada,Williams,ALB,3,13,99.947
+9,Canada,Ferrari,SAI,3,14,100.477
+9,Canada,Williams,SAR,3,15,101.749
+9,Canada,Alpine,OCO,3,16,100.159
+9,Canada,Red Bull,PER,3,17,100.055
+9,Canada,Alpine,GAS,3,18,100.496
+9,Canada,Kick Sauber,BOT,3,19,100.755
+9,Canada,Kick Sauber,ZHO,3,20,101.41
+9,Canada,Red Bull,VER,54,1,99.889
+9,Canada,McLaren,NOR,54,2,101.021
+9,Canada,McLaren,PIA,54,3,103.216
+9,Canada,Mercedes,RUS,54,4,121.423
+9,Canada,Mercedes,HAM,54,5,122.455
+9,Canada,Aston Martin,ALO,54,6,101.363
+9,Canada,Aston Martin,STR,54,7,103.36
+9,Canada,Racing Bulls,TSU,54,8,101.514
+9,Canada,Alpine,OCO,54,9,102.299
+9,Canada,Racing Bulls,RIC,54,10,101.111
+9,Canada,Alpine,GAS,54,11,101.711
+9,Canada,Haas,HUL,54,12,102.03
+9,Canada,Kick Sauber,BOT,54,13,104.894
+9,Canada,Haas,MAG,54,14,122.225
+9,Canada,Kick Sauber,ZHO,54,15,125.152
+9,Canada,Mercedes,RUS,14,1,88.778
+9,Canada,Red Bull,VER,14,2,88.527
+9,Canada,McLaren,NOR,14,3,86.857
+9,Canada,McLaren,PIA,14,4,87.573
+9,Canada,Aston Martin,ALO,14,5,88.314
+9,Canada,Mercedes,HAM,14,6,89.493
+9,Canada,Racing Bulls,RIC,14,7,88.964
+9,Canada,Aston Martin,STR,14,8,89.446
+9,Canada,Ferrari,LEC,14,9,89.171
+9,Canada,Racing Bulls,TSU,14,10,89.622
+9,Canada,Williams,ALB,14,11,89.832
+9,Canada,Ferrari,SAI,14,12,89.892
+9,Canada,Haas,MAG,14,13,90.139
+9,Canada,Alpine,OCO,14,14,90.081
+9,Canada,Red Bull,PER,14,15,90.583
+9,Canada,Alpine,GAS,14,16,90.358
+9,Canada,Kick Sauber,BOT,14,17,90.06
+9,Canada,Kick Sauber,ZHO,14,18,90.422
+9,Canada,Haas,HUL,14,19,88.912
+9,Canada,Williams,SAR,14,20,89.949
+9,Canada,Red Bull,VER,70,1,75.569
+9,Canada,McLaren,NOR,70,2,76.19
+9,Canada,Mercedes,RUS,70,3,74.895
+9,Canada,Mercedes,HAM,70,4,74.856
+9,Canada,McLaren,PIA,70,5,76.253
+9,Canada,Aston Martin,ALO,70,6,76.303
+9,Canada,Aston Martin,STR,70,7,76.762
+9,Canada,Racing Bulls,RIC,70,8,77.709
+9,Canada,Alpine,GAS,70,9,77.013
+9,Canada,Alpine,OCO,70,10,77.012
+9,Canada,Haas,HUL,70,11,77.176
+9,Canada,Haas,MAG,70,12,77.11
+9,Canada,Kick Sauber,BOT,70,13,79.042
+9,Canada,Racing Bulls,TSU,70,14,77.309
+9,Canada,Red Bull,VER,26,1,109.849
+9,Canada,McLaren,NOR,26,2,141.631
+9,Canada,Mercedes,RUS,26,3,111.667
+9,Canada,McLaren,PIA,26,4,111.896
+9,Canada,Mercedes,HAM,26,5,114.962
+9,Canada,Aston Martin,ALO,26,6,119.494
+9,Canada,Racing Bulls,TSU,26,7,111.973
+9,Canada,Aston Martin,STR,26,8,112.79
+9,Canada,Alpine,OCO,26,9,111.937
+9,Canada,Racing Bulls,RIC,26,10,133.16
+9,Canada,Williams,ALB,26,11,111.701
+9,Canada,Ferrari,LEC,26,12,111.591
+9,Canada,Kick Sauber,BOT,26,13,112.839
+9,Canada,Ferrari,SAI,26,14,110.841
+9,Canada,Haas,MAG,26,15,113.293
+9,Canada,Alpine,GAS,26,16,113.4
+9,Canada,Red Bull,PER,26,17,112.077
+9,Canada,Haas,HUL,26,18,110.657
+9,Canada,Kick Sauber,ZHO,26,19,103.444
+9,Canada,McLaren,NOR,22,1,84.429
+9,Canada,Red Bull,VER,22,2,86.59
+9,Canada,Mercedes,RUS,22,3,87.579
+9,Canada,McLaren,PIA,22,4,85.361
+9,Canada,Aston Martin,ALO,22,5,85.451
+9,Canada,Mercedes,HAM,22,6,85.438
+9,Canada,Racing Bulls,RIC,22,7,85.962
+9,Canada,Aston Martin,STR,22,8,86.423
+9,Canada,Williams,ALB,22,9,86.207
+9,Canada,Racing Bulls,TSU,22,10,86.823
+9,Canada,Ferrari,LEC,22,11,87.253
+9,Canada,Ferrari,SAI,22,12,86.895
+9,Canada,Haas,MAG,22,13,87.144
+9,Canada,Alpine,OCO,22,14,86.654
+9,Canada,Alpine,GAS,22,15,85.165
+9,Canada,Red Bull,PER,22,16,86.184
+9,Canada,Kick Sauber,BOT,22,17,87.936
+9,Canada,Haas,HUL,22,18,86.395
+9,Canada,Kick Sauber,ZHO,22,19,88.028
+9,Canada,Williams,SAR,22,20,86.731
+9,Canada,Red Bull,VER,38,1,85.386
+9,Canada,Mercedes,RUS,38,2,85.494
+9,Canada,McLaren,NOR,38,3,85.708
+9,Canada,McLaren,PIA,38,4,85.804
+9,Canada,Mercedes,HAM,38,5,85.419
+9,Canada,Aston Martin,ALO,38,6,87.139
+9,Canada,Racing Bulls,TSU,38,7,87.137
+9,Canada,Aston Martin,STR,38,8,87.075
+9,Canada,Williams,ALB,38,9,86.977
+9,Canada,Alpine,OCO,38,10,86.721
+9,Canada,Racing Bulls,RIC,38,11,86.647
+9,Canada,Kick Sauber,BOT,38,12,86.822
+9,Canada,Ferrari,SAI,38,13,86.824
+9,Canada,Alpine,GAS,38,14,86.753
+9,Canada,Red Bull,PER,38,15,86.96
+9,Canada,Haas,MAG,38,16,87.86
+9,Canada,Haas,HUL,38,17,86.001
+9,Canada,Kick Sauber,ZHO,38,18,87.928
+9,Canada,Ferrari,LEC,38,19,87.575
+9,Canada,Red Bull,VER,44,1,84.381
+9,Canada,Mercedes,RUS,44,2,84.325
+9,Canada,McLaren,NOR,44,3,84.247
+9,Canada,McLaren,PIA,44,4,99.843
+9,Canada,Mercedes,HAM,44,5,93.415
+9,Canada,Aston Martin,ALO,44,6,100.506
+9,Canada,Racing Bulls,TSU,44,7,102.357
+9,Canada,Aston Martin,STR,44,8,101.732
+9,Canada,Alpine,OCO,44,9,101.451
+9,Canada,Williams,ALB,44,10,103.196
+9,Canada,Racing Bulls,RIC,44,11,93.366
+9,Canada,Haas,HUL,44,12,102.199
+9,Canada,Ferrari,SAI,44,13,93.472
+9,Canada,Red Bull,PER,44,14,94.08
+9,Canada,Kick Sauber,BOT,44,15,86.97
+9,Canada,Alpine,GAS,44,16,84.981
+9,Canada,Haas,MAG,44,17,84.812
+9,Canada,Kick Sauber,ZHO,44,18,145.739
+9,Canada,Mercedes,RUS,18,1,87.357
+9,Canada,Red Bull,VER,18,2,86.436
+9,Canada,McLaren,NOR,18,3,86.232
+9,Canada,McLaren,PIA,18,4,85.976
+9,Canada,Aston Martin,ALO,18,5,86.318
+9,Canada,Mercedes,HAM,18,6,86.013
+9,Canada,Racing Bulls,RIC,18,7,86.959
+9,Canada,Aston Martin,STR,18,8,87.136
+9,Canada,Ferrari,LEC,18,9,87.279
+9,Canada,Racing Bulls,TSU,18,10,87.732
+9,Canada,Williams,ALB,18,11,86.754
+9,Canada,Ferrari,SAI,18,12,87.479
+9,Canada,Haas,MAG,18,13,87.433
+9,Canada,Alpine,OCO,18,14,87.402
+9,Canada,Red Bull,PER,18,15,87.644
+9,Canada,Alpine,GAS,18,16,88.933
+9,Canada,Kick Sauber,BOT,18,17,87.339
+9,Canada,Kick Sauber,ZHO,18,18,87.715
+9,Canada,Haas,HUL,18,19,87.342
+9,Canada,Williams,SAR,18,20,87.42
+9,Canada,Red Bull,VER,40,1,84.711
+9,Canada,Mercedes,RUS,40,2,84.556
+9,Canada,McLaren,NOR,40,3,84.203
+9,Canada,McLaren,PIA,40,4,84.439
+9,Canada,Mercedes,HAM,40,5,83.88
+9,Canada,Aston Martin,ALO,40,6,85.596
+9,Canada,Racing Bulls,TSU,40,7,85.706
+9,Canada,Aston Martin,STR,40,8,85.379
+9,Canada,Williams,ALB,40,9,85.607
+9,Canada,Alpine,OCO,40,10,85.435
+9,Canada,Racing Bulls,RIC,40,11,86.329
+9,Canada,Kick Sauber,BOT,40,12,86.024
+9,Canada,Ferrari,SAI,40,13,86.208
+9,Canada,Red Bull,PER,40,14,85.83
+9,Canada,Haas,MAG,40,15,86.231
+9,Canada,Haas,HUL,40,16,87.576
+9,Canada,Kick Sauber,ZHO,40,17,87.729
+9,Canada,Alpine,GAS,40,18,102.267
+9,Canada,Ferrari,LEC,40,19,86.234
+9,Canada,Red Bull,VER,65,1,75.882
+9,Canada,McLaren,NOR,65,2,76.173
+9,Canada,Mercedes,HAM,65,3,75.074
+9,Canada,McLaren,PIA,65,4,76.247
+9,Canada,Mercedes,RUS,65,5,75.63
+9,Canada,Aston Martin,ALO,65,6,77.398
+9,Canada,Aston Martin,STR,65,7,77.302
+9,Canada,Alpine,OCO,65,8,77.865
+9,Canada,Racing Bulls,TSU,65,9,77.956
+9,Canada,Racing Bulls,RIC,65,10,77.791
+9,Canada,Alpine,GAS,65,11,77.619
+9,Canada,Haas,HUL,65,12,77.78
+9,Canada,Kick Sauber,BOT,65,13,77.25
+9,Canada,Haas,MAG,65,14,77.235
+9,Canada,Kick Sauber,ZHO,65,15,80.871
+9,Canada,Mercedes,RUS,5,1,94.094
+9,Canada,Red Bull,VER,5,2,93.859
+9,Canada,McLaren,NOR,5,3,94.885
+9,Canada,Haas,MAG,5,4,94.529
+9,Canada,McLaren,PIA,5,5,96.59
+9,Canada,Aston Martin,ALO,5,6,96.345
+9,Canada,Mercedes,HAM,5,7,95.905
+9,Canada,Haas,HUL,5,8,96.104
+9,Canada,Racing Bulls,RIC,5,9,97.388
+9,Canada,Aston Martin,STR,5,10,97.044
+9,Canada,Ferrari,LEC,5,11,96.358
+9,Canada,Racing Bulls,TSU,5,12,95.882
+9,Canada,Williams,ALB,5,13,98.077
+9,Canada,Ferrari,SAI,5,14,97.379
+9,Canada,Williams,SAR,5,15,98.36
+9,Canada,Alpine,OCO,5,16,98.507
+9,Canada,Red Bull,PER,5,17,98.58
+9,Canada,Alpine,GAS,5,18,98.846
+9,Canada,Kick Sauber,BOT,5,19,98.637
+9,Canada,Kick Sauber,ZHO,5,20,98.327
+9,Canada,Red Bull,VER,66,1,75.823
+9,Canada,McLaren,NOR,66,2,75.764
+9,Canada,Mercedes,HAM,66,3,75.89
+9,Canada,Mercedes,RUS,66,4,75.903
+9,Canada,McLaren,PIA,66,5,76.934
+9,Canada,Aston Martin,ALO,66,6,77.178
+9,Canada,Aston Martin,STR,66,7,77.716
+9,Canada,Alpine,OCO,66,8,78.377
+9,Canada,Racing Bulls,RIC,66,9,78.056
+9,Canada,Alpine,GAS,66,10,78.114
+9,Canada,Haas,HUL,66,11,80.926
+9,Canada,Haas,MAG,66,12,78.154
+9,Canada,Kick Sauber,BOT,66,13,80.374
+9,Canada,Racing Bulls,TSU,66,14,98.894
+9,Canada,Kick Sauber,ZHO,66,15,78.762
+9,Canada,Red Bull,VER,29,1,133.946
+9,Canada,Mercedes,RUS,29,2,132.67
+9,Canada,McLaren,NOR,29,3,132.459
+9,Canada,McLaren,PIA,29,4,131.717
+9,Canada,Mercedes,HAM,29,5,131.309
+9,Canada,Aston Martin,ALO,29,6,131.176
+9,Canada,Racing Bulls,TSU,29,7,129.023
+9,Canada,Aston Martin,STR,29,8,128.442
+9,Canada,Alpine,OCO,29,9,127.566
+9,Canada,Racing Bulls,RIC,29,10,126.18
+9,Canada,Williams,ALB,29,11,125.011
+9,Canada,Kick Sauber,BOT,29,12,121.1
+9,Canada,Ferrari,SAI,29,13,118.457
+9,Canada,Haas,MAG,29,14,117.543
+9,Canada,Alpine,GAS,29,15,116.579
+9,Canada,Red Bull,PER,29,16,115.686
+9,Canada,Haas,HUL,29,17,114.67
+9,Canada,Kick Sauber,ZHO,29,18,107.471
+9,Canada,Ferrari,LEC,29,19,99.909
+9,Canada,Mercedes,RUS,12,1,89.445
+9,Canada,Red Bull,VER,12,2,88.991
+9,Canada,McLaren,NOR,12,3,88.568
+9,Canada,McLaren,PIA,12,4,88.661
+9,Canada,Aston Martin,ALO,12,5,89.269
+9,Canada,Mercedes,HAM,12,6,88.896
+9,Canada,Racing Bulls,RIC,12,7,90.514
+9,Canada,Aston Martin,STR,12,8,91.2
+9,Canada,Ferrari,LEC,12,9,93.158
+9,Canada,Racing Bulls,TSU,12,10,93.494
+9,Canada,Williams,ALB,12,11,93.609
+9,Canada,Ferrari,SAI,12,12,93.73
+9,Canada,Haas,MAG,12,13,92.839
+9,Canada,Alpine,OCO,12,14,92.115
+9,Canada,Red Bull,PER,12,15,91.058
+9,Canada,Alpine,GAS,12,16,89.961
+9,Canada,Kick Sauber,BOT,12,17,91.085
+9,Canada,Kick Sauber,ZHO,12,18,90.817
+9,Canada,Haas,HUL,12,19,112.143
+9,Canada,Williams,SAR,12,20,89.528
+9,Canada,Mercedes,RUS,15,1,88.705
+9,Canada,Red Bull,VER,15,2,88.637
+9,Canada,McLaren,NOR,15,3,87.634
+9,Canada,McLaren,PIA,15,4,87.904
+9,Canada,Aston Martin,ALO,15,5,87.99
+9,Canada,Mercedes,HAM,15,6,87.823
+9,Canada,Racing Bulls,RIC,15,7,88.743
+9,Canada,Aston Martin,STR,15,8,89.017
+9,Canada,Ferrari,LEC,15,9,88.868
+9,Canada,Racing Bulls,TSU,15,10,89.266
+9,Canada,Williams,ALB,15,11,89.027
+9,Canada,Ferrari,SAI,15,12,89.088
+9,Canada,Haas,MAG,15,13,89.011
+9,Canada,Alpine,OCO,15,14,89.52
+9,Canada,Red Bull,PER,15,15,89.598
+9,Canada,Alpine,GAS,15,16,89.896
+9,Canada,Kick Sauber,BOT,15,17,90.489
+9,Canada,Kick Sauber,ZHO,15,18,90.551
+9,Canada,Haas,HUL,15,19,89.244
+9,Canada,Williams,SAR,15,20,89.181
+9,Canada,Red Bull,VER,62,1,76.318
+9,Canada,McLaren,NOR,62,2,76.524
+9,Canada,McLaren,PIA,62,3,76.967
+9,Canada,Mercedes,RUS,62,4,76.782
+9,Canada,Mercedes,HAM,62,5,76.448
+9,Canada,Aston Martin,ALO,62,6,77.68
+9,Canada,Aston Martin,STR,62,7,78.443
+9,Canada,Alpine,OCO,62,8,78.377
+9,Canada,Racing Bulls,TSU,62,9,78.186
+9,Canada,Racing Bulls,RIC,62,10,78.351
+9,Canada,Alpine,GAS,62,11,78.734
+9,Canada,Haas,HUL,62,12,78.779
+9,Canada,Kick Sauber,BOT,62,13,78.472
+9,Canada,Haas,MAG,62,14,77.915
+9,Canada,Kick Sauber,ZHO,62,15,79.003
+9,Canada,Red Bull,VER,27,1,130.108
+9,Canada,Mercedes,RUS,27,2,129.015
+9,Canada,McLaren,NOR,27,3,131.601
+9,Canada,McLaren,PIA,27,4,131.174
+9,Canada,Mercedes,HAM,27,5,109.202
+9,Canada,Aston Martin,ALO,27,6,112.214
+9,Canada,Racing Bulls,TSU,27,7,98.952
+9,Canada,Aston Martin,STR,27,8,97.744
+9,Canada,Alpine,OCO,27,9,98.353
+9,Canada,Racing Bulls,RIC,27,10,104.716
+9,Canada,Williams,ALB,27,11,103.92
+9,Canada,Ferrari,LEC,27,12,105.291
+9,Canada,Kick Sauber,BOT,27,13,101.808
+9,Canada,Ferrari,SAI,27,14,102.962
+9,Canada,Haas,MAG,27,15,101.625
+9,Canada,Alpine,GAS,27,16,103.122
+9,Canada,Red Bull,PER,27,17,94.59
+9,Canada,Haas,HUL,27,18,96.646
+9,Canada,Kick Sauber,ZHO,27,19,98.459
+9,Canada,Red Bull,VER,37,1,85.748
+9,Canada,Mercedes,RUS,37,2,86.242
+9,Canada,McLaren,NOR,37,3,86.174
+9,Canada,McLaren,PIA,37,4,85.769
+9,Canada,Mercedes,HAM,37,5,86.863
+9,Canada,Aston Martin,ALO,37,6,87.337
+9,Canada,Racing Bulls,TSU,37,7,86.869
+9,Canada,Aston Martin,STR,37,8,87.579
+9,Canada,Williams,ALB,37,9,87.411
+9,Canada,Alpine,OCO,37,10,87.67
+9,Canada,Racing Bulls,RIC,37,11,86.916
+9,Canada,Kick Sauber,BOT,37,12,87.123
+9,Canada,Ferrari,SAI,37,13,87.295
+9,Canada,Alpine,GAS,37,14,87.643
+9,Canada,Red Bull,PER,37,15,87.478
+9,Canada,Haas,MAG,37,16,88.283
+9,Canada,Haas,HUL,37,17,86.971
+9,Canada,Kick Sauber,ZHO,37,18,88.11
+9,Canada,Ferrari,LEC,37,19,87.015
+9,Canada,Red Bull,VER,52,1,77.905
+9,Canada,McLaren,NOR,52,2,77.631
+9,Canada,Mercedes,RUS,52,3,78.456
+9,Canada,McLaren,PIA,52,4,77.815
+9,Canada,Mercedes,HAM,52,5,77.75
+9,Canada,Aston Martin,ALO,52,6,78.88
+9,Canada,Aston Martin,STR,52,7,81.251
+9,Canada,Racing Bulls,TSU,52,8,82.492
+9,Canada,Alpine,OCO,52,9,81.816
+9,Canada,Ferrari,SAI,52,10,81.243
+9,Canada,Williams,ALB,52,11,82.184
+9,Canada,Racing Bulls,RIC,52,12,78.829
+9,Canada,Alpine,GAS,52,13,80.105
+9,Canada,Haas,HUL,52,14,80.63
+9,Canada,Kick Sauber,BOT,52,15,83.366
+9,Canada,Haas,MAG,52,16,83.445
+9,Canada,Kick Sauber,ZHO,52,17,120.698
+9,Canada,Mercedes,RUS,6,1,92.899
+9,Canada,Red Bull,VER,6,2,92.634
+9,Canada,McLaren,NOR,6,3,95.037
+9,Canada,Haas,MAG,6,4,94.673
+9,Canada,McLaren,PIA,6,5,93.06
+9,Canada,Aston Martin,ALO,6,6,96.32
+9,Canada,Mercedes,HAM,6,7,95.664
+9,Canada,Haas,HUL,6,8,96.178
+9,Canada,Racing Bulls,RIC,6,9,96.684
+9,Canada,Aston Martin,STR,6,10,96.655
+9,Canada,Ferrari,LEC,6,11,96.3
+9,Canada,Racing Bulls,TSU,6,12,96.646
+9,Canada,Williams,ALB,6,13,95.917
+9,Canada,Ferrari,SAI,6,14,95.749
+9,Canada,Alpine,OCO,6,15,96.501
+9,Canada,Red Bull,PER,6,16,96.377
+9,Canada,Alpine,GAS,6,17,96.574
+9,Canada,Kick Sauber,BOT,6,18,97.036
+9,Canada,Kick Sauber,ZHO,6,19,97.528
+9,Canada,Williams,SAR,6,20,118.326
+9,Canada,Red Bull,VER,49,1,79.401
+9,Canada,Mercedes,RUS,49,2,79.359
+9,Canada,McLaren,NOR,49,3,80.65
+9,Canada,McLaren,PIA,49,4,79.959
+9,Canada,Mercedes,HAM,49,5,83.219
+9,Canada,Aston Martin,ALO,49,6,81.938
+9,Canada,Racing Bulls,TSU,49,7,81.323
+9,Canada,Aston Martin,STR,49,8,80.776
+9,Canada,Alpine,OCO,49,9,80.768
+9,Canada,Williams,ALB,49,10,80.712
+9,Canada,Ferrari,SAI,49,11,80.062
+9,Canada,Racing Bulls,RIC,49,12,81.04
+9,Canada,Red Bull,PER,49,13,81.075
+9,Canada,Alpine,GAS,49,14,80.718
+9,Canada,Haas,HUL,49,15,80.943
+9,Canada,Kick Sauber,BOT,49,16,81.035
+9,Canada,Haas,MAG,49,17,80.83
+9,Canada,Kick Sauber,ZHO,49,18,84.909
+9,Canada,Red Bull,VER,53,1,77.251
+9,Canada,McLaren,NOR,53,2,77.491
+9,Canada,Mercedes,RUS,53,3,78.191
+9,Canada,McLaren,PIA,53,4,78.063
+9,Canada,Mercedes,HAM,53,5,77.435
+9,Canada,Aston Martin,ALO,53,6,86.279
+9,Canada,Aston Martin,STR,53,7,85.278
+9,Canada,Racing Bulls,TSU,53,8,89.846
+9,Canada,Alpine,OCO,53,9,91.331
+9,Canada,Racing Bulls,RIC,53,10,95.907
+9,Canada,Alpine,GAS,53,11,94.81
+9,Canada,Haas,HUL,53,12,93.269
+9,Canada,Kick Sauber,BOT,53,13,93.691
+9,Canada,Haas,MAG,53,14,93.799
+9,Canada,Kick Sauber,ZHO,53,15,121.804
+9,Canada,Red Bull,VER,51,1,78.109
+9,Canada,McLaren,NOR,51,2,79.049
+9,Canada,Mercedes,RUS,51,3,80.258
+9,Canada,McLaren,PIA,51,4,78.633
+9,Canada,Mercedes,HAM,51,5,78.018
+9,Canada,Aston Martin,ALO,51,6,79.455
+9,Canada,Racing Bulls,TSU,51,7,79.266
+9,Canada,Aston Martin,STR,51,8,79.392
+9,Canada,Alpine,OCO,51,9,79.399
+9,Canada,Williams,ALB,51,10,79.359
+9,Canada,Ferrari,SAI,51,11,78.957
+9,Canada,Racing Bulls,RIC,51,12,79.014
+9,Canada,Red Bull,PER,51,13,78.819
+9,Canada,Alpine,GAS,51,14,78.939
+9,Canada,Haas,HUL,51,15,79.655
+9,Canada,Kick Sauber,BOT,51,16,80.138
+9,Canada,Haas,MAG,51,17,79.511
+9,Canada,Kick Sauber,ZHO,51,18,82.032
+9,Canada,Mercedes,RUS,17,1,87.601
+9,Canada,Red Bull,VER,17,2,89.256
+9,Canada,McLaren,NOR,17,3,87.702
+9,Canada,McLaren,PIA,17,4,86.412
+9,Canada,Aston Martin,ALO,17,5,88.248
+9,Canada,Mercedes,HAM,17,6,87.426
+9,Canada,Racing Bulls,RIC,17,7,87.787
+9,Canada,Aston Martin,STR,17,8,87.365
+9,Canada,Ferrari,LEC,17,9,88.325
+9,Canada,Racing Bulls,TSU,17,10,88.126
+9,Canada,Williams,ALB,17,11,88.734
+9,Canada,Ferrari,SAI,17,12,87.583
+9,Canada,Haas,MAG,17,13,87.837
+9,Canada,Alpine,OCO,17,14,88.208
+9,Canada,Red Bull,PER,17,15,88.718
+9,Canada,Alpine,GAS,17,16,87.982
+9,Canada,Kick Sauber,BOT,17,17,88.836
+9,Canada,Kick Sauber,ZHO,17,18,88.591
+9,Canada,Haas,HUL,17,19,88.49
+9,Canada,Williams,SAR,17,20,87.936
+9,Canada,Red Bull,VER,39,1,84.859
+9,Canada,Mercedes,RUS,39,2,85.417
+9,Canada,McLaren,NOR,39,3,85.412
+9,Canada,McLaren,PIA,39,4,85.154
+9,Canada,Mercedes,HAM,39,5,84.911
+9,Canada,Aston Martin,ALO,39,6,86.045
+9,Canada,Racing Bulls,TSU,39,7,86.152
+9,Canada,Aston Martin,STR,39,8,86.61
+9,Canada,Williams,ALB,39,9,86.457
+9,Canada,Alpine,OCO,39,10,86.213
+9,Canada,Racing Bulls,RIC,39,11,86.446
+9,Canada,Kick Sauber,BOT,39,12,86.502
+9,Canada,Ferrari,SAI,39,13,87.238
+9,Canada,Alpine,GAS,39,14,87.411
+9,Canada,Red Bull,PER,39,15,86.56
+9,Canada,Haas,MAG,39,16,86.726
+9,Canada,Haas,HUL,39,17,86.349
+9,Canada,Kick Sauber,ZHO,39,18,87.877
+9,Canada,Ferrari,LEC,39,19,86.012
+9,Canada,Red Bull,VER,61,1,76.625
+9,Canada,McLaren,NOR,61,2,76.92
+9,Canada,McLaren,PIA,61,3,76.853
+9,Canada,Mercedes,RUS,61,4,76.786
+9,Canada,Mercedes,HAM,61,5,76.96
+9,Canada,Aston Martin,ALO,61,6,77.675
+9,Canada,Aston Martin,STR,61,7,78.497
+9,Canada,Alpine,OCO,61,8,79.077
+9,Canada,Racing Bulls,TSU,61,9,80.193
+9,Canada,Racing Bulls,RIC,61,10,79.187
+9,Canada,Alpine,GAS,61,11,78.857
+9,Canada,Haas,HUL,61,12,78.547
+9,Canada,Kick Sauber,BOT,61,13,78.356
+9,Canada,Haas,MAG,61,14,78.685
+9,Canada,Kick Sauber,ZHO,61,15,79.574
+9,Canada,Red Bull,VER,64,1,75.83
+9,Canada,McLaren,NOR,64,2,76.256
+9,Canada,McLaren,PIA,64,3,76.83
+9,Canada,Mercedes,HAM,64,4,76.196
+9,Canada,Mercedes,RUS,64,5,76.234
+9,Canada,Aston Martin,ALO,64,6,77.182
+9,Canada,Aston Martin,STR,64,7,77.609
+9,Canada,Alpine,OCO,64,8,77.857
+9,Canada,Racing Bulls,TSU,64,9,77.622
+9,Canada,Racing Bulls,RIC,64,10,77.868
+9,Canada,Alpine,GAS,64,11,77.606
+9,Canada,Haas,HUL,64,12,77.484
+9,Canada,Kick Sauber,BOT,64,13,79.259
+9,Canada,Haas,MAG,64,14,77.324
+9,Canada,Kick Sauber,ZHO,64,15,78.734
+9,Canada,Mercedes,RUS,16,1,87.491
+9,Canada,Red Bull,VER,16,2,88.138
+9,Canada,McLaren,NOR,16,3,86.553
+9,Canada,McLaren,PIA,16,4,86.764
+9,Canada,Aston Martin,ALO,16,5,86.877
+9,Canada,Mercedes,HAM,16,6,86.732
+9,Canada,Racing Bulls,RIC,16,7,87.883
+9,Canada,Aston Martin,STR,16,8,87.764
+9,Canada,Ferrari,LEC,16,9,88.679
+9,Canada,Racing Bulls,TSU,16,10,88.527
+9,Canada,Williams,ALB,16,11,88.664
+9,Canada,Ferrari,SAI,16,12,88.98
+9,Canada,Haas,MAG,16,13,88.188
+9,Canada,Alpine,OCO,16,14,88.212
+9,Canada,Red Bull,PER,16,15,88.452
+9,Canada,Alpine,GAS,16,16,88.456
+9,Canada,Kick Sauber,BOT,16,17,89.739
+9,Canada,Kick Sauber,ZHO,16,18,89.69
+9,Canada,Haas,HUL,16,19,89.141
+9,Canada,Williams,SAR,16,20,89.478
+9,Canada,McLaren,NOR,25,1,91.4
+9,Canada,Red Bull,VER,25,2,113.896
+9,Canada,Mercedes,RUS,25,3,112.822
+9,Canada,McLaren,PIA,25,4,113.473
+9,Canada,Mercedes,HAM,25,5,117.109
+9,Canada,Aston Martin,ALO,25,6,118.83
+9,Canada,Racing Bulls,RIC,25,7,110.163
+9,Canada,Racing Bulls,TSU,25,8,110.699
+9,Canada,Aston Martin,STR,25,9,123.142
+9,Canada,Alpine,OCO,25,10,112.693
+9,Canada,Williams,ALB,25,11,125.52
+9,Canada,Ferrari,LEC,25,12,124.957
+9,Canada,Kick Sauber,BOT,25,13,114.448
+9,Canada,Ferrari,SAI,25,14,131.649
+9,Canada,Haas,MAG,25,15,129.198
+9,Canada,Alpine,GAS,25,16,128.873
+9,Canada,Red Bull,PER,25,17,136.416
+9,Canada,Haas,HUL,25,18,123.974
+9,Canada,Kick Sauber,ZHO,25,19,113.347
+9,Canada,Mercedes,RUS,2,1,96.556
+9,Canada,Red Bull,VER,2,2,97.672
+9,Canada,McLaren,NOR,2,3,98.203
+9,Canada,McLaren,PIA,2,4,98.591
+9,Canada,Haas,MAG,2,5,96.793
+9,Canada,Aston Martin,ALO,2,6,100.628
+9,Canada,Mercedes,HAM,2,7,100.379
+9,Canada,Racing Bulls,RIC,2,8,101.606
+9,Canada,Aston Martin,STR,2,9,100.966
+9,Canada,Haas,HUL,2,10,98.64
+9,Canada,Ferrari,LEC,2,11,102.116
+9,Canada,Racing Bulls,TSU,2,12,102.925
+9,Canada,Williams,ALB,2,13,102.91
+9,Canada,Williams,SAR,2,14,101.547
+9,Canada,Ferrari,SAI,2,15,102.579
+9,Canada,Alpine,OCO,2,16,102.937
+9,Canada,Red Bull,PER,2,17,102.78
+9,Canada,Alpine,GAS,2,18,103.105
+9,Canada,Kick Sauber,BOT,2,19,103.023
+9,Canada,Kick Sauber,ZHO,2,20,103.668
+9,Canada,Red Bull,VER,28,1,128.316
+9,Canada,Mercedes,RUS,28,2,129.034
+9,Canada,McLaren,NOR,28,3,127.807
+9,Canada,McLaren,PIA,28,4,127.524
+9,Canada,Mercedes,HAM,28,5,127.651
+9,Canada,Aston Martin,ALO,28,6,119.563
+9,Canada,Racing Bulls,TSU,28,7,115.483
+9,Canada,Aston Martin,STR,28,8,112.79
+9,Canada,Alpine,OCO,28,9,111.378
+9,Canada,Racing Bulls,RIC,28,10,106.151
+9,Canada,Williams,ALB,28,11,104.477
+9,Canada,Kick Sauber,BOT,28,12,101.859
+9,Canada,Ferrari,SAI,28,13,103.654
+9,Canada,Haas,MAG,28,14,103.209
+9,Canada,Alpine,GAS,28,15,101.97
+9,Canada,Red Bull,PER,28,16,101.588
+9,Canada,Haas,HUL,28,17,99.723
+9,Canada,Kick Sauber,ZHO,28,18,97.486
+9,Canada,Ferrari,LEC,28,19,138.75
+9,Canada,Mercedes,RUS,13,1,88.582
+9,Canada,Red Bull,VER,13,2,88.532
+9,Canada,McLaren,NOR,13,3,88.181
+9,Canada,McLaren,PIA,13,4,88.857
+9,Canada,Aston Martin,ALO,13,5,88.661
+9,Canada,Mercedes,HAM,13,6,88.683
+9,Canada,Racing Bulls,RIC,13,7,90.251
+9,Canada,Aston Martin,STR,13,8,90.255
+9,Canada,Ferrari,LEC,13,9,90.52
+9,Canada,Racing Bulls,TSU,13,10,90.362
+9,Canada,Williams,ALB,13,11,90.275
+9,Canada,Ferrari,SAI,13,12,90.677
+9,Canada,Haas,MAG,13,13,91.095
+9,Canada,Alpine,OCO,13,14,91.244
+9,Canada,Red Bull,PER,13,15,90.802
+9,Canada,Alpine,GAS,13,16,90.82
+9,Canada,Kick Sauber,BOT,13,17,90.036
+9,Canada,Kick Sauber,ZHO,13,18,91.764
+9,Canada,Haas,HUL,13,19,94.271
+9,Canada,Williams,SAR,13,20,92.818
+9,Canada,Red Bull,VER,30,1,86.187
+9,Canada,Mercedes,RUS,30,2,86.524
+9,Canada,McLaren,NOR,30,3,87.062
+9,Canada,McLaren,PIA,30,4,87.424
+9,Canada,Mercedes,HAM,30,5,87.745
+9,Canada,Aston Martin,ALO,30,6,88.464
+9,Canada,Racing Bulls,TSU,30,7,88.487
+9,Canada,Aston Martin,STR,30,8,88.168
+9,Canada,Williams,ALB,30,9,89.23
+9,Canada,Alpine,OCO,30,10,91.187
+9,Canada,Racing Bulls,RIC,30,11,90.655
+9,Canada,Kick Sauber,BOT,30,12,90.489
+9,Canada,Ferrari,SAI,30,13,90.223
+9,Canada,Haas,MAG,30,14,89.741
+9,Canada,Alpine,GAS,30,15,89.531
+9,Canada,Red Bull,PER,30,16,89.333
+9,Canada,Haas,HUL,30,17,88.818
+9,Canada,Kick Sauber,ZHO,30,18,89.176
+9,Canada,Ferrari,LEC,30,19,104.706
+9,Canada,Mercedes,RUS,1,1,103.723
+9,Canada,Red Bull,VER,1,2,104.993
+9,Canada,McLaren,NOR,1,3,106.722
+9,Canada,McLaren,PIA,1,4,108.458
+9,Canada,Aston Martin,ALO,1,5,109.289
+9,Canada,Mercedes,HAM,1,6,110.16
+9,Canada,Racing Bulls,RIC,1,7,111.305
+9,Canada,Haas,MAG,1,8,111.827
+9,Canada,Aston Martin,STR,1,9,113.082
+9,Canada,Ferrari,LEC,1,10,114.412
+9,Canada,Racing Bulls,TSU,1,11,114.705
+9,Canada,Williams,ALB,1,12,115.787
+9,Canada,Haas,HUL,1,13,116.135
+9,Canada,Ferrari,SAI,1,14,117.663
+9,Canada,Williams,SAR,1,15,117.685
+9,Canada,Alpine,OCO,1,16,118.926
+9,Canada,Red Bull,PER,1,17,120.06
+9,Canada,Alpine,GAS,1,18,120.661
+9,Canada,Kick Sauber,BOT,1,19,121.807
+9,Canada,Kick Sauber,ZHO,1,20,123.563
+9,Canada,Red Bull,VER,50,1,78.596
+9,Canada,Mercedes,RUS,50,2,78.145
+9,Canada,McLaren,NOR,50,3,78.193
+9,Canada,McLaren,PIA,50,4,79.98
+9,Canada,Mercedes,HAM,50,5,78.414
+9,Canada,Aston Martin,ALO,50,6,79.783
+9,Canada,Racing Bulls,TSU,50,7,79.986
+9,Canada,Aston Martin,STR,50,8,79.565
+9,Canada,Alpine,OCO,50,9,79.789
+9,Canada,Williams,ALB,50,10,79.939
+9,Canada,Ferrari,SAI,50,11,80.352
+9,Canada,Racing Bulls,RIC,50,12,79.638
+9,Canada,Red Bull,PER,50,13,79.785
+9,Canada,Alpine,GAS,50,14,79.854
+9,Canada,Haas,HUL,50,15,79.892
+9,Canada,Kick Sauber,BOT,50,16,80.688
+9,Canada,Haas,MAG,50,17,80.587
+9,Canada,Kick Sauber,ZHO,50,18,82.924
+9,Canada,Red Bull,VER,42,1,84.079
+9,Canada,Mercedes,RUS,42,2,85.692
+9,Canada,McLaren,NOR,42,3,84.928
+9,Canada,McLaren,PIA,42,4,84.547
+9,Canada,Mercedes,HAM,42,5,84.413
+9,Canada,Aston Martin,ALO,42,6,84.768
+9,Canada,Racing Bulls,TSU,42,7,84.661
+9,Canada,Aston Martin,STR,42,8,85.264
+9,Canada,Williams,ALB,42,9,85.693
+9,Canada,Alpine,OCO,42,10,85.187
+9,Canada,Racing Bulls,RIC,42,11,85.748
+9,Canada,Ferrari,SAI,42,12,85.861
+9,Canada,Red Bull,PER,42,13,85.681
+9,Canada,Haas,HUL,42,14,85.838
+9,Canada,Kick Sauber,ZHO,42,15,87.01
+9,Canada,Kick Sauber,BOT,42,16,102.791
+9,Canada,Haas,MAG,42,17,95.449
+9,Canada,Alpine,GAS,42,18,87.188
+9,Canada,Mercedes,RUS,4,1,94.585
+9,Canada,Red Bull,VER,4,2,95.105
+9,Canada,McLaren,NOR,4,3,95.138
+9,Canada,Haas,MAG,4,4,93.993
+9,Canada,McLaren,PIA,4,5,97.594
+9,Canada,Aston Martin,ALO,4,6,96.643
+9,Canada,Mercedes,HAM,4,7,96.666
+9,Canada,Haas,HUL,4,8,95.053
+9,Canada,Racing Bulls,RIC,4,9,97.504
+9,Canada,Aston Martin,STR,4,10,97.302
+9,Canada,Ferrari,LEC,4,11,97.813
+9,Canada,Racing Bulls,TSU,4,12,97.475
+9,Canada,Williams,ALB,4,13,97.922
+9,Canada,Ferrari,SAI,4,14,97.631
+9,Canada,Williams,SAR,4,15,98.521
+9,Canada,Alpine,OCO,4,16,99.746
+9,Canada,Red Bull,PER,4,17,99.37
+9,Canada,Alpine,GAS,4,18,98.907
+9,Canada,Kick Sauber,BOT,4,19,98.608
+9,Canada,Kick Sauber,ZHO,4,20,99.785
