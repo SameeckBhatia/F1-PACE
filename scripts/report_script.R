@@ -121,3 +121,6 @@ plot_all("Emilia Romagna", "NOR", "VER", "#009B47")
 
 # Monaco GP
 plot_all("Monaco", "LEC", "PIA", "#CF0921")
+
+# Canadian GP
+plot_all("Canada", "HAM", "RUS", "#D80621")
