@@ -17,10 +17,10 @@ constructor_colors <- list(
 
 # Color list
 driver_colors <- list(
-  "VER" = "#3671C6", "PER" = "#204374", "SAI" = "#E8002D", "LEC" = "#800019",
-  "RUS" = "#27F4D2", "NOR" = "#FF8000", "HAM" = "#09AA8F", "PIA" = "#994C00",
-  "ALO" = "#229971", "STR" = "#104735", "RIC" = "#6692FF", "TSU" = "#5274CC",
-  "BEA" = "#E8002D"
+  "VER" = "#3671C6", "PER" = "#204374", "LEC" = "#E8002D", "SAI" = "#800019",
+  "BEA" = "#800019", "RUS" = "#27F4D2", "HAM" = "#09AA8F", "NOR" = "#FF8000",
+  "PIA" = "#994C00", "ALO" = "#229971", "STR" = "#104735", "RIC" = "#6692FF",
+  "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D"
 )
 
 # Outlier function
