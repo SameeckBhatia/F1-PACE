@@ -86,7 +86,6 @@ plot_3 <- function(gp, color) {
          geom_smooth(color = "black", se = FALSE, span = 1 / 5,
                      linewidth = 0.5) +
          geom_smooth(method = "lm", se = FALSE, color = color) +
-         scale_y_continuous(breaks = seq(60, 120, 1)) +
          labs(x = "Lap", y = "Median Time (sec)"))
   dev.off()
 }
