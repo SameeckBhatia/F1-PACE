@@ -44,8 +44,10 @@ plot_1 <- function(gp) {
   plot(lap_times %>%
          filter(grand_prix == gp) %>%
          outliers(col = "time") %>%
+         group_by(lap, constructor) %>%
+         summarise(min = min(time)) %>%
          group_by(constructor) %>%
-         summarise(med = median(time)) %>%
+         summarise(med = median(min)) %>%
          mutate(delta = med - min(med)) %>%
          ggplot(aes(x = reorder(constructor, desc(med)), y = delta)) +
          geom_col(aes(fill = constructor_colors[constructor]), color = "black") +
