@@ -69,7 +69,7 @@ plot_2 <- function(gp, driver1, driver2) {
          pivot_wider(names_from = driver, values_from = time) %>%
          mutate(delta = cumsum(!!sym(driver1) - !!sym(driver2))) %>%
          ggplot(aes(x = lap, y = delta, fill = driver_colors[driver1])) +
-         stat_smooth(geom = "area", span = 1 / 4) +
+         geom_col(width = 1) +
          labs(x = "Lap", y = paste(driver1, "Gap to", driver2, "(sec behind)")))
   dev.off()
 }
@@ -106,13 +106,13 @@ plot_all("Bahrain", "RIC", "TSU", "#DA291C")
 plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
 
 # Australian GP
-plot_all("Australia", "LEC", "NOR", "#00008B")
+plot_all("Australia", "LEC", "SAI", "#00008B")
 
 # Japanese GP
-plot_all("Japan", "LEC", "SAI", "#B0000F")
+plot_all("Japan", "ALO", "RUS", "#B0000F")
 
 # Chinese GP
-plot_all("China", "NOR", "PER", "#EE1C25")
+plot_all("China", "ALO", "HAM", "#EE1C25")
 
 # Miami GP
 plot_all("Miami", "NOR", "VER", "#00A8CC")
@@ -127,4 +127,7 @@ plot_all("Monaco", "LEC", "PIA", "#CF0921")
 plot_all("Canada", "HAM", "RUS", "#D80621")
 
 # Spanish GP
-plot_all("Spain", "NOR", "VER", "#FABD00")
+plot_all("Spain", "LEC", "RUS", "#FABD00")
+
+# Austrian GP
+plot_all("Austria", "NOR", "VER", "#C8102E")
