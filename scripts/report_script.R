@@ -131,3 +131,6 @@ plot_all("Spain", "LEC", "RUS", "#FABD00")
 
 # Austrian GP
 plot_all("Austria", "NOR", "VER", "#C8102E")
+
+# British GP
+plot_all("Great Britain", "HAM", "VER", "#012169")
