@@ -12521,3 +12521,963 @@ round,grand_prix,constructor,driver,lap,position,time
 11,Austria,Kick Sauber,BOT,21,18,71.308
 11,Austria,Ferrari,LEC,21,19,70.952
 11,Austria,Williams,SAR,21,20,90.282
+12,Great Britain,Mercedes,HAM,49,1,89.667
+12,Great Britain,Red Bull,VER,49,2,89.56
+12,Great Britain,McLaren,NOR,49,3,90.515
+12,Great Britain,McLaren,PIA,49,4,89.283
+12,Great Britain,Ferrari,SAI,49,5,89.439
+12,Great Britain,Haas,HUL,49,6,90.371
+12,Great Britain,Aston Martin,STR,49,7,89.969
+12,Great Britain,Aston Martin,ALO,49,8,90.7
+12,Great Britain,Williams,ALB,49,9,89.96
+12,Great Britain,Racing Bulls,TSU,49,10,91.08
+12,Great Britain,Williams,SAR,49,11,91.175
+12,Great Britain,Haas,MAG,49,12,90.803
+12,Great Britain,Racing Bulls,RIC,49,13,92.926
+12,Great Britain,Kick Sauber,BOT,49,14,91.688
+12,Great Britain,Ferrari,LEC,49,15,90.929
+12,Great Britain,Alpine,OCO,49,16,91.06
+12,Great Britain,Red Bull,PER,49,17,97.36
+12,Great Britain,Kick Sauber,ZHO,49,18,92.504
+12,Great Britain,McLaren,NOR,39,1,96.746
+12,Great Britain,Ferrari,SAI,39,2,96.802
+12,Great Britain,Mercedes,HAM,39,3,117.389
+12,Great Britain,Red Bull,VER,39,4,118.311
+12,Great Britain,McLaren,PIA,39,5,114.658
+12,Great Britain,Haas,HUL,39,6,97.245
+12,Great Britain,Aston Martin,STR,39,7,97.759
+12,Great Britain,Aston Martin,ALO,39,8,119.234
+12,Great Britain,Racing Bulls,TSU,39,9,118.637
+12,Great Britain,Williams,ALB,39,10,117.678
+12,Great Britain,Haas,MAG,39,11,93.212
+12,Great Britain,Williams,SAR,39,12,116.256
+12,Great Britain,Racing Bulls,RIC,39,13,93.138
+12,Great Britain,Kick Sauber,BOT,39,14,97.114
+12,Great Britain,Ferrari,LEC,39,15,91.481
+12,Great Britain,Red Bull,PER,39,16,92.722
+12,Great Britain,Alpine,OCO,39,17,120.13
+12,Great Britain,Kick Sauber,ZHO,39,18,92.696
+12,Great Britain,McLaren,NOR,35,1,102.935
+12,Great Britain,Mercedes,HAM,35,2,102.271
+12,Great Britain,Red Bull,VER,35,3,103.029
+12,Great Britain,Ferrari,SAI,35,4,103.59
+12,Great Britain,McLaren,PIA,35,5,103.309
+12,Great Britain,Haas,HUL,35,6,104.042
+12,Great Britain,Aston Martin,STR,35,7,104.422
+12,Great Britain,Aston Martin,ALO,35,8,104.251
+12,Great Britain,Racing Bulls,TSU,35,9,104.782
+12,Great Britain,Williams,ALB,35,10,105.202
+12,Great Britain,Haas,MAG,35,11,105.557
+12,Great Britain,Williams,SAR,35,12,105.851
+12,Great Britain,Racing Bulls,RIC,35,13,105.535
+12,Great Britain,Kick Sauber,BOT,35,14,105.476
+12,Great Britain,Ferrari,LEC,35,15,102.415
+12,Great Britain,Red Bull,PER,35,16,103.534
+12,Great Britain,Alpine,OCO,35,17,102.995
+12,Great Britain,Kick Sauber,ZHO,35,18,102.569
+12,Great Britain,McLaren,NOR,37,1,99.786
+12,Great Britain,Mercedes,HAM,37,2,99.711
+12,Great Britain,Red Bull,VER,37,3,98.869
+12,Great Britain,Ferrari,SAI,37,4,100.432
+12,Great Britain,McLaren,PIA,37,5,99.635
+12,Great Britain,Haas,HUL,37,6,100.657
+12,Great Britain,Aston Martin,STR,37,7,100.825
+12,Great Britain,Aston Martin,ALO,37,8,100.747
+12,Great Britain,Racing Bulls,TSU,37,9,101.098
+12,Great Britain,Williams,ALB,37,10,100.273
+12,Great Britain,Haas,MAG,37,11,102.038
+12,Great Britain,Racing Bulls,RIC,37,12,100.483
+12,Great Britain,Williams,SAR,37,13,102.207
+12,Great Britain,Kick Sauber,BOT,37,14,99.987
+12,Great Britain,Ferrari,LEC,37,15,98.357
+12,Great Britain,Red Bull,PER,37,16,99.697
+12,Great Britain,Alpine,OCO,37,17,102.235
+12,Great Britain,Kick Sauber,ZHO,37,18,101.608
+12,Great Britain,McLaren,NOR,24,1,91.629
+12,Great Britain,McLaren,PIA,24,2,91.392
+12,Great Britain,Mercedes,HAM,24,3,91.635
+12,Great Britain,Mercedes,RUS,24,4,91.968
+12,Great Britain,Red Bull,VER,24,5,93.02
+12,Great Britain,Ferrari,SAI,24,6,92.734
+12,Great Britain,Haas,HUL,24,7,93.352
+12,Great Britain,Aston Martin,ALO,24,8,94.088
+12,Great Britain,Aston Martin,STR,24,9,94.585
+12,Great Britain,Racing Bulls,TSU,24,10,94.106
+12,Great Britain,Williams,ALB,24,11,93.96
+12,Great Britain,Haas,MAG,24,12,93.625
+12,Great Britain,Williams,SAR,24,13,94.037
+12,Great Britain,Racing Bulls,RIC,24,14,96.483
+12,Great Britain,Kick Sauber,BOT,24,15,97.35
+12,Great Britain,Ferrari,LEC,24,16,111.732
+12,Great Britain,Red Bull,PER,24,17,110.729
+12,Great Britain,Alpine,OCO,24,18,98.005
+12,Great Britain,Kick Sauber,ZHO,24,19,108.867
+12,Great Britain,Mercedes,HAM,46,1,89.641
+12,Great Britain,McLaren,NOR,46,2,89.96
+12,Great Britain,Red Bull,VER,46,3,89.543
+12,Great Britain,McLaren,PIA,46,4,89.233
+12,Great Britain,Ferrari,SAI,46,5,89.588
+12,Great Britain,Haas,HUL,46,6,90.185
+12,Great Britain,Aston Martin,STR,46,7,89.897
+12,Great Britain,Aston Martin,ALO,46,8,89.753
+12,Great Britain,Williams,ALB,46,9,90.234
+12,Great Britain,Racing Bulls,TSU,46,10,91.688
+12,Great Britain,Williams,SAR,46,11,90.826
+12,Great Britain,Haas,MAG,46,12,91.131
+12,Great Britain,Racing Bulls,RIC,46,13,90.849
+12,Great Britain,Kick Sauber,BOT,46,14,91.396
+12,Great Britain,Ferrari,LEC,46,15,90.051
+12,Great Britain,Red Bull,PER,46,16,90.136
+12,Great Britain,Alpine,OCO,46,17,90.875
+12,Great Britain,Kick Sauber,ZHO,46,18,91.43
+12,Great Britain,Mercedes,RUS,2,1,91.418
+12,Great Britain,Mercedes,HAM,2,2,91.42
+12,Great Britain,Red Bull,VER,2,3,91.773
+12,Great Britain,McLaren,NOR,2,4,92.188
+12,Great Britain,McLaren,PIA,2,5,92.361
+12,Great Britain,Ferrari,SAI,2,6,92.359
+12,Great Britain,Aston Martin,STR,2,7,92.683
+12,Great Britain,Ferrari,LEC,2,8,92.858
+12,Great Britain,Haas,HUL,2,9,92.844
+12,Great Britain,Aston Martin,ALO,2,10,93.202
+12,Great Britain,Racing Bulls,TSU,2,11,93.214
+12,Great Britain,Williams,ALB,2,12,93.158
+12,Great Britain,Williams,SAR,2,13,93.435
+12,Great Britain,Kick Sauber,ZHO,2,14,93.563
+12,Great Britain,Racing Bulls,RIC,2,15,93.709
+12,Great Britain,Alpine,OCO,2,16,93.846
+12,Great Britain,Haas,MAG,2,17,94.216
+12,Great Britain,Kick Sauber,BOT,2,18,95.368
+12,Great Britain,Red Bull,PER,2,19,92.942
+12,Great Britain,Mercedes,HAM,50,1,89.682
+12,Great Britain,Red Bull,VER,50,2,89.286
+12,Great Britain,McLaren,NOR,50,3,90.544
+12,Great Britain,McLaren,PIA,50,4,89.958
+12,Great Britain,Ferrari,SAI,50,5,89.434
+12,Great Britain,Haas,HUL,50,6,90.47
+12,Great Britain,Aston Martin,STR,50,7,90.03
+12,Great Britain,Aston Martin,ALO,50,8,90.727
+12,Great Britain,Williams,ALB,50,9,89.828
+12,Great Britain,Racing Bulls,TSU,50,10,91.407
+12,Great Britain,Williams,SAR,50,11,91.249
+12,Great Britain,Haas,MAG,50,12,91.143
+12,Great Britain,Racing Bulls,RIC,50,13,94.15
+12,Great Britain,Ferrari,LEC,50,14,90.488
+12,Great Britain,Kick Sauber,BOT,50,15,92.32
+12,Great Britain,Alpine,OCO,50,16,91.608
+12,Great Britain,Red Bull,PER,50,17,89.707
+12,Great Britain,Kick Sauber,ZHO,50,18,91.749
+12,Great Britain,Mercedes,RUS,13,1,91.716
+12,Great Britain,Mercedes,HAM,13,2,91.881
+12,Great Britain,Red Bull,VER,13,3,91.759
+12,Great Britain,McLaren,NOR,13,4,91.472
+12,Great Britain,McLaren,PIA,13,5,91.896
+12,Great Britain,Ferrari,SAI,13,6,92.251
+12,Great Britain,Ferrari,LEC,13,7,91.989
+12,Great Britain,Aston Martin,STR,13,8,93.092
+12,Great Britain,Haas,HUL,13,9,92.468
+12,Great Britain,Aston Martin,ALO,13,10,92.517
+12,Great Britain,Racing Bulls,TSU,13,11,93.031
+12,Great Britain,Williams,ALB,13,12,92.769
+12,Great Britain,Williams,SAR,13,13,93.04
+12,Great Britain,Racing Bulls,RIC,13,14,92.88
+12,Great Britain,Haas,MAG,13,15,92.74
+12,Great Britain,Red Bull,PER,13,16,92.772
+12,Great Britain,Alpine,OCO,13,17,94.491
+12,Great Britain,Kick Sauber,BOT,13,18,93.65
+12,Great Britain,Kick Sauber,ZHO,13,19,115.049
+12,Great Britain,Mercedes,HAM,51,1,89.743
+12,Great Britain,Red Bull,VER,51,2,89.443
+12,Great Britain,McLaren,NOR,51,3,90.769
+12,Great Britain,McLaren,PIA,51,4,88.748
+12,Great Britain,Ferrari,SAI,51,5,112.546
+12,Great Britain,Haas,HUL,51,6,90.696
+12,Great Britain,Aston Martin,STR,51,7,90.026
+12,Great Britain,Aston Martin,ALO,51,8,90.592
+12,Great Britain,Williams,ALB,51,9,89.916
+12,Great Britain,Racing Bulls,TSU,51,10,91.529
+12,Great Britain,Williams,SAR,51,11,91.662
+12,Great Britain,Haas,MAG,51,12,91.469
+12,Great Britain,Racing Bulls,RIC,51,13,94.814
+12,Great Britain,Ferrari,LEC,51,14,91.674
+12,Great Britain,Kick Sauber,BOT,51,15,92.217
+12,Great Britain,McLaren,NOR,38,1,97.999
+12,Great Britain,Mercedes,HAM,38,2,97.22
+12,Great Britain,Red Bull,VER,38,3,95.963
+12,Great Britain,McLaren,PIA,38,4,97.106
+12,Great Britain,Ferrari,SAI,38,5,98.37
+12,Great Britain,Haas,HUL,38,6,98.854
+12,Great Britain,Aston Martin,STR,38,7,99.373
+12,Great Britain,Aston Martin,ALO,38,8,98.684
+12,Great Britain,Racing Bulls,TSU,38,9,98.67
+12,Great Britain,Williams,ALB,38,10,97.843
+12,Great Britain,Williams,SAR,38,11,98.811
+12,Great Britain,Haas,MAG,38,12,123.931
+12,Great Britain,Racing Bulls,RIC,38,13,123.328
+12,Great Britain,Kick Sauber,BOT,38,14,126.628
+12,Great Britain,Ferrari,LEC,38,15,117.811
+12,Great Britain,Alpine,OCO,38,16,99.44
+12,Great Britain,Red Bull,PER,38,17,120.171
+12,Great Britain,Kick Sauber,ZHO,38,18,126.729
+12,Great Britain,Mercedes,HAM,48,1,89.579
+12,Great Britain,Red Bull,VER,48,2,88.952
+12,Great Britain,McLaren,NOR,48,3,90.556
+12,Great Britain,McLaren,PIA,48,4,89.124
+12,Great Britain,Ferrari,SAI,48,5,89.415
+12,Great Britain,Haas,HUL,48,6,90.365
+12,Great Britain,Aston Martin,STR,48,7,90.237
+12,Great Britain,Aston Martin,ALO,48,8,90.114
+12,Great Britain,Williams,ALB,48,9,90.068
+12,Great Britain,Racing Bulls,TSU,48,10,91.367
+12,Great Britain,Williams,SAR,48,11,91.201
+12,Great Britain,Haas,MAG,48,12,90.953
+12,Great Britain,Racing Bulls,RIC,48,13,91.109
+12,Great Britain,Kick Sauber,BOT,48,14,92.006
+12,Great Britain,Ferrari,LEC,48,15,90.204
+12,Great Britain,Alpine,OCO,48,16,95.931
+12,Great Britain,Red Bull,PER,48,17,125.507
+12,Great Britain,Kick Sauber,ZHO,48,18,91.556
+12,Great Britain,McLaren,NOR,27,1,104.806
+12,Great Britain,Mercedes,HAM,27,2,105.183
+12,Great Britain,McLaren,PIA,27,3,109.747
+12,Great Britain,Mercedes,RUS,27,4,107.698
+12,Great Britain,Red Bull,VER,27,5,119.169
+12,Great Britain,Ferrari,SAI,27,6,121.664
+12,Great Britain,Aston Martin,ALO,27,7,108.513
+12,Great Britain,Racing Bulls,TSU,27,8,108.126
+12,Great Britain,Williams,ALB,27,9,107.754
+12,Great Britain,Haas,MAG,27,10,111.325
+12,Great Britain,Williams,SAR,27,11,112.246
+12,Great Britain,Haas,HUL,27,12,122.727
+12,Great Britain,Aston Martin,STR,27,13,121.611
+12,Great Britain,Racing Bulls,RIC,27,14,122.788
+12,Great Britain,Kick Sauber,BOT,27,15,125.367
+12,Great Britain,Ferrari,LEC,27,16,105.912
+12,Great Britain,Red Bull,PER,27,17,112.538
+12,Great Britain,Alpine,OCO,27,18,122.736
+12,Great Britain,Kick Sauber,ZHO,27,19,124.515
+12,Great Britain,Mercedes,RUS,3,1,91.298
+12,Great Britain,Mercedes,HAM,3,2,91.716
+12,Great Britain,Red Bull,VER,3,3,92.2
+12,Great Britain,McLaren,NOR,3,4,91.991
+12,Great Britain,McLaren,PIA,3,5,91.927
+12,Great Britain,Ferrari,SAI,3,6,92.102
+12,Great Britain,Aston Martin,STR,3,7,92.307
+12,Great Britain,Ferrari,LEC,3,8,92.369
+12,Great Britain,Haas,HUL,3,9,92.605
+12,Great Britain,Aston Martin,ALO,3,10,92.951
+12,Great Britain,Racing Bulls,TSU,3,11,93.062
+12,Great Britain,Williams,ALB,3,12,93.373
+12,Great Britain,Williams,SAR,3,13,93.319
+12,Great Britain,Kick Sauber,ZHO,3,14,93.487
+12,Great Britain,Racing Bulls,RIC,3,15,93.429
+12,Great Britain,Alpine,OCO,3,16,93.479
+12,Great Britain,Haas,MAG,3,17,93.259
+12,Great Britain,Kick Sauber,BOT,3,18,94.447
+12,Great Britain,Red Bull,PER,3,19,92.34
+12,Great Britain,McLaren,NOR,25,1,94.307
+12,Great Britain,McLaren,PIA,25,2,94.271
+12,Great Britain,Mercedes,HAM,25,3,94.988
+12,Great Britain,Mercedes,RUS,25,4,94.781
+12,Great Britain,Red Bull,VER,25,5,96.063
+12,Great Britain,Ferrari,SAI,25,6,95.143
+12,Great Britain,Haas,HUL,25,7,95.918
+12,Great Britain,Aston Martin,ALO,25,8,95.687
+12,Great Britain,Aston Martin,STR,25,9,95.351
+12,Great Britain,Racing Bulls,TSU,25,10,95.473
+12,Great Britain,Williams,ALB,25,11,95.612
+12,Great Britain,Haas,MAG,25,12,95.15
+12,Great Britain,Williams,SAR,25,13,96.166
+12,Great Britain,Racing Bulls,RIC,25,14,98.725
+12,Great Britain,Kick Sauber,BOT,25,15,99.761
+12,Great Britain,Ferrari,LEC,25,16,109.301
+12,Great Britain,Red Bull,PER,25,17,107.327
+12,Great Britain,Alpine,OCO,25,18,107.432
+12,Great Britain,Kick Sauber,ZHO,25,19,108.245
+12,Great Britain,McLaren,NOR,22,1,90.86
+12,Great Britain,McLaren,PIA,22,2,91.169
+12,Great Britain,Mercedes,HAM,22,3,91.095
+12,Great Britain,Mercedes,RUS,22,4,91.344
+12,Great Britain,Red Bull,VER,22,5,91.904
+12,Great Britain,Ferrari,SAI,22,6,92.157
+12,Great Britain,Haas,HUL,22,7,92.233
+12,Great Britain,Aston Martin,ALO,22,8,92.673
+12,Great Britain,Aston Martin,STR,22,9,92.495
+12,Great Britain,Racing Bulls,TSU,22,10,92.681
+12,Great Britain,Williams,ALB,22,11,93.086
+12,Great Britain,Williams,SAR,22,12,92.826
+12,Great Britain,Haas,MAG,22,13,92.766
+12,Great Britain,Racing Bulls,RIC,22,14,93.015
+12,Great Britain,Kick Sauber,BOT,22,15,94.03
+12,Great Britain,Ferrari,LEC,22,16,104.352
+12,Great Britain,Red Bull,PER,22,17,104.936
+12,Great Britain,Alpine,OCO,22,18,115.208
+12,Great Britain,Kick Sauber,ZHO,22,19,110.248
+12,Great Britain,Mercedes,RUS,1,1,95.211
+12,Great Britain,Mercedes,HAM,1,2,96.034
+12,Great Britain,Red Bull,VER,1,3,96.711
+12,Great Britain,McLaren,NOR,1,4,97.347
+12,Great Britain,McLaren,PIA,1,5,98.008
+12,Great Britain,Ferrari,SAI,1,6,98.699
+12,Great Britain,Aston Martin,STR,1,7,99.108
+12,Great Britain,Ferrari,LEC,1,8,99.663
+12,Great Britain,Haas,HUL,1,9,100.166
+12,Great Britain,Aston Martin,ALO,1,10,100.474
+12,Great Britain,Racing Bulls,TSU,1,11,101.109
+12,Great Britain,Williams,ALB,1,12,101.588
+12,Great Britain,Williams,SAR,1,13,101.772
+12,Great Britain,Kick Sauber,ZHO,1,14,102.231
+12,Great Britain,Racing Bulls,RIC,1,15,102.715
+12,Great Britain,Alpine,OCO,1,16,103.052
+12,Great Britain,Haas,MAG,1,17,103.681
+12,Great Britain,Kick Sauber,BOT,1,18,104.29
+12,Great Britain,Red Bull,PER,1,19,109.458
+12,Great Britain,Mercedes,RUS,12,1,91.619
+12,Great Britain,Mercedes,HAM,12,2,91.563
+12,Great Britain,Red Bull,VER,12,3,91.894
+12,Great Britain,McLaren,NOR,12,4,91.718
+12,Great Britain,McLaren,PIA,12,5,91.663
+12,Great Britain,Ferrari,SAI,12,6,92.358
+12,Great Britain,Aston Martin,STR,12,7,92.362
+12,Great Britain,Ferrari,LEC,12,8,92.236
+12,Great Britain,Haas,HUL,12,9,92.401
+12,Great Britain,Aston Martin,ALO,12,10,92.427
+12,Great Britain,Racing Bulls,TSU,12,11,92.782
+12,Great Britain,Williams,ALB,12,12,92.567
+12,Great Britain,Williams,SAR,12,13,92.748
+12,Great Britain,Racing Bulls,RIC,12,14,92.797
+12,Great Britain,Haas,MAG,12,15,92.531
+12,Great Britain,Red Bull,PER,12,16,92.509
+12,Great Britain,Alpine,OCO,12,17,94.071
+12,Great Britain,Kick Sauber,BOT,12,18,93.269
+12,Great Britain,Kick Sauber,ZHO,12,19,94.235
+12,Great Britain,McLaren,NOR,36,1,102.34
+12,Great Britain,Mercedes,HAM,36,2,101.924
+12,Great Britain,Red Bull,VER,36,3,101.958
+12,Great Britain,Ferrari,SAI,36,4,102.748
+12,Great Britain,McLaren,PIA,36,5,102.52
+12,Great Britain,Haas,HUL,36,6,103.044
+12,Great Britain,Aston Martin,STR,36,7,103.0
+12,Great Britain,Aston Martin,ALO,36,8,102.513
+12,Great Britain,Racing Bulls,TSU,36,9,102.726
+12,Great Britain,Williams,ALB,36,10,103.075
+12,Great Britain,Haas,MAG,36,11,103.611
+12,Great Britain,Williams,SAR,36,12,103.365
+12,Great Britain,Racing Bulls,RIC,36,13,103.213
+12,Great Britain,Kick Sauber,BOT,36,14,102.968
+12,Great Britain,Ferrari,LEC,36,15,100.091
+12,Great Britain,Red Bull,PER,36,16,101.845
+12,Great Britain,Alpine,OCO,36,17,101.215
+12,Great Britain,Kick Sauber,ZHO,36,18,102.823
+12,Great Britain,McLaren,NOR,23,1,91.176
+12,Great Britain,McLaren,PIA,23,2,90.976
+12,Great Britain,Mercedes,HAM,23,3,91.107
+12,Great Britain,Mercedes,RUS,23,4,91.497
+12,Great Britain,Red Bull,VER,23,5,92.143
+12,Great Britain,Ferrari,SAI,23,6,92.297
+12,Great Britain,Haas,HUL,23,7,92.612
+12,Great Britain,Aston Martin,ALO,23,8,92.593
+12,Great Britain,Aston Martin,STR,23,9,93.062
+12,Great Britain,Racing Bulls,TSU,23,10,93.106
+12,Great Britain,Williams,ALB,23,11,92.891
+12,Great Britain,Haas,MAG,23,12,93.278
+12,Great Britain,Williams,SAR,23,13,94.494
+12,Great Britain,Racing Bulls,RIC,23,14,94.224
+12,Great Britain,Kick Sauber,BOT,23,15,94.076
+12,Great Britain,Ferrari,LEC,23,16,106.593
+12,Great Britain,Red Bull,PER,23,17,106.214
+12,Great Britain,Alpine,OCO,23,18,95.488
+12,Great Britain,Kick Sauber,ZHO,23,19,110.081
+12,Great Britain,McLaren,NOR,26,1,101.515
+12,Great Britain,McLaren,PIA,26,2,100.622
+12,Great Britain,Mercedes,HAM,26,3,100.792
+12,Great Britain,Mercedes,RUS,26,4,99.949
+12,Great Britain,Red Bull,VER,26,5,101.491
+12,Great Britain,Ferrari,SAI,26,6,102.481
+12,Great Britain,Haas,HUL,26,7,101.853
+12,Great Britain,Aston Martin,STR,26,8,100.784
+12,Great Britain,Aston Martin,ALO,26,9,103.618
+12,Great Britain,Racing Bulls,TSU,26,10,103.26
+12,Great Britain,Williams,ALB,26,11,103.771
+12,Great Britain,Haas,MAG,26,12,105.466
+12,Great Britain,Williams,SAR,26,13,104.642
+12,Great Britain,Racing Bulls,RIC,26,14,104.813
+12,Great Britain,Kick Sauber,BOT,26,15,109.533
+12,Great Britain,Ferrari,LEC,26,16,105.655
+12,Great Britain,Red Bull,PER,26,17,105.736
+12,Great Britain,Alpine,OCO,26,18,118.71
+12,Great Britain,Kick Sauber,ZHO,26,19,105.113
+12,Great Britain,Mercedes,RUS,7,1,91.663
+12,Great Britain,Mercedes,HAM,7,2,91.675
+12,Great Britain,Red Bull,VER,7,3,91.935
+12,Great Britain,McLaren,NOR,7,4,92.071
+12,Great Britain,McLaren,PIA,7,5,91.925
+12,Great Britain,Ferrari,SAI,7,6,92.702
+12,Great Britain,Aston Martin,STR,7,7,92.716
+12,Great Britain,Ferrari,LEC,7,8,92.662
+12,Great Britain,Haas,HUL,7,9,92.733
+12,Great Britain,Aston Martin,ALO,7,10,92.712
+12,Great Britain,Racing Bulls,TSU,7,11,92.817
+12,Great Britain,Williams,ALB,7,12,92.939
+12,Great Britain,Williams,SAR,7,13,93.002
+12,Great Britain,Racing Bulls,RIC,7,14,92.952
+12,Great Britain,Kick Sauber,ZHO,7,15,94.51
+12,Great Britain,Haas,MAG,7,16,93.734
+12,Great Britain,Red Bull,PER,7,17,93.313
+12,Great Britain,Alpine,OCO,7,18,95.183
+12,Great Britain,Kick Sauber,BOT,7,19,93.648
+12,Great Britain,McLaren,NOR,34,1,103.078
+12,Great Britain,Mercedes,HAM,34,2,102.757
+12,Great Britain,Red Bull,VER,34,3,102.447
+12,Great Britain,Ferrari,SAI,34,4,102.794
+12,Great Britain,McLaren,PIA,34,5,103.954
+12,Great Britain,Haas,HUL,34,6,104.263
+12,Great Britain,Aston Martin,STR,34,7,104.171
+12,Great Britain,Aston Martin,ALO,34,8,104.375
+12,Great Britain,Racing Bulls,TSU,34,9,104.923
+12,Great Britain,Williams,ALB,34,10,105.216
+12,Great Britain,Haas,MAG,34,11,106.135
+12,Great Britain,Williams,SAR,34,12,106.095
+12,Great Britain,Racing Bulls,RIC,34,13,105.969
+12,Great Britain,Kick Sauber,BOT,34,14,105.199
+12,Great Britain,Ferrari,LEC,34,15,103.604
+12,Great Britain,Red Bull,PER,34,16,105.045
+12,Great Britain,Alpine,OCO,34,17,105.511
+12,Great Britain,Kick Sauber,ZHO,34,18,108.01
+12,Great Britain,Mercedes,RUS,10,1,91.639
+12,Great Britain,Mercedes,HAM,10,2,91.515
+12,Great Britain,Red Bull,VER,10,3,91.661
+12,Great Britain,McLaren,NOR,10,4,91.83
+12,Great Britain,McLaren,PIA,10,5,91.811
+12,Great Britain,Ferrari,SAI,10,6,92.362
+12,Great Britain,Aston Martin,STR,10,7,92.619
+12,Great Britain,Ferrari,LEC,10,8,92.496
+12,Great Britain,Haas,HUL,10,9,92.439
+12,Great Britain,Aston Martin,ALO,10,10,92.741
+12,Great Britain,Racing Bulls,TSU,10,11,93.438
+12,Great Britain,Williams,ALB,10,12,93.073
+12,Great Britain,Williams,SAR,10,13,92.956
+12,Great Britain,Racing Bulls,RIC,10,14,92.721
+12,Great Britain,Haas,MAG,10,15,92.647
+12,Great Britain,Red Bull,PER,10,16,92.709
+12,Great Britain,Alpine,OCO,10,17,93.843
+12,Great Britain,Kick Sauber,BOT,10,18,93.787
+12,Great Britain,Kick Sauber,ZHO,10,19,95.828
+12,Great Britain,Mercedes,HAM,18,1,95.071
+12,Great Britain,Mercedes,RUS,18,2,96.365
+12,Great Britain,McLaren,NOR,18,3,94.125
+12,Great Britain,McLaren,PIA,18,4,94.269
+12,Great Britain,Red Bull,VER,18,5,96.172
+12,Great Britain,Ferrari,SAI,18,6,94.31
+12,Great Britain,Ferrari,LEC,18,7,95.951
+12,Great Britain,Aston Martin,STR,18,8,95.789
+12,Great Britain,Haas,HUL,18,9,95.834
+12,Great Britain,Aston Martin,ALO,18,10,95.88
+12,Great Britain,Racing Bulls,TSU,18,11,95.392
+12,Great Britain,Williams,ALB,18,12,95.323
+12,Great Britain,Williams,SAR,18,13,94.9
+12,Great Britain,Haas,MAG,18,14,94.73
+12,Great Britain,Red Bull,PER,18,15,95.384
+12,Great Britain,Racing Bulls,RIC,18,16,96.827
+12,Great Britain,Kick Sauber,BOT,18,17,96.075
+12,Great Britain,Alpine,OCO,18,18,98.497
+12,Great Britain,Kick Sauber,ZHO,18,19,99.637
+12,Great Britain,Mercedes,RUS,14,1,91.478
+12,Great Britain,Mercedes,HAM,14,2,91.609
+12,Great Britain,Red Bull,VER,14,3,91.7
+12,Great Britain,McLaren,NOR,14,4,91.407
+12,Great Britain,McLaren,PIA,14,5,91.697
+12,Great Britain,Ferrari,SAI,14,6,92.106
+12,Great Britain,Ferrari,LEC,14,7,92.396
+12,Great Britain,Aston Martin,STR,14,8,92.641
+12,Great Britain,Haas,HUL,14,9,92.621
+12,Great Britain,Aston Martin,ALO,14,10,92.383
+12,Great Britain,Racing Bulls,TSU,14,11,92.731
+12,Great Britain,Williams,ALB,14,12,92.538
+12,Great Britain,Williams,SAR,14,13,92.607
+12,Great Britain,Racing Bulls,RIC,14,14,92.933
+12,Great Britain,Haas,MAG,14,15,92.506
+12,Great Britain,Red Bull,PER,14,16,92.488
+12,Great Britain,Kick Sauber,BOT,14,17,93.156
+12,Great Britain,Alpine,OCO,14,18,95.293
+12,Great Britain,Kick Sauber,ZHO,14,19,92.45
+12,Great Britain,Mercedes,RUS,11,1,91.586
+12,Great Britain,Mercedes,HAM,11,2,91.487
+12,Great Britain,Red Bull,VER,11,3,91.81
+12,Great Britain,McLaren,NOR,11,4,91.748
+12,Great Britain,McLaren,PIA,11,5,91.855
+12,Great Britain,Ferrari,SAI,11,6,92.123
+12,Great Britain,Aston Martin,STR,11,7,92.273
+12,Great Britain,Ferrari,LEC,11,8,92.348
+12,Great Britain,Haas,HUL,11,9,92.428
+12,Great Britain,Aston Martin,ALO,11,10,92.548
+12,Great Britain,Racing Bulls,TSU,11,11,92.805
+12,Great Britain,Williams,ALB,11,12,92.981
+12,Great Britain,Williams,SAR,11,13,92.897
+12,Great Britain,Racing Bulls,RIC,11,14,92.804
+12,Great Britain,Haas,MAG,11,15,92.671
+12,Great Britain,Red Bull,PER,11,16,92.491
+12,Great Britain,Alpine,OCO,11,17,93.846
+12,Great Britain,Kick Sauber,BOT,11,18,93.561
+12,Great Britain,Kick Sauber,ZHO,11,19,95.012
+12,Great Britain,Mercedes,HAM,45,1,89.438
+12,Great Britain,McLaren,NOR,45,2,89.635
+12,Great Britain,Red Bull,VER,45,3,89.137
+12,Great Britain,McLaren,PIA,45,4,89.222
+12,Great Britain,Ferrari,SAI,45,5,89.589
+12,Great Britain,Haas,HUL,45,6,90.048
+12,Great Britain,Aston Martin,STR,45,7,90.025
+12,Great Britain,Aston Martin,ALO,45,8,89.871
+12,Great Britain,Williams,ALB,45,9,90.406
+12,Great Britain,Racing Bulls,TSU,45,10,91.438
+12,Great Britain,Williams,SAR,45,11,90.613
+12,Great Britain,Haas,MAG,45,12,91.722
+12,Great Britain,Racing Bulls,RIC,45,13,90.955
+12,Great Britain,Kick Sauber,BOT,45,14,93.159
+12,Great Britain,Ferrari,LEC,45,15,89.911
+12,Great Britain,Red Bull,PER,45,16,90.565
+12,Great Britain,Alpine,OCO,45,17,90.952
+12,Great Britain,Kick Sauber,ZHO,45,18,91.36
+12,Great Britain,McLaren,PIA,28,1,112.976
+12,Great Britain,McLaren,NOR,28,2,120.915
+12,Great Britain,Mercedes,HAM,28,3,120.866
+12,Great Britain,Red Bull,VER,28,4,101.176
+12,Great Britain,Mercedes,RUS,28,5,124.342
+12,Great Britain,Ferrari,SAI,28,6,102.641
+12,Great Britain,Haas,HUL,28,7,101.897
+12,Great Britain,Aston Martin,STR,28,8,102.187
+12,Great Britain,Aston Martin,ALO,28,9,124.427
+12,Great Britain,Racing Bulls,TSU,28,10,123.448
+12,Great Britain,Williams,ALB,28,11,128.459
+12,Great Britain,Haas,MAG,28,12,125.299
+12,Great Britain,Williams,SAR,28,13,125.981
+12,Great Britain,Racing Bulls,RIC,28,14,103.338
+12,Great Britain,Kick Sauber,BOT,28,15,102.562
+12,Great Britain,Red Bull,PER,28,16,105.224
+12,Great Britain,Ferrari,LEC,28,17,123.138
+12,Great Britain,Alpine,OCO,28,18,101.716
+12,Great Britain,Kick Sauber,ZHO,28,19,101.866
+12,Great Britain,Mercedes,RUS,9,1,91.621
+12,Great Britain,Mercedes,HAM,9,2,91.564
+12,Great Britain,Red Bull,VER,9,3,91.883
+12,Great Britain,McLaren,NOR,9,4,91.976
+12,Great Britain,McLaren,PIA,9,5,92.0
+12,Great Britain,Ferrari,SAI,9,6,92.484
+12,Great Britain,Aston Martin,STR,9,7,92.291
+12,Great Britain,Ferrari,LEC,9,8,92.326
+12,Great Britain,Haas,HUL,9,9,92.396
+12,Great Britain,Aston Martin,ALO,9,10,92.579
+12,Great Britain,Racing Bulls,TSU,9,11,92.57
+12,Great Britain,Williams,ALB,9,12,92.933
+12,Great Britain,Williams,SAR,9,13,93.019
+12,Great Britain,Racing Bulls,RIC,9,14,92.762
+12,Great Britain,Haas,MAG,9,15,92.783
+12,Great Britain,Red Bull,PER,9,16,92.8
+12,Great Britain,Alpine,OCO,9,17,93.898
+12,Great Britain,Kick Sauber,ZHO,9,18,95.322
+12,Great Britain,Kick Sauber,BOT,9,19,93.645
+12,Great Britain,Mercedes,RUS,15,1,91.566
+12,Great Britain,Mercedes,HAM,15,2,91.563
+12,Great Britain,McLaren,NOR,15,3,90.946
+12,Great Britain,Red Bull,VER,15,4,92.249
+12,Great Britain,McLaren,PIA,15,5,91.514
+12,Great Britain,Ferrari,SAI,15,6,91.916
+12,Great Britain,Ferrari,LEC,15,7,92.755
+12,Great Britain,Aston Martin,STR,15,8,92.649
+12,Great Britain,Haas,HUL,15,9,92.672
+12,Great Britain,Aston Martin,ALO,15,10,92.259
+12,Great Britain,Racing Bulls,TSU,15,11,92.589
+12,Great Britain,Williams,ALB,15,12,92.265
+12,Great Britain,Williams,SAR,15,13,92.543
+12,Great Britain,Racing Bulls,RIC,15,14,93.171
+12,Great Britain,Haas,MAG,15,15,92.953
+12,Great Britain,Red Bull,PER,15,16,92.702
+12,Great Britain,Kick Sauber,BOT,15,17,93.228
+12,Great Britain,Alpine,OCO,15,18,94.884
+12,Great Britain,Kick Sauber,ZHO,15,19,92.479
+12,Great Britain,Mercedes,HAM,44,1,89.697
+12,Great Britain,McLaren,NOR,44,2,89.752
+12,Great Britain,Red Bull,VER,44,3,89.372
+12,Great Britain,McLaren,PIA,44,4,89.221
+12,Great Britain,Ferrari,SAI,44,5,89.739
+12,Great Britain,Haas,HUL,44,6,90.392
+12,Great Britain,Aston Martin,STR,44,7,90.03
+12,Great Britain,Aston Martin,ALO,44,8,89.93
+12,Great Britain,Racing Bulls,TSU,44,9,90.882
+12,Great Britain,Williams,ALB,44,10,90.74
+12,Great Britain,Williams,SAR,44,11,90.003
+12,Great Britain,Haas,MAG,44,12,91.342
+12,Great Britain,Racing Bulls,RIC,44,13,91.08
+12,Great Britain,Kick Sauber,BOT,44,14,91.277
+12,Great Britain,Ferrari,LEC,44,15,89.933
+12,Great Britain,Red Bull,PER,44,16,90.518
+12,Great Britain,Alpine,OCO,44,17,90.928
+12,Great Britain,Kick Sauber,ZHO,44,18,91.378
+12,Great Britain,Mercedes,RUS,16,1,91.626
+12,Great Britain,Mercedes,HAM,16,2,91.931
+12,Great Britain,McLaren,NOR,16,3,91.69
+12,Great Britain,Red Bull,VER,16,4,92.504
+12,Great Britain,McLaren,PIA,16,5,92.118
+12,Great Britain,Ferrari,SAI,16,6,92.455
+12,Great Britain,Ferrari,LEC,16,7,92.923
+12,Great Britain,Aston Martin,STR,16,8,93.091
+12,Great Britain,Haas,HUL,16,9,93.194
+12,Great Britain,Aston Martin,ALO,16,10,92.59
+12,Great Britain,Racing Bulls,TSU,16,11,93.209
+12,Great Britain,Williams,ALB,16,12,93.178
+12,Great Britain,Williams,SAR,16,13,93.701
+12,Great Britain,Haas,MAG,16,14,93.486
+12,Great Britain,Racing Bulls,RIC,16,15,94.437
+12,Great Britain,Red Bull,PER,16,16,94.231
+12,Great Britain,Kick Sauber,BOT,16,17,93.967
+12,Great Britain,Alpine,OCO,16,18,96.522
+12,Great Britain,Kick Sauber,ZHO,16,19,95.202
+12,Great Britain,Mercedes,HAM,43,1,89.793
+12,Great Britain,McLaren,NOR,43,2,89.262
+12,Great Britain,Red Bull,VER,43,3,89.105
+12,Great Britain,McLaren,PIA,43,4,89.286
+12,Great Britain,Ferrari,SAI,43,5,89.872
+12,Great Britain,Haas,HUL,43,6,89.836
+12,Great Britain,Aston Martin,STR,43,7,90.196
+12,Great Britain,Aston Martin,ALO,43,8,90.098
+12,Great Britain,Racing Bulls,TSU,43,9,90.229
+12,Great Britain,Williams,ALB,43,10,90.126
+12,Great Britain,Haas,MAG,43,11,90.454
+12,Great Britain,Williams,SAR,43,12,90.162
+12,Great Britain,Racing Bulls,RIC,43,13,91.198
+12,Great Britain,Kick Sauber,BOT,43,14,91.732
+12,Great Britain,Ferrari,LEC,43,15,89.748
+12,Great Britain,Red Bull,PER,43,16,90.229
+12,Great Britain,Alpine,OCO,43,17,91.084
+12,Great Britain,Kick Sauber,ZHO,43,18,91.014
+12,Great Britain,Mercedes,HAM,52,1,90.146
+12,Great Britain,Red Bull,VER,52,2,89.089
+12,Great Britain,McLaren,NOR,52,3,90.913
+12,Great Britain,McLaren,PIA,52,4,89.928
+12,Great Britain,Ferrari,SAI,52,5,88.293
+12,Great Britain,Haas,HUL,52,6,90.847
+12,Great Britain,Aston Martin,STR,52,7,90.053
+12,Great Britain,Aston Martin,ALO,52,8,91.43
+12,Great Britain,Williams,ALB,52,9,89.718
+12,Great Britain,Racing Bulls,TSU,52,10,92.09
+12,Great Britain,Williams,SAR,52,11,92.088
+12,Great Britain,Haas,MAG,52,12,91.982
+12,Great Britain,Mercedes,HAM,47,1,89.538
+12,Great Britain,McLaren,NOR,47,2,89.838
+12,Great Britain,Red Bull,VER,47,3,89.411
+12,Great Britain,McLaren,PIA,47,4,89.049
+12,Great Britain,Ferrari,SAI,47,5,89.553
+12,Great Britain,Haas,HUL,47,6,89.864
+12,Great Britain,Aston Martin,STR,47,7,89.925
+12,Great Britain,Aston Martin,ALO,47,8,89.71
+12,Great Britain,Williams,ALB,47,9,90.148
+12,Great Britain,Racing Bulls,TSU,47,10,90.982
+12,Great Britain,Williams,SAR,47,11,91.25
+12,Great Britain,Haas,MAG,47,12,91.036
+12,Great Britain,Racing Bulls,RIC,47,13,90.735
+12,Great Britain,Kick Sauber,BOT,47,14,91.431
+12,Great Britain,Ferrari,LEC,47,15,90.289
+12,Great Britain,Red Bull,PER,47,16,90.795
+12,Great Britain,Alpine,OCO,47,17,93.599
+12,Great Britain,Kick Sauber,ZHO,47,18,91.283
+12,Great Britain,McLaren,NOR,31,1,101.313
+12,Great Britain,Mercedes,HAM,31,2,101.538
+12,Great Britain,Red Bull,VER,31,3,102.025
+12,Great Britain,Mercedes,RUS,31,4,101.902
+12,Great Britain,Ferrari,SAI,31,5,103.007
+12,Great Britain,McLaren,PIA,31,6,102.161
+12,Great Britain,Haas,HUL,31,7,103.274
+12,Great Britain,Aston Martin,STR,31,8,103.714
+12,Great Britain,Aston Martin,ALO,31,9,102.796
+12,Great Britain,Racing Bulls,TSU,31,10,103.355
+12,Great Britain,Williams,ALB,31,11,103.229
+12,Great Britain,Haas,MAG,31,12,104.06
+12,Great Britain,Williams,SAR,31,13,104.332
+12,Great Britain,Racing Bulls,RIC,31,14,103.699
+12,Great Britain,Kick Sauber,BOT,31,15,104.51
+12,Great Britain,Ferrari,LEC,31,16,103.95
+12,Great Britain,Red Bull,PER,31,17,102.676
+12,Great Britain,Alpine,OCO,31,18,104.019
+12,Great Britain,Kick Sauber,ZHO,31,19,104.316
+12,Great Britain,Mercedes,RUS,6,1,91.625
+12,Great Britain,Mercedes,HAM,6,2,91.746
+12,Great Britain,Red Bull,VER,6,3,91.711
+12,Great Britain,McLaren,NOR,6,4,91.896
+12,Great Britain,McLaren,PIA,6,5,92.062
+12,Great Britain,Ferrari,SAI,6,6,91.9
+12,Great Britain,Aston Martin,STR,6,7,92.788
+12,Great Britain,Ferrari,LEC,6,8,92.758
+12,Great Britain,Haas,HUL,6,9,92.697
+12,Great Britain,Aston Martin,ALO,6,10,92.673
+12,Great Britain,Racing Bulls,TSU,6,11,92.614
+12,Great Britain,Williams,ALB,6,12,93.014
+12,Great Britain,Williams,SAR,6,13,92.904
+12,Great Britain,Kick Sauber,ZHO,6,14,93.788
+12,Great Britain,Racing Bulls,RIC,6,15,93.666
+12,Great Britain,Alpine,OCO,6,16,93.616
+12,Great Britain,Haas,MAG,6,17,93.544
+12,Great Britain,Red Bull,PER,6,18,92.25
+12,Great Britain,Kick Sauber,BOT,6,19,93.46
+12,Great Britain,McLaren,NOR,29,1,100.266
+12,Great Britain,Mercedes,HAM,29,2,100.42
+12,Great Britain,Red Bull,VER,29,3,101.533
+12,Great Britain,Mercedes,RUS,29,4,100.405
+12,Great Britain,Ferrari,SAI,29,5,102.447
+12,Great Britain,McLaren,PIA,29,6,121.184
+12,Great Britain,Haas,HUL,29,7,102.641
+12,Great Britain,Aston Martin,STR,29,8,102.992
+12,Great Britain,Aston Martin,ALO,29,9,103.072
+12,Great Britain,Racing Bulls,TSU,29,10,103.749
+12,Great Britain,Williams,ALB,29,11,101.726
+12,Great Britain,Haas,MAG,29,12,102.842
+12,Great Britain,Williams,SAR,29,13,102.215
+12,Great Britain,Racing Bulls,RIC,29,14,103.377
+12,Great Britain,Kick Sauber,BOT,29,15,103.302
+12,Great Britain,Ferrari,LEC,29,16,101.602
+12,Great Britain,Red Bull,PER,29,17,124.385
+12,Great Britain,Alpine,OCO,29,18,102.362
+12,Great Britain,Kick Sauber,ZHO,29,19,101.993
+12,Great Britain,Mercedes,HAM,41,1,90.118
+12,Great Britain,McLaren,NOR,41,2,89.733
+12,Great Britain,Red Bull,VER,41,3,89.604
+12,Great Britain,McLaren,PIA,41,4,89.574
+12,Great Britain,Ferrari,SAI,41,5,90.475
+12,Great Britain,Haas,HUL,41,6,91.097
+12,Great Britain,Aston Martin,STR,41,7,90.098
+12,Great Britain,Aston Martin,ALO,41,8,90.594
+12,Great Britain,Racing Bulls,TSU,41,9,90.812
+12,Great Britain,Williams,ALB,41,10,90.715
+12,Great Britain,Haas,MAG,41,11,90.61
+12,Great Britain,Williams,SAR,41,12,90.875
+12,Great Britain,Racing Bulls,RIC,41,13,91.289
+12,Great Britain,Kick Sauber,BOT,41,14,93.344
+12,Great Britain,Ferrari,LEC,41,15,90.035
+12,Great Britain,Red Bull,PER,41,16,90.689
+12,Great Britain,Alpine,OCO,41,17,91.114
+12,Great Britain,Kick Sauber,ZHO,41,18,91.151
+12,Great Britain,McLaren,NOR,32,1,102.216
+12,Great Britain,Mercedes,HAM,32,2,102.475
+12,Great Britain,Red Bull,VER,32,3,102.538
+12,Great Britain,Mercedes,RUS,32,4,103.085
+12,Great Britain,Ferrari,SAI,32,5,103.298
+12,Great Britain,McLaren,PIA,32,6,103.137
+12,Great Britain,Haas,HUL,32,7,104.134
+12,Great Britain,Aston Martin,STR,32,8,104.545
+12,Great Britain,Aston Martin,ALO,32,9,103.69
+12,Great Britain,Racing Bulls,TSU,32,10,104.456
+12,Great Britain,Williams,ALB,32,11,104.304
+12,Great Britain,Haas,MAG,32,12,105.084
+12,Great Britain,Williams,SAR,32,13,104.912
+12,Great Britain,Racing Bulls,RIC,32,14,104.144
+12,Great Britain,Kick Sauber,BOT,32,15,105.199
+12,Great Britain,Ferrari,LEC,32,16,103.795
+12,Great Britain,Red Bull,PER,32,17,104.035
+12,Great Britain,Alpine,OCO,32,18,104.673
+12,Great Britain,Kick Sauber,ZHO,32,19,105.029
+12,Great Britain,Mercedes,RUS,4,1,91.799
+12,Great Britain,Mercedes,HAM,4,2,91.988
+12,Great Britain,Red Bull,VER,4,3,91.933
+12,Great Britain,McLaren,NOR,4,4,91.976
+12,Great Britain,McLaren,PIA,4,5,91.919
+12,Great Britain,Ferrari,SAI,4,6,92.045
+12,Great Britain,Aston Martin,STR,4,7,92.968
+12,Great Britain,Ferrari,LEC,4,8,92.705
+12,Great Britain,Haas,HUL,4,9,92.563
+12,Great Britain,Aston Martin,ALO,4,10,93.192
+12,Great Britain,Racing Bulls,TSU,4,11,93.164
+12,Great Britain,Williams,ALB,4,12,93.059
+12,Great Britain,Williams,SAR,4,13,93.11
+12,Great Britain,Kick Sauber,ZHO,4,14,93.221
+12,Great Britain,Racing Bulls,RIC,4,15,93.253
+12,Great Britain,Alpine,OCO,4,16,93.316
+12,Great Britain,Haas,MAG,4,17,93.11
+12,Great Britain,Red Bull,PER,4,18,92.57
+12,Great Britain,Kick Sauber,BOT,4,19,94.322
+12,Great Britain,McLaren,NOR,33,1,102.607
+12,Great Britain,Mercedes,HAM,33,2,102.435
+12,Great Britain,Red Bull,VER,33,3,102.606
+12,Great Britain,Mercedes,RUS,33,4,106.221
+12,Great Britain,Ferrari,SAI,33,5,103.201
+12,Great Britain,McLaren,PIA,33,6,103.325
+12,Great Britain,Haas,HUL,33,7,103.685
+12,Great Britain,Aston Martin,STR,33,8,104.213
+12,Great Britain,Aston Martin,ALO,33,9,104.262
+12,Great Britain,Racing Bulls,TSU,33,10,104.979
+12,Great Britain,Williams,ALB,33,11,104.82
+12,Great Britain,Haas,MAG,33,12,105.266
+12,Great Britain,Williams,SAR,33,13,105.684
+12,Great Britain,Racing Bulls,RIC,33,14,104.855
+12,Great Britain,Kick Sauber,BOT,33,15,105.552
+12,Great Britain,Ferrari,LEC,33,16,103.217
+12,Great Britain,Red Bull,PER,33,17,104.641
+12,Great Britain,Alpine,OCO,33,18,105.29
+12,Great Britain,Kick Sauber,ZHO,33,19,105.412
+12,Great Britain,Mercedes,HAM,42,1,89.617
+12,Great Britain,McLaren,NOR,42,2,90.006
+12,Great Britain,Red Bull,VER,42,3,89.472
+12,Great Britain,McLaren,PIA,42,4,89.581
+12,Great Britain,Ferrari,SAI,42,5,89.872
+12,Great Britain,Haas,HUL,42,6,90.701
+12,Great Britain,Aston Martin,STR,42,7,90.161
+12,Great Britain,Aston Martin,ALO,42,8,90.167
+12,Great Britain,Racing Bulls,TSU,42,9,90.319
+12,Great Britain,Williams,ALB,42,10,90.458
+12,Great Britain,Haas,MAG,42,11,90.093
+12,Great Britain,Williams,SAR,42,12,89.972
+12,Great Britain,Racing Bulls,RIC,42,13,90.765
+12,Great Britain,Kick Sauber,BOT,42,14,92.348
+12,Great Britain,Ferrari,LEC,42,15,89.832
+12,Great Britain,Red Bull,PER,42,16,90.542
+12,Great Britain,Alpine,OCO,42,17,91.187
+12,Great Britain,Kick Sauber,ZHO,42,18,91.121
+12,Great Britain,Mercedes,HAM,40,1,90.318
+12,Great Britain,McLaren,NOR,40,2,114.84
+12,Great Britain,Red Bull,VER,40,3,90.056
+12,Great Britain,McLaren,PIA,40,4,89.913
+12,Great Britain,Ferrari,SAI,40,5,116.753
+12,Great Britain,Haas,HUL,40,6,115.659
+12,Great Britain,Aston Martin,STR,40,7,116.032
+12,Great Britain,Aston Martin,ALO,40,8,91.146
+12,Great Britain,Racing Bulls,TSU,40,9,92.318
+12,Great Britain,Williams,ALB,40,10,90.889
+12,Great Britain,Haas,MAG,40,11,92.071
+12,Great Britain,Williams,SAR,40,12,91.353
+12,Great Britain,Racing Bulls,RIC,40,13,92.428
+12,Great Britain,Kick Sauber,BOT,40,14,92.973
+12,Great Britain,Ferrari,LEC,40,15,90.878
+12,Great Britain,Red Bull,PER,40,16,93.219
+12,Great Britain,Alpine,OCO,40,17,92.838
+12,Great Britain,Kick Sauber,ZHO,40,18,93.17
+12,Great Britain,McLaren,NOR,21,1,91.513
+12,Great Britain,McLaren,PIA,21,2,91.819
+12,Great Britain,Mercedes,HAM,21,3,92.156
+12,Great Britain,Mercedes,RUS,21,4,92.753
+12,Great Britain,Red Bull,VER,21,5,93.488
+12,Great Britain,Ferrari,SAI,21,6,93.507
+12,Great Britain,Haas,HUL,21,7,92.649
+12,Great Britain,Aston Martin,ALO,21,8,92.999
+12,Great Britain,Aston Martin,STR,21,9,93.291
+12,Great Britain,Racing Bulls,TSU,21,10,93.724
+12,Great Britain,Williams,ALB,21,11,93.646
+12,Great Britain,Williams,SAR,21,12,93.632
+12,Great Britain,Haas,MAG,21,13,93.484
+12,Great Britain,Racing Bulls,RIC,21,14,94.722
+12,Great Britain,Kick Sauber,BOT,21,15,95.235
+12,Great Britain,Ferrari,LEC,21,16,102.846
+12,Great Britain,Red Bull,PER,21,17,101.997
+12,Great Britain,Alpine,OCO,21,18,99.736
+12,Great Britain,Kick Sauber,ZHO,21,19,104.56
+12,Great Britain,Mercedes,RUS,8,1,91.731
+12,Great Britain,Mercedes,HAM,8,2,91.76
+12,Great Britain,Red Bull,VER,8,3,92.038
+12,Great Britain,McLaren,NOR,8,4,92.018
+12,Great Britain,McLaren,PIA,8,5,91.994
+12,Great Britain,Ferrari,SAI,8,6,92.372
+12,Great Britain,Aston Martin,STR,8,7,92.648
+12,Great Britain,Ferrari,LEC,8,8,92.86
+12,Great Britain,Haas,HUL,8,9,92.802
+12,Great Britain,Aston Martin,ALO,8,10,92.496
+12,Great Britain,Racing Bulls,TSU,8,11,92.623
+12,Great Britain,Williams,ALB,8,12,92.798
+12,Great Britain,Williams,SAR,8,13,92.806
+12,Great Britain,Racing Bulls,RIC,8,14,93.095
+12,Great Britain,Haas,MAG,8,15,93.204
+12,Great Britain,Red Bull,PER,8,16,93.407
+12,Great Britain,Alpine,OCO,8,17,93.79
+12,Great Britain,Kick Sauber,ZHO,8,18,96.323
+12,Great Britain,Kick Sauber,BOT,8,19,93.561
+12,Great Britain,Mercedes,HAM,19,1,103.711
+12,Great Britain,McLaren,NOR,19,2,101.436
+12,Great Britain,Mercedes,RUS,19,3,104.151
+12,Great Britain,McLaren,PIA,19,4,100.728
+12,Great Britain,Red Bull,VER,19,5,102.485
+12,Great Britain,Ferrari,SAI,19,6,100.51
+12,Great Britain,Ferrari,LEC,19,7,105.868
+12,Great Britain,Haas,HUL,19,8,105.752
+12,Great Britain,Aston Martin,STR,19,9,107.568
+12,Great Britain,Aston Martin,ALO,19,10,107.27
+12,Great Britain,Racing Bulls,TSU,19,11,104.585
+12,Great Britain,Williams,ALB,19,12,104.619
+12,Great Britain,Williams,SAR,19,13,104.09
+12,Great Britain,Haas,MAG,19,14,103.505
+12,Great Britain,Red Bull,PER,19,15,101.868
+12,Great Britain,Racing Bulls,RIC,19,16,104.922
+12,Great Britain,Kick Sauber,BOT,19,17,104.426
+12,Great Britain,Alpine,OCO,19,18,101.731
+12,Great Britain,Kick Sauber,ZHO,19,19,106.313
+12,Great Britain,McLaren,NOR,20,1,97.704
+12,Great Britain,McLaren,PIA,20,2,97.348
+12,Great Britain,Mercedes,HAM,20,3,100.021
+12,Great Britain,Mercedes,RUS,20,4,99.962
+12,Great Britain,Red Bull,VER,20,5,97.108
+12,Great Britain,Ferrari,SAI,20,6,96.538
+12,Great Britain,Haas,HUL,20,7,97.529
+12,Great Britain,Aston Martin,ALO,20,8,96.48
+12,Great Britain,Aston Martin,STR,20,9,97.491
+12,Great Britain,Racing Bulls,TSU,20,10,96.875
+12,Great Britain,Williams,ALB,20,11,96.53
+12,Great Britain,Williams,SAR,20,12,96.116
+12,Great Britain,Haas,MAG,20,13,95.181
+12,Great Britain,Racing Bulls,RIC,20,14,97.33
+12,Great Britain,Ferrari,LEC,20,15,120.269
+12,Great Britain,Kick Sauber,BOT,20,16,98.542
+12,Great Britain,Red Bull,PER,20,17,119.15
+12,Great Britain,Alpine,OCO,20,18,121.025
+12,Great Britain,Kick Sauber,ZHO,20,19,125.955
+12,Great Britain,Mercedes,RUS,5,1,91.628
+12,Great Britain,Mercedes,HAM,5,2,91.677
+12,Great Britain,Red Bull,VER,5,3,91.778
+12,Great Britain,McLaren,NOR,5,4,91.716
+12,Great Britain,McLaren,PIA,5,5,91.832
+12,Great Britain,Ferrari,SAI,5,6,91.939
+12,Great Britain,Aston Martin,STR,5,7,92.706
+12,Great Britain,Ferrari,LEC,5,8,92.697
+12,Great Britain,Haas,HUL,5,9,92.768
+12,Great Britain,Aston Martin,ALO,5,10,92.617
+12,Great Britain,Racing Bulls,TSU,5,11,92.607
+12,Great Britain,Williams,ALB,5,12,92.846
+12,Great Britain,Williams,SAR,5,13,93.139
+12,Great Britain,Kick Sauber,ZHO,5,14,93.271
+12,Great Britain,Racing Bulls,RIC,5,15,93.263
+12,Great Britain,Alpine,OCO,5,16,93.21
+12,Great Britain,Haas,MAG,5,17,92.999
+12,Great Britain,Red Bull,PER,5,18,92.111
+12,Great Britain,Kick Sauber,BOT,5,19,93.768
+12,Great Britain,McLaren,NOR,30,1,100.717
+12,Great Britain,Mercedes,HAM,30,2,100.467
+12,Great Britain,Red Bull,VER,30,3,102.098
+12,Great Britain,Mercedes,RUS,30,4,101.237
+12,Great Britain,Ferrari,SAI,30,5,102.737
+12,Great Britain,McLaren,PIA,30,6,100.492
+12,Great Britain,Haas,HUL,30,7,102.811
+12,Great Britain,Aston Martin,STR,30,8,103.066
+12,Great Britain,Aston Martin,ALO,30,9,102.577
+12,Great Britain,Racing Bulls,TSU,30,10,102.967
+12,Great Britain,Williams,ALB,30,11,103.271
+12,Great Britain,Haas,MAG,30,12,102.133
+12,Great Britain,Williams,SAR,30,13,102.476
+12,Great Britain,Racing Bulls,RIC,30,14,103.298
+12,Great Britain,Kick Sauber,BOT,30,15,103.472
+12,Great Britain,Ferrari,LEC,30,16,102.299
+12,Great Britain,Red Bull,PER,30,17,100.021
+12,Great Britain,Alpine,OCO,30,18,103.336
+12,Great Britain,Kick Sauber,ZHO,30,19,103.157
+12,Great Britain,Mercedes,RUS,17,1,94.793
+12,Great Britain,Mercedes,HAM,17,2,93.721
+12,Great Britain,McLaren,NOR,17,3,94.304
+12,Great Britain,McLaren,PIA,17,4,93.988
+12,Great Britain,Red Bull,VER,17,5,95.359
+12,Great Britain,Ferrari,SAI,17,6,94.228
+12,Great Britain,Ferrari,LEC,17,7,95.28
+12,Great Britain,Aston Martin,STR,17,8,95.713
+12,Great Britain,Haas,HUL,17,9,95.447
+12,Great Britain,Aston Martin,ALO,17,10,95.014
+12,Great Britain,Racing Bulls,TSU,17,11,94.738
+12,Great Britain,Williams,ALB,17,12,94.873
+12,Great Britain,Williams,SAR,17,13,95.258
+12,Great Britain,Haas,MAG,17,14,94.661
+12,Great Britain,Red Bull,PER,17,15,94.829
+12,Great Britain,Racing Bulls,RIC,17,16,95.885
+12,Great Britain,Kick Sauber,BOT,17,17,95.498
+12,Great Britain,Alpine,OCO,17,18,98.735
+12,Great Britain,Kick Sauber,ZHO,17,19,98.106
