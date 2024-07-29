@@ -14836,3 +14836,844 @@ round,grand_prix,constructor,driver,lap,position,time
 13,Hungary,Williams,ALB,7,18,102.198
 13,Hungary,Haas,MAG,7,19,102.43
 13,Hungary,Alpine,OCO,7,20,101.761
+14,Belgium,Mercedes,HAM,24,1,108.028
+14,Belgium,Ferrari,LEC,24,2,108.444
+14,Belgium,McLaren,PIA,24,3,108.163
+14,Belgium,Mercedes,RUS,24,4,108.325
+14,Belgium,Red Bull,VER,24,5,108.154
+14,Belgium,McLaren,NOR,24,6,108.356
+14,Belgium,Ferrari,SAI,24,7,107.815
+14,Belgium,Red Bull,PER,24,8,107.822
+14,Belgium,Alpine,OCO,24,9,108.745
+14,Belgium,Aston Martin,ALO,24,10,109.353
+14,Belgium,Alpine,GAS,24,11,109.508
+14,Belgium,Kick Sauber,BOT,24,12,109.757
+14,Belgium,Aston Martin,STR,24,13,109.81
+14,Belgium,Haas,MAG,24,14,109.208
+14,Belgium,Racing Bulls,RIC,24,15,108.562
+14,Belgium,Williams,ALB,24,16,123.159
+14,Belgium,Racing Bulls,TSU,24,17,111.096
+14,Belgium,Haas,HUL,24,18,110.433
+14,Belgium,Williams,SAR,24,19,115.713
+14,Belgium,Ferrari,SAI,14,1,109.047
+14,Belgium,McLaren,NOR,14,2,109.567
+14,Belgium,Mercedes,HAM,14,3,108.124
+14,Belgium,Ferrari,LEC,14,4,108.227
+14,Belgium,McLaren,PIA,14,5,108.239
+14,Belgium,Red Bull,PER,14,6,108.394
+14,Belgium,Mercedes,RUS,14,7,108.265
+14,Belgium,Red Bull,VER,14,8,108.153
+14,Belgium,Haas,MAG,14,9,110.867
+14,Belgium,Racing Bulls,TSU,14,10,111.117
+14,Belgium,Williams,ALB,14,11,110.518
+14,Belgium,Racing Bulls,RIC,14,12,109.471
+14,Belgium,Aston Martin,ALO,14,13,123.993
+14,Belgium,Haas,HUL,14,14,110.517
+14,Belgium,Alpine,GAS,14,15,110.633
+14,Belgium,Alpine,OCO,14,16,109.999
+14,Belgium,Kick Sauber,BOT,14,17,111.793
+14,Belgium,Aston Martin,STR,14,18,109.194
+14,Belgium,Williams,SAR,14,19,111.245
+14,Belgium,Mercedes,HAM,23,1,108.338
+14,Belgium,Ferrari,LEC,23,2,108.449
+14,Belgium,McLaren,PIA,23,3,108.352
+14,Belgium,Mercedes,RUS,23,4,108.412
+14,Belgium,Red Bull,VER,23,5,108.494
+14,Belgium,McLaren,NOR,23,6,108.464
+14,Belgium,Ferrari,SAI,23,7,108.431
+14,Belgium,Red Bull,PER,23,8,107.223
+14,Belgium,Alpine,OCO,23,9,109.651
+14,Belgium,Aston Martin,ALO,23,10,110.016
+14,Belgium,Williams,ALB,23,11,114.299
+14,Belgium,Alpine,GAS,23,12,109.729
+14,Belgium,Kick Sauber,BOT,23,13,109.887
+14,Belgium,Aston Martin,STR,23,14,109.574
+14,Belgium,Haas,MAG,23,15,109.372
+14,Belgium,Racing Bulls,RIC,23,16,108.322
+14,Belgium,Williams,SAR,23,17,111.203
+14,Belgium,Racing Bulls,TSU,23,18,111.085
+14,Belgium,Haas,HUL,23,19,110.063
+14,Belgium,Ferrari,LEC,11,1,109.967
+14,Belgium,Mercedes,HAM,11,2,114.328
+14,Belgium,Ferrari,SAI,11,3,109.522
+14,Belgium,McLaren,NOR,11,4,110.009
+14,Belgium,Red Bull,PER,11,5,114.844
+14,Belgium,McLaren,PIA,11,6,114.271
+14,Belgium,Aston Martin,ALO,11,7,110.682
+14,Belgium,Alpine,OCO,11,8,110.932
+14,Belgium,Aston Martin,STR,11,9,110.762
+14,Belgium,Mercedes,RUS,11,10,122.456
+14,Belgium,Kick Sauber,BOT,11,11,115.226
+14,Belgium,Haas,MAG,11,12,111.92
+14,Belgium,Red Bull,VER,11,13,122.789
+14,Belgium,Racing Bulls,TSU,11,14,112.479
+14,Belgium,Williams,ALB,11,15,109.954
+14,Belgium,Racing Bulls,RIC,11,16,109.945
+14,Belgium,Haas,HUL,11,17,109.727
+14,Belgium,Alpine,GAS,11,18,109.589
+14,Belgium,Williams,SAR,11,19,110.375
+14,Belgium,Mercedes,RUS,40,1,107.631
+14,Belgium,Mercedes,HAM,40,2,107.125
+14,Belgium,McLaren,PIA,40,3,106.409
+14,Belgium,Ferrari,LEC,40,4,107.354
+14,Belgium,Red Bull,VER,40,5,107.227
+14,Belgium,McLaren,NOR,40,6,107.218
+14,Belgium,Ferrari,SAI,40,7,107.297
+14,Belgium,Red Bull,PER,40,8,107.896
+14,Belgium,Aston Martin,ALO,40,9,108.278
+14,Belgium,Racing Bulls,RIC,40,10,107.652
+14,Belgium,Alpine,OCO,40,11,107.364
+14,Belgium,Aston Martin,STR,40,12,109.032
+14,Belgium,Williams,ALB,40,13,109.097
+14,Belgium,Haas,MAG,40,14,108.616
+14,Belgium,Alpine,GAS,40,15,108.507
+14,Belgium,Kick Sauber,BOT,40,16,108.11
+14,Belgium,Racing Bulls,TSU,40,17,108.76
+14,Belgium,Haas,HUL,40,18,109.034
+14,Belgium,Williams,SAR,40,19,108.507
+14,Belgium,Mercedes,RUS,37,1,107.919
+14,Belgium,Mercedes,HAM,37,2,107.042
+14,Belgium,McLaren,PIA,37,3,107.136
+14,Belgium,Ferrari,LEC,37,4,107.601
+14,Belgium,Red Bull,VER,37,5,107.2
+14,Belgium,McLaren,NOR,37,6,107.461
+14,Belgium,Red Bull,PER,37,7,108.057
+14,Belgium,Ferrari,SAI,37,8,107.722
+14,Belgium,Aston Martin,ALO,37,9,108.49
+14,Belgium,Racing Bulls,RIC,37,10,107.435
+14,Belgium,Aston Martin,STR,37,11,110.136
+14,Belgium,Alpine,OCO,37,12,109.611
+14,Belgium,Williams,ALB,37,13,108.797
+14,Belgium,Haas,MAG,37,14,108.916
+14,Belgium,Alpine,GAS,37,15,108.25
+14,Belgium,Kick Sauber,BOT,37,16,107.019
+14,Belgium,Racing Bulls,TSU,37,17,110.004
+14,Belgium,Haas,HUL,37,18,109.479
+14,Belgium,Williams,SAR,37,19,108.679
+14,Belgium,Mercedes,HAM,22,1,108.368
+14,Belgium,Ferrari,LEC,22,2,108.356
+14,Belgium,McLaren,PIA,22,3,108.179
+14,Belgium,Mercedes,RUS,22,4,108.588
+14,Belgium,Red Bull,VER,22,5,108.448
+14,Belgium,McLaren,NOR,22,6,108.18
+14,Belgium,Ferrari,SAI,22,7,107.928
+14,Belgium,Red Bull,PER,22,8,121.831
+14,Belgium,Williams,ALB,22,9,110.042
+14,Belgium,Alpine,OCO,22,10,109.428
+14,Belgium,Aston Martin,ALO,22,11,109.932
+14,Belgium,Alpine,GAS,22,12,109.953
+14,Belgium,Kick Sauber,BOT,22,13,109.808
+14,Belgium,Aston Martin,STR,22,14,109.507
+14,Belgium,Haas,MAG,22,15,110.189
+14,Belgium,Williams,SAR,22,16,113.25
+14,Belgium,Racing Bulls,RIC,22,17,124.465
+14,Belgium,Racing Bulls,TSU,22,18,111.803
+14,Belgium,Haas,HUL,22,19,109.293
+14,Belgium,Mercedes,RUS,34,1,107.432
+14,Belgium,Mercedes,HAM,34,2,106.856
+14,Belgium,Ferrari,LEC,34,3,107.023
+14,Belgium,McLaren,PIA,34,4,106.528
+14,Belgium,Red Bull,VER,34,5,106.63
+14,Belgium,McLaren,NOR,34,6,106.588
+14,Belgium,Red Bull,PER,34,7,108.217
+14,Belgium,Ferrari,SAI,34,8,107.38
+14,Belgium,Aston Martin,ALO,34,9,108.979
+14,Belgium,Kick Sauber,BOT,34,10,109.512
+14,Belgium,Aston Martin,STR,34,11,109.135
+14,Belgium,Racing Bulls,RIC,34,12,108.412
+14,Belgium,Alpine,OCO,34,13,108.3
+14,Belgium,Williams,ALB,34,14,108.215
+14,Belgium,Haas,MAG,34,15,108.522
+14,Belgium,Alpine,GAS,34,16,107.89
+14,Belgium,Racing Bulls,TSU,34,17,109.011
+14,Belgium,Haas,HUL,34,18,110.294
+14,Belgium,Williams,SAR,34,19,108.419
+14,Belgium,Mercedes,RUS,38,1,107.6
+14,Belgium,Mercedes,HAM,38,2,106.747
+14,Belgium,McLaren,PIA,38,3,106.648
+14,Belgium,Ferrari,LEC,38,4,107.142
+14,Belgium,Red Bull,VER,38,5,107.177
+14,Belgium,McLaren,NOR,38,6,107.096
+14,Belgium,Red Bull,PER,38,7,107.783
+14,Belgium,Ferrari,SAI,38,8,107.558
+14,Belgium,Aston Martin,ALO,38,9,108.414
+14,Belgium,Racing Bulls,RIC,38,10,108.079
+14,Belgium,Alpine,OCO,38,11,106.958
+14,Belgium,Aston Martin,STR,38,12,109.703
+14,Belgium,Williams,ALB,38,13,109.105
+14,Belgium,Haas,MAG,38,14,108.742
+14,Belgium,Alpine,GAS,38,15,108.553
+14,Belgium,Kick Sauber,BOT,38,16,107.672
+14,Belgium,Racing Bulls,TSU,38,17,108.964
+14,Belgium,Haas,HUL,38,18,109.406
+14,Belgium,Williams,SAR,38,19,108.567
+14,Belgium,Mercedes,RUS,39,1,107.796
+14,Belgium,Mercedes,HAM,39,2,107.054
+14,Belgium,McLaren,PIA,39,3,106.445
+14,Belgium,Ferrari,LEC,39,4,107.539
+14,Belgium,Red Bull,VER,39,5,107.244
+14,Belgium,McLaren,NOR,39,6,107.128
+14,Belgium,Ferrari,SAI,39,7,107.32
+14,Belgium,Red Bull,PER,39,8,109.272
+14,Belgium,Aston Martin,ALO,39,9,108.523
+14,Belgium,Racing Bulls,RIC,39,10,107.843
+14,Belgium,Alpine,OCO,39,11,107.225
+14,Belgium,Aston Martin,STR,39,12,108.933
+14,Belgium,Williams,ALB,39,13,108.952
+14,Belgium,Haas,MAG,39,14,108.906
+14,Belgium,Alpine,GAS,39,15,108.667
+14,Belgium,Kick Sauber,BOT,39,16,107.777
+14,Belgium,Racing Bulls,TSU,39,17,108.767
+14,Belgium,Haas,HUL,39,18,109.456
+14,Belgium,Williams,SAR,39,19,108.447
+14,Belgium,McLaren,PIA,27,1,107.024
+14,Belgium,Mercedes,RUS,27,2,107.707
+14,Belgium,Red Bull,VER,27,3,107.431
+14,Belgium,McLaren,NOR,27,4,107.515
+14,Belgium,Ferrari,SAI,27,5,108.355
+14,Belgium,Mercedes,HAM,27,6,121.3
+14,Belgium,Ferrari,LEC,27,7,107.034
+14,Belgium,Red Bull,PER,27,8,107.625
+14,Belgium,Alpine,OCO,27,9,108.419
+14,Belgium,Aston Martin,ALO,27,10,109.067
+14,Belgium,Alpine,GAS,27,11,109.392
+14,Belgium,Kick Sauber,BOT,27,12,109.4
+14,Belgium,Aston Martin,STR,27,13,109.62
+14,Belgium,Racing Bulls,RIC,27,14,108.723
+14,Belgium,Williams,ALB,27,15,108.587
+14,Belgium,Haas,MAG,27,16,110.071
+14,Belgium,Racing Bulls,TSU,27,17,109.162
+14,Belgium,Haas,HUL,27,18,109.169
+14,Belgium,Williams,SAR,27,19,108.764
+14,Belgium,Mercedes,RUS,36,1,107.62
+14,Belgium,Mercedes,HAM,36,2,106.931
+14,Belgium,McLaren,PIA,36,3,107.179
+14,Belgium,Ferrari,LEC,36,4,109.289
+14,Belgium,Red Bull,VER,36,5,107.156
+14,Belgium,McLaren,NOR,36,6,106.806
+14,Belgium,Red Bull,PER,36,7,108.014
+14,Belgium,Ferrari,SAI,36,8,107.358
+14,Belgium,Aston Martin,ALO,36,9,108.727
+14,Belgium,Aston Martin,STR,36,10,108.973
+14,Belgium,Racing Bulls,RIC,36,11,108.86
+14,Belgium,Alpine,OCO,36,12,108.983
+14,Belgium,Williams,ALB,36,13,108.932
+14,Belgium,Haas,MAG,36,14,108.701
+14,Belgium,Alpine,GAS,36,15,108.241
+14,Belgium,Racing Bulls,TSU,36,16,109.145
+14,Belgium,Kick Sauber,BOT,36,17,122.192
+14,Belgium,Haas,HUL,36,18,109.894
+14,Belgium,Williams,SAR,36,19,108.373
+14,Belgium,Mercedes,RUS,41,1,107.754
+14,Belgium,Mercedes,HAM,41,2,107.622
+14,Belgium,McLaren,PIA,41,3,106.39
+14,Belgium,Ferrari,LEC,41,4,107.46
+14,Belgium,Red Bull,VER,41,5,107.354
+14,Belgium,McLaren,NOR,41,6,107.238
+14,Belgium,Ferrari,SAI,41,7,107.226
+14,Belgium,Red Bull,PER,41,8,107.84
+14,Belgium,Aston Martin,ALO,41,9,108.326
+14,Belgium,Alpine,OCO,41,10,107.32
+14,Belgium,Racing Bulls,RIC,41,11,109.163
+14,Belgium,Aston Martin,STR,41,12,108.766
+14,Belgium,Williams,ALB,41,13,108.732
+14,Belgium,Alpine,GAS,41,14,107.598
+14,Belgium,Haas,MAG,41,15,109.651
+14,Belgium,Kick Sauber,BOT,41,16,108.818
+14,Belgium,Racing Bulls,TSU,41,17,108.567
+14,Belgium,Haas,HUL,41,18,109.131
+14,Belgium,Williams,SAR,41,19,108.899
+14,Belgium,Mercedes,HAM,25,1,107.845
+14,Belgium,McLaren,PIA,25,2,107.98
+14,Belgium,Ferrari,LEC,25,3,112.358
+14,Belgium,Mercedes,RUS,25,4,107.992
+14,Belgium,Red Bull,VER,25,5,107.921
+14,Belgium,McLaren,NOR,25,6,108.098
+14,Belgium,Ferrari,SAI,25,7,108.234
+14,Belgium,Red Bull,PER,25,8,107.667
+14,Belgium,Alpine,OCO,25,9,108.745
+14,Belgium,Aston Martin,ALO,25,10,108.926
+14,Belgium,Alpine,GAS,25,11,109.287
+14,Belgium,Kick Sauber,BOT,25,12,109.46
+14,Belgium,Aston Martin,STR,25,13,109.549
+14,Belgium,Haas,MAG,25,14,108.861
+14,Belgium,Racing Bulls,RIC,25,15,108.279
+14,Belgium,Williams,ALB,25,16,108.175
+14,Belgium,Racing Bulls,TSU,25,17,109.135
+14,Belgium,Haas,HUL,25,18,109.5
+14,Belgium,Williams,SAR,25,19,123.841
+14,Belgium,Ferrari,SAI,15,1,111.152
+14,Belgium,McLaren,NOR,15,2,113.928
+14,Belgium,Mercedes,HAM,15,3,108.15
+14,Belgium,Ferrari,LEC,15,4,108.021
+14,Belgium,McLaren,PIA,15,5,108.07
+14,Belgium,Red Bull,PER,15,6,108.305
+14,Belgium,Mercedes,RUS,15,7,108.315
+14,Belgium,Red Bull,VER,15,8,108.229
+14,Belgium,Haas,MAG,15,9,110.743
+14,Belgium,Williams,ALB,15,10,109.827
+14,Belgium,Racing Bulls,RIC,15,11,110.011
+14,Belgium,Aston Martin,ALO,15,12,109.469
+14,Belgium,Haas,HUL,15,13,109.984
+14,Belgium,Alpine,OCO,15,14,109.476
+14,Belgium,Alpine,GAS,15,15,110.429
+14,Belgium,Racing Bulls,TSU,15,16,116.408
+14,Belgium,Kick Sauber,BOT,15,17,109.881
+14,Belgium,Aston Martin,STR,15,18,109.852
+14,Belgium,Williams,SAR,15,19,110.515
+14,Belgium,Mercedes,HAM,10,1,109.951
+14,Belgium,Ferrari,LEC,10,2,109.963
+14,Belgium,Red Bull,PER,10,3,110.057
+14,Belgium,McLaren,PIA,10,4,110.045
+14,Belgium,Ferrari,SAI,10,5,110.182
+14,Belgium,McLaren,NOR,10,6,110.334
+14,Belgium,Mercedes,RUS,10,7,114.652
+14,Belgium,Red Bull,VER,10,8,114.655
+14,Belgium,Aston Martin,ALO,10,9,110.915
+14,Belgium,Alpine,OCO,10,10,111.085
+14,Belgium,Kick Sauber,BOT,10,11,110.863
+14,Belgium,Aston Martin,STR,10,12,111.251
+14,Belgium,Haas,MAG,10,13,111.712
+14,Belgium,Racing Bulls,TSU,10,14,111.514
+14,Belgium,Williams,ALB,10,15,109.702
+14,Belgium,Racing Bulls,RIC,10,16,109.689
+14,Belgium,Haas,HUL,10,17,109.269
+14,Belgium,Alpine,GAS,10,18,124.826
+14,Belgium,Williams,SAR,10,19,109.428
+14,Belgium,Ferrari,SAI,13,1,109.248
+14,Belgium,McLaren,NOR,13,2,109.963
+14,Belgium,Mercedes,HAM,13,3,108.204
+14,Belgium,Ferrari,LEC,13,4,122.667
+14,Belgium,McLaren,PIA,13,5,107.565
+14,Belgium,Aston Martin,ALO,13,6,114.654
+14,Belgium,Red Bull,PER,13,7,108.772
+14,Belgium,Mercedes,RUS,13,8,108.702
+14,Belgium,Red Bull,VER,13,9,108.431
+14,Belgium,Haas,MAG,13,10,110.993
+14,Belgium,Racing Bulls,TSU,13,11,111.38
+14,Belgium,Williams,ALB,13,12,110.375
+14,Belgium,Racing Bulls,RIC,13,13,109.823
+14,Belgium,Haas,HUL,13,14,109.805
+14,Belgium,Alpine,GAS,13,15,110.048
+14,Belgium,Kick Sauber,BOT,13,16,109.373
+14,Belgium,Alpine,OCO,13,17,123.593
+14,Belgium,Williams,SAR,13,18,110.619
+14,Belgium,Aston Martin,STR,13,19,124.552
+14,Belgium,Mercedes,HAM,26,1,112.047
+14,Belgium,McLaren,PIA,26,2,107.519
+14,Belgium,Mercedes,RUS,26,3,107.759
+14,Belgium,Red Bull,VER,26,4,107.815
+14,Belgium,McLaren,NOR,26,5,107.669
+14,Belgium,Ferrari,SAI,26,6,107.75
+14,Belgium,Ferrari,LEC,26,7,121.972
+14,Belgium,Red Bull,PER,26,8,108.048
+14,Belgium,Alpine,OCO,26,9,108.517
+14,Belgium,Aston Martin,ALO,26,10,109.254
+14,Belgium,Alpine,GAS,26,11,109.336
+14,Belgium,Kick Sauber,BOT,26,12,109.591
+14,Belgium,Aston Martin,STR,26,13,109.528
+14,Belgium,Racing Bulls,RIC,26,14,108.229
+14,Belgium,Haas,MAG,26,15,109.903
+14,Belgium,Williams,ALB,26,16,109.172
+14,Belgium,Racing Bulls,TSU,26,17,109.18
+14,Belgium,Haas,HUL,26,18,109.228
+14,Belgium,Williams,SAR,26,19,108.082
+14,Belgium,Mercedes,RUS,35,1,107.562
+14,Belgium,Mercedes,HAM,35,2,106.729
+14,Belgium,Ferrari,LEC,35,3,108.321
+14,Belgium,McLaren,PIA,35,4,108.312
+14,Belgium,Red Bull,VER,35,5,107.009
+14,Belgium,McLaren,NOR,35,6,106.775
+14,Belgium,Red Bull,PER,35,7,107.843
+14,Belgium,Ferrari,SAI,35,8,107.012
+14,Belgium,Aston Martin,ALO,35,9,108.582
+14,Belgium,Aston Martin,STR,35,10,109.297
+14,Belgium,Racing Bulls,RIC,35,11,109.425
+14,Belgium,Alpine,OCO,35,12,109.241
+14,Belgium,Williams,ALB,35,13,108.294
+14,Belgium,Kick Sauber,BOT,35,14,113.284
+14,Belgium,Haas,MAG,35,15,108.437
+14,Belgium,Alpine,GAS,35,16,107.858
+14,Belgium,Racing Bulls,TSU,35,17,109.095
+14,Belgium,Haas,HUL,35,18,109.421
+14,Belgium,Williams,SAR,35,19,108.141
+14,Belgium,Mercedes,RUS,32,1,107.596
+14,Belgium,Mercedes,HAM,32,2,107.003
+14,Belgium,Ferrari,LEC,32,3,107.064
+14,Belgium,McLaren,PIA,32,4,105.84
+14,Belgium,Red Bull,VER,32,5,106.128
+14,Belgium,McLaren,NOR,32,6,106.217
+14,Belgium,Red Bull,PER,32,7,108.016
+14,Belgium,Ferrari,SAI,32,8,107.191
+14,Belgium,Aston Martin,ALO,32,9,108.921
+14,Belgium,Kick Sauber,BOT,32,10,108.951
+14,Belgium,Aston Martin,STR,32,11,108.865
+14,Belgium,Racing Bulls,RIC,32,12,107.883
+14,Belgium,Alpine,OCO,32,13,106.992
+14,Belgium,Williams,ALB,32,14,109.009
+14,Belgium,Haas,MAG,32,15,108.624
+14,Belgium,Alpine,GAS,32,16,108.213
+14,Belgium,Racing Bulls,TSU,32,17,109.085
+14,Belgium,Haas,HUL,32,18,109.323
+14,Belgium,Williams,SAR,32,19,108.513
+14,Belgium,Ferrari,LEC,1,1,111.912
+14,Belgium,Mercedes,HAM,1,2,112.7
+14,Belgium,Red Bull,PER,1,3,113.439
+14,Belgium,McLaren,PIA,1,4,114.248
+14,Belgium,Mercedes,RUS,1,5,114.763
+14,Belgium,Ferrari,SAI,1,6,115.27
+14,Belgium,McLaren,NOR,1,7,115.727
+14,Belgium,Aston Martin,ALO,1,8,116.577
+14,Belgium,Red Bull,VER,1,9,117.183
+14,Belgium,Williams,ALB,1,10,117.321
+14,Belgium,Alpine,OCO,1,11,117.847
+14,Belgium,Alpine,GAS,1,12,118.554
+14,Belgium,Kick Sauber,BOT,1,13,118.761
+14,Belgium,Racing Bulls,RIC,1,14,119.256
+14,Belgium,Aston Martin,STR,1,15,119.618
+14,Belgium,Haas,HUL,1,16,120.156
+14,Belgium,Haas,MAG,1,17,120.748
+14,Belgium,Kick Sauber,ZHO,1,18,121.121
+14,Belgium,Racing Bulls,TSU,1,19,121.641
+14,Belgium,Williams,SAR,1,20,122.19
+14,Belgium,Mercedes,HAM,3,1,109.109
+14,Belgium,Ferrari,LEC,3,2,110.519
+14,Belgium,Red Bull,PER,3,3,109.983
+14,Belgium,McLaren,PIA,3,4,109.971
+14,Belgium,Mercedes,RUS,3,5,110.012
+14,Belgium,Ferrari,SAI,3,6,110.113
+14,Belgium,McLaren,NOR,3,7,110.131
+14,Belgium,Red Bull,VER,3,8,110.141
+14,Belgium,Aston Martin,ALO,3,9,110.204
+14,Belgium,Williams,ALB,3,10,110.2
+14,Belgium,Alpine,OCO,3,11,110.518
+14,Belgium,Alpine,GAS,3,12,110.757
+14,Belgium,Kick Sauber,BOT,3,13,111.085
+14,Belgium,Racing Bulls,RIC,3,14,111.215
+14,Belgium,Aston Martin,STR,3,15,111.394
+14,Belgium,Haas,HUL,3,16,111.234
+14,Belgium,Haas,MAG,3,17,111.314
+14,Belgium,Racing Bulls,TSU,3,18,111.051
+14,Belgium,Williams,SAR,3,19,111.366
+14,Belgium,Kick Sauber,ZHO,3,20,181.122
+14,Belgium,Ferrari,LEC,12,1,114.091
+14,Belgium,Ferrari,SAI,12,2,109.141
+14,Belgium,McLaren,NOR,12,3,109.724
+14,Belgium,Aston Martin,ALO,12,4,110.891
+14,Belgium,Mercedes,HAM,12,5,124.792
+14,Belgium,Red Bull,PER,12,6,123.704
+14,Belgium,McLaren,PIA,12,7,123.103
+14,Belgium,Alpine,OCO,12,8,115.525
+14,Belgium,Mercedes,RUS,12,9,109.872
+14,Belgium,Red Bull,VER,12,10,108.403
+14,Belgium,Aston Martin,STR,12,11,115.246
+14,Belgium,Haas,MAG,12,12,112.134
+14,Belgium,Racing Bulls,TSU,12,13,111.556
+14,Belgium,Williams,ALB,12,14,110.126
+14,Belgium,Racing Bulls,RIC,12,15,109.946
+14,Belgium,Haas,HUL,12,16,109.825
+14,Belgium,Alpine,GAS,12,17,109.78
+14,Belgium,Kick Sauber,BOT,12,18,122.971
+14,Belgium,Williams,SAR,12,19,110.202
+14,Belgium,Ferrari,LEC,2,1,110.24
+14,Belgium,Mercedes,HAM,2,2,109.849
+14,Belgium,Red Bull,PER,2,3,110.24
+14,Belgium,McLaren,PIA,2,4,110.164
+14,Belgium,Mercedes,RUS,2,5,110.16
+14,Belgium,Ferrari,SAI,2,6,110.26
+14,Belgium,McLaren,NOR,2,7,110.504
+14,Belgium,Red Bull,VER,2,8,109.828
+14,Belgium,Aston Martin,ALO,2,9,111.316
+14,Belgium,Williams,ALB,2,10,111.283
+14,Belgium,Alpine,OCO,2,11,111.312
+14,Belgium,Alpine,GAS,2,12,111.273
+14,Belgium,Kick Sauber,BOT,2,13,111.452
+14,Belgium,Racing Bulls,RIC,2,14,111.541
+14,Belgium,Aston Martin,STR,2,15,111.654
+14,Belgium,Haas,HUL,2,16,111.8
+14,Belgium,Haas,MAG,2,17,111.732
+14,Belgium,Kick Sauber,ZHO,2,18,112.099
+14,Belgium,Racing Bulls,TSU,2,19,112.391
+14,Belgium,Williams,SAR,2,20,112.288
+14,Belgium,Mercedes,HAM,4,1,109.808
+14,Belgium,Ferrari,LEC,4,2,109.796
+14,Belgium,Red Bull,PER,4,3,109.79
+14,Belgium,McLaren,PIA,4,4,109.847
+14,Belgium,Mercedes,RUS,4,5,110.057
+14,Belgium,Ferrari,SAI,4,6,109.882
+14,Belgium,McLaren,NOR,4,7,110.012
+14,Belgium,Red Bull,VER,4,8,110.055
+14,Belgium,Aston Martin,ALO,4,9,110.421
+14,Belgium,Williams,ALB,4,10,110.31
+14,Belgium,Alpine,OCO,4,11,110.371
+14,Belgium,Alpine,GAS,4,12,110.366
+14,Belgium,Kick Sauber,BOT,4,13,110.527
+14,Belgium,Racing Bulls,RIC,4,14,110.715
+14,Belgium,Aston Martin,STR,4,15,110.819
+14,Belgium,Haas,HUL,4,16,110.912
+14,Belgium,Haas,MAG,4,17,111.004
+14,Belgium,Racing Bulls,TSU,4,18,110.858
+14,Belgium,Williams,SAR,4,19,110.772
+14,Belgium,Kick Sauber,ZHO,4,20,112.376
+14,Belgium,Mercedes,HAM,8,1,109.666
+14,Belgium,Ferrari,LEC,8,2,109.549
+14,Belgium,Red Bull,PER,8,3,109.912
+14,Belgium,McLaren,PIA,8,4,110.062
+14,Belgium,Mercedes,RUS,8,5,110.548
+14,Belgium,Ferrari,SAI,8,6,110.385
+14,Belgium,McLaren,NOR,8,7,110.298
+14,Belgium,Red Bull,VER,8,8,110.094
+14,Belgium,Aston Martin,ALO,8,9,110.826
+14,Belgium,Alpine,OCO,8,10,111.11
+14,Belgium,Alpine,GAS,8,11,111.388
+14,Belgium,Kick Sauber,BOT,8,12,111.417
+14,Belgium,Williams,ALB,8,13,115.365
+14,Belgium,Aston Martin,STR,8,14,111.57
+14,Belgium,Haas,MAG,8,15,111.285
+14,Belgium,Racing Bulls,TSU,8,16,111.369
+14,Belgium,Racing Bulls,RIC,8,17,115.595
+14,Belgium,Williams,SAR,8,18,115.636
+14,Belgium,Haas,HUL,8,19,124.815
+14,Belgium,McLaren,PIA,30,1,111.738
+14,Belgium,Mercedes,RUS,30,2,107.628
+14,Belgium,Mercedes,HAM,30,3,107.031
+14,Belgium,Ferrari,LEC,30,4,107.311
+14,Belgium,Red Bull,VER,30,5,106.447
+14,Belgium,Red Bull,PER,30,6,108.878
+14,Belgium,McLaren,NOR,30,7,120.262
+14,Belgium,Ferrari,SAI,30,8,106.713
+14,Belgium,Alpine,OCO,30,9,112.671
+14,Belgium,Aston Martin,ALO,30,10,108.872
+14,Belgium,Kick Sauber,BOT,30,11,108.766
+14,Belgium,Aston Martin,STR,30,12,108.849
+14,Belgium,Racing Bulls,RIC,30,13,108.221
+14,Belgium,Williams,ALB,30,14,108.149
+14,Belgium,Haas,MAG,30,15,108.469
+14,Belgium,Alpine,GAS,30,16,107.418
+14,Belgium,Racing Bulls,TSU,30,17,109.936
+14,Belgium,Haas,HUL,30,18,109.612
+14,Belgium,Williams,SAR,30,19,108.659
+14,Belgium,Mercedes,RUS,33,1,107.315
+14,Belgium,Mercedes,HAM,33,2,106.653
+14,Belgium,Ferrari,LEC,33,3,107.013
+14,Belgium,McLaren,PIA,33,4,106.265
+14,Belgium,Red Bull,VER,33,5,106.417
+14,Belgium,McLaren,NOR,33,6,106.655
+14,Belgium,Red Bull,PER,33,7,107.63
+14,Belgium,Ferrari,SAI,33,8,107.087
+14,Belgium,Aston Martin,ALO,33,9,108.645
+14,Belgium,Kick Sauber,BOT,33,10,108.804
+14,Belgium,Aston Martin,STR,33,11,108.845
+14,Belgium,Racing Bulls,RIC,33,12,107.875
+14,Belgium,Alpine,OCO,33,13,107.478
+14,Belgium,Williams,ALB,33,14,108.303
+14,Belgium,Haas,MAG,33,15,108.658
+14,Belgium,Alpine,GAS,33,16,108.011
+14,Belgium,Racing Bulls,TSU,33,17,109.017
+14,Belgium,Haas,HUL,33,18,109.203
+14,Belgium,Williams,SAR,33,19,108.465
+14,Belgium,Mercedes,RUS,44,1,107.113
+14,Belgium,Mercedes,HAM,44,2,107.034
+14,Belgium,McLaren,PIA,44,3,106.628
+14,Belgium,Ferrari,LEC,44,4,107.061
+14,Belgium,Red Bull,VER,44,5,106.899
+14,Belgium,McLaren,NOR,44,6,106.793
+14,Belgium,Ferrari,SAI,44,7,106.364
+14,Belgium,Red Bull,PER,44,8,104.701
+14,Belgium,Aston Martin,ALO,44,9,108.068
+14,Belgium,Alpine,OCO,44,10,107.528
+14,Belgium,Racing Bulls,RIC,44,11,107.675
+14,Belgium,Aston Martin,STR,44,12,108.105
+14,Belgium,Williams,ALB,44,13,107.996
+14,Belgium,Alpine,GAS,44,14,107.896
+14,Belgium,Haas,MAG,44,15,107.848
+14,Belgium,Kick Sauber,BOT,44,16,107.516
+14,Belgium,Racing Bulls,TSU,44,17,107.969
+14,Belgium,Williams,SAR,44,18,108.121
+14,Belgium,Haas,HUL,44,19,108.954
+14,Belgium,Mercedes,HAM,21,1,108.396
+14,Belgium,Ferrari,LEC,21,2,108.38
+14,Belgium,McLaren,PIA,21,3,108.376
+14,Belgium,Mercedes,RUS,21,4,107.763
+14,Belgium,Red Bull,VER,21,5,109.273
+14,Belgium,McLaren,NOR,21,6,108.263
+14,Belgium,Red Bull,PER,21,7,114.682
+14,Belgium,Ferrari,SAI,21,8,122.634
+14,Belgium,Williams,ALB,21,9,109.806
+14,Belgium,Alpine,OCO,21,10,109.599
+14,Belgium,Aston Martin,ALO,21,11,110.195
+14,Belgium,Alpine,GAS,21,12,110.06
+14,Belgium,Racing Bulls,RIC,21,13,114.387
+14,Belgium,Kick Sauber,BOT,21,14,109.981
+14,Belgium,Aston Martin,STR,21,15,109.579
+14,Belgium,Williams,SAR,21,16,110.872
+14,Belgium,Haas,MAG,21,17,110.385
+14,Belgium,Racing Bulls,TSU,21,18,109.633
+14,Belgium,Haas,HUL,21,19,123.837
+14,Belgium,Ferrari,SAI,16,1,109.161
+14,Belgium,Mercedes,HAM,16,2,107.973
+14,Belgium,Ferrari,LEC,16,3,107.982
+14,Belgium,McLaren,PIA,16,4,108.355
+14,Belgium,Red Bull,PER,16,5,108.504
+14,Belgium,Mercedes,RUS,16,6,108.606
+14,Belgium,Red Bull,VER,16,7,108.509
+14,Belgium,McLaren,NOR,16,8,121.761
+14,Belgium,Haas,MAG,16,9,110.473
+14,Belgium,Williams,ALB,16,10,110.265
+14,Belgium,Racing Bulls,RIC,16,11,109.495
+14,Belgium,Aston Martin,ALO,16,12,109.54
+14,Belgium,Alpine,OCO,16,13,108.997
+14,Belgium,Haas,HUL,16,14,110.703
+14,Belgium,Alpine,GAS,16,15,110.113
+14,Belgium,Kick Sauber,BOT,16,16,109.947
+14,Belgium,Aston Martin,STR,16,17,109.684
+14,Belgium,Williams,SAR,16,18,110.456
+14,Belgium,Racing Bulls,TSU,16,19,124.84
+14,Belgium,Ferrari,SAI,19,1,109.052
+14,Belgium,Mercedes,HAM,19,2,108.04
+14,Belgium,Ferrari,LEC,19,3,108.346
+14,Belgium,McLaren,PIA,19,4,108.233
+14,Belgium,Red Bull,PER,19,5,108.695
+14,Belgium,Mercedes,RUS,19,6,108.499
+14,Belgium,Red Bull,VER,19,7,108.578
+14,Belgium,McLaren,NOR,19,8,108.049
+14,Belgium,Williams,ALB,19,9,110.002
+14,Belgium,Racing Bulls,RIC,19,10,109.876
+14,Belgium,Aston Martin,ALO,19,11,109.791
+14,Belgium,Alpine,OCO,19,12,109.728
+14,Belgium,Alpine,GAS,19,13,109.951
+14,Belgium,Kick Sauber,BOT,19,14,109.32
+14,Belgium,Haas,HUL,19,15,111.403
+14,Belgium,Aston Martin,STR,19,16,110.086
+14,Belgium,Williams,SAR,19,17,110.564
+14,Belgium,Haas,MAG,19,18,109.093
+14,Belgium,Racing Bulls,TSU,19,19,109.388
+14,Belgium,Mercedes,HAM,5,1,109.376
+14,Belgium,Ferrari,LEC,5,2,109.494
+14,Belgium,Red Bull,PER,5,3,109.896
+14,Belgium,McLaren,PIA,5,4,110.085
+14,Belgium,Mercedes,RUS,5,5,110.185
+14,Belgium,Ferrari,SAI,5,6,110.237
+14,Belgium,McLaren,NOR,5,7,110.155
+14,Belgium,Red Bull,VER,5,8,110.138
+14,Belgium,Aston Martin,ALO,5,9,110.69
+14,Belgium,Williams,ALB,5,10,110.723
+14,Belgium,Alpine,OCO,5,11,110.636
+14,Belgium,Alpine,GAS,5,12,110.528
+14,Belgium,Kick Sauber,BOT,5,13,110.462
+14,Belgium,Racing Bulls,RIC,5,14,110.314
+14,Belgium,Aston Martin,STR,5,15,110.495
+14,Belgium,Haas,HUL,5,16,110.769
+14,Belgium,Haas,MAG,5,17,110.787
+14,Belgium,Racing Bulls,TSU,5,18,110.956
+14,Belgium,Williams,SAR,5,19,111.115
+14,Belgium,Kick Sauber,ZHO,5,20,133.633
+14,Belgium,Mercedes,RUS,31,1,107.48
+14,Belgium,Mercedes,HAM,31,2,107.182
+14,Belgium,Ferrari,LEC,31,3,107.018
+14,Belgium,McLaren,PIA,31,4,121.424
+14,Belgium,Red Bull,VER,31,5,106.363
+14,Belgium,McLaren,NOR,31,6,105.563
+14,Belgium,Red Bull,PER,31,7,108.335
+14,Belgium,Ferrari,SAI,31,8,106.647
+14,Belgium,Aston Martin,ALO,31,9,108.957
+14,Belgium,Kick Sauber,BOT,31,10,108.943
+14,Belgium,Aston Martin,STR,31,11,108.928
+14,Belgium,Racing Bulls,RIC,31,12,108.237
+14,Belgium,Williams,ALB,31,13,108.138
+14,Belgium,Alpine,OCO,31,14,122.496
+14,Belgium,Haas,MAG,31,15,109.229
+14,Belgium,Alpine,GAS,31,16,108.153
+14,Belgium,Racing Bulls,TSU,31,17,109.338
+14,Belgium,Haas,HUL,31,18,109.525
+14,Belgium,Williams,SAR,31,19,108.492
+14,Belgium,Mercedes,HAM,9,1,109.704
+14,Belgium,Ferrari,LEC,9,2,110.096
+14,Belgium,Red Bull,PER,9,3,110.286
+14,Belgium,McLaren,PIA,9,4,110.481
+14,Belgium,Mercedes,RUS,9,5,110.142
+14,Belgium,Ferrari,SAI,9,6,110.296
+14,Belgium,McLaren,NOR,9,7,110.298
+14,Belgium,Red Bull,VER,9,8,110.609
+14,Belgium,Aston Martin,ALO,9,9,111.232
+14,Belgium,Alpine,OCO,9,10,111.305
+14,Belgium,Kick Sauber,BOT,9,11,111.409
+14,Belgium,Aston Martin,STR,9,12,111.335
+14,Belgium,Haas,MAG,9,13,111.189
+14,Belgium,Alpine,GAS,9,14,116.01
+14,Belgium,Racing Bulls,TSU,9,15,111.69
+14,Belgium,Williams,ALB,9,16,123.191
+14,Belgium,Racing Bulls,RIC,9,17,123.019
+14,Belgium,Haas,HUL,9,18,109.634
+14,Belgium,Williams,SAR,9,19,123.886
+14,Belgium,Mercedes,RUS,42,1,107.465
+14,Belgium,Mercedes,HAM,42,2,107.387
+14,Belgium,McLaren,PIA,42,3,106.262
+14,Belgium,Ferrari,LEC,42,4,107.216
+14,Belgium,Red Bull,VER,42,5,107.387
+14,Belgium,McLaren,NOR,42,6,107.291
+14,Belgium,Ferrari,SAI,42,7,106.971
+14,Belgium,Red Bull,PER,42,8,112.866
+14,Belgium,Aston Martin,ALO,42,9,108.051
+14,Belgium,Alpine,OCO,42,10,107.175
+14,Belgium,Racing Bulls,RIC,42,11,107.685
+14,Belgium,Aston Martin,STR,42,12,108.839
+14,Belgium,Williams,ALB,42,13,108.898
+14,Belgium,Alpine,GAS,42,14,108.398
+14,Belgium,Haas,MAG,42,15,108.869
+14,Belgium,Kick Sauber,BOT,42,16,108.334
+14,Belgium,Racing Bulls,TSU,42,17,108.574
+14,Belgium,Haas,HUL,42,18,109.074
+14,Belgium,Williams,SAR,42,19,109.045
+14,Belgium,McLaren,PIA,28,1,107.609
+14,Belgium,Mercedes,RUS,28,2,107.665
+14,Belgium,McLaren,NOR,28,3,107.537
+14,Belgium,Red Bull,VER,28,4,112.026
+14,Belgium,Mercedes,HAM,28,5,107.396
+14,Belgium,Ferrari,LEC,28,6,107.039
+14,Belgium,Ferrari,SAI,28,7,112.56
+14,Belgium,Red Bull,PER,28,8,107.7
+14,Belgium,Alpine,OCO,28,9,108.555
+14,Belgium,Aston Martin,ALO,28,10,109.04
+14,Belgium,Kick Sauber,BOT,28,11,109.571
+14,Belgium,Aston Martin,STR,28,12,109.339
+14,Belgium,Alpine,GAS,28,13,113.715
+14,Belgium,Racing Bulls,RIC,28,14,108.431
+14,Belgium,Williams,ALB,28,15,108.879
+14,Belgium,Haas,MAG,28,16,108.97
+14,Belgium,Racing Bulls,TSU,28,17,109.156
+14,Belgium,Haas,HUL,28,18,109.373
+14,Belgium,Williams,SAR,28,19,109.134
+14,Belgium,Mercedes,HAM,20,1,108.237
+14,Belgium,Ferrari,LEC,20,2,108.279
+14,Belgium,Ferrari,SAI,20,3,113.718
+14,Belgium,McLaren,PIA,20,4,108.175
+14,Belgium,Red Bull,PER,20,5,109.663
+14,Belgium,Mercedes,RUS,20,6,109.605
+14,Belgium,Red Bull,VER,20,7,109.134
+14,Belgium,McLaren,NOR,20,8,108.132
+14,Belgium,Williams,ALB,20,9,110.235
+14,Belgium,Racing Bulls,RIC,20,10,110.202
+14,Belgium,Alpine,OCO,20,11,109.499
+14,Belgium,Aston Martin,ALO,20,12,111.21
+14,Belgium,Alpine,GAS,20,13,109.883
+14,Belgium,Kick Sauber,BOT,20,14,109.95
+14,Belgium,Aston Martin,STR,20,15,110.632
+14,Belgium,Haas,HUL,20,16,114.819
+14,Belgium,Williams,SAR,20,17,111.269
+14,Belgium,Haas,MAG,20,18,109.957
+14,Belgium,Racing Bulls,TSU,20,19,109.621
+14,Belgium,Mercedes,RUS,43,1,107.301
+14,Belgium,Mercedes,HAM,43,2,107.388
+14,Belgium,McLaren,PIA,43,3,106.621
+14,Belgium,Ferrari,LEC,43,4,107.071
+14,Belgium,Red Bull,VER,43,5,107.102
+14,Belgium,McLaren,NOR,43,6,107.406
+14,Belgium,Ferrari,SAI,43,7,106.913
+14,Belgium,Red Bull,PER,43,8,123.523
+14,Belgium,Aston Martin,ALO,43,9,108.157
+14,Belgium,Alpine,OCO,43,10,106.957
+14,Belgium,Racing Bulls,RIC,43,11,107.546
+14,Belgium,Aston Martin,STR,43,12,108.195
+14,Belgium,Williams,ALB,43,13,108.279
+14,Belgium,Alpine,GAS,43,14,107.977
+14,Belgium,Haas,MAG,43,15,108.157
+14,Belgium,Kick Sauber,BOT,43,16,107.889
+14,Belgium,Racing Bulls,TSU,43,17,108.212
+14,Belgium,Williams,SAR,43,18,107.49
+14,Belgium,Haas,HUL,43,19,109.974
+14,Belgium,Mercedes,HAM,7,1,109.357
+14,Belgium,Ferrari,LEC,7,2,109.798
+14,Belgium,Red Bull,PER,7,3,109.637
+14,Belgium,McLaren,PIA,7,4,110.03
+14,Belgium,Mercedes,RUS,7,5,109.912
+14,Belgium,Ferrari,SAI,7,6,109.977
+14,Belgium,McLaren,NOR,7,7,110.072
+14,Belgium,Red Bull,VER,7,8,110.146
+14,Belgium,Aston Martin,ALO,7,9,110.778
+14,Belgium,Williams,ALB,7,10,110.906
+14,Belgium,Alpine,OCO,7,11,111.095
+14,Belgium,Alpine,GAS,7,12,111.149
+14,Belgium,Kick Sauber,BOT,7,13,111.179
+14,Belgium,Racing Bulls,RIC,7,14,111.29
+14,Belgium,Aston Martin,STR,7,15,111.234
+14,Belgium,Haas,MAG,7,16,111.277
+14,Belgium,Racing Bulls,TSU,7,17,111.179
+14,Belgium,Williams,SAR,7,18,111.662
+14,Belgium,Haas,HUL,7,19,115.52
+14,Belgium,Ferrari,SAI,18,1,109.042
+14,Belgium,Mercedes,HAM,18,2,107.91
+14,Belgium,Ferrari,LEC,18,3,107.971
+14,Belgium,McLaren,PIA,18,4,108.153
+14,Belgium,Red Bull,PER,18,5,108.554
+14,Belgium,Mercedes,RUS,18,6,108.556
+14,Belgium,Red Bull,VER,18,7,108.896
+14,Belgium,McLaren,NOR,18,8,108.143
+14,Belgium,Williams,ALB,18,9,109.892
+14,Belgium,Racing Bulls,RIC,18,10,109.973
+14,Belgium,Aston Martin,ALO,18,11,109.962
+14,Belgium,Alpine,OCO,18,12,109.48
+14,Belgium,Alpine,GAS,18,13,110.051
+14,Belgium,Haas,HUL,18,14,110.49
+14,Belgium,Kick Sauber,BOT,18,15,110.391
+14,Belgium,Aston Martin,STR,18,16,109.81
+14,Belgium,Williams,SAR,18,17,110.814
+14,Belgium,Haas,MAG,18,18,124.382
+14,Belgium,Racing Bulls,TSU,18,19,109.66
+14,Belgium,Mercedes,HAM,6,1,109.4
+14,Belgium,Ferrari,LEC,6,2,109.658
+14,Belgium,Red Bull,PER,6,3,110.129
+14,Belgium,McLaren,PIA,6,4,109.963
+14,Belgium,Mercedes,RUS,6,5,110.09
+14,Belgium,Ferrari,SAI,6,6,110.243
+14,Belgium,McLaren,NOR,6,7,110.201
+14,Belgium,Red Bull,VER,6,8,110.073
+14,Belgium,Aston Martin,ALO,6,9,110.751
+14,Belgium,Williams,ALB,6,10,111.027
+14,Belgium,Alpine,OCO,6,11,110.908
+14,Belgium,Alpine,GAS,6,12,111.092
+14,Belgium,Kick Sauber,BOT,6,13,111.097
+14,Belgium,Racing Bulls,RIC,6,14,110.96
+14,Belgium,Aston Martin,STR,6,15,110.923
+14,Belgium,Haas,HUL,6,16,111.278
+14,Belgium,Haas,MAG,6,17,111.355
+14,Belgium,Racing Bulls,TSU,6,18,111.318
+14,Belgium,Williams,SAR,6,19,111.282
+14,Belgium,McLaren,PIA,29,1,107.653
+14,Belgium,Mercedes,RUS,29,2,107.76
+14,Belgium,McLaren,NOR,29,3,111.781
+14,Belgium,Mercedes,HAM,29,4,107.429
+14,Belgium,Ferrari,LEC,29,5,107.517
+14,Belgium,Red Bull,PER,29,6,107.47
+14,Belgium,Red Bull,VER,29,7,120.489
+14,Belgium,Ferrari,SAI,29,8,121.61
+14,Belgium,Alpine,OCO,29,9,108.788
+14,Belgium,Aston Martin,ALO,29,10,109.297
+14,Belgium,Kick Sauber,BOT,29,11,109.357
+14,Belgium,Aston Martin,STR,29,12,109.122
+14,Belgium,Racing Bulls,RIC,29,13,108.513
+14,Belgium,Williams,ALB,29,14,108.41
+14,Belgium,Haas,MAG,29,15,108.846
+14,Belgium,Racing Bulls,TSU,29,16,109.252
+14,Belgium,Alpine,GAS,29,17,122.54
+14,Belgium,Haas,HUL,29,18,109.571
+14,Belgium,Williams,SAR,29,19,108.91
+14,Belgium,Ferrari,SAI,17,1,108.831
+14,Belgium,Mercedes,HAM,17,2,107.957
+14,Belgium,Ferrari,LEC,17,3,107.981
+14,Belgium,McLaren,PIA,17,4,108.473
+14,Belgium,Red Bull,PER,17,5,108.492
+14,Belgium,Mercedes,RUS,17,6,108.46
+14,Belgium,Red Bull,VER,17,7,108.431
+14,Belgium,McLaren,NOR,17,8,107.522
+14,Belgium,Williams,ALB,17,9,110.044
+14,Belgium,Racing Bulls,RIC,17,10,109.728
+14,Belgium,Aston Martin,ALO,17,11,110.031
+14,Belgium,Haas,MAG,17,12,114.556
+14,Belgium,Alpine,OCO,17,13,109.43
+14,Belgium,Alpine,GAS,17,14,109.835
+14,Belgium,Haas,HUL,17,15,110.966
+14,Belgium,Kick Sauber,BOT,17,16,110.175
+14,Belgium,Aston Martin,STR,17,17,109.711
+14,Belgium,Williams,SAR,17,18,110.827
+14,Belgium,Racing Bulls,TSU,17,19,109.415
