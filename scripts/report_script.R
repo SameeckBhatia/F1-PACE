@@ -137,3 +137,6 @@ plot_all("Great Britain", "HAM", "VER", "#012169")
 
 # Hungarian GP
 plot_all("Hungary", "NOR", "PIA", "#477050")
+
+# Belgian GP
+plot_all("Belgium", "RUS", "HAM", "#EF3340")
