@@ -84,11 +84,11 @@ plot_3 <- function(gp, color) {
          filter(grand_prix == gp, lap != 1) %>%
          outliers(col = "time") %>%
          arrange(lap) %>%
-         ggplot(aes(x = lap, y = time)) +
-         geom_smooth(color = "black", se = FALSE, span = 1 / 5,
-                     linewidth = 0.5) +
-         geom_smooth(method = "lm", se = FALSE, color = color) +
-         labs(x = "Lap", y = "Median Time (sec)"))
+         group_by(lap) %>%
+         summarise(min = min(time)) %>%
+         ggplot(aes(x = lap, y = min)) +
+         geom_smooth(color = color, span = 1 / 5, linewidth = 0.5) +
+         labs(x = "Lap", y = "Minimum Time (sec)"))
   dev.off()
 }
 
