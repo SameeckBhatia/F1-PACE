@@ -1,6 +1,8 @@
 # Uncomment the below two lines to install libraries
-# from libraries import install_libs
-# install_libs()
+# import sys
+# import subprocess
+#
+# subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
 
 # Importing required libraries
 import os
