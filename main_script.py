@@ -2,7 +2,8 @@
 # import sys
 # import subprocess
 #
-# subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+# subprocess.check_call([sys.executable, "-m", "pip", "install", "-r",
+#                        "requirements/requirements.txt"])
 
 # Importing required libraries
 import os
@@ -10,8 +11,6 @@ import threading
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-
-os.chdir("..")
 
 # Creating a data frame for the rounds, Grands Prix, and number of laps
 grand_prix_df = pd.DataFrame({
@@ -31,8 +30,8 @@ print(f"Grand prix data frame: \n----- \n{grand_prix_df.head()}")
 file_check = False
 file_rounds = set()
 
-if os.path.exists("lap_times.csv"):
-    file_rounds = set(pd.read_csv("lap_times.csv")["round"])
+if os.path.exists("data/lap_times.csv"):
+    file_rounds = set(pd.read_csv("data/lap_times.csv")["round"])
     file_check = True
 
 # Returning the rounds in round_list that are not on file
@@ -127,10 +126,10 @@ def transform_export(dataframe) -> None:
 
         # Export data frame based on CSV file existence
         if file_check:
-            new_df.to_csv("lap_times.csv", mode="a", index=False,
+            new_df.to_csv("data/lap_times.csv", mode="a", index=False,
                           header=False)
         else:
-            new_df.to_csv("lap_times.csv", index=False)
+            new_df.to_csv("data/lap_times.csv", index=False)
 
 
 if __name__ == "__main__":
