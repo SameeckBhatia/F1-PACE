@@ -15677,3 +15677,1429 @@ round,grand_prix,constructor,driver,lap,position,time
 14,Belgium,Aston Martin,STR,17,17,109.711
 14,Belgium,Williams,SAR,17,18,110.827
 14,Belgium,Racing Bulls,TSU,17,19,109.415
+15,Netherlands,McLaren,NOR,42,1,75.205
+15,Netherlands,Red Bull,VER,42,2,75.095
+15,Netherlands,Ferrari,LEC,42,3,75.213
+15,Netherlands,McLaren,PIA,42,4,74.44
+15,Netherlands,Mercedes,RUS,42,5,75.454
+15,Netherlands,Red Bull,PER,42,6,74.828
+15,Netherlands,Ferrari,SAI,42,7,74.985
+15,Netherlands,Mercedes,HAM,42,8,74.709
+15,Netherlands,Haas,HUL,42,9,76.448
+15,Netherlands,Alpine,GAS,42,10,76.021
+15,Netherlands,Aston Martin,ALO,42,11,76.349
+15,Netherlands,Williams,ALB,42,12,76.849
+15,Netherlands,Aston Martin,STR,42,13,76.716
+15,Netherlands,Racing Bulls,RIC,42,14,76.308
+15,Netherlands,Kick Sauber,BOT,42,15,78.697
+15,Netherlands,Alpine,OCO,42,16,78.371
+15,Netherlands,Williams,SAR,42,17,77.217
+15,Netherlands,Racing Bulls,TSU,42,18,76.912
+15,Netherlands,Haas,MAG,42,19,74.954
+15,Netherlands,Kick Sauber,ZHO,42,20,78.117
+15,Netherlands,McLaren,NOR,27,1,75.744
+15,Netherlands,Red Bull,VER,27,2,79.89
+15,Netherlands,McLaren,PIA,27,3,75.937
+15,Netherlands,Red Bull,PER,27,4,76.361
+15,Netherlands,Ferrari,SAI,27,5,76.594
+15,Netherlands,Alpine,GAS,27,6,76.757
+15,Netherlands,Ferrari,LEC,27,7,75.023
+15,Netherlands,Mercedes,RUS,27,8,74.532
+15,Netherlands,Aston Martin,ALO,27,9,77.174
+15,Netherlands,Aston Martin,STR,27,10,77.414
+15,Netherlands,Racing Bulls,RIC,27,11,77.109
+15,Netherlands,Haas,MAG,27,12,76.738
+15,Netherlands,Haas,HUL,27,13,76.173
+15,Netherlands,Mercedes,HAM,27,14,75.75
+15,Netherlands,Alpine,OCO,27,15,78.099
+15,Netherlands,Racing Bulls,TSU,27,16,77.173
+15,Netherlands,Williams,ALB,27,17,76.516
+15,Netherlands,Kick Sauber,BOT,27,18,76.813
+15,Netherlands,Williams,SAR,27,19,75.886
+15,Netherlands,Kick Sauber,ZHO,27,20,78.19
+15,Netherlands,McLaren,NOR,50,1,74.575
+15,Netherlands,Red Bull,VER,50,2,75.023
+15,Netherlands,Ferrari,LEC,50,3,75.411
+15,Netherlands,McLaren,PIA,50,4,75.325
+15,Netherlands,Mercedes,RUS,50,5,75.161
+15,Netherlands,Ferrari,SAI,50,6,74.962
+15,Netherlands,Red Bull,PER,50,7,75.314
+15,Netherlands,Mercedes,HAM,50,8,73.883
+15,Netherlands,Haas,HUL,50,9,75.805
+15,Netherlands,Alpine,GAS,50,10,75.643
+15,Netherlands,Aston Martin,ALO,50,11,75.268
+15,Netherlands,Aston Martin,STR,50,12,75.674
+15,Netherlands,Racing Bulls,RIC,50,13,75.709
+15,Netherlands,Williams,ALB,50,14,76.318
+15,Netherlands,Alpine,OCO,50,15,75.39
+15,Netherlands,Williams,SAR,50,16,78.22
+15,Netherlands,Racing Bulls,TSU,50,17,78.292
+15,Netherlands,Haas,MAG,50,18,75.944
+15,Netherlands,Kick Sauber,BOT,50,19,76.348
+15,Netherlands,Kick Sauber,ZHO,50,20,77.351
+15,Netherlands,McLaren,NOR,55,1,74.599
+15,Netherlands,Red Bull,VER,55,2,74.758
+15,Netherlands,Ferrari,LEC,55,3,75.615
+15,Netherlands,McLaren,PIA,55,4,75.305
+15,Netherlands,Ferrari,SAI,55,5,75.343
+15,Netherlands,Red Bull,PER,55,6,75.45
+15,Netherlands,Mercedes,RUS,55,7,93.228
+15,Netherlands,Mercedes,HAM,55,8,74.444
+15,Netherlands,Haas,HUL,55,9,76.449
+15,Netherlands,Alpine,GAS,55,10,75.256
+15,Netherlands,Aston Martin,ALO,55,11,75.242
+15,Netherlands,Aston Martin,STR,55,12,75.371
+15,Netherlands,Racing Bulls,RIC,55,13,75.419
+15,Netherlands,Alpine,OCO,55,14,75.831
+15,Netherlands,Williams,SAR,55,15,77.6
+15,Netherlands,Racing Bulls,TSU,55,16,77.796
+15,Netherlands,Haas,MAG,55,17,76.386
+15,Netherlands,Williams,ALB,55,18,94.753
+15,Netherlands,Kick Sauber,BOT,55,19,76.304
+15,Netherlands,Kick Sauber,ZHO,55,20,75.803
+15,Netherlands,McLaren,NOR,66,1,74.624
+15,Netherlands,Red Bull,VER,66,2,75.052
+15,Netherlands,Ferrari,LEC,66,3,74.882
+15,Netherlands,McLaren,PIA,66,4,74.639
+15,Netherlands,Ferrari,SAI,66,5,74.75
+15,Netherlands,Red Bull,PER,66,6,74.61
+15,Netherlands,Mercedes,RUS,66,7,74.401
+15,Netherlands,Mercedes,HAM,66,8,74.243
+15,Netherlands,Alpine,GAS,66,9,75.329
+15,Netherlands,Aston Martin,ALO,66,10,75.285
+15,Netherlands,Haas,HUL,66,11,76.114
+15,Netherlands,Aston Martin,STR,66,12,75.823
+15,Netherlands,Racing Bulls,RIC,66,13,75.481
+15,Netherlands,Alpine,OCO,66,14,75.771
+15,Netherlands,Williams,ALB,66,15,75.095
+15,Netherlands,Williams,SAR,66,16,76.468
+15,Netherlands,Racing Bulls,TSU,66,17,76.412
+15,Netherlands,Haas,MAG,66,18,76.261
+15,Netherlands,Kick Sauber,BOT,66,19,76.479
+15,Netherlands,Kick Sauber,ZHO,66,20,75.737
+15,Netherlands,McLaren,NOR,40,1,74.639
+15,Netherlands,Red Bull,VER,40,2,75.095
+15,Netherlands,Ferrari,LEC,40,3,75.379
+15,Netherlands,McLaren,PIA,40,4,74.613
+15,Netherlands,Mercedes,RUS,40,5,76.372
+15,Netherlands,Red Bull,PER,40,6,74.792
+15,Netherlands,Ferrari,SAI,40,7,74.117
+15,Netherlands,Mercedes,HAM,40,8,75.002
+15,Netherlands,Haas,HUL,40,9,76.321
+15,Netherlands,Alpine,GAS,40,10,76.394
+15,Netherlands,Williams,ALB,40,11,77.452
+15,Netherlands,Aston Martin,ALO,40,12,77.345
+15,Netherlands,Aston Martin,STR,40,13,77.511
+15,Netherlands,Racing Bulls,RIC,40,14,75.923
+15,Netherlands,Haas,MAG,40,15,83.97
+15,Netherlands,Kick Sauber,BOT,40,16,77.148
+15,Netherlands,Williams,SAR,40,17,76.907
+15,Netherlands,Alpine,OCO,40,18,76.027
+15,Netherlands,Racing Bulls,TSU,40,19,76.108
+15,Netherlands,Kick Sauber,ZHO,40,20,77.774
+15,Netherlands,McLaren,PIA,31,1,76.582
+15,Netherlands,McLaren,NOR,31,2,74.391
+15,Netherlands,Red Bull,VER,31,3,75.15
+15,Netherlands,Ferrari,LEC,31,4,75.277
+15,Netherlands,Mercedes,RUS,31,5,75.833
+15,Netherlands,Alpine,GAS,31,6,77.353
+15,Netherlands,Red Bull,PER,31,7,75.296
+15,Netherlands,Ferrari,SAI,31,8,94.918
+15,Netherlands,Aston Martin,ALO,31,9,81.976
+15,Netherlands,Mercedes,HAM,31,10,75.278
+15,Netherlands,Haas,MAG,31,11,77.191
+15,Netherlands,Haas,HUL,31,12,76.315
+15,Netherlands,Racing Bulls,TSU,31,13,76.986
+15,Netherlands,Williams,ALB,31,14,76.79
+15,Netherlands,Kick Sauber,BOT,31,15,77.164
+15,Netherlands,Aston Martin,STR,31,16,95.126
+15,Netherlands,Racing Bulls,RIC,31,17,76.288
+15,Netherlands,Williams,SAR,31,18,76.967
+15,Netherlands,Alpine,OCO,31,19,95.661
+15,Netherlands,Kick Sauber,ZHO,31,20,77.968
+15,Netherlands,McLaren,NOR,54,1,74.468
+15,Netherlands,Red Bull,VER,54,2,75.018
+15,Netherlands,Ferrari,LEC,54,3,75.075
+15,Netherlands,McLaren,PIA,54,4,75.002
+15,Netherlands,Ferrari,SAI,54,5,75.149
+15,Netherlands,Mercedes,RUS,54,6,79.082
+15,Netherlands,Red Bull,PER,54,7,75.169
+15,Netherlands,Mercedes,HAM,54,8,74.353
+15,Netherlands,Haas,HUL,54,9,76.179
+15,Netherlands,Alpine,GAS,54,10,74.855
+15,Netherlands,Aston Martin,ALO,54,11,75.039
+15,Netherlands,Aston Martin,STR,54,12,75.47
+15,Netherlands,Racing Bulls,RIC,54,13,75.374
+15,Netherlands,Williams,ALB,54,14,79.155
+15,Netherlands,Alpine,OCO,54,15,75.862
+15,Netherlands,Williams,SAR,54,16,76.617
+15,Netherlands,Racing Bulls,TSU,54,17,76.501
+15,Netherlands,Haas,MAG,54,18,77.928
+15,Netherlands,Kick Sauber,BOT,54,19,76.066
+15,Netherlands,Kick Sauber,ZHO,54,20,75.76
+15,Netherlands,McLaren,NOR,64,1,74.858
+15,Netherlands,Red Bull,VER,64,2,75.287
+15,Netherlands,Ferrari,LEC,64,3,74.974
+15,Netherlands,McLaren,PIA,64,4,74.932
+15,Netherlands,Ferrari,SAI,64,5,74.605
+15,Netherlands,Red Bull,PER,64,6,74.699
+15,Netherlands,Mercedes,RUS,64,7,74.769
+15,Netherlands,Mercedes,HAM,64,8,74.832
+15,Netherlands,Alpine,GAS,64,9,75.381
+15,Netherlands,Aston Martin,ALO,64,10,75.297
+15,Netherlands,Haas,HUL,64,11,76.32
+15,Netherlands,Aston Martin,STR,64,12,75.825
+15,Netherlands,Racing Bulls,RIC,64,13,75.553
+15,Netherlands,Alpine,OCO,64,14,75.753
+15,Netherlands,Williams,ALB,64,15,74.694
+15,Netherlands,Williams,SAR,64,16,76.434
+15,Netherlands,Racing Bulls,TSU,64,17,76.304
+15,Netherlands,Haas,MAG,64,18,76.365
+15,Netherlands,Kick Sauber,BOT,64,19,76.361
+15,Netherlands,Kick Sauber,ZHO,64,20,79.34
+15,Netherlands,McLaren,NOR,26,1,75.873
+15,Netherlands,Red Bull,VER,26,2,76.517
+15,Netherlands,McLaren,PIA,26,3,76.062
+15,Netherlands,Red Bull,PER,26,4,76.505
+15,Netherlands,Ferrari,SAI,26,5,76.32
+15,Netherlands,Alpine,GAS,26,6,76.972
+15,Netherlands,Ferrari,LEC,26,7,75.756
+15,Netherlands,Mercedes,RUS,26,8,95.811
+15,Netherlands,Aston Martin,ALO,26,9,78.012
+15,Netherlands,Aston Martin,STR,26,10,77.628
+15,Netherlands,Racing Bulls,RIC,26,11,77.182
+15,Netherlands,Haas,MAG,26,12,76.882
+15,Netherlands,Haas,HUL,26,13,76.734
+15,Netherlands,Alpine,OCO,26,14,78.166
+15,Netherlands,Mercedes,HAM,26,15,76.433
+15,Netherlands,Racing Bulls,TSU,26,16,76.816
+15,Netherlands,Williams,ALB,26,17,76.357
+15,Netherlands,Kick Sauber,BOT,26,18,76.799
+15,Netherlands,Williams,SAR,26,19,75.539
+15,Netherlands,Kick Sauber,ZHO,26,20,76.4
+15,Netherlands,Red Bull,VER,5,1,76.181
+15,Netherlands,McLaren,NOR,5,2,76.271
+15,Netherlands,Mercedes,RUS,5,3,76.562
+15,Netherlands,McLaren,PIA,5,4,76.76
+15,Netherlands,Ferrari,LEC,5,5,76.806
+15,Netherlands,Red Bull,PER,5,6,76.747
+15,Netherlands,Alpine,GAS,5,7,76.735
+15,Netherlands,Aston Martin,ALO,5,8,77.135
+15,Netherlands,Ferrari,SAI,5,9,76.962
+15,Netherlands,Aston Martin,STR,5,10,76.936
+15,Netherlands,Haas,HUL,5,11,76.757
+15,Netherlands,Mercedes,HAM,5,12,76.854
+15,Netherlands,Racing Bulls,TSU,5,13,76.551
+15,Netherlands,Kick Sauber,BOT,5,14,77.343
+15,Netherlands,Racing Bulls,RIC,5,15,77.115
+15,Netherlands,Alpine,OCO,5,16,77.327
+15,Netherlands,Williams,ALB,5,17,77.438
+15,Netherlands,Williams,SAR,5,18,77.487
+15,Netherlands,Kick Sauber,ZHO,5,19,78.166
+15,Netherlands,Haas,MAG,5,20,76.869
+15,Netherlands,McLaren,NOR,41,1,75.01
+15,Netherlands,Red Bull,VER,41,2,75.016
+15,Netherlands,Ferrari,LEC,41,3,75.091
+15,Netherlands,McLaren,PIA,41,4,74.536
+15,Netherlands,Mercedes,RUS,41,5,75.537
+15,Netherlands,Red Bull,PER,41,6,74.879
+15,Netherlands,Ferrari,SAI,41,7,74.768
+15,Netherlands,Mercedes,HAM,41,8,74.767
+15,Netherlands,Haas,HUL,41,9,76.462
+15,Netherlands,Alpine,GAS,41,10,75.858
+15,Netherlands,Aston Martin,ALO,41,11,76.67
+15,Netherlands,Williams,ALB,41,12,77.33
+15,Netherlands,Aston Martin,STR,41,13,77.001
+15,Netherlands,Racing Bulls,RIC,41,14,76.164
+15,Netherlands,Kick Sauber,BOT,41,15,77.507
+15,Netherlands,Alpine,OCO,41,16,77.121
+15,Netherlands,Williams,SAR,41,17,79.422
+15,Netherlands,Racing Bulls,TSU,41,18,77.992
+15,Netherlands,Haas,MAG,41,19,95.156
+15,Netherlands,Kick Sauber,ZHO,41,20,79.115
+15,Netherlands,Red Bull,VER,16,1,76.235
+15,Netherlands,McLaren,NOR,16,2,75.689
+15,Netherlands,Mercedes,RUS,16,3,76.257
+15,Netherlands,McLaren,PIA,16,4,76.384
+15,Netherlands,Ferrari,LEC,16,5,76.491
+15,Netherlands,Red Bull,PER,16,6,76.572
+15,Netherlands,Ferrari,SAI,16,7,76.476
+15,Netherlands,Alpine,GAS,16,8,76.975
+15,Netherlands,Mercedes,HAM,16,9,76.692
+15,Netherlands,Aston Martin,ALO,16,10,78.446
+15,Netherlands,Aston Martin,STR,16,11,77.847
+15,Netherlands,Racing Bulls,RIC,16,12,77.17
+15,Netherlands,Alpine,OCO,16,13,77.666
+15,Netherlands,Williams,SAR,16,14,77.84
+15,Netherlands,Haas,MAG,16,15,77.588
+15,Netherlands,Kick Sauber,ZHO,16,16,78.234
+15,Netherlands,Haas,HUL,16,17,75.932
+15,Netherlands,Racing Bulls,TSU,16,18,75.552
+15,Netherlands,Williams,ALB,16,19,76.007
+15,Netherlands,Kick Sauber,BOT,16,20,95.848
+15,Netherlands,McLaren,NOR,65,1,74.786
+15,Netherlands,Red Bull,VER,65,2,74.992
+15,Netherlands,Ferrari,LEC,65,3,74.881
+15,Netherlands,McLaren,PIA,65,4,75.052
+15,Netherlands,Ferrari,SAI,65,5,74.672
+15,Netherlands,Red Bull,PER,65,6,74.932
+15,Netherlands,Mercedes,RUS,65,7,74.347
+15,Netherlands,Mercedes,HAM,65,8,74.01
+15,Netherlands,Alpine,GAS,65,9,75.494
+15,Netherlands,Aston Martin,ALO,65,10,75.198
+15,Netherlands,Haas,HUL,65,11,76.254
+15,Netherlands,Aston Martin,STR,65,12,75.711
+15,Netherlands,Racing Bulls,RIC,65,13,75.536
+15,Netherlands,Alpine,OCO,65,14,75.741
+15,Netherlands,Williams,ALB,65,15,75.102
+15,Netherlands,Williams,SAR,65,16,76.418
+15,Netherlands,Racing Bulls,TSU,65,17,76.419
+15,Netherlands,Haas,MAG,65,18,76.667
+15,Netherlands,Kick Sauber,BOT,65,19,76.234
+15,Netherlands,Kick Sauber,ZHO,65,20,76.036
+15,Netherlands,McLaren,NOR,28,1,79.241
+15,Netherlands,McLaren,PIA,28,2,75.932
+15,Netherlands,Red Bull,PER,28,3,76.57
+15,Netherlands,Ferrari,SAI,28,4,76.386
+15,Netherlands,Red Bull,VER,28,5,94.574
+15,Netherlands,Ferrari,LEC,28,6,75.852
+15,Netherlands,Alpine,GAS,28,7,77.516
+15,Netherlands,Mercedes,RUS,28,8,75.748
+15,Netherlands,Aston Martin,ALO,28,9,77.217
+15,Netherlands,Aston Martin,STR,28,10,78.003
+15,Netherlands,Racing Bulls,RIC,28,11,77.9
+15,Netherlands,Haas,MAG,28,12,77.082
+15,Netherlands,Haas,HUL,28,13,76.849
+15,Netherlands,Mercedes,HAM,28,14,75.958
+15,Netherlands,Alpine,OCO,28,15,77.821
+15,Netherlands,Racing Bulls,TSU,28,16,77.353
+15,Netherlands,Williams,ALB,28,17,76.642
+15,Netherlands,Kick Sauber,BOT,28,18,77.221
+15,Netherlands,Williams,SAR,28,19,75.875
+15,Netherlands,Kick Sauber,ZHO,28,20,76.556
+15,Netherlands,Red Bull,VER,14,1,76.466
+15,Netherlands,McLaren,NOR,14,2,76.47
+15,Netherlands,Mercedes,RUS,14,3,76.312
+15,Netherlands,McLaren,PIA,14,4,76.471
+15,Netherlands,Ferrari,LEC,14,5,76.358
+15,Netherlands,Red Bull,PER,14,6,76.708
+15,Netherlands,Ferrari,SAI,14,7,76.651
+15,Netherlands,Alpine,GAS,14,8,76.929
+15,Netherlands,Aston Martin,ALO,14,9,77.27
+15,Netherlands,Mercedes,HAM,14,10,76.619
+15,Netherlands,Aston Martin,STR,14,11,78.37
+15,Netherlands,Haas,HUL,14,12,81.339
+15,Netherlands,Racing Bulls,TSU,14,13,81.182
+15,Netherlands,Kick Sauber,BOT,14,14,78.092
+15,Netherlands,Racing Bulls,RIC,14,15,77.699
+15,Netherlands,Alpine,OCO,14,16,77.735
+15,Netherlands,Williams,SAR,14,17,77.542
+15,Netherlands,Haas,MAG,14,18,77.22
+15,Netherlands,Kick Sauber,ZHO,14,19,78.456
+15,Netherlands,Williams,ALB,14,20,76.267
+15,Netherlands,McLaren,NOR,39,1,74.707
+15,Netherlands,Red Bull,VER,39,2,75.138
+15,Netherlands,Ferrari,LEC,39,3,75.237
+15,Netherlands,Mercedes,RUS,39,4,75.294
+15,Netherlands,McLaren,PIA,39,5,74.43
+15,Netherlands,Red Bull,PER,39,6,74.949
+15,Netherlands,Ferrari,SAI,39,7,74.943
+15,Netherlands,Mercedes,HAM,39,8,75.096
+15,Netherlands,Haas,HUL,39,9,76.284
+15,Netherlands,Williams,ALB,39,10,80.078
+15,Netherlands,Alpine,GAS,39,11,78.161
+15,Netherlands,Aston Martin,ALO,39,12,76.357
+15,Netherlands,Haas,MAG,39,13,80.604
+15,Netherlands,Aston Martin,STR,39,14,76.245
+15,Netherlands,Racing Bulls,RIC,39,15,75.986
+15,Netherlands,Kick Sauber,BOT,39,16,77.256
+15,Netherlands,Williams,SAR,39,17,76.983
+15,Netherlands,Alpine,OCO,39,18,75.78
+15,Netherlands,Racing Bulls,TSU,39,19,75.998
+15,Netherlands,Kick Sauber,ZHO,39,20,78.968
+15,Netherlands,Red Bull,VER,2,1,76.106
+15,Netherlands,McLaren,NOR,2,2,76.134
+15,Netherlands,Mercedes,RUS,2,3,76.389
+15,Netherlands,McLaren,PIA,2,4,76.24
+15,Netherlands,Ferrari,LEC,2,5,76.695
+15,Netherlands,Red Bull,PER,2,6,76.479
+15,Netherlands,Alpine,GAS,2,7,76.896
+15,Netherlands,Aston Martin,ALO,2,8,77.392
+15,Netherlands,Ferrari,SAI,2,9,77.277
+15,Netherlands,Aston Martin,STR,2,10,77.513
+15,Netherlands,Haas,HUL,2,11,77.461
+15,Netherlands,Mercedes,HAM,2,12,77.761
+15,Netherlands,Racing Bulls,TSU,2,13,78.781
+15,Netherlands,Kick Sauber,BOT,2,14,78.403
+15,Netherlands,Racing Bulls,RIC,2,15,79.111
+15,Netherlands,Alpine,OCO,2,16,79.229
+15,Netherlands,Williams,ALB,2,17,79.114
+15,Netherlands,Williams,SAR,2,18,79.031
+15,Netherlands,Haas,MAG,2,19,77.487
+15,Netherlands,Kick Sauber,ZHO,2,20,79.338
+15,Netherlands,Red Bull,VER,7,1,76.281
+15,Netherlands,McLaren,NOR,7,2,76.395
+15,Netherlands,Mercedes,RUS,7,3,76.596
+15,Netherlands,McLaren,PIA,7,4,76.954
+15,Netherlands,Ferrari,LEC,7,5,76.637
+15,Netherlands,Red Bull,PER,7,6,76.862
+15,Netherlands,Alpine,GAS,7,7,76.913
+15,Netherlands,Aston Martin,ALO,7,8,77.167
+15,Netherlands,Ferrari,SAI,7,9,76.848
+15,Netherlands,Aston Martin,STR,7,10,77.353
+15,Netherlands,Haas,HUL,7,11,77.039
+15,Netherlands,Mercedes,HAM,7,12,77.063
+15,Netherlands,Racing Bulls,TSU,7,13,77.267
+15,Netherlands,Kick Sauber,BOT,7,14,77.439
+15,Netherlands,Racing Bulls,RIC,7,15,77.447
+15,Netherlands,Alpine,OCO,7,16,77.104
+15,Netherlands,Williams,ALB,7,17,77.558
+15,Netherlands,Williams,SAR,7,18,77.898
+15,Netherlands,Kick Sauber,ZHO,7,19,78.332
+15,Netherlands,Haas,MAG,7,20,78.058
+15,Netherlands,McLaren,NOR,52,1,74.687
+15,Netherlands,Red Bull,VER,52,2,75.232
+15,Netherlands,Ferrari,LEC,52,3,74.646
+15,Netherlands,McLaren,PIA,52,4,75.116
+15,Netherlands,Mercedes,RUS,52,5,75.344
+15,Netherlands,Ferrari,SAI,52,6,74.831
+15,Netherlands,Red Bull,PER,52,7,75.046
+15,Netherlands,Mercedes,HAM,52,8,74.047
+15,Netherlands,Haas,HUL,52,9,75.856
+15,Netherlands,Alpine,GAS,52,10,75.196
+15,Netherlands,Aston Martin,ALO,52,11,75.151
+15,Netherlands,Aston Martin,STR,52,12,77.472
+15,Netherlands,Racing Bulls,RIC,52,13,75.222
+15,Netherlands,Williams,ALB,52,14,76.044
+15,Netherlands,Alpine,OCO,52,15,75.907
+15,Netherlands,Williams,SAR,52,16,76.399
+15,Netherlands,Racing Bulls,TSU,52,17,76.358
+15,Netherlands,Haas,MAG,52,18,76.419
+15,Netherlands,Kick Sauber,BOT,52,19,76.43
+15,Netherlands,Kick Sauber,ZHO,52,20,99.404
+15,Netherlands,McLaren,NOR,51,1,74.832
+15,Netherlands,Red Bull,VER,51,2,75.139
+15,Netherlands,Ferrari,LEC,51,3,75.017
+15,Netherlands,McLaren,PIA,51,4,75.165
+15,Netherlands,Mercedes,RUS,51,5,75.263
+15,Netherlands,Ferrari,SAI,51,6,74.972
+15,Netherlands,Red Bull,PER,51,7,75.12
+15,Netherlands,Mercedes,HAM,51,8,74.047
+15,Netherlands,Haas,HUL,51,9,75.705
+15,Netherlands,Alpine,GAS,51,10,75.483
+15,Netherlands,Aston Martin,ALO,51,11,75.014
+15,Netherlands,Aston Martin,STR,51,12,75.255
+15,Netherlands,Racing Bulls,RIC,51,13,75.309
+15,Netherlands,Williams,ALB,51,14,75.903
+15,Netherlands,Alpine,OCO,51,15,77.756
+15,Netherlands,Williams,SAR,51,16,76.258
+15,Netherlands,Racing Bulls,TSU,51,17,76.183
+15,Netherlands,Haas,MAG,51,18,76.33
+15,Netherlands,Kick Sauber,BOT,51,19,76.453
+15,Netherlands,Kick Sauber,ZHO,51,20,80.809
+15,Netherlands,McLaren,PIA,30,1,76.089
+15,Netherlands,McLaren,NOR,30,2,74.571
+15,Netherlands,Ferrari,SAI,30,3,79.673
+15,Netherlands,Red Bull,VER,30,4,74.752
+15,Netherlands,Ferrari,LEC,30,5,75.248
+15,Netherlands,Mercedes,RUS,30,6,75.663
+15,Netherlands,Alpine,GAS,30,7,77.752
+15,Netherlands,Aston Martin,ALO,30,8,77.251
+15,Netherlands,Red Bull,PER,30,9,96.537
+15,Netherlands,Mercedes,HAM,30,10,75.435
+15,Netherlands,Aston Martin,STR,30,11,80.575
+15,Netherlands,Haas,MAG,30,12,77.662
+15,Netherlands,Haas,HUL,30,13,76.739
+15,Netherlands,Racing Bulls,TSU,30,14,77.414
+15,Netherlands,Williams,ALB,30,15,77.169
+15,Netherlands,Alpine,OCO,30,16,81.104
+15,Netherlands,Kick Sauber,BOT,30,17,77.034
+15,Netherlands,Racing Bulls,RIC,30,18,95.924
+15,Netherlands,Williams,SAR,30,19,76.931
+15,Netherlands,Kick Sauber,ZHO,30,20,76.863
+15,Netherlands,Red Bull,VER,15,1,76.222
+15,Netherlands,McLaren,NOR,15,2,76.227
+15,Netherlands,Mercedes,RUS,15,3,76.336
+15,Netherlands,McLaren,PIA,15,4,76.382
+15,Netherlands,Ferrari,LEC,15,5,76.37
+15,Netherlands,Red Bull,PER,15,6,76.581
+15,Netherlands,Ferrari,SAI,15,7,76.347
+15,Netherlands,Alpine,GAS,15,8,77.12
+15,Netherlands,Aston Martin,ALO,15,9,77.287
+15,Netherlands,Mercedes,HAM,15,10,76.686
+15,Netherlands,Aston Martin,STR,15,11,77.533
+15,Netherlands,Racing Bulls,RIC,15,12,77.444
+15,Netherlands,Alpine,OCO,15,13,78.856
+15,Netherlands,Williams,SAR,15,14,77.534
+15,Netherlands,Haas,MAG,15,15,77.559
+15,Netherlands,Kick Sauber,BOT,15,16,82.849
+15,Netherlands,Kick Sauber,ZHO,15,17,77.953
+15,Netherlands,Haas,HUL,15,18,95.205
+15,Netherlands,Racing Bulls,TSU,15,19,95.861
+15,Netherlands,Williams,ALB,15,20,75.52
+15,Netherlands,McLaren,NOR,38,1,74.557
+15,Netherlands,Red Bull,VER,38,2,75.045
+15,Netherlands,Ferrari,LEC,38,3,74.796
+15,Netherlands,Mercedes,RUS,38,4,75.548
+15,Netherlands,McLaren,PIA,38,5,74.491
+15,Netherlands,Red Bull,PER,38,6,75.102
+15,Netherlands,Ferrari,SAI,38,7,74.719
+15,Netherlands,Mercedes,HAM,38,8,74.895
+15,Netherlands,Haas,HUL,38,9,76.73
+15,Netherlands,Haas,MAG,38,10,77.434
+15,Netherlands,Williams,ALB,38,11,76.45
+15,Netherlands,Alpine,GAS,38,12,75.926
+15,Netherlands,Aston Martin,ALO,38,13,76.138
+15,Netherlands,Aston Martin,STR,38,14,76.322
+15,Netherlands,Racing Bulls,RIC,38,15,76.164
+15,Netherlands,Kick Sauber,BOT,38,16,77.492
+15,Netherlands,Williams,SAR,38,17,76.979
+15,Netherlands,Alpine,OCO,38,18,75.902
+15,Netherlands,Racing Bulls,TSU,38,19,76.033
+15,Netherlands,Kick Sauber,ZHO,38,20,77.784
+15,Netherlands,McLaren,NOR,62,1,75.008
+15,Netherlands,Red Bull,VER,62,2,74.941
+15,Netherlands,Ferrari,LEC,62,3,74.585
+15,Netherlands,McLaren,PIA,62,4,74.832
+15,Netherlands,Ferrari,SAI,62,5,75.078
+15,Netherlands,Red Bull,PER,62,6,75.034
+15,Netherlands,Mercedes,RUS,62,7,74.717
+15,Netherlands,Mercedes,HAM,62,8,73.878
+15,Netherlands,Alpine,GAS,62,9,75.24
+15,Netherlands,Haas,HUL,62,10,76.295
+15,Netherlands,Aston Martin,ALO,62,11,75.984
+15,Netherlands,Aston Martin,STR,62,12,75.483
+15,Netherlands,Racing Bulls,RIC,62,13,75.444
+15,Netherlands,Alpine,OCO,62,14,75.998
+15,Netherlands,Williams,ALB,62,15,74.847
+15,Netherlands,Williams,SAR,62,16,77.22
+15,Netherlands,Racing Bulls,TSU,62,17,77.773
+15,Netherlands,Haas,MAG,62,18,78.763
+15,Netherlands,Kick Sauber,BOT,62,19,76.595
+15,Netherlands,Kick Sauber,ZHO,62,20,76.256
+15,Netherlands,McLaren,PIA,29,1,76.067
+15,Netherlands,Ferrari,SAI,29,2,76.566
+15,Netherlands,Red Bull,PER,29,3,80.183
+15,Netherlands,McLaren,NOR,29,4,95.15
+15,Netherlands,Red Bull,VER,29,5,75.041
+15,Netherlands,Ferrari,LEC,29,6,75.562
+15,Netherlands,Mercedes,RUS,29,7,77.452
+15,Netherlands,Alpine,GAS,29,8,79.144
+15,Netherlands,Aston Martin,ALO,29,9,77.457
+15,Netherlands,Aston Martin,STR,29,10,77.959
+15,Netherlands,Haas,MAG,29,11,77.536
+15,Netherlands,Mercedes,HAM,29,12,75.457
+15,Netherlands,Haas,HUL,29,13,77.546
+15,Netherlands,Racing Bulls,RIC,29,14,81.621
+15,Netherlands,Alpine,OCO,29,15,77.681
+15,Netherlands,Racing Bulls,TSU,29,16,76.856
+15,Netherlands,Williams,ALB,29,17,77.328
+15,Netherlands,Kick Sauber,BOT,29,18,77.253
+15,Netherlands,Williams,SAR,29,19,76.039
+15,Netherlands,Kick Sauber,ZHO,29,20,77.148
+15,Netherlands,McLaren,NOR,43,1,74.791
+15,Netherlands,Red Bull,VER,43,2,75.299
+15,Netherlands,Ferrari,LEC,43,3,75.376
+15,Netherlands,McLaren,PIA,43,4,74.677
+15,Netherlands,Mercedes,RUS,43,5,75.603
+15,Netherlands,Red Bull,PER,43,6,74.93
+15,Netherlands,Ferrari,SAI,43,7,74.671
+15,Netherlands,Mercedes,HAM,43,8,74.723
+15,Netherlands,Haas,HUL,43,9,75.896
+15,Netherlands,Alpine,GAS,43,10,75.978
+15,Netherlands,Aston Martin,ALO,43,11,75.865
+15,Netherlands,Aston Martin,STR,43,12,76.479
+15,Netherlands,Williams,ALB,43,13,77.775
+15,Netherlands,Racing Bulls,RIC,43,14,76.344
+15,Netherlands,Alpine,OCO,43,15,76.151
+15,Netherlands,Williams,SAR,43,16,77.512
+15,Netherlands,Racing Bulls,TSU,43,17,77.554
+15,Netherlands,Kick Sauber,BOT,43,18,80.969
+15,Netherlands,Haas,MAG,43,19,75.403
+15,Netherlands,Kick Sauber,ZHO,43,20,81.195
+15,Netherlands,Red Bull,VER,4,1,76.432
+15,Netherlands,McLaren,NOR,4,2,76.304
+15,Netherlands,Mercedes,RUS,4,3,76.633
+15,Netherlands,McLaren,PIA,4,4,76.678
+15,Netherlands,Ferrari,LEC,4,5,76.131
+15,Netherlands,Red Bull,PER,4,6,76.566
+15,Netherlands,Alpine,GAS,4,7,76.934
+15,Netherlands,Aston Martin,ALO,4,8,76.661
+15,Netherlands,Ferrari,SAI,4,9,76.823
+15,Netherlands,Aston Martin,STR,4,10,76.778
+15,Netherlands,Haas,HUL,4,11,77.04
+15,Netherlands,Mercedes,HAM,4,12,76.974
+15,Netherlands,Racing Bulls,TSU,4,13,76.957
+15,Netherlands,Kick Sauber,BOT,4,14,77.218
+15,Netherlands,Racing Bulls,RIC,4,15,77.402
+15,Netherlands,Alpine,OCO,4,16,77.671
+15,Netherlands,Williams,ALB,4,17,77.747
+15,Netherlands,Williams,SAR,4,18,77.936
+15,Netherlands,Kick Sauber,ZHO,4,19,78.108
+15,Netherlands,Haas,MAG,4,20,76.363
+15,Netherlands,McLaren,NOR,67,1,74.688
+15,Netherlands,Red Bull,VER,67,2,75.251
+15,Netherlands,Ferrari,LEC,67,3,74.771
+15,Netherlands,McLaren,PIA,67,4,74.975
+15,Netherlands,Ferrari,SAI,67,5,75.098
+15,Netherlands,Red Bull,PER,67,6,74.849
+15,Netherlands,Mercedes,RUS,67,7,74.287
+15,Netherlands,Mercedes,HAM,67,8,74.406
+15,Netherlands,Alpine,GAS,67,9,75.067
+15,Netherlands,Aston Martin,ALO,67,10,75.65
+15,Netherlands,Haas,HUL,67,11,75.918
+15,Netherlands,Aston Martin,STR,67,12,75.934
+15,Netherlands,Racing Bulls,RIC,67,13,75.449
+15,Netherlands,Alpine,OCO,67,14,77.406
+15,Netherlands,Williams,ALB,67,15,74.999
+15,Netherlands,Williams,SAR,67,16,76.162
+15,Netherlands,Racing Bulls,TSU,67,17,76.336
+15,Netherlands,Haas,MAG,67,18,76.323
+15,Netherlands,Kick Sauber,BOT,67,19,76.389
+15,Netherlands,Kick Sauber,ZHO,67,20,75.724
+15,Netherlands,McLaren,NOR,53,1,74.738
+15,Netherlands,Red Bull,VER,53,2,74.822
+15,Netherlands,Ferrari,LEC,53,3,74.974
+15,Netherlands,McLaren,PIA,53,4,75.34
+15,Netherlands,Mercedes,RUS,53,5,75.441
+15,Netherlands,Ferrari,SAI,53,6,74.848
+15,Netherlands,Red Bull,PER,53,7,75.266
+15,Netherlands,Mercedes,HAM,53,8,74.263
+15,Netherlands,Haas,HUL,53,9,75.733
+15,Netherlands,Alpine,GAS,53,10,74.987
+15,Netherlands,Aston Martin,ALO,53,11,75.048
+15,Netherlands,Aston Martin,STR,53,12,75.44
+15,Netherlands,Racing Bulls,RIC,53,13,75.633
+15,Netherlands,Williams,ALB,53,14,76.491
+15,Netherlands,Alpine,OCO,53,15,75.948
+15,Netherlands,Williams,SAR,53,16,76.279
+15,Netherlands,Racing Bulls,TSU,53,17,76.479
+15,Netherlands,Haas,MAG,53,18,76.3
+15,Netherlands,Kick Sauber,BOT,53,19,76.357
+15,Netherlands,Kick Sauber,ZHO,53,20,75.913
+15,Netherlands,Red Bull,VER,17,1,76.304
+15,Netherlands,McLaren,NOR,17,2,76.085
+15,Netherlands,Mercedes,RUS,17,3,76.265
+15,Netherlands,McLaren,PIA,17,4,76.348
+15,Netherlands,Ferrari,LEC,17,5,76.369
+15,Netherlands,Red Bull,PER,17,6,76.467
+15,Netherlands,Ferrari,SAI,17,7,76.38
+15,Netherlands,Alpine,GAS,17,8,77.261
+15,Netherlands,Mercedes,HAM,17,9,76.851
+15,Netherlands,Aston Martin,ALO,17,10,77.508
+15,Netherlands,Aston Martin,STR,17,11,77.47
+15,Netherlands,Racing Bulls,RIC,17,12,77.489
+15,Netherlands,Alpine,OCO,17,13,77.836
+15,Netherlands,Haas,MAG,17,14,77.967
+15,Netherlands,Williams,SAR,17,15,79.184
+15,Netherlands,Kick Sauber,ZHO,17,16,78.194
+15,Netherlands,Haas,HUL,17,17,76.203
+15,Netherlands,Racing Bulls,TSU,17,18,75.73
+15,Netherlands,Williams,ALB,17,19,76.622
+15,Netherlands,Kick Sauber,BOT,17,20,76.073
+15,Netherlands,Red Bull,VER,6,1,76.155
+15,Netherlands,McLaren,NOR,6,2,76.225
+15,Netherlands,Mercedes,RUS,6,3,76.448
+15,Netherlands,McLaren,PIA,6,4,76.528
+15,Netherlands,Ferrari,LEC,6,5,76.565
+15,Netherlands,Red Bull,PER,6,6,76.386
+15,Netherlands,Alpine,GAS,6,7,76.551
+15,Netherlands,Aston Martin,ALO,6,8,76.7
+15,Netherlands,Ferrari,SAI,6,9,76.576
+15,Netherlands,Aston Martin,STR,6,10,76.887
+15,Netherlands,Haas,HUL,6,11,76.731
+15,Netherlands,Mercedes,HAM,6,12,76.594
+15,Netherlands,Racing Bulls,TSU,6,13,77.22
+15,Netherlands,Kick Sauber,BOT,6,14,76.882
+15,Netherlands,Racing Bulls,RIC,6,15,77.076
+15,Netherlands,Alpine,OCO,6,16,77.467
+15,Netherlands,Williams,ALB,6,17,76.959
+15,Netherlands,Williams,SAR,6,18,77.66
+15,Netherlands,Kick Sauber,ZHO,6,19,77.981
+15,Netherlands,Haas,MAG,6,20,76.918
+15,Netherlands,McLaren,NOR,63,1,74.31
+15,Netherlands,Red Bull,VER,63,2,75.088
+15,Netherlands,Ferrari,LEC,63,3,75.153
+15,Netherlands,McLaren,PIA,63,4,74.965
+15,Netherlands,Ferrari,SAI,63,5,74.817
+15,Netherlands,Red Bull,PER,63,6,75.081
+15,Netherlands,Mercedes,RUS,63,7,75.431
+15,Netherlands,Mercedes,HAM,63,8,74.422
+15,Netherlands,Alpine,GAS,63,9,75.351
+15,Netherlands,Aston Martin,ALO,63,10,75.653
+15,Netherlands,Haas,HUL,63,11,77.307
+15,Netherlands,Aston Martin,STR,63,12,75.692
+15,Netherlands,Racing Bulls,RIC,63,13,75.413
+15,Netherlands,Alpine,OCO,63,14,75.618
+15,Netherlands,Williams,ALB,63,15,75.283
+15,Netherlands,Williams,SAR,63,16,77.827
+15,Netherlands,Racing Bulls,TSU,63,17,77.575
+15,Netherlands,Haas,MAG,63,18,76.399
+15,Netherlands,Kick Sauber,BOT,63,19,76.373
+15,Netherlands,Kick Sauber,ZHO,63,20,75.871
+15,Netherlands,McLaren,NOR,18,1,76.066
+15,Netherlands,Red Bull,VER,18,2,76.901
+15,Netherlands,Mercedes,RUS,18,3,76.582
+15,Netherlands,McLaren,PIA,18,4,76.493
+15,Netherlands,Ferrari,LEC,18,5,76.417
+15,Netherlands,Red Bull,PER,18,6,76.731
+15,Netherlands,Ferrari,SAI,18,7,76.174
+15,Netherlands,Alpine,GAS,18,8,77.076
+15,Netherlands,Mercedes,HAM,18,9,76.621
+15,Netherlands,Aston Martin,ALO,18,10,77.478
+15,Netherlands,Aston Martin,STR,18,11,77.28
+15,Netherlands,Racing Bulls,RIC,18,12,77.301
+15,Netherlands,Alpine,OCO,18,13,77.648
+15,Netherlands,Haas,MAG,18,14,77.549
+15,Netherlands,Williams,SAR,18,15,78.011
+15,Netherlands,Haas,HUL,18,16,76.066
+15,Netherlands,Racing Bulls,TSU,18,17,76.262
+15,Netherlands,Williams,ALB,18,18,76.601
+15,Netherlands,Kick Sauber,ZHO,18,19,81.758
+15,Netherlands,Kick Sauber,BOT,18,20,76.399
+15,Netherlands,Red Bull,VER,3,1,76.131
+15,Netherlands,McLaren,NOR,3,2,76.496
+15,Netherlands,Mercedes,RUS,3,3,76.532
+15,Netherlands,McLaren,PIA,3,4,76.264
+15,Netherlands,Ferrari,LEC,3,5,76.475
+15,Netherlands,Red Bull,PER,3,6,76.421
+15,Netherlands,Alpine,GAS,3,7,76.914
+15,Netherlands,Aston Martin,ALO,3,8,76.865
+15,Netherlands,Ferrari,SAI,3,9,76.875
+15,Netherlands,Aston Martin,STR,3,10,77.178
+15,Netherlands,Haas,HUL,3,11,77.247
+15,Netherlands,Mercedes,HAM,3,12,76.489
+15,Netherlands,Racing Bulls,TSU,3,13,77.209
+15,Netherlands,Kick Sauber,BOT,3,14,78.388
+15,Netherlands,Racing Bulls,RIC,3,15,77.667
+15,Netherlands,Alpine,OCO,3,16,77.768
+15,Netherlands,Williams,ALB,3,17,78.072
+15,Netherlands,Williams,SAR,3,18,78.339
+15,Netherlands,Kick Sauber,ZHO,3,19,78.203
+15,Netherlands,Haas,MAG,3,20,83.466
+15,Netherlands,McLaren,NOR,19,1,75.899
+15,Netherlands,Red Bull,VER,19,2,75.946
+15,Netherlands,Mercedes,RUS,19,3,76.572
+15,Netherlands,McLaren,PIA,19,4,76.515
+15,Netherlands,Ferrari,LEC,19,5,76.518
+15,Netherlands,Red Bull,PER,19,6,76.623
+15,Netherlands,Ferrari,SAI,19,7,76.647
+15,Netherlands,Alpine,GAS,19,8,77.034
+15,Netherlands,Mercedes,HAM,19,9,76.743
+15,Netherlands,Aston Martin,ALO,19,10,77.336
+15,Netherlands,Aston Martin,STR,19,11,77.608
+15,Netherlands,Racing Bulls,RIC,19,12,77.117
+15,Netherlands,Alpine,OCO,19,13,77.705
+15,Netherlands,Haas,MAG,19,14,77.358
+15,Netherlands,Williams,SAR,19,15,78.035
+15,Netherlands,Haas,HUL,19,16,75.867
+15,Netherlands,Racing Bulls,TSU,19,17,76.291
+15,Netherlands,Williams,ALB,19,18,77.533
+15,Netherlands,Kick Sauber,BOT,19,19,76.582
+15,Netherlands,Kick Sauber,ZHO,19,20,97.604
+15,Netherlands,McLaren,NOR,72,1,73.817
+15,Netherlands,Red Bull,VER,72,2,75.889
+15,Netherlands,Ferrari,LEC,72,3,74.765
+15,Netherlands,McLaren,PIA,72,4,75.092
+15,Netherlands,Ferrari,SAI,72,5,74.631
+15,Netherlands,Red Bull,PER,72,6,74.956
+15,Netherlands,Mercedes,RUS,72,7,74.459
+15,Netherlands,Mercedes,HAM,72,8,75.688
+15,Netherlands,McLaren,NOR,24,1,75.692
+15,Netherlands,Red Bull,VER,24,2,76.33
+15,Netherlands,Mercedes,RUS,24,3,76.961
+15,Netherlands,McLaren,PIA,24,4,76.798
+15,Netherlands,Ferrari,LEC,24,5,79.947
+15,Netherlands,Red Bull,PER,24,6,77.07
+15,Netherlands,Ferrari,SAI,24,7,76.734
+15,Netherlands,Alpine,GAS,24,8,76.916
+15,Netherlands,Aston Martin,ALO,24,9,77.006
+15,Netherlands,Aston Martin,STR,24,10,77.479
+15,Netherlands,Racing Bulls,RIC,24,11,77.229
+15,Netherlands,Haas,MAG,24,12,76.991
+15,Netherlands,Alpine,OCO,24,13,77.498
+15,Netherlands,Haas,HUL,24,14,76.652
+15,Netherlands,Racing Bulls,TSU,24,15,76.774
+15,Netherlands,Mercedes,HAM,24,16,94.272
+15,Netherlands,Williams,ALB,24,17,76.317
+15,Netherlands,Kick Sauber,BOT,24,18,76.594
+15,Netherlands,Williams,SAR,24,19,75.714
+15,Netherlands,Kick Sauber,ZHO,24,20,76.443
+15,Netherlands,McLaren,NOR,49,1,74.911
+15,Netherlands,Red Bull,VER,49,2,75.129
+15,Netherlands,Ferrari,LEC,49,3,75.287
+15,Netherlands,McLaren,PIA,49,4,75.414
+15,Netherlands,Mercedes,RUS,49,5,75.096
+15,Netherlands,Ferrari,SAI,49,6,75.023
+15,Netherlands,Red Bull,PER,49,7,75.492
+15,Netherlands,Mercedes,HAM,49,8,93.612
+15,Netherlands,Haas,HUL,49,9,76.053
+15,Netherlands,Alpine,GAS,49,10,75.606
+15,Netherlands,Aston Martin,ALO,49,11,75.647
+15,Netherlands,Aston Martin,STR,49,12,75.644
+15,Netherlands,Racing Bulls,RIC,49,13,75.913
+15,Netherlands,Williams,ALB,49,14,76.373
+15,Netherlands,Alpine,OCO,49,15,76.257
+15,Netherlands,Williams,SAR,49,16,76.163
+15,Netherlands,Racing Bulls,TSU,49,17,76.13
+15,Netherlands,Haas,MAG,49,18,78.402
+15,Netherlands,Kick Sauber,BOT,49,19,76.626
+15,Netherlands,Kick Sauber,ZHO,49,20,77.065
+15,Netherlands,McLaren,NOR,57,1,74.867
+15,Netherlands,Red Bull,VER,57,2,75.013
+15,Netherlands,Ferrari,LEC,57,3,74.974
+15,Netherlands,McLaren,PIA,57,4,75.088
+15,Netherlands,Ferrari,SAI,57,5,74.652
+15,Netherlands,Red Bull,PER,57,6,75.714
+15,Netherlands,Mercedes,RUS,57,7,73.927
+15,Netherlands,Mercedes,HAM,57,8,74.35
+15,Netherlands,Haas,HUL,57,9,76.261
+15,Netherlands,Alpine,GAS,57,10,75.147
+15,Netherlands,Aston Martin,ALO,57,11,76.238
+15,Netherlands,Aston Martin,STR,57,12,75.931
+15,Netherlands,Racing Bulls,RIC,57,13,75.692
+15,Netherlands,Alpine,OCO,57,14,79.487
+15,Netherlands,Williams,SAR,57,15,76.486
+15,Netherlands,Racing Bulls,TSU,57,16,77.84
+15,Netherlands,Williams,ALB,57,17,75.897
+15,Netherlands,Haas,MAG,57,18,76.902
+15,Netherlands,Kick Sauber,BOT,57,19,78.463
+15,Netherlands,Kick Sauber,ZHO,57,20,76.42
+15,Netherlands,Red Bull,VER,13,1,76.338
+15,Netherlands,McLaren,NOR,13,2,76.242
+15,Netherlands,Mercedes,RUS,13,3,76.646
+15,Netherlands,McLaren,PIA,13,4,76.514
+15,Netherlands,Ferrari,LEC,13,5,76.631
+15,Netherlands,Red Bull,PER,13,6,76.599
+15,Netherlands,Ferrari,SAI,13,7,76.524
+15,Netherlands,Alpine,GAS,13,8,76.961
+15,Netherlands,Aston Martin,ALO,13,9,77.112
+15,Netherlands,Aston Martin,STR,13,10,77.837
+15,Netherlands,Mercedes,HAM,13,11,77.382
+15,Netherlands,Haas,HUL,13,12,77.704
+15,Netherlands,Racing Bulls,TSU,13,13,77.809
+15,Netherlands,Kick Sauber,BOT,13,14,78.003
+15,Netherlands,Racing Bulls,RIC,13,15,78.112
+15,Netherlands,Alpine,OCO,13,16,77.926
+15,Netherlands,Williams,SAR,13,17,77.448
+15,Netherlands,Haas,MAG,13,18,76.902
+15,Netherlands,Kick Sauber,ZHO,13,19,77.83
+15,Netherlands,Williams,ALB,13,20,95.384
+15,Netherlands,McLaren,NOR,23,1,75.784
+15,Netherlands,Red Bull,VER,23,2,76.586
+15,Netherlands,Mercedes,RUS,23,3,76.755
+15,Netherlands,McLaren,PIA,23,4,76.723
+15,Netherlands,Ferrari,LEC,23,5,76.728
+15,Netherlands,Red Bull,PER,23,6,77.003
+15,Netherlands,Ferrari,SAI,23,7,76.667
+15,Netherlands,Alpine,GAS,23,8,77.09
+15,Netherlands,Mercedes,HAM,23,9,80.674
+15,Netherlands,Aston Martin,ALO,23,10,77.83
+15,Netherlands,Aston Martin,STR,23,11,77.302
+15,Netherlands,Racing Bulls,RIC,23,12,77.412
+15,Netherlands,Haas,MAG,23,13,76.944
+15,Netherlands,Alpine,OCO,23,14,77.875
+15,Netherlands,Haas,HUL,23,15,76.658
+15,Netherlands,Racing Bulls,TSU,23,16,76.889
+15,Netherlands,Williams,ALB,23,17,76.176
+15,Netherlands,Kick Sauber,BOT,23,18,76.681
+15,Netherlands,Williams,SAR,23,19,96.337
+15,Netherlands,Kick Sauber,ZHO,23,20,77.295
+15,Netherlands,McLaren,NOR,58,1,75.098
+15,Netherlands,Red Bull,VER,58,2,75.355
+15,Netherlands,Ferrari,LEC,58,3,75.48
+15,Netherlands,McLaren,PIA,58,4,75.072
+15,Netherlands,Ferrari,SAI,58,5,74.507
+15,Netherlands,Red Bull,PER,58,6,76.198
+15,Netherlands,Mercedes,RUS,58,7,74.129
+15,Netherlands,Mercedes,HAM,58,8,74.477
+15,Netherlands,Haas,HUL,58,9,76.107
+15,Netherlands,Alpine,GAS,58,10,75.794
+15,Netherlands,Aston Martin,ALO,58,11,77.097
+15,Netherlands,Aston Martin,STR,58,12,75.749
+15,Netherlands,Racing Bulls,RIC,58,13,75.487
+15,Netherlands,Alpine,OCO,58,14,75.936
+15,Netherlands,Williams,ALB,58,15,76.04
+15,Netherlands,Williams,SAR,58,16,78.672
+15,Netherlands,Racing Bulls,TSU,58,17,76.913
+15,Netherlands,Haas,MAG,58,18,76.562
+15,Netherlands,Kick Sauber,BOT,58,19,76.069
+15,Netherlands,Kick Sauber,ZHO,58,20,76.413
+15,Netherlands,McLaren,NOR,33,1,74.489
+15,Netherlands,McLaren,PIA,33,2,79.492
+15,Netherlands,Red Bull,VER,33,3,74.937
+15,Netherlands,Ferrari,LEC,33,4,75.033
+15,Netherlands,Mercedes,RUS,33,5,75.566
+15,Netherlands,Red Bull,PER,33,6,74.673
+15,Netherlands,Ferrari,SAI,33,7,75.228
+15,Netherlands,Mercedes,HAM,33,8,75.053
+15,Netherlands,Haas,HUL,33,9,76.593
+15,Netherlands,Haas,MAG,33,10,77.676
+15,Netherlands,Williams,ALB,33,11,76.386
+15,Netherlands,Alpine,GAS,33,12,97.706
+15,Netherlands,Aston Martin,ALO,33,13,75.521
+15,Netherlands,Aston Martin,STR,33,14,75.905
+15,Netherlands,Kick Sauber,BOT,33,15,78.39
+15,Netherlands,Racing Bulls,RIC,33,16,76.179
+15,Netherlands,Williams,SAR,33,17,76.55
+15,Netherlands,Alpine,OCO,33,18,76.104
+15,Netherlands,Racing Bulls,TSU,33,19,96.022
+15,Netherlands,Kick Sauber,ZHO,33,20,77.091
+15,Netherlands,Red Bull,VER,10,1,76.455
+15,Netherlands,McLaren,NOR,10,2,76.292
+15,Netherlands,Mercedes,RUS,10,3,76.725
+15,Netherlands,McLaren,PIA,10,4,76.512
+15,Netherlands,Ferrari,LEC,10,5,76.614
+15,Netherlands,Red Bull,PER,10,6,76.708
+15,Netherlands,Alpine,GAS,10,7,76.965
+15,Netherlands,Ferrari,SAI,10,8,76.836
+15,Netherlands,Aston Martin,ALO,10,9,77.528
+15,Netherlands,Aston Martin,STR,10,10,77.334
+15,Netherlands,Mercedes,HAM,10,11,76.906
+15,Netherlands,Haas,HUL,10,12,77.994
+15,Netherlands,Racing Bulls,TSU,10,13,77.372
+15,Netherlands,Kick Sauber,BOT,10,14,77.577
+15,Netherlands,Racing Bulls,RIC,10,15,77.645
+15,Netherlands,Alpine,OCO,10,16,77.752
+15,Netherlands,Williams,ALB,10,17,77.291
+15,Netherlands,Williams,SAR,10,18,77.843
+15,Netherlands,Haas,MAG,10,19,77.554
+15,Netherlands,Kick Sauber,ZHO,10,20,78.154
+15,Netherlands,McLaren,NOR,71,1,75.007
+15,Netherlands,Red Bull,VER,71,2,75.544
+15,Netherlands,Ferrari,LEC,71,3,74.975
+15,Netherlands,McLaren,PIA,71,4,74.99
+15,Netherlands,Ferrari,SAI,71,5,74.442
+15,Netherlands,Red Bull,PER,71,6,74.924
+15,Netherlands,Mercedes,RUS,71,7,74.822
+15,Netherlands,Mercedes,HAM,71,8,74.898
+15,Netherlands,Alpine,GAS,71,9,75.553
+15,Netherlands,Aston Martin,ALO,71,10,74.972
+15,Netherlands,Haas,HUL,71,11,76.222
+15,Netherlands,Aston Martin,STR,71,12,76.12
+15,Netherlands,Racing Bulls,RIC,71,13,76.216
+15,Netherlands,Williams,ALB,71,14,74.434
+15,Netherlands,Alpine,OCO,71,15,75.946
+15,Netherlands,Williams,SAR,71,16,76.2
+15,Netherlands,Racing Bulls,TSU,71,17,76.39
+15,Netherlands,Haas,MAG,71,18,76.293
+15,Netherlands,McLaren,NOR,34,1,74.491
+15,Netherlands,Red Bull,VER,34,2,75.099
+15,Netherlands,Ferrari,LEC,34,3,75.132
+15,Netherlands,Mercedes,RUS,34,4,75.039
+15,Netherlands,McLaren,PIA,34,5,94.573
+15,Netherlands,Red Bull,PER,34,6,74.966
+15,Netherlands,Ferrari,SAI,34,7,74.872
+15,Netherlands,Mercedes,HAM,34,8,75.111
+15,Netherlands,Haas,HUL,34,9,76.616
+15,Netherlands,Haas,MAG,34,10,77.281
+15,Netherlands,Williams,ALB,34,11,76.264
+15,Netherlands,Alpine,GAS,34,12,75.577
+15,Netherlands,Aston Martin,ALO,34,13,74.758
+15,Netherlands,Aston Martin,STR,34,14,75.476
+15,Netherlands,Kick Sauber,BOT,34,15,77.26
+15,Netherlands,Racing Bulls,RIC,34,16,75.832
+15,Netherlands,Williams,SAR,34,17,76.363
+15,Netherlands,Alpine,OCO,34,18,76.034
+15,Netherlands,Racing Bulls,TSU,34,19,75.891
+15,Netherlands,Kick Sauber,ZHO,34,20,77.411
+15,Netherlands,McLaren,NOR,37,1,74.724
+15,Netherlands,Red Bull,VER,37,2,75.065
+15,Netherlands,Ferrari,LEC,37,3,76.059
+15,Netherlands,Mercedes,RUS,37,4,75.258
+15,Netherlands,McLaren,PIA,37,5,74.308
+15,Netherlands,Red Bull,PER,37,6,75.121
+15,Netherlands,Ferrari,SAI,37,7,74.701
+15,Netherlands,Mercedes,HAM,37,8,74.893
+15,Netherlands,Haas,HUL,37,9,76.072
+15,Netherlands,Haas,MAG,37,10,77.16
+15,Netherlands,Williams,ALB,37,11,76.411
+15,Netherlands,Alpine,GAS,37,12,76.055
+15,Netherlands,Aston Martin,ALO,37,13,76.125
+15,Netherlands,Aston Martin,STR,37,14,75.506
+15,Netherlands,Racing Bulls,RIC,37,15,75.568
+15,Netherlands,Kick Sauber,BOT,37,16,77.16
+15,Netherlands,Williams,SAR,37,17,76.484
+15,Netherlands,Alpine,OCO,37,18,75.566
+15,Netherlands,Racing Bulls,TSU,37,19,75.674
+15,Netherlands,Kick Sauber,ZHO,37,20,77.573
+15,Netherlands,McLaren,NOR,59,1,74.979
+15,Netherlands,Red Bull,VER,59,2,75.132
+15,Netherlands,Ferrari,LEC,59,3,74.89
+15,Netherlands,McLaren,PIA,59,4,75.052
+15,Netherlands,Ferrari,SAI,59,5,74.488
+15,Netherlands,Red Bull,PER,59,6,75.287
+15,Netherlands,Mercedes,RUS,59,7,74.072
+15,Netherlands,Mercedes,HAM,59,8,73.968
+15,Netherlands,Haas,HUL,59,9,75.657
+15,Netherlands,Alpine,GAS,59,10,75.583
+15,Netherlands,Aston Martin,ALO,59,11,75.352
+15,Netherlands,Aston Martin,STR,59,12,75.509
+15,Netherlands,Racing Bulls,RIC,59,13,75.675
+15,Netherlands,Alpine,OCO,59,14,75.786
+15,Netherlands,Williams,ALB,59,15,74.787
+15,Netherlands,Williams,SAR,59,16,76.84
+15,Netherlands,Racing Bulls,TSU,59,17,76.989
+15,Netherlands,Haas,MAG,59,18,76.88
+15,Netherlands,Kick Sauber,BOT,59,19,76.225
+15,Netherlands,Kick Sauber,ZHO,59,20,76.359
+15,Netherlands,Red Bull,VER,9,1,76.252
+15,Netherlands,McLaren,NOR,9,2,76.477
+15,Netherlands,Mercedes,RUS,9,3,76.62
+15,Netherlands,McLaren,PIA,9,4,76.817
+15,Netherlands,Ferrari,LEC,9,5,76.73
+15,Netherlands,Red Bull,PER,9,6,76.898
+15,Netherlands,Alpine,GAS,9,7,76.909
+15,Netherlands,Ferrari,SAI,9,8,76.836
+15,Netherlands,Aston Martin,ALO,9,9,77.448
+15,Netherlands,Aston Martin,STR,9,10,77.454
+15,Netherlands,Haas,HUL,9,11,77.373
+15,Netherlands,Mercedes,HAM,9,12,77.148
+15,Netherlands,Racing Bulls,TSU,9,13,77.527
+15,Netherlands,Kick Sauber,BOT,9,14,77.746
+15,Netherlands,Racing Bulls,RIC,9,15,77.494
+15,Netherlands,Alpine,OCO,9,16,77.284
+15,Netherlands,Williams,ALB,9,17,77.898
+15,Netherlands,Williams,SAR,9,18,77.929
+15,Netherlands,Haas,MAG,9,19,77.494
+15,Netherlands,Kick Sauber,ZHO,9,20,78.029
+15,Netherlands,Red Bull,VER,8,1,76.347
+15,Netherlands,McLaren,NOR,8,2,76.169
+15,Netherlands,Mercedes,RUS,8,3,76.62
+15,Netherlands,McLaren,PIA,8,4,76.659
+15,Netherlands,Ferrari,LEC,8,5,76.541
+15,Netherlands,Red Bull,PER,8,6,77.107
+15,Netherlands,Alpine,GAS,8,7,77.081
+15,Netherlands,Ferrari,SAI,8,8,76.204
+15,Netherlands,Aston Martin,ALO,8,9,77.995
+15,Netherlands,Aston Martin,STR,8,10,76.923
+15,Netherlands,Haas,HUL,8,11,77.416
+15,Netherlands,Mercedes,HAM,8,12,77.471
+15,Netherlands,Racing Bulls,TSU,8,13,77.081
+15,Netherlands,Kick Sauber,BOT,8,14,77.204
+15,Netherlands,Racing Bulls,RIC,8,15,77.37
+15,Netherlands,Alpine,OCO,8,16,77.699
+15,Netherlands,Williams,ALB,8,17,77.266
+15,Netherlands,Williams,SAR,8,18,77.589
+15,Netherlands,Haas,MAG,8,19,77.147
+15,Netherlands,Kick Sauber,ZHO,8,20,78.564
+15,Netherlands,McLaren,NOR,60,1,74.518
+15,Netherlands,Red Bull,VER,60,2,75.0
+15,Netherlands,Ferrari,LEC,60,3,74.915
+15,Netherlands,McLaren,PIA,60,4,74.991
+15,Netherlands,Ferrari,SAI,60,5,74.865
+15,Netherlands,Red Bull,PER,60,6,75.197
+15,Netherlands,Mercedes,RUS,60,7,74.09
+15,Netherlands,Mercedes,HAM,60,8,73.977
+15,Netherlands,Alpine,GAS,60,9,76.583
+15,Netherlands,Haas,HUL,60,10,78.585
+15,Netherlands,Aston Martin,ALO,60,11,75.621
+15,Netherlands,Aston Martin,STR,60,12,75.624
+15,Netherlands,Racing Bulls,RIC,60,13,75.53
+15,Netherlands,Alpine,OCO,60,14,75.629
+15,Netherlands,Williams,ALB,60,15,74.603
+15,Netherlands,Williams,SAR,60,16,76.594
+15,Netherlands,Racing Bulls,TSU,60,17,76.805
+15,Netherlands,Haas,MAG,60,18,76.605
+15,Netherlands,Kick Sauber,BOT,60,19,76.639
+15,Netherlands,Kick Sauber,ZHO,60,20,77.641
+15,Netherlands,McLaren,NOR,45,1,74.831
+15,Netherlands,Red Bull,VER,45,2,75.099
+15,Netherlands,Ferrari,LEC,45,3,75.11
+15,Netherlands,McLaren,PIA,45,4,74.574
+15,Netherlands,Mercedes,RUS,45,5,74.91
+15,Netherlands,Red Bull,PER,45,6,75.138
+15,Netherlands,Ferrari,SAI,45,7,75.143
+15,Netherlands,Mercedes,HAM,45,8,76.022
+15,Netherlands,Haas,HUL,45,9,75.983
+15,Netherlands,Alpine,GAS,45,10,75.621
+15,Netherlands,Aston Martin,ALO,45,11,75.985
+15,Netherlands,Aston Martin,STR,45,12,75.781
+15,Netherlands,Williams,ALB,45,13,76.457
+15,Netherlands,Racing Bulls,RIC,45,14,76.293
+15,Netherlands,Alpine,OCO,45,15,75.867
+15,Netherlands,Williams,SAR,45,16,76.611
+15,Netherlands,Racing Bulls,TSU,45,17,76.57
+15,Netherlands,Haas,MAG,45,18,75.231
+15,Netherlands,Kick Sauber,BOT,45,19,75.822
+15,Netherlands,Kick Sauber,ZHO,45,20,78.973
+15,Netherlands,McLaren,NOR,21,1,75.729
+15,Netherlands,Red Bull,VER,21,2,76.416
+15,Netherlands,Mercedes,RUS,21,3,76.641
+15,Netherlands,McLaren,PIA,21,4,76.534
+15,Netherlands,Ferrari,LEC,21,5,76.283
+15,Netherlands,Red Bull,PER,21,6,76.529
+15,Netherlands,Ferrari,SAI,21,7,76.283
+15,Netherlands,Alpine,GAS,21,8,77.265
+15,Netherlands,Mercedes,HAM,21,9,77.126
+15,Netherlands,Aston Martin,ALO,21,10,76.963
+15,Netherlands,Aston Martin,STR,21,11,77.153
+15,Netherlands,Racing Bulls,RIC,21,12,77.619
+15,Netherlands,Alpine,OCO,21,13,77.593
+15,Netherlands,Haas,MAG,21,14,76.648
+15,Netherlands,Williams,SAR,21,15,77.713
+15,Netherlands,Haas,HUL,21,16,76.281
+15,Netherlands,Racing Bulls,TSU,21,17,76.407
+15,Netherlands,Williams,ALB,21,18,76.401
+15,Netherlands,Kick Sauber,BOT,21,19,76.847
+15,Netherlands,Kick Sauber,ZHO,21,20,76.715
+15,Netherlands,McLaren,NOR,44,1,74.577
+15,Netherlands,Red Bull,VER,44,2,75.333
+15,Netherlands,Ferrari,LEC,44,3,74.837
+15,Netherlands,McLaren,PIA,44,4,74.564
+15,Netherlands,Mercedes,RUS,44,5,75.305
+15,Netherlands,Red Bull,PER,44,6,75.143
+15,Netherlands,Ferrari,SAI,44,7,74.952
+15,Netherlands,Mercedes,HAM,44,8,74.904
+15,Netherlands,Haas,HUL,44,9,76.182
+15,Netherlands,Alpine,GAS,44,10,75.672
+15,Netherlands,Aston Martin,ALO,44,11,75.823
+15,Netherlands,Aston Martin,STR,44,12,75.994
+15,Netherlands,Williams,ALB,44,13,76.456
+15,Netherlands,Racing Bulls,RIC,44,14,76.302
+15,Netherlands,Alpine,OCO,44,15,75.85
+15,Netherlands,Williams,SAR,44,16,76.551
+15,Netherlands,Racing Bulls,TSU,44,17,76.381
+15,Netherlands,Haas,MAG,44,18,75.504
+15,Netherlands,Kick Sauber,BOT,44,19,95.854
+15,Netherlands,Kick Sauber,ZHO,44,20,78.167
+15,Netherlands,McLaren,NOR,25,1,75.709
+15,Netherlands,Red Bull,VER,25,2,76.652
+15,Netherlands,McLaren,PIA,25,3,76.408
+15,Netherlands,Mercedes,RUS,25,4,79.178
+15,Netherlands,Red Bull,PER,25,5,76.432
+15,Netherlands,Ferrari,SAI,25,6,76.49
+15,Netherlands,Alpine,GAS,25,7,77.052
+15,Netherlands,Ferrari,LEC,25,8,93.239
+15,Netherlands,Aston Martin,ALO,25,9,77.156
+15,Netherlands,Aston Martin,STR,25,10,77.582
+15,Netherlands,Racing Bulls,RIC,25,11,77.248
+15,Netherlands,Haas,MAG,25,12,76.749
+15,Netherlands,Haas,HUL,25,13,76.387
+15,Netherlands,Alpine,OCO,25,14,77.417
+15,Netherlands,Mercedes,HAM,25,15,75.725
+15,Netherlands,Racing Bulls,TSU,25,16,77.878
+15,Netherlands,Williams,ALB,25,17,76.49
+15,Netherlands,Kick Sauber,BOT,25,18,76.892
+15,Netherlands,Williams,SAR,25,19,75.856
+15,Netherlands,Kick Sauber,ZHO,25,20,76.777
+15,Netherlands,McLaren,NOR,46,1,74.603
+15,Netherlands,Red Bull,VER,46,2,75.155
+15,Netherlands,Ferrari,LEC,46,3,74.871
+15,Netherlands,McLaren,PIA,46,4,74.597
+15,Netherlands,Mercedes,RUS,46,5,74.846
+15,Netherlands,Red Bull,PER,46,6,75.103
+15,Netherlands,Ferrari,SAI,46,7,75.06
+15,Netherlands,Mercedes,HAM,46,8,75.511
+15,Netherlands,Haas,HUL,46,9,75.846
+15,Netherlands,Alpine,GAS,46,10,75.611
+15,Netherlands,Aston Martin,ALO,46,11,75.831
+15,Netherlands,Aston Martin,STR,46,12,75.783
+15,Netherlands,Racing Bulls,RIC,46,13,75.825
+15,Netherlands,Williams,ALB,46,14,77.244
+15,Netherlands,Alpine,OCO,46,15,76.141
+15,Netherlands,Williams,SAR,46,16,78.611
+15,Netherlands,Racing Bulls,TSU,46,17,78.391
+15,Netherlands,Haas,MAG,46,18,75.452
+15,Netherlands,Kick Sauber,BOT,46,19,76.152
+15,Netherlands,Kick Sauber,ZHO,46,20,77.856
+15,Netherlands,McLaren,NOR,22,1,75.796
+15,Netherlands,Red Bull,VER,22,2,76.411
+15,Netherlands,Mercedes,RUS,22,3,76.733
+15,Netherlands,McLaren,PIA,22,4,76.847
+15,Netherlands,Ferrari,LEC,22,5,76.75
+15,Netherlands,Red Bull,PER,22,6,76.684
+15,Netherlands,Ferrari,SAI,22,7,76.56
+15,Netherlands,Alpine,GAS,22,8,77.24
+15,Netherlands,Mercedes,HAM,22,9,77.871
+15,Netherlands,Aston Martin,ALO,22,10,77.138
+15,Netherlands,Aston Martin,STR,22,11,77.351
+15,Netherlands,Racing Bulls,RIC,22,12,77.163
+15,Netherlands,Haas,MAG,22,13,77.458
+15,Netherlands,Alpine,OCO,22,14,78.405
+15,Netherlands,Haas,HUL,22,15,77.053
+15,Netherlands,Racing Bulls,TSU,22,16,77.323
+15,Netherlands,Williams,SAR,22,17,83.235
+15,Netherlands,Williams,ALB,22,18,76.184
+15,Netherlands,Kick Sauber,BOT,22,19,76.694
+15,Netherlands,Kick Sauber,ZHO,22,20,76.726
+15,Netherlands,McLaren,NOR,48,1,74.776
+15,Netherlands,Red Bull,VER,48,2,74.981
+15,Netherlands,Ferrari,LEC,48,3,75.08
+15,Netherlands,McLaren,PIA,48,4,75.154
+15,Netherlands,Mercedes,RUS,48,5,75.361
+15,Netherlands,Ferrari,SAI,48,6,75.431
+15,Netherlands,Red Bull,PER,48,7,75.601
+15,Netherlands,Mercedes,HAM,48,8,78.25
+15,Netherlands,Haas,HUL,48,9,75.938
+15,Netherlands,Alpine,GAS,48,10,75.366
+15,Netherlands,Aston Martin,ALO,48,11,75.481
+15,Netherlands,Aston Martin,STR,48,12,75.736
+15,Netherlands,Racing Bulls,RIC,48,13,77.598
+15,Netherlands,Williams,ALB,48,14,76.608
+15,Netherlands,Alpine,OCO,48,15,76.079
+15,Netherlands,Williams,SAR,48,16,76.13
+15,Netherlands,Racing Bulls,TSU,48,17,76.072
+15,Netherlands,Haas,MAG,48,18,76.252
+15,Netherlands,Kick Sauber,BOT,48,19,76.144
+15,Netherlands,Kick Sauber,ZHO,48,20,77.238
+15,Netherlands,McLaren,NOR,69,1,74.657
+15,Netherlands,Red Bull,VER,69,2,74.972
+15,Netherlands,Ferrari,LEC,69,3,75.013
+15,Netherlands,McLaren,PIA,69,4,75.083
+15,Netherlands,Ferrari,SAI,69,5,75.13
+15,Netherlands,Red Bull,PER,69,6,74.587
+15,Netherlands,Mercedes,RUS,69,7,74.078
+15,Netherlands,Mercedes,HAM,69,8,74.416
+15,Netherlands,Alpine,GAS,69,9,75.281
+15,Netherlands,Aston Martin,ALO,69,10,76.211
+15,Netherlands,Haas,HUL,69,11,75.881
+15,Netherlands,Aston Martin,STR,69,12,75.945
+15,Netherlands,Racing Bulls,RIC,69,13,76.055
+15,Netherlands,Williams,ALB,69,14,74.877
+15,Netherlands,Alpine,OCO,69,15,77.218
+15,Netherlands,Williams,SAR,69,16,77.002
+15,Netherlands,Racing Bulls,TSU,69,17,76.809
+15,Netherlands,Haas,MAG,69,18,76.59
+15,Netherlands,Kick Sauber,BOT,69,19,77.284
+15,Netherlands,Kick Sauber,ZHO,69,20,75.865
+15,Netherlands,McLaren,NOR,68,1,74.66
+15,Netherlands,Red Bull,VER,68,2,75.052
+15,Netherlands,Ferrari,LEC,68,3,74.833
+15,Netherlands,McLaren,PIA,68,4,74.777
+15,Netherlands,Ferrari,SAI,68,5,75.051
+15,Netherlands,Red Bull,PER,68,6,75.132
+15,Netherlands,Mercedes,RUS,68,7,74.203
+15,Netherlands,Mercedes,HAM,68,8,74.353
+15,Netherlands,Alpine,GAS,68,9,75.331
+15,Netherlands,Aston Martin,ALO,68,10,76.027
+15,Netherlands,Haas,HUL,68,11,76.03
+15,Netherlands,Aston Martin,STR,68,12,75.986
+15,Netherlands,Racing Bulls,RIC,68,13,75.68
+15,Netherlands,Alpine,OCO,68,14,75.41
+15,Netherlands,Williams,ALB,68,15,75.01
+15,Netherlands,Williams,SAR,68,16,76.371
+15,Netherlands,Racing Bulls,TSU,68,17,76.192
+15,Netherlands,Haas,MAG,68,18,76.05
+15,Netherlands,Kick Sauber,BOT,68,19,76.394
+15,Netherlands,Kick Sauber,ZHO,68,20,77.757
+15,Netherlands,McLaren,NOR,47,1,74.892
+15,Netherlands,Red Bull,VER,47,2,75.32
+15,Netherlands,Ferrari,LEC,47,3,75.296
+15,Netherlands,McLaren,PIA,47,4,75.257
+15,Netherlands,Mercedes,RUS,47,5,75.064
+15,Netherlands,Ferrari,SAI,47,6,75.105
+15,Netherlands,Red Bull,PER,47,7,76.486
+15,Netherlands,Mercedes,HAM,47,8,75.768
+15,Netherlands,Haas,HUL,47,9,75.83
+15,Netherlands,Alpine,GAS,47,10,76.002
+15,Netherlands,Aston Martin,ALO,47,11,75.749
+15,Netherlands,Aston Martin,STR,47,12,75.741
+15,Netherlands,Racing Bulls,RIC,47,13,75.872
+15,Netherlands,Williams,ALB,47,14,77.653
+15,Netherlands,Alpine,OCO,47,15,75.711
+15,Netherlands,Williams,SAR,47,16,76.843
+15,Netherlands,Racing Bulls,TSU,47,17,77.252
+15,Netherlands,Haas,MAG,47,18,76.422
+15,Netherlands,Kick Sauber,BOT,47,19,78.314
+15,Netherlands,Kick Sauber,ZHO,47,20,77.537
+15,Netherlands,McLaren,PIA,32,1,76.214
+15,Netherlands,McLaren,NOR,32,2,74.476
+15,Netherlands,Red Bull,VER,32,3,74.888
+15,Netherlands,Ferrari,LEC,32,4,75.542
+15,Netherlands,Mercedes,RUS,32,5,75.625
+15,Netherlands,Red Bull,PER,32,6,75.031
+15,Netherlands,Alpine,GAS,32,7,80.262
+15,Netherlands,Ferrari,SAI,32,8,75.843
+15,Netherlands,Mercedes,HAM,32,9,75.262
+15,Netherlands,Haas,HUL,32,10,76.548
+15,Netherlands,Haas,MAG,32,11,77.873
+15,Netherlands,Williams,ALB,32,12,76.801
+15,Netherlands,Racing Bulls,TSU,32,13,79.729
+15,Netherlands,Aston Martin,ALO,32,14,95.807
+15,Netherlands,Kick Sauber,BOT,32,15,77.841
+15,Netherlands,Aston Martin,STR,32,16,75.32
+15,Netherlands,Racing Bulls,RIC,32,17,75.984
+15,Netherlands,Williams,SAR,32,18,76.421
+15,Netherlands,Alpine,OCO,32,19,76.26
+15,Netherlands,Kick Sauber,ZHO,32,20,77.091
+15,Netherlands,McLaren,NOR,56,1,74.816
+15,Netherlands,Red Bull,VER,56,2,75.065
+15,Netherlands,Ferrari,LEC,56,3,75.077
+15,Netherlands,McLaren,PIA,56,4,75.079
+15,Netherlands,Ferrari,SAI,56,5,75.132
+15,Netherlands,Red Bull,PER,56,6,75.521
+15,Netherlands,Mercedes,RUS,56,7,73.972
+15,Netherlands,Mercedes,HAM,56,8,74.48
+15,Netherlands,Haas,HUL,56,9,76.464
+15,Netherlands,Alpine,GAS,56,10,75.219
+15,Netherlands,Aston Martin,ALO,56,11,75.193
+15,Netherlands,Aston Martin,STR,56,12,75.396
+15,Netherlands,Racing Bulls,RIC,56,13,75.354
+15,Netherlands,Alpine,OCO,56,14,75.952
+15,Netherlands,Williams,SAR,56,15,76.314
+15,Netherlands,Racing Bulls,TSU,56,16,76.243
+15,Netherlands,Haas,MAG,56,17,77.754
+15,Netherlands,Williams,ALB,56,18,75.334
+15,Netherlands,Kick Sauber,BOT,56,19,77.851
+15,Netherlands,Kick Sauber,ZHO,56,20,76.04
+15,Netherlands,McLaren,NOR,70,1,74.871
+15,Netherlands,Red Bull,VER,70,2,75.153
+15,Netherlands,Ferrari,LEC,70,3,74.765
+15,Netherlands,McLaren,PIA,70,4,75.014
+15,Netherlands,Ferrari,SAI,70,5,75.101
+15,Netherlands,Red Bull,PER,70,6,74.851
+15,Netherlands,Mercedes,RUS,70,7,74.207
+15,Netherlands,Mercedes,HAM,70,8,75.898
+15,Netherlands,Alpine,GAS,70,9,75.444
+15,Netherlands,Aston Martin,ALO,70,10,75.822
+15,Netherlands,Haas,HUL,70,11,75.91
+15,Netherlands,Aston Martin,STR,70,12,76.158
+15,Netherlands,Racing Bulls,RIC,70,13,75.91
+15,Netherlands,Williams,ALB,70,14,74.836
+15,Netherlands,Alpine,OCO,70,15,77.351
+15,Netherlands,Williams,SAR,70,16,76.706
+15,Netherlands,Racing Bulls,TSU,70,17,76.903
+15,Netherlands,Haas,MAG,70,18,77.298
+15,Netherlands,Kick Sauber,BOT,70,19,76.206
+15,Netherlands,Kick Sauber,ZHO,70,20,75.798
+15,Netherlands,McLaren,NOR,61,1,75.046
+15,Netherlands,Red Bull,VER,61,2,75.394
+15,Netherlands,Ferrari,LEC,61,3,75.003
+15,Netherlands,McLaren,PIA,61,4,75.012
+15,Netherlands,Ferrari,SAI,61,5,75.244
+15,Netherlands,Red Bull,PER,61,6,75.063
+15,Netherlands,Mercedes,RUS,61,7,74.286
+15,Netherlands,Mercedes,HAM,61,8,74.038
+15,Netherlands,Alpine,GAS,61,9,76.371
+15,Netherlands,Haas,HUL,61,10,76.441
+15,Netherlands,Aston Martin,ALO,61,11,75.506
+15,Netherlands,Aston Martin,STR,61,12,75.448
+15,Netherlands,Racing Bulls,RIC,61,13,75.544
+15,Netherlands,Alpine,OCO,61,14,77.515
+15,Netherlands,Williams,ALB,61,15,75.257
+15,Netherlands,Williams,SAR,61,16,76.79
+15,Netherlands,Racing Bulls,TSU,61,17,76.61
+15,Netherlands,Haas,MAG,61,18,77.0
+15,Netherlands,Kick Sauber,BOT,61,19,76.334
+15,Netherlands,Kick Sauber,ZHO,61,20,76.399
+15,Netherlands,Red Bull,VER,1,1,79.915
+15,Netherlands,McLaren,NOR,1,2,80.878
+15,Netherlands,Mercedes,RUS,1,3,81.729
+15,Netherlands,McLaren,PIA,1,4,82.638
+15,Netherlands,Ferrari,LEC,1,5,83.322
+15,Netherlands,Red Bull,PER,1,6,83.931
+15,Netherlands,Alpine,GAS,1,7,84.654
+15,Netherlands,Aston Martin,ALO,1,8,84.726
+15,Netherlands,Ferrari,SAI,1,9,85.474
+15,Netherlands,Aston Martin,STR,1,10,85.703
+15,Netherlands,Haas,HUL,1,11,86.432
+15,Netherlands,Racing Bulls,TSU,1,12,86.878
+15,Netherlands,Mercedes,HAM,1,13,87.28
+15,Netherlands,Kick Sauber,BOT,1,14,87.361
+15,Netherlands,Racing Bulls,RIC,1,15,87.95
+15,Netherlands,Alpine,OCO,1,16,88.161
+15,Netherlands,Williams,ALB,1,17,88.535
+15,Netherlands,Williams,SAR,1,18,89.09
+15,Netherlands,Kick Sauber,ZHO,1,19,89.615
+15,Netherlands,Haas,MAG,1,20,90.772
+15,Netherlands,McLaren,NOR,20,1,76.043
+15,Netherlands,Red Bull,VER,20,2,76.625
+15,Netherlands,Mercedes,RUS,20,3,76.631
+15,Netherlands,McLaren,PIA,20,4,76.331
+15,Netherlands,Ferrari,LEC,20,5,76.391
+15,Netherlands,Red Bull,PER,20,6,76.529
+15,Netherlands,Ferrari,SAI,20,7,76.645
+15,Netherlands,Alpine,GAS,20,8,77.135
+15,Netherlands,Mercedes,HAM,20,9,76.686
+15,Netherlands,Aston Martin,ALO,20,10,76.815
+15,Netherlands,Aston Martin,STR,20,11,77.379
+15,Netherlands,Racing Bulls,RIC,20,12,77.318
+15,Netherlands,Alpine,OCO,20,13,77.518
+15,Netherlands,Haas,MAG,20,14,77.272
+15,Netherlands,Williams,SAR,20,15,78.02
+15,Netherlands,Haas,HUL,20,16,75.953
+15,Netherlands,Racing Bulls,TSU,20,17,76.336
+15,Netherlands,Williams,ALB,20,18,78.639
+15,Netherlands,Kick Sauber,BOT,20,19,76.898
+15,Netherlands,Kick Sauber,ZHO,20,20,76.808
+15,Netherlands,McLaren,NOR,36,1,74.312
+15,Netherlands,Red Bull,VER,36,2,75.131
+15,Netherlands,Ferrari,LEC,36,3,75.268
+15,Netherlands,Mercedes,RUS,36,4,75.125
+15,Netherlands,McLaren,PIA,36,5,74.237
+15,Netherlands,Red Bull,PER,36,6,74.846
+15,Netherlands,Ferrari,SAI,36,7,74.739
+15,Netherlands,Mercedes,HAM,36,8,75.098
+15,Netherlands,Haas,HUL,36,9,76.638
+15,Netherlands,Haas,MAG,36,10,77.085
+15,Netherlands,Williams,ALB,36,11,76.535
+15,Netherlands,Alpine,GAS,36,12,76.516
+15,Netherlands,Aston Martin,ALO,36,13,76.762
+15,Netherlands,Aston Martin,STR,36,14,75.967
+15,Netherlands,Racing Bulls,RIC,36,15,75.543
+15,Netherlands,Kick Sauber,BOT,36,16,77.807
+15,Netherlands,Williams,SAR,36,17,76.37
+15,Netherlands,Alpine,OCO,36,18,75.609
+15,Netherlands,Racing Bulls,TSU,36,19,75.59
+15,Netherlands,Kick Sauber,ZHO,36,20,78.29
+15,Netherlands,Red Bull,VER,11,1,76.36
+15,Netherlands,McLaren,NOR,11,2,76.303
+15,Netherlands,Mercedes,RUS,11,3,76.366
+15,Netherlands,McLaren,PIA,11,4,76.52
+15,Netherlands,Ferrari,LEC,11,5,76.513
+15,Netherlands,Red Bull,PER,11,6,76.403
+15,Netherlands,Ferrari,SAI,11,7,77.855
+15,Netherlands,Alpine,GAS,11,8,79.464
+15,Netherlands,Aston Martin,ALO,11,9,77.672
+15,Netherlands,Aston Martin,STR,11,10,77.737
+15,Netherlands,Mercedes,HAM,11,11,77.617
+15,Netherlands,Haas,HUL,11,12,77.714
+15,Netherlands,Racing Bulls,TSU,11,13,77.321
+15,Netherlands,Kick Sauber,BOT,11,14,77.539
+15,Netherlands,Racing Bulls,RIC,11,15,77.608
+15,Netherlands,Alpine,OCO,11,16,77.384
+15,Netherlands,Williams,ALB,11,17,77.427
+15,Netherlands,Williams,SAR,11,18,77.424
+15,Netherlands,Haas,MAG,11,19,77.316
+15,Netherlands,Kick Sauber,ZHO,11,20,77.854
+15,Netherlands,McLaren,NOR,35,1,74.474
+15,Netherlands,Red Bull,VER,35,2,74.909
+15,Netherlands,Ferrari,LEC,35,3,74.926
+15,Netherlands,Mercedes,RUS,35,4,74.906
+15,Netherlands,McLaren,PIA,35,5,74.937
+15,Netherlands,Red Bull,PER,35,6,75.106
+15,Netherlands,Ferrari,SAI,35,7,74.807
+15,Netherlands,Mercedes,HAM,35,8,74.805
+15,Netherlands,Haas,HUL,35,9,76.313
+15,Netherlands,Haas,MAG,35,10,76.949
+15,Netherlands,Williams,ALB,35,11,76.26
+15,Netherlands,Alpine,GAS,35,12,75.264
+15,Netherlands,Aston Martin,ALO,35,13,75.741
+15,Netherlands,Aston Martin,STR,35,14,75.719
+15,Netherlands,Kick Sauber,BOT,35,15,76.797
+15,Netherlands,Racing Bulls,RIC,35,16,76.259
+15,Netherlands,Williams,SAR,35,17,76.532
+15,Netherlands,Alpine,OCO,35,18,75.622
+15,Netherlands,Racing Bulls,TSU,35,19,75.561
+15,Netherlands,Kick Sauber,ZHO,35,20,77.221
+15,Netherlands,Red Bull,VER,12,1,76.538
+15,Netherlands,McLaren,NOR,12,2,76.2
+15,Netherlands,Mercedes,RUS,12,3,76.383
+15,Netherlands,McLaren,PIA,12,4,76.463
+15,Netherlands,Ferrari,LEC,12,5,76.512
+15,Netherlands,Red Bull,PER,12,6,76.387
+15,Netherlands,Ferrari,SAI,12,7,76.58
+15,Netherlands,Alpine,GAS,12,8,77.375
+15,Netherlands,Aston Martin,ALO,12,9,77.509
+15,Netherlands,Aston Martin,STR,12,10,77.677
+15,Netherlands,Mercedes,HAM,12,11,77.85
+15,Netherlands,Haas,HUL,12,12,77.627
+15,Netherlands,Racing Bulls,TSU,12,13,77.627
+15,Netherlands,Kick Sauber,BOT,12,14,77.841
+15,Netherlands,Racing Bulls,RIC,12,15,77.614
+15,Netherlands,Alpine,OCO,12,16,77.678
+15,Netherlands,Williams,SAR,12,17,77.6
+15,Netherlands,Williams,ALB,12,18,80.841
+15,Netherlands,Haas,MAG,12,19,77.659
+15,Netherlands,Kick Sauber,ZHO,12,20,78.114
