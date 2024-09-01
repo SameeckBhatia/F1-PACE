@@ -17103,3 +17103,1011 @@ round,grand_prix,constructor,driver,lap,position,time
 15,Netherlands,Williams,ALB,12,18,80.841
 15,Netherlands,Haas,MAG,12,19,77.659
 15,Netherlands,Kick Sauber,ZHO,12,20,78.114
+16,Italy,McLaren,PIA,14,1,85.048
+16,Italy,Ferrari,LEC,14,2,85.606
+16,Italy,Ferrari,SAI,14,3,85.234
+16,Italy,McLaren,NOR,14,4,89.417
+16,Italy,Mercedes,HAM,14,5,85.817
+16,Italy,Red Bull,VER,14,6,85.287
+16,Italy,Red Bull,PER,14,7,85.229
+16,Italy,Williams,ALB,14,8,86.14
+16,Italy,Alpine,OCO,14,9,86.307
+16,Italy,Aston Martin,STR,14,10,85.895
+16,Italy,Haas,MAG,14,11,89.943
+16,Italy,Williams,COL,14,12,86.93
+16,Italy,Kick Sauber,BOT,14,13,86.481
+16,Italy,Kick Sauber,ZHO,14,14,87.092
+16,Italy,Mercedes,RUS,14,15,84.548
+16,Italy,Aston Martin,ALO,14,16,85.832
+16,Italy,Alpine,GAS,14,17,85.214
+16,Italy,Racing Bulls,RIC,14,18,85.827
+16,Italy,Haas,HUL,14,19,85.014
+16,Italy,Ferrari,LEC,41,1,83.611
+16,Italy,Ferrari,SAI,41,2,83.337
+16,Italy,McLaren,PIA,41,3,82.066
+16,Italy,McLaren,NOR,41,4,82.234
+16,Italy,Red Bull,VER,41,5,88.738
+16,Italy,Mercedes,HAM,41,6,82.927
+16,Italy,Haas,MAG,41,7,84.625
+16,Italy,Mercedes,RUS,41,8,84.039
+16,Italy,Red Bull,PER,41,9,83.267
+16,Italy,Williams,ALB,41,10,84.372
+16,Italy,Racing Bulls,RIC,41,11,84.945
+16,Italy,Williams,COL,41,12,84.801
+16,Italy,Aston Martin,ALO,41,13,83.822
+16,Italy,Alpine,OCO,41,14,85.06
+16,Italy,Aston Martin,STR,41,15,83.702
+16,Italy,Kick Sauber,ZHO,41,16,86.437
+16,Italy,Alpine,GAS,41,17,85.772
+16,Italy,Kick Sauber,BOT,41,18,86.31
+16,Italy,Haas,HUL,41,19,83.449
+16,Italy,Red Bull,VER,20,1,85.559
+16,Italy,Red Bull,PER,20,2,86.111
+16,Italy,McLaren,PIA,20,3,83.986
+16,Italy,McLaren,NOR,20,4,83.882
+16,Italy,Ferrari,LEC,20,5,83.826
+16,Italy,Ferrari,SAI,20,6,104.811
+16,Italy,Mercedes,HAM,20,7,84.64
+16,Italy,Alpine,OCO,20,8,87.326
+16,Italy,Kick Sauber,BOT,20,9,86.803
+16,Italy,Mercedes,RUS,20,10,85.504
+16,Italy,Aston Martin,ALO,20,11,85.676
+16,Italy,Williams,ALB,20,12,85.074
+16,Italy,Alpine,GAS,20,13,85.058
+16,Italy,Haas,MAG,20,14,85.154
+16,Italy,Racing Bulls,RIC,20,15,84.753
+16,Italy,Williams,COL,20,16,85.148
+16,Italy,Aston Martin,STR,20,17,105.665
+16,Italy,Haas,HUL,20,18,86.113
+16,Italy,Kick Sauber,ZHO,20,19,85.588
+16,Italy,Ferrari,SAI,17,1,85.407
+16,Italy,Red Bull,VER,17,2,85.34
+16,Italy,Red Bull,PER,17,3,85.444
+16,Italy,McLaren,PIA,17,4,104.25
+16,Italy,McLaren,NOR,17,5,85.585
+16,Italy,Ferrari,LEC,17,6,84.27
+16,Italy,Williams,ALB,17,7,91.436
+16,Italy,Alpine,OCO,17,8,86.002
+16,Italy,Aston Martin,STR,17,9,86.584
+16,Italy,Mercedes,HAM,17,10,84.843
+16,Italy,Kick Sauber,BOT,17,11,86.396
+16,Italy,Mercedes,RUS,17,12,84.546
+16,Italy,Aston Martin,ALO,17,13,84.574
+16,Italy,Alpine,GAS,17,14,85.165
+16,Italy,Haas,MAG,17,15,84.769
+16,Italy,Racing Bulls,RIC,17,16,85.028
+16,Italy,Williams,COL,17,17,106.349
+16,Italy,Haas,HUL,17,18,86.119
+16,Italy,Kick Sauber,ZHO,17,19,85.092
+16,Italy,McLaren,PIA,30,1,82.968
+16,Italy,McLaren,NOR,30,2,83.614
+16,Italy,Ferrari,LEC,30,3,83.359
+16,Italy,Ferrari,SAI,30,4,83.584
+16,Italy,Mercedes,HAM,30,5,83.445
+16,Italy,Red Bull,VER,30,6,83.542
+16,Italy,Red Bull,PER,30,7,83.474
+16,Italy,Mercedes,RUS,30,8,83.177
+16,Italy,Aston Martin,ALO,30,9,85.039
+16,Italy,Alpine,OCO,30,10,86.025
+16,Italy,Williams,ALB,30,11,84.754
+16,Italy,Haas,MAG,30,12,84.573
+16,Italy,Racing Bulls,RIC,30,13,84.97
+16,Italy,Kick Sauber,BOT,30,14,86.022
+16,Italy,Williams,COL,30,15,85.412
+16,Italy,Aston Martin,STR,30,16,86.377
+16,Italy,Alpine,GAS,30,17,91.004
+16,Italy,Haas,HUL,30,18,85.628
+16,Italy,Kick Sauber,ZHO,30,19,85.491
+16,Italy,Ferrari,LEC,46,1,83.597
+16,Italy,McLaren,PIA,46,2,82.537
+16,Italy,Ferrari,SAI,46,3,84.001
+16,Italy,McLaren,NOR,46,4,82.041
+16,Italy,Mercedes,HAM,46,5,82.307
+16,Italy,Red Bull,VER,46,6,82.941
+16,Italy,Mercedes,RUS,46,7,82.419
+16,Italy,Red Bull,PER,46,8,82.996
+16,Italy,Haas,MAG,46,9,84.124
+16,Italy,Williams,ALB,46,10,84.554
+16,Italy,Aston Martin,ALO,46,11,82.944
+16,Italy,Racing Bulls,RIC,46,12,85.685
+16,Italy,Williams,COL,46,13,84.939
+16,Italy,Alpine,OCO,46,14,84.449
+16,Italy,Aston Martin,STR,46,15,83.906
+16,Italy,Alpine,GAS,46,16,84.403
+16,Italy,Kick Sauber,ZHO,46,17,85.857
+16,Italy,Kick Sauber,BOT,46,18,84.358
+16,Italy,Haas,HUL,46,19,84.107
+16,Italy,McLaren,PIA,26,1,83.133
+16,Italy,McLaren,NOR,26,2,83.469
+16,Italy,Ferrari,LEC,26,3,83.321
+16,Italy,Ferrari,SAI,26,4,83.503
+16,Italy,Mercedes,HAM,26,5,83.673
+16,Italy,Red Bull,VER,26,6,83.618
+16,Italy,Red Bull,PER,26,7,83.975
+16,Italy,Mercedes,RUS,26,8,83.575
+16,Italy,Alpine,OCO,26,9,86.383
+16,Italy,Aston Martin,ALO,26,10,84.937
+16,Italy,Williams,ALB,26,11,85.065
+16,Italy,Haas,MAG,26,12,85.199
+16,Italy,Kick Sauber,BOT,26,13,86.885
+16,Italy,Alpine,GAS,26,14,85.742
+16,Italy,Racing Bulls,RIC,26,15,84.906
+16,Italy,Williams,COL,26,16,84.639
+16,Italy,Aston Martin,STR,26,17,84.491
+16,Italy,Haas,HUL,26,18,85.506
+16,Italy,Kick Sauber,ZHO,26,19,85.549
+16,Italy,McLaren,PIA,23,1,83.66
+16,Italy,McLaren,NOR,23,2,83.581
+16,Italy,Ferrari,LEC,23,3,83.864
+16,Italy,Red Bull,PER,23,4,89.869
+16,Italy,Ferrari,SAI,23,5,84.557
+16,Italy,Mercedes,HAM,23,6,84.132
+16,Italy,Alpine,OCO,23,7,86.201
+16,Italy,Red Bull,VER,23,8,107.839
+16,Italy,Mercedes,RUS,23,9,84.624
+16,Italy,Aston Martin,ALO,23,10,85.017
+16,Italy,Kick Sauber,BOT,23,11,86.943
+16,Italy,Williams,ALB,23,12,85.132
+16,Italy,Haas,MAG,23,13,85.057
+16,Italy,Alpine,GAS,23,14,86.161
+16,Italy,Racing Bulls,RIC,23,15,84.848
+16,Italy,Williams,COL,23,16,84.649
+16,Italy,Aston Martin,STR,23,17,84.659
+16,Italy,Haas,HUL,23,18,85.632
+16,Italy,Kick Sauber,ZHO,23,19,86.061
+16,Italy,McLaren,PIA,38,1,88.125
+16,Italy,Ferrari,LEC,38,2,83.624
+16,Italy,Ferrari,SAI,38,3,83.551
+16,Italy,Red Bull,VER,38,4,83.427
+16,Italy,McLaren,NOR,38,5,83.133
+16,Italy,Mercedes,HAM,38,6,102.426
+16,Italy,Haas,MAG,38,7,84.803
+16,Italy,Mercedes,RUS,38,8,85.166
+16,Italy,Red Bull,PER,38,9,86.243
+16,Italy,Williams,ALB,38,10,85.214
+16,Italy,Racing Bulls,RIC,38,11,85.288
+16,Italy,Williams,COL,38,12,85.194
+16,Italy,Aston Martin,ALO,38,13,83.847
+16,Italy,Alpine,OCO,38,14,84.845
+16,Italy,Kick Sauber,ZHO,38,15,86.652
+16,Italy,Aston Martin,STR,38,16,83.617
+16,Italy,Alpine,GAS,38,17,85.229
+16,Italy,Kick Sauber,BOT,38,18,86.704
+16,Italy,Haas,HUL,38,19,83.88
+16,Italy,Ferrari,LEC,47,1,83.676
+16,Italy,McLaren,PIA,47,2,82.253
+16,Italy,Ferrari,SAI,47,3,84.09
+16,Italy,McLaren,NOR,47,4,83.852
+16,Italy,Mercedes,HAM,47,5,82.471
+16,Italy,Red Bull,VER,47,6,82.52
+16,Italy,Mercedes,RUS,47,7,82.343
+16,Italy,Red Bull,PER,47,8,82.971
+16,Italy,Haas,MAG,47,9,83.971
+16,Italy,Williams,ALB,47,10,84.383
+16,Italy,Aston Martin,ALO,47,11,83.221
+16,Italy,Racing Bulls,RIC,47,12,84.775
+16,Italy,Williams,COL,47,13,84.697
+16,Italy,Alpine,OCO,47,14,84.506
+16,Italy,Aston Martin,STR,47,15,84.014
+16,Italy,Alpine,GAS,47,16,83.923
+16,Italy,Kick Sauber,BOT,47,17,84.089
+16,Italy,Kick Sauber,ZHO,47,18,87.442
+16,Italy,Haas,HUL,47,19,86.991
+16,Italy,McLaren,PIA,28,1,83.168
+16,Italy,McLaren,NOR,28,2,83.067
+16,Italy,Ferrari,LEC,28,3,83.284
+16,Italy,Ferrari,SAI,28,4,83.751
+16,Italy,Mercedes,HAM,28,5,83.64
+16,Italy,Red Bull,VER,28,6,83.509
+16,Italy,Red Bull,PER,28,7,83.598
+16,Italy,Mercedes,RUS,28,8,83.383
+16,Italy,Aston Martin,ALO,28,9,84.725
+16,Italy,Alpine,OCO,28,10,86.013
+16,Italy,Williams,ALB,28,11,84.793
+16,Italy,Haas,MAG,28,12,84.415
+16,Italy,Kick Sauber,BOT,28,13,85.804
+16,Italy,Racing Bulls,RIC,28,14,85.38
+16,Italy,Alpine,GAS,28,15,85.823
+16,Italy,Williams,COL,28,16,85.005
+16,Italy,Aston Martin,STR,28,17,84.618
+16,Italy,Haas,HUL,28,18,85.43
+16,Italy,Kick Sauber,ZHO,28,19,85.699
+16,Italy,McLaren,PIA,11,1,84.247
+16,Italy,Ferrari,LEC,11,2,84.846
+16,Italy,McLaren,NOR,11,3,84.448
+16,Italy,Ferrari,SAI,11,4,85.066
+16,Italy,Mercedes,HAM,11,5,84.938
+16,Italy,Red Bull,VER,11,6,84.978
+16,Italy,Red Bull,PER,11,7,84.773
+16,Italy,Mercedes,RUS,11,8,91.175
+16,Italy,Williams,ALB,11,9,85.734
+16,Italy,Aston Martin,ALO,11,10,85.758
+16,Italy,Haas,MAG,11,11,86.04
+16,Italy,Alpine,OCO,11,12,86.349
+16,Italy,Aston Martin,STR,11,13,85.675
+16,Italy,Racing Bulls,RIC,11,14,91.962
+16,Italy,Williams,COL,11,15,86.607
+16,Italy,Kick Sauber,BOT,11,16,86.47
+16,Italy,Kick Sauber,ZHO,11,17,86.488
+16,Italy,Alpine,GAS,11,18,105.677
+16,Italy,Haas,HUL,11,19,85.322
+16,Italy,McLaren,PIA,9,1,84.375
+16,Italy,Ferrari,LEC,9,2,84.362
+16,Italy,McLaren,NOR,9,3,84.664
+16,Italy,Ferrari,SAI,9,4,84.774
+16,Italy,Mercedes,HAM,9,5,85.035
+16,Italy,Red Bull,VER,9,6,85.05
+16,Italy,Mercedes,RUS,9,7,85.115
+16,Italy,Red Bull,PER,9,8,84.977
+16,Italy,Williams,ALB,9,9,85.666
+16,Italy,Aston Martin,ALO,9,10,85.969
+16,Italy,Racing Bulls,RIC,9,11,85.815
+16,Italy,Haas,MAG,9,12,85.785
+16,Italy,Alpine,OCO,9,13,85.369
+16,Italy,Alpine,GAS,9,14,87.148
+16,Italy,Aston Martin,STR,9,15,86.024
+16,Italy,Williams,COL,9,16,86.222
+16,Italy,Kick Sauber,BOT,9,17,86.188
+16,Italy,Kick Sauber,ZHO,9,18,86.315
+16,Italy,Haas,HUL,9,19,85.191
+16,Italy,McLaren,PIA,37,1,83.691
+16,Italy,Ferrari,LEC,37,2,83.55
+16,Italy,Ferrari,SAI,37,3,83.29
+16,Italy,Mercedes,HAM,37,4,88.349
+16,Italy,Red Bull,VER,37,5,83.485
+16,Italy,McLaren,NOR,37,6,83.178
+16,Italy,Haas,MAG,37,7,83.95
+16,Italy,Red Bull,PER,37,8,83.291
+16,Italy,Mercedes,RUS,37,9,83.158
+16,Italy,Williams,ALB,37,10,85.882
+16,Italy,Racing Bulls,RIC,37,11,85.095
+16,Italy,Williams,COL,37,12,85.345
+16,Italy,Aston Martin,ALO,37,13,83.703
+16,Italy,Alpine,OCO,37,14,84.613
+16,Italy,Kick Sauber,ZHO,37,15,85.205
+16,Italy,Alpine,GAS,37,16,84.386
+16,Italy,Aston Martin,STR,37,17,103.775
+16,Italy,Kick Sauber,BOT,37,18,85.213
+16,Italy,Haas,HUL,37,19,87.809
+16,Italy,McLaren,PIA,7,1,84.418
+16,Italy,Ferrari,LEC,7,2,84.434
+16,Italy,McLaren,NOR,7,3,84.531
+16,Italy,Ferrari,SAI,7,4,84.715
+16,Italy,Mercedes,HAM,7,5,85.205
+16,Italy,Red Bull,VER,7,6,85.042
+16,Italy,Mercedes,RUS,7,7,85.046
+16,Italy,Red Bull,PER,7,8,85.434
+16,Italy,Williams,ALB,7,9,85.99
+16,Italy,Aston Martin,ALO,7,10,85.95
+16,Italy,Racing Bulls,RIC,7,11,85.713
+16,Italy,Haas,MAG,7,12,85.825
+16,Italy,Alpine,GAS,7,13,85.82
+16,Italy,Alpine,OCO,7,14,86.006
+16,Italy,Aston Martin,STR,7,15,86.208
+16,Italy,Williams,COL,7,16,87.204
+16,Italy,Kick Sauber,BOT,7,17,86.359
+16,Italy,Kick Sauber,ZHO,7,18,86.381
+16,Italy,Racing Bulls,TSU,7,19,100.319
+16,Italy,Haas,HUL,7,20,85.882
+16,Italy,McLaren,PIA,2,1,85.116
+16,Italy,Ferrari,LEC,2,2,85.396
+16,Italy,McLaren,NOR,2,3,85.458
+16,Italy,Ferrari,SAI,2,4,85.731
+16,Italy,Mercedes,HAM,2,5,86.043
+16,Italy,Red Bull,VER,2,6,86.17
+16,Italy,Mercedes,RUS,2,7,86.055
+16,Italy,Red Bull,PER,2,8,86.411
+16,Italy,Williams,ALB,2,9,87.011
+16,Italy,Aston Martin,ALO,2,10,87.236
+16,Italy,Racing Bulls,RIC,2,11,87.177
+16,Italy,Haas,MAG,2,12,87.205
+16,Italy,Alpine,GAS,2,13,86.606
+16,Italy,Alpine,OCO,2,14,86.837
+16,Italy,Racing Bulls,TSU,2,15,87.538
+16,Italy,Haas,HUL,2,16,87.512
+16,Italy,Williams,COL,2,17,87.845
+16,Italy,Aston Martin,STR,2,18,88.342
+16,Italy,Kick Sauber,BOT,2,19,88.377
+16,Italy,Kick Sauber,ZHO,2,20,88.721
+16,Italy,McLaren,PIA,5,1,84.66
+16,Italy,Ferrari,LEC,5,2,84.603
+16,Italy,McLaren,NOR,5,3,84.674
+16,Italy,Ferrari,SAI,5,4,85.006
+16,Italy,Mercedes,HAM,5,5,84.771
+16,Italy,Red Bull,VER,5,6,85.218
+16,Italy,Mercedes,RUS,5,7,85.494
+16,Italy,Red Bull,PER,5,8,85.447
+16,Italy,Williams,ALB,5,9,86.039
+16,Italy,Aston Martin,ALO,5,10,86.218
+16,Italy,Racing Bulls,RIC,5,11,86.251
+16,Italy,Haas,MAG,5,12,86.142
+16,Italy,Alpine,GAS,5,13,86.361
+16,Italy,Alpine,OCO,5,14,86.568
+16,Italy,Williams,COL,5,15,87.151
+16,Italy,Aston Martin,STR,5,16,87.234
+16,Italy,Kick Sauber,BOT,5,17,88.242
+16,Italy,Haas,HUL,5,18,91.729
+16,Italy,Racing Bulls,TSU,5,19,92.241
+16,Italy,Kick Sauber,ZHO,5,20,89.256
+16,Italy,McLaren,PIA,4,1,84.695
+16,Italy,Ferrari,LEC,4,2,84.81
+16,Italy,McLaren,NOR,4,3,85.168
+16,Italy,Ferrari,SAI,4,4,85.086
+16,Italy,Mercedes,HAM,4,5,85.722
+16,Italy,Red Bull,VER,4,6,85.633
+16,Italy,Mercedes,RUS,4,7,85.762
+16,Italy,Red Bull,PER,4,8,85.805
+16,Italy,Williams,ALB,4,9,86.527
+16,Italy,Aston Martin,ALO,4,10,86.411
+16,Italy,Racing Bulls,RIC,4,11,86.488
+16,Italy,Haas,MAG,4,12,86.372
+16,Italy,Alpine,GAS,4,13,86.395
+16,Italy,Alpine,OCO,4,14,86.297
+16,Italy,Racing Bulls,TSU,4,15,86.198
+16,Italy,Haas,HUL,4,16,86.541
+16,Italy,Williams,COL,4,17,86.25
+16,Italy,Aston Martin,STR,4,18,86.253
+16,Italy,Kick Sauber,BOT,4,19,86.324
+16,Italy,Kick Sauber,ZHO,4,20,86.226
+16,Italy,McLaren,PIA,27,1,83.088
+16,Italy,McLaren,NOR,27,2,83.267
+16,Italy,Ferrari,LEC,27,3,83.534
+16,Italy,Ferrari,SAI,27,4,83.503
+16,Italy,Mercedes,HAM,27,5,83.495
+16,Italy,Red Bull,VER,27,6,83.524
+16,Italy,Red Bull,PER,27,7,83.784
+16,Italy,Mercedes,RUS,27,8,83.732
+16,Italy,Aston Martin,ALO,27,9,84.891
+16,Italy,Alpine,OCO,27,10,86.725
+16,Italy,Williams,ALB,27,11,84.949
+16,Italy,Haas,MAG,27,12,84.64
+16,Italy,Kick Sauber,BOT,27,13,86.309
+16,Italy,Racing Bulls,RIC,27,14,85.595
+16,Italy,Alpine,GAS,27,15,87.191
+16,Italy,Williams,COL,27,16,84.497
+16,Italy,Aston Martin,STR,27,17,84.437
+16,Italy,Haas,HUL,27,18,85.674
+16,Italy,Kick Sauber,ZHO,27,19,85.603
+16,Italy,McLaren,PIA,1,1,87.623
+16,Italy,Ferrari,LEC,1,2,88.179
+16,Italy,McLaren,NOR,1,3,88.971
+16,Italy,Ferrari,SAI,1,4,89.345
+16,Italy,Mercedes,HAM,1,5,89.674
+16,Italy,Red Bull,VER,1,6,90.354
+16,Italy,Mercedes,RUS,1,7,91.512
+16,Italy,Red Bull,PER,1,8,91.698
+16,Italy,Williams,ALB,1,9,91.965
+16,Italy,Aston Martin,ALO,1,10,92.411
+16,Italy,Racing Bulls,RIC,1,11,93.104
+16,Italy,Haas,MAG,1,12,93.931
+16,Italy,Alpine,GAS,1,13,94.873
+16,Italy,Racing Bulls,TSU,1,14,95.235
+16,Italy,Alpine,OCO,1,15,95.432
+16,Italy,Haas,HUL,1,16,95.519
+16,Italy,Aston Martin,STR,1,17,95.81
+16,Italy,Williams,COL,1,18,95.885
+16,Italy,Kick Sauber,BOT,1,19,96.375
+16,Italy,Kick Sauber,ZHO,1,20,96.732
+16,Italy,McLaren,PIA,10,1,84.077
+16,Italy,Ferrari,LEC,10,2,84.432
+16,Italy,McLaren,NOR,10,3,84.391
+16,Italy,Ferrari,SAI,10,4,84.684
+16,Italy,Mercedes,HAM,10,5,84.909
+16,Italy,Red Bull,VER,10,6,84.964
+16,Italy,Mercedes,RUS,10,7,85.468
+16,Italy,Red Bull,PER,10,8,84.841
+16,Italy,Williams,ALB,10,9,85.711
+16,Italy,Aston Martin,ALO,10,10,85.832
+16,Italy,Racing Bulls,RIC,10,11,86.111
+16,Italy,Haas,MAG,10,12,85.799
+16,Italy,Alpine,OCO,10,13,86.035
+16,Italy,Aston Martin,STR,10,14,86.182
+16,Italy,Williams,COL,10,15,86.289
+16,Italy,Kick Sauber,BOT,10,16,86.118
+16,Italy,Alpine,GAS,10,17,91.535
+16,Italy,Kick Sauber,ZHO,10,18,86.128
+16,Italy,Haas,HUL,10,19,85.194
+16,Italy,McLaren,PIA,31,1,83.221
+16,Italy,McLaren,NOR,31,2,84.94
+16,Italy,Ferrari,LEC,31,3,83.972
+16,Italy,Ferrari,SAI,31,4,83.33
+16,Italy,Mercedes,HAM,31,5,83.36
+16,Italy,Red Bull,VER,31,6,83.424
+16,Italy,Red Bull,PER,31,7,85.086
+16,Italy,Mercedes,RUS,31,8,85.331
+16,Italy,Aston Martin,ALO,31,9,85.128
+16,Italy,Williams,ALB,31,10,85.229
+16,Italy,Haas,MAG,31,11,84.458
+16,Italy,Alpine,OCO,31,12,90.757
+16,Italy,Racing Bulls,RIC,31,13,84.875
+16,Italy,Kick Sauber,BOT,31,14,86.004
+16,Italy,Williams,COL,31,15,85.586
+16,Italy,Aston Martin,STR,31,16,84.749
+16,Italy,Haas,HUL,31,17,85.142
+16,Italy,Kick Sauber,ZHO,31,18,85.478
+16,Italy,Alpine,GAS,31,19,105.757
+16,Italy,McLaren,PIA,16,1,89.939
+16,Italy,Ferrari,SAI,16,2,85.341
+16,Italy,Red Bull,VER,16,3,85.244
+16,Italy,Red Bull,PER,16,4,85.434
+16,Italy,Williams,ALB,16,5,86.454
+16,Italy,McLaren,NOR,16,6,84.154
+16,Italy,Ferrari,LEC,16,7,104.888
+16,Italy,Alpine,OCO,16,8,86.694
+16,Italy,Aston Martin,STR,16,9,86.593
+16,Italy,Mercedes,HAM,16,10,105.664
+16,Italy,Kick Sauber,BOT,16,11,86.569
+16,Italy,Williams,COL,16,12,91.193
+16,Italy,Mercedes,RUS,16,13,84.692
+16,Italy,Aston Martin,ALO,16,14,84.614
+16,Italy,Alpine,GAS,16,15,85.537
+16,Italy,Haas,MAG,16,16,85.644
+16,Italy,Racing Bulls,RIC,16,17,85.398
+16,Italy,Haas,HUL,16,18,85.017
+16,Italy,Kick Sauber,ZHO,16,19,109.128
+16,Italy,Ferrari,LEC,40,1,83.69
+16,Italy,Ferrari,SAI,40,2,83.803
+16,Italy,McLaren,PIA,40,3,82.264
+16,Italy,Red Bull,VER,40,4,84.337
+16,Italy,McLaren,NOR,40,5,84.162
+16,Italy,Mercedes,HAM,40,6,83.012
+16,Italy,Haas,MAG,40,7,84.282
+16,Italy,Mercedes,RUS,40,8,82.886
+16,Italy,Red Bull,PER,40,9,83.393
+16,Italy,Williams,ALB,40,10,84.552
+16,Italy,Racing Bulls,RIC,40,11,85.025
+16,Italy,Williams,COL,40,12,85.147
+16,Italy,Aston Martin,ALO,40,13,83.683
+16,Italy,Alpine,OCO,40,14,85.211
+16,Italy,Kick Sauber,ZHO,40,15,85.82
+16,Italy,Aston Martin,STR,40,16,85.777
+16,Italy,Alpine,GAS,40,17,85.104
+16,Italy,Kick Sauber,BOT,40,18,85.16
+16,Italy,Haas,HUL,40,19,83.621
+16,Italy,Red Bull,PER,22,1,85.709
+16,Italy,Red Bull,VER,22,2,89.668
+16,Italy,McLaren,PIA,22,3,83.647
+16,Italy,McLaren,NOR,22,4,83.652
+16,Italy,Ferrari,LEC,22,5,83.768
+16,Italy,Ferrari,SAI,22,6,84.226
+16,Italy,Mercedes,HAM,22,7,84.613
+16,Italy,Alpine,OCO,22,8,86.327
+16,Italy,Mercedes,RUS,22,9,84.711
+16,Italy,Aston Martin,ALO,22,10,85.451
+16,Italy,Kick Sauber,BOT,22,11,87.404
+16,Italy,Williams,ALB,22,12,85.053
+16,Italy,Alpine,GAS,22,13,85.105
+16,Italy,Haas,MAG,22,14,85.071
+16,Italy,Racing Bulls,RIC,22,15,85.08
+16,Italy,Williams,COL,22,16,84.852
+16,Italy,Aston Martin,STR,22,17,84.721
+16,Italy,Haas,HUL,22,18,85.565
+16,Italy,Kick Sauber,ZHO,22,19,85.876
+16,Italy,McLaren,PIA,13,1,84.67
+16,Italy,Ferrari,LEC,13,2,85.529
+16,Italy,McLaren,NOR,13,3,85.359
+16,Italy,Ferrari,SAI,13,4,85.423
+16,Italy,Mercedes,HAM,13,5,85.329
+16,Italy,Red Bull,VER,13,6,84.957
+16,Italy,Red Bull,PER,13,7,85.041
+16,Italy,Williams,ALB,13,8,85.533
+16,Italy,Haas,MAG,13,9,86.286
+16,Italy,Alpine,OCO,13,10,86.059
+16,Italy,Aston Martin,STR,13,11,86.143
+16,Italy,Williams,COL,13,12,86.41
+16,Italy,Kick Sauber,BOT,13,13,86.349
+16,Italy,Kick Sauber,ZHO,13,14,86.802
+16,Italy,Aston Martin,ALO,13,15,105.594
+16,Italy,Mercedes,RUS,13,16,84.546
+16,Italy,Alpine,GAS,13,17,84.816
+16,Italy,Racing Bulls,RIC,13,18,86.122
+16,Italy,Haas,HUL,13,19,84.983
+16,Italy,McLaren,PIA,3,1,85.261
+16,Italy,Ferrari,LEC,3,2,85.179
+16,Italy,McLaren,NOR,3,3,85.11
+16,Italy,Ferrari,SAI,3,4,85.358
+16,Italy,Mercedes,HAM,3,5,85.63
+16,Italy,Red Bull,VER,3,6,85.855
+16,Italy,Mercedes,RUS,3,7,85.733
+16,Italy,Red Bull,PER,3,8,85.757
+16,Italy,Williams,ALB,3,9,86.282
+16,Italy,Aston Martin,ALO,3,10,86.41
+16,Italy,Racing Bulls,RIC,3,11,86.588
+16,Italy,Haas,MAG,3,12,86.584
+16,Italy,Alpine,GAS,3,13,86.646
+16,Italy,Alpine,OCO,3,14,86.466
+16,Italy,Racing Bulls,TSU,3,15,86.665
+16,Italy,Haas,HUL,3,16,86.434
+16,Italy,Williams,COL,3,17,86.578
+16,Italy,Aston Martin,STR,3,18,86.734
+16,Italy,Kick Sauber,BOT,3,19,86.918
+16,Italy,Kick Sauber,ZHO,3,20,86.997
+16,Italy,McLaren,PIA,8,1,84.57
+16,Italy,Ferrari,LEC,8,2,84.569
+16,Italy,McLaren,NOR,8,3,84.674
+16,Italy,Ferrari,SAI,8,4,84.87
+16,Italy,Mercedes,HAM,8,5,84.871
+16,Italy,Red Bull,VER,8,6,84.918
+16,Italy,Mercedes,RUS,8,7,85.216
+16,Italy,Red Bull,PER,8,8,85.186
+16,Italy,Williams,ALB,8,9,85.963
+16,Italy,Aston Martin,ALO,8,10,85.693
+16,Italy,Racing Bulls,RIC,8,11,85.993
+16,Italy,Haas,MAG,8,12,85.966
+16,Italy,Alpine,GAS,8,13,86.465
+16,Italy,Alpine,OCO,8,14,86.053
+16,Italy,Aston Martin,STR,8,15,85.799
+16,Italy,Williams,COL,8,16,86.385
+16,Italy,Kick Sauber,BOT,8,17,86.206
+16,Italy,Kick Sauber,ZHO,8,18,86.411
+16,Italy,Haas,HUL,8,19,85.351
+16,Italy,Ferrari,LEC,45,1,83.731
+16,Italy,McLaren,PIA,45,2,83.675
+16,Italy,Ferrari,SAI,45,3,85.113
+16,Italy,McLaren,NOR,45,4,82.398
+16,Italy,Mercedes,HAM,45,5,82.176
+16,Italy,Red Bull,VER,45,6,83.363
+16,Italy,Mercedes,RUS,45,7,82.685
+16,Italy,Red Bull,PER,45,8,83.033
+16,Italy,Haas,MAG,45,9,84.272
+16,Italy,Williams,ALB,45,10,84.569
+16,Italy,Racing Bulls,RIC,45,11,85.063
+16,Italy,Aston Martin,ALO,45,12,83.484
+16,Italy,Williams,COL,45,13,84.812
+16,Italy,Alpine,OCO,45,14,84.587
+16,Italy,Aston Martin,STR,45,15,83.427
+16,Italy,Alpine,GAS,45,16,85.425
+16,Italy,Kick Sauber,ZHO,45,17,85.632
+16,Italy,Kick Sauber,BOT,45,18,84.588
+16,Italy,Haas,HUL,45,19,83.807
+16,Italy,Ferrari,LEC,39,1,83.718
+16,Italy,Ferrari,SAI,39,2,83.809
+16,Italy,McLaren,PIA,39,3,103.438
+16,Italy,Red Bull,VER,39,4,83.501
+16,Italy,McLaren,NOR,39,5,83.061
+16,Italy,Mercedes,HAM,39,6,82.968
+16,Italy,Haas,MAG,39,7,84.463
+16,Italy,Mercedes,RUS,39,8,83.142
+16,Italy,Red Bull,PER,39,9,83.707
+16,Italy,Williams,ALB,39,10,84.971
+16,Italy,Racing Bulls,RIC,39,11,85.033
+16,Italy,Williams,COL,39,12,85.128
+16,Italy,Aston Martin,ALO,39,13,83.77
+16,Italy,Alpine,OCO,39,14,85.267
+16,Italy,Kick Sauber,ZHO,39,15,85.584
+16,Italy,Aston Martin,STR,39,16,84.43
+16,Italy,Alpine,GAS,39,17,84.591
+16,Italy,Kick Sauber,BOT,39,18,85.081
+16,Italy,Haas,HUL,39,19,84.019
+16,Italy,Ferrari,LEC,52,1,83.75
+16,Italy,McLaren,PIA,52,2,81.948
+16,Italy,McLaren,NOR,52,3,82.302
+16,Italy,Ferrari,SAI,52,4,83.722
+16,Italy,Mercedes,HAM,52,5,85.703
+16,Italy,Red Bull,VER,52,6,82.92
+16,Italy,Mercedes,RUS,52,7,82.447
+16,Italy,Red Bull,PER,52,8,84.071
+16,Italy,Haas,MAG,52,9,83.691
+16,Italy,Williams,ALB,52,10,83.955
+16,Italy,Aston Martin,ALO,52,11,83.761
+16,Italy,Racing Bulls,RIC,52,12,84.219
+16,Italy,Williams,COL,52,13,84.429
+16,Italy,Alpine,OCO,52,14,84.343
+16,Italy,Alpine,GAS,52,15,83.973
+16,Italy,Kick Sauber,BOT,52,16,83.609
+16,Italy,Haas,HUL,52,17,83.966
+16,Italy,Kick Sauber,ZHO,52,18,87.28
+16,Italy,Aston Martin,STR,52,19,82.232
+16,Italy,Ferrari,LEC,53,1,83.268
+16,Italy,McLaren,PIA,53,2,81.943
+16,Italy,McLaren,NOR,53,3,81.432
+16,Italy,Ferrari,SAI,53,4,83.219
+16,Italy,Mercedes,HAM,53,5,81.512
+16,Italy,Red Bull,VER,53,6,83.711
+16,Italy,Mercedes,RUS,53,7,82.7
+16,Italy,Red Bull,PER,53,8,84.511
+16,Italy,Haas,MAG,53,9,83.715
+16,Italy,Williams,ALB,53,10,83.918
+16,Italy,Aston Martin,ALO,53,11,83.686
+16,Italy,Racing Bulls,RIC,53,12,84.347
+16,Italy,Williams,COL,53,13,83.728
+16,Italy,Red Bull,VER,19,1,85.537
+16,Italy,Ferrari,SAI,19,2,90.388
+16,Italy,Red Bull,PER,19,3,85.683
+16,Italy,McLaren,PIA,19,4,84.602
+16,Italy,McLaren,NOR,19,5,84.152
+16,Italy,Ferrari,LEC,19,6,84.203
+16,Italy,Alpine,OCO,19,7,86.174
+16,Italy,Mercedes,HAM,19,8,84.649
+16,Italy,Kick Sauber,BOT,19,9,86.456
+16,Italy,Aston Martin,STR,19,10,91.321
+16,Italy,Mercedes,RUS,19,11,84.706
+16,Italy,Aston Martin,ALO,19,12,85.314
+16,Italy,Williams,ALB,19,13,85.254
+16,Italy,Alpine,GAS,19,14,85.403
+16,Italy,Haas,MAG,19,15,85.109
+16,Italy,Racing Bulls,RIC,19,16,84.897
+16,Italy,Williams,COL,19,17,84.928
+16,Italy,Haas,HUL,19,18,85.326
+16,Italy,Kick Sauber,ZHO,19,19,85.777
+16,Italy,McLaren,PIA,25,1,83.23
+16,Italy,McLaren,NOR,25,2,83.321
+16,Italy,Ferrari,LEC,25,3,83.59
+16,Italy,Ferrari,SAI,25,4,83.687
+16,Italy,Mercedes,HAM,25,5,83.804
+16,Italy,Red Bull,VER,25,6,83.801
+16,Italy,Red Bull,PER,25,7,84.109
+16,Italy,Mercedes,RUS,25,8,85.174
+16,Italy,Alpine,OCO,25,9,87.519
+16,Italy,Aston Martin,ALO,25,10,84.504
+16,Italy,Williams,ALB,25,11,84.707
+16,Italy,Kick Sauber,BOT,25,12,86.863
+16,Italy,Haas,MAG,25,13,85.504
+16,Italy,Alpine,GAS,25,14,85.988
+16,Italy,Racing Bulls,RIC,25,15,85.047
+16,Italy,Williams,COL,25,16,84.916
+16,Italy,Aston Martin,STR,25,17,84.743
+16,Italy,Haas,HUL,25,18,85.716
+16,Italy,Kick Sauber,ZHO,25,19,85.583
+16,Italy,Ferrari,LEC,44,1,83.43
+16,Italy,Ferrari,SAI,44,2,83.931
+16,Italy,McLaren,PIA,44,3,82.628
+16,Italy,McLaren,NOR,44,4,82.403
+16,Italy,Mercedes,HAM,44,5,82.136
+16,Italy,Red Bull,VER,44,6,83.045
+16,Italy,Mercedes,RUS,44,7,82.923
+16,Italy,Red Bull,PER,44,8,83.617
+16,Italy,Haas,MAG,44,9,85.205
+16,Italy,Williams,ALB,44,10,84.678
+16,Italy,Racing Bulls,RIC,44,11,84.776
+16,Italy,Aston Martin,ALO,44,12,83.529
+16,Italy,Williams,COL,44,13,85.161
+16,Italy,Alpine,OCO,44,14,84.669
+16,Italy,Aston Martin,STR,44,15,83.654
+16,Italy,Alpine,GAS,44,16,86.175
+16,Italy,Kick Sauber,ZHO,44,17,86.918
+16,Italy,Kick Sauber,BOT,44,18,84.792
+16,Italy,Haas,HUL,44,19,83.275
+16,Italy,Ferrari,LEC,42,1,83.67
+16,Italy,Ferrari,SAI,42,2,83.838
+16,Italy,McLaren,PIA,42,3,82.331
+16,Italy,McLaren,NOR,42,4,82.678
+16,Italy,Mercedes,HAM,42,5,82.52
+16,Italy,Red Bull,VER,42,6,104.09
+16,Italy,Mercedes,RUS,42,7,82.799
+16,Italy,Haas,MAG,42,8,84.628
+16,Italy,Red Bull,PER,42,9,83.908
+16,Italy,Williams,ALB,42,10,84.874
+16,Italy,Racing Bulls,RIC,42,11,84.954
+16,Italy,Williams,COL,42,12,84.62
+16,Italy,Aston Martin,ALO,42,13,83.637
+16,Italy,Alpine,OCO,42,14,85.119
+16,Italy,Aston Martin,STR,42,15,83.823
+16,Italy,Alpine,GAS,42,16,84.605
+16,Italy,Kick Sauber,ZHO,42,17,87.64
+16,Italy,Kick Sauber,BOT,42,18,86.036
+16,Italy,Haas,HUL,42,19,83.624
+16,Italy,Ferrari,SAI,18,1,85.678
+16,Italy,Red Bull,VER,18,2,85.469
+16,Italy,Red Bull,PER,18,3,85.448
+16,Italy,McLaren,PIA,18,4,84.028
+16,Italy,McLaren,NOR,18,5,83.92
+16,Italy,Ferrari,LEC,18,6,83.875
+16,Italy,Alpine,OCO,18,7,86.234
+16,Italy,Mercedes,HAM,18,8,84.831
+16,Italy,Aston Martin,STR,18,9,87.524
+16,Italy,Kick Sauber,BOT,18,10,86.359
+16,Italy,Mercedes,RUS,18,11,84.521
+16,Italy,Aston Martin,ALO,18,12,84.882
+16,Italy,Williams,ALB,18,13,106.033
+16,Italy,Alpine,GAS,18,14,86.182
+16,Italy,Haas,MAG,18,15,86.533
+16,Italy,Racing Bulls,RIC,18,16,85.062
+16,Italy,Williams,COL,18,17,84.485
+16,Italy,Haas,HUL,18,18,85.465
+16,Italy,Kick Sauber,ZHO,18,19,85.245
+16,Italy,McLaren,PIA,6,1,84.603
+16,Italy,Ferrari,LEC,6,2,84.663
+16,Italy,McLaren,NOR,6,3,84.768
+16,Italy,Ferrari,SAI,6,4,84.642
+16,Italy,Mercedes,HAM,6,5,84.919
+16,Italy,Red Bull,VER,6,6,85.096
+16,Italy,Mercedes,RUS,6,7,85.101
+16,Italy,Red Bull,PER,6,8,85.105
+16,Italy,Williams,ALB,6,9,85.946
+16,Italy,Aston Martin,ALO,6,10,85.911
+16,Italy,Racing Bulls,RIC,6,11,85.899
+16,Italy,Haas,MAG,6,12,85.902
+16,Italy,Alpine,GAS,6,13,86.042
+16,Italy,Alpine,OCO,6,14,85.684
+16,Italy,Williams,COL,6,15,86.057
+16,Italy,Aston Martin,STR,6,16,85.558
+16,Italy,Kick Sauber,BOT,6,17,86.499
+16,Italy,Kick Sauber,ZHO,6,18,85.942
+16,Italy,Racing Bulls,TSU,6,19,88.473
+16,Italy,Haas,HUL,6,20,120.178
+16,Italy,McLaren,PIA,24,1,83.315
+16,Italy,McLaren,NOR,24,2,83.601
+16,Italy,Ferrari,LEC,24,3,83.64
+16,Italy,Ferrari,SAI,24,4,83.682
+16,Italy,Mercedes,HAM,24,5,83.818
+16,Italy,Red Bull,VER,24,6,83.545
+16,Italy,Alpine,OCO,24,7,86.77
+16,Italy,Red Bull,PER,24,8,105.017
+16,Italy,Mercedes,RUS,24,9,84.621
+16,Italy,Aston Martin,ALO,24,10,84.588
+16,Italy,Kick Sauber,BOT,24,11,86.542
+16,Italy,Williams,ALB,24,12,85.196
+16,Italy,Haas,MAG,24,13,85.131
+16,Italy,Alpine,GAS,24,14,85.882
+16,Italy,Racing Bulls,RIC,24,15,84.931
+16,Italy,Williams,COL,24,16,84.635
+16,Italy,Aston Martin,STR,24,17,84.768
+16,Italy,Haas,HUL,24,18,85.608
+16,Italy,Kick Sauber,ZHO,24,19,86.041
+16,Italy,McLaren,PIA,15,1,85.166
+16,Italy,Ferrari,SAI,15,2,85.183
+16,Italy,Ferrari,LEC,15,3,90.192
+16,Italy,Red Bull,VER,15,4,85.746
+16,Italy,Red Bull,PER,15,5,85.543
+16,Italy,Mercedes,HAM,15,6,90.365
+16,Italy,Williams,ALB,15,7,86.463
+16,Italy,McLaren,NOR,15,8,103.84
+16,Italy,Alpine,OCO,15,9,86.677
+16,Italy,Aston Martin,STR,15,10,86.986
+16,Italy,Williams,COL,15,11,86.672
+16,Italy,Kick Sauber,BOT,15,12,86.79
+16,Italy,Kick Sauber,ZHO,15,13,92.048
+16,Italy,Mercedes,RUS,15,14,84.56
+16,Italy,Aston Martin,ALO,15,15,84.67
+16,Italy,Alpine,GAS,15,16,85.529
+16,Italy,Haas,MAG,15,17,107.023
+16,Italy,Racing Bulls,RIC,15,18,85.572
+16,Italy,Haas,HUL,15,19,85.862
+16,Italy,McLaren,PIA,12,1,84.748
+16,Italy,Ferrari,LEC,12,2,84.916
+16,Italy,McLaren,NOR,12,3,84.655
+16,Italy,Ferrari,SAI,12,4,85.276
+16,Italy,Mercedes,HAM,12,5,84.932
+16,Italy,Red Bull,VER,12,6,84.968
+16,Italy,Red Bull,PER,12,7,84.654
+16,Italy,Williams,ALB,12,8,85.468
+16,Italy,Haas,MAG,12,9,86.145
+16,Italy,Alpine,OCO,12,10,85.954
+16,Italy,Aston Martin,ALO,12,11,89.74
+16,Italy,Aston Martin,STR,12,12,85.947
+16,Italy,Williams,COL,12,13,86.5
+16,Italy,Kick Sauber,BOT,12,14,86.207
+16,Italy,Kick Sauber,ZHO,12,15,86.348
+16,Italy,Mercedes,RUS,12,16,113.412
+16,Italy,Alpine,GAS,12,17,85.07
+16,Italy,Racing Bulls,RIC,12,18,112.188
+16,Italy,Haas,HUL,12,19,85.166
+16,Italy,Ferrari,LEC,51,1,83.555
+16,Italy,McLaren,PIA,51,2,82.424
+16,Italy,McLaren,NOR,51,3,82.269
+16,Italy,Ferrari,SAI,51,4,83.754
+16,Italy,Mercedes,HAM,51,5,82.737
+16,Italy,Red Bull,VER,51,6,82.574
+16,Italy,Mercedes,RUS,51,7,82.311
+16,Italy,Red Bull,PER,51,8,83.415
+16,Italy,Haas,MAG,51,9,83.437
+16,Italy,Williams,ALB,51,10,83.921
+16,Italy,Aston Martin,ALO,51,11,83.468
+16,Italy,Racing Bulls,RIC,51,12,84.639
+16,Italy,Williams,COL,51,13,84.186
+16,Italy,Alpine,OCO,51,14,84.59
+16,Italy,Alpine,GAS,51,15,83.755
+16,Italy,Kick Sauber,BOT,51,16,83.979
+16,Italy,Haas,HUL,51,17,84.211
+16,Italy,Kick Sauber,ZHO,51,18,85.946
+16,Italy,Aston Martin,STR,51,19,110.98
+16,Italy,Red Bull,VER,21,1,85.381
+16,Italy,Red Bull,PER,21,2,85.864
+16,Italy,McLaren,PIA,21,3,83.903
+16,Italy,McLaren,NOR,21,4,83.753
+16,Italy,Ferrari,LEC,21,5,83.88
+16,Italy,Ferrari,SAI,21,6,84.499
+16,Italy,Mercedes,HAM,21,7,84.915
+16,Italy,Alpine,OCO,21,8,86.45
+16,Italy,Mercedes,RUS,21,9,84.626
+16,Italy,Kick Sauber,BOT,21,10,87.23
+16,Italy,Aston Martin,ALO,21,11,85.297
+16,Italy,Williams,ALB,21,12,84.86
+16,Italy,Alpine,GAS,21,13,84.878
+16,Italy,Haas,MAG,21,14,84.793
+16,Italy,Racing Bulls,RIC,21,15,84.991
+16,Italy,Williams,COL,21,16,84.784
+16,Italy,Aston Martin,STR,21,17,84.721
+16,Italy,Haas,HUL,21,18,85.735
+16,Italy,Kick Sauber,ZHO,21,19,85.743
+16,Italy,Ferrari,LEC,49,1,83.467
+16,Italy,McLaren,PIA,49,2,82.945
+16,Italy,McLaren,NOR,49,3,82.436
+16,Italy,Ferrari,SAI,49,4,83.921
+16,Italy,Mercedes,HAM,49,5,82.446
+16,Italy,Red Bull,VER,49,6,82.584
+16,Italy,Mercedes,RUS,49,7,82.036
+16,Italy,Red Bull,PER,49,8,83.612
+16,Italy,Haas,MAG,49,9,83.708
+16,Italy,Williams,ALB,49,10,84.262
+16,Italy,Aston Martin,ALO,49,11,83.525
+16,Italy,Racing Bulls,RIC,49,12,84.617
+16,Italy,Williams,COL,49,13,84.474
+16,Italy,Alpine,OCO,49,14,85.79
+16,Italy,Aston Martin,STR,49,15,85.064
+16,Italy,Alpine,GAS,49,16,83.852
+16,Italy,Kick Sauber,BOT,49,17,83.885
+16,Italy,Haas,HUL,49,18,83.404
+16,Italy,Kick Sauber,ZHO,49,19,86.298
+16,Italy,McLaren,PIA,33,1,83.148
+16,Italy,Ferrari,LEC,33,2,83.226
+16,Italy,Ferrari,SAI,33,3,83.412
+16,Italy,Mercedes,HAM,33,4,83.397
+16,Italy,Red Bull,VER,33,5,83.621
+16,Italy,McLaren,NOR,33,6,104.073
+16,Italy,Red Bull,PER,33,7,83.473
+16,Italy,Mercedes,RUS,33,8,88.264
+16,Italy,Aston Martin,ALO,33,9,85.289
+16,Italy,Haas,MAG,33,10,84.853
+16,Italy,Williams,ALB,33,11,86.282
+16,Italy,Racing Bulls,RIC,33,12,84.662
+16,Italy,Williams,COL,33,13,84.868
+16,Italy,Aston Martin,STR,33,14,84.947
+16,Italy,Kick Sauber,BOT,33,15,90.924
+16,Italy,Alpine,OCO,33,16,84.652
+16,Italy,Kick Sauber,ZHO,33,17,85.451
+16,Italy,Alpine,GAS,33,18,84.252
+16,Italy,Haas,HUL,33,19,116.554
+16,Italy,McLaren,PIA,36,1,83.746
+16,Italy,Ferrari,LEC,36,2,83.714
+16,Italy,Ferrari,SAI,36,3,83.27
+16,Italy,Mercedes,HAM,36,4,83.601
+16,Italy,Red Bull,VER,36,5,83.559
+16,Italy,McLaren,NOR,36,6,83.114
+16,Italy,Haas,MAG,36,7,84.276
+16,Italy,Williams,ALB,36,8,84.748
+16,Italy,Red Bull,PER,36,9,104.074
+16,Italy,Mercedes,RUS,36,10,83.333
+16,Italy,Racing Bulls,RIC,36,11,85.081
+16,Italy,Williams,COL,36,12,84.84
+16,Italy,Aston Martin,STR,36,13,89.334
+16,Italy,Aston Martin,ALO,36,14,104.152
+16,Italy,Alpine,OCO,36,15,84.942
+16,Italy,Kick Sauber,ZHO,36,16,86.606
+16,Italy,Alpine,GAS,36,17,85.591
+16,Italy,Kick Sauber,BOT,36,18,85.114
+16,Italy,Haas,HUL,36,19,83.772
+16,Italy,Ferrari,LEC,50,1,83.461
+16,Italy,McLaren,PIA,50,2,82.586
+16,Italy,McLaren,NOR,50,3,83.266
+16,Italy,Ferrari,SAI,50,4,83.769
+16,Italy,Mercedes,HAM,50,5,82.243
+16,Italy,Red Bull,VER,50,6,82.585
+16,Italy,Mercedes,RUS,50,7,82.156
+16,Italy,Red Bull,PER,50,8,83.39
+16,Italy,Haas,MAG,50,9,83.603
+16,Italy,Williams,ALB,50,10,83.956
+16,Italy,Aston Martin,ALO,50,11,83.511
+16,Italy,Racing Bulls,RIC,50,12,84.817
+16,Italy,Williams,COL,50,13,84.3
+16,Italy,Alpine,OCO,50,14,85.688
+16,Italy,Aston Martin,STR,50,15,90.186
+16,Italy,Alpine,GAS,50,16,84.077
+16,Italy,Kick Sauber,BOT,50,17,84.357
+16,Italy,Haas,HUL,50,18,84.017
+16,Italy,Kick Sauber,ZHO,50,19,85.539
+16,Italy,Ferrari,LEC,43,1,83.867
+16,Italy,Ferrari,SAI,43,2,83.793
+16,Italy,McLaren,PIA,43,3,82.092
+16,Italy,McLaren,NOR,43,4,82.25
+16,Italy,Mercedes,HAM,43,5,82.396
+16,Italy,Red Bull,VER,43,6,81.745
+16,Italy,Mercedes,RUS,43,7,82.939
+16,Italy,Haas,MAG,43,8,84.605
+16,Italy,Red Bull,PER,43,9,84.537
+16,Italy,Williams,ALB,43,10,84.669
+16,Italy,Racing Bulls,RIC,43,11,85.179
+16,Italy,Aston Martin,ALO,43,12,83.681
+16,Italy,Williams,COL,43,13,85.979
+16,Italy,Alpine,OCO,43,14,86.111
+16,Italy,Aston Martin,STR,43,15,83.81
+16,Italy,Alpine,GAS,43,16,85.142
+16,Italy,Kick Sauber,ZHO,43,17,86.916
+16,Italy,Kick Sauber,BOT,43,18,84.637
+16,Italy,Haas,HUL,43,19,83.591
+16,Italy,McLaren,PIA,32,1,83.48
+16,Italy,Ferrari,LEC,32,2,83.274
+16,Italy,McLaren,NOR,32,3,87.414
+16,Italy,Ferrari,SAI,32,4,83.354
+16,Italy,Mercedes,HAM,32,5,83.328
+16,Italy,Red Bull,VER,32,6,83.49
+16,Italy,Red Bull,PER,32,7,83.825
+16,Italy,Mercedes,RUS,32,8,83.542
+16,Italy,Aston Martin,ALO,32,9,85.099
+16,Italy,Williams,ALB,32,10,84.412
+16,Italy,Haas,MAG,32,11,84.408
+16,Italy,Racing Bulls,RIC,32,12,84.69
+16,Italy,Williams,COL,32,13,85.433
+16,Italy,Aston Martin,STR,32,14,85.576
+16,Italy,Kick Sauber,BOT,32,15,87.859
+16,Italy,Alpine,OCO,32,16,104.71
+16,Italy,Haas,HUL,32,17,89.903
+16,Italy,Kick Sauber,ZHO,32,18,85.356
+16,Italy,Alpine,GAS,32,19,84.423
+16,Italy,McLaren,PIA,34,1,83.456
+16,Italy,Ferrari,LEC,34,2,83.43
+16,Italy,Ferrari,SAI,34,3,83.285
+16,Italy,Mercedes,HAM,34,4,83.531
+16,Italy,Red Bull,VER,34,5,83.576
+16,Italy,McLaren,NOR,34,6,82.837
+16,Italy,Red Bull,PER,34,7,83.611
+16,Italy,Aston Martin,ALO,34,8,85.083
+16,Italy,Haas,MAG,34,9,84.702
+16,Italy,Williams,ALB,34,10,85.57
+16,Italy,Racing Bulls,RIC,34,11,84.777
+16,Italy,Mercedes,RUS,34,12,104.863
+16,Italy,Williams,COL,34,13,84.921
+16,Italy,Aston Martin,STR,34,14,84.856
+16,Italy,Alpine,OCO,34,15,84.965
+16,Italy,Kick Sauber,ZHO,34,16,85.487
+16,Italy,Alpine,GAS,34,17,84.383
+16,Italy,Kick Sauber,BOT,34,18,105.462
+16,Italy,Haas,HUL,34,19,83.587
+16,Italy,McLaren,PIA,35,1,83.409
+16,Italy,Ferrari,LEC,35,2,83.681
+16,Italy,Ferrari,SAI,35,3,83.334
+16,Italy,Mercedes,HAM,35,4,83.378
+16,Italy,Red Bull,VER,35,5,83.589
+16,Italy,McLaren,NOR,35,6,83.137
+16,Italy,Red Bull,PER,35,7,88.255
+16,Italy,Haas,MAG,35,8,84.17
+16,Italy,Aston Martin,ALO,35,9,89.799
+16,Italy,Williams,ALB,35,10,84.994
+16,Italy,Mercedes,RUS,35,11,82.944
+16,Italy,Racing Bulls,RIC,35,12,85.588
+16,Italy,Williams,COL,35,13,84.798
+16,Italy,Aston Martin,STR,35,14,84.863
+16,Italy,Alpine,OCO,35,15,85.019
+16,Italy,Kick Sauber,ZHO,35,16,85.52
+16,Italy,Alpine,GAS,35,17,84.822
+16,Italy,Kick Sauber,BOT,35,18,85.336
+16,Italy,Haas,HUL,35,19,83.761
+16,Italy,Ferrari,LEC,48,1,83.518
+16,Italy,McLaren,PIA,48,2,82.725
+16,Italy,McLaren,NOR,48,3,81.824
+16,Italy,Ferrari,SAI,48,4,84.939
+16,Italy,Mercedes,HAM,48,5,82.794
+16,Italy,Red Bull,VER,48,6,82.57
+16,Italy,Mercedes,RUS,48,7,82.165
+16,Italy,Red Bull,PER,48,8,83.315
+16,Italy,Haas,MAG,48,9,83.741
+16,Italy,Williams,ALB,48,10,84.149
+16,Italy,Aston Martin,ALO,48,11,83.245
+16,Italy,Racing Bulls,RIC,48,12,84.518
+16,Italy,Williams,COL,48,13,84.538
+16,Italy,Alpine,OCO,48,14,84.458
+16,Italy,Aston Martin,STR,48,15,86.104
+16,Italy,Alpine,GAS,48,16,84.036
+16,Italy,Kick Sauber,BOT,48,17,85.126
+16,Italy,Kick Sauber,ZHO,48,18,85.84
+16,Italy,Haas,HUL,48,19,85.125
+16,Italy,McLaren,PIA,29,1,83.066
+16,Italy,McLaren,NOR,29,2,83.3
+16,Italy,Ferrari,LEC,29,3,83.229
+16,Italy,Ferrari,SAI,29,4,83.473
+16,Italy,Mercedes,HAM,29,5,83.507
+16,Italy,Red Bull,VER,29,6,83.452
+16,Italy,Red Bull,PER,29,7,83.854
+16,Italy,Mercedes,RUS,29,8,83.516
+16,Italy,Aston Martin,ALO,29,9,85.011
+16,Italy,Alpine,OCO,29,10,86.099
+16,Italy,Williams,ALB,29,11,84.871
+16,Italy,Haas,MAG,29,12,84.799
+16,Italy,Racing Bulls,RIC,29,13,84.835
+16,Italy,Kick Sauber,BOT,29,14,86.827
+16,Italy,Alpine,GAS,29,15,86.079
+16,Italy,Williams,COL,29,16,85.634
+16,Italy,Aston Martin,STR,29,17,85.397
+16,Italy,Haas,HUL,29,18,85.57
+16,Italy,Kick Sauber,ZHO,29,19,85.515
