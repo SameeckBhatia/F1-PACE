@@ -20,7 +20,8 @@ driver_colors <- list(
   "VER" = "#3671C6", "PER" = "#204374", "LEC" = "#E8002D", "SAI" = "#800019",
   "BEA" = "#800019", "RUS" = "#27F4D2", "HAM" = "#09AA8F", "NOR" = "#FF8000",
   "PIA" = "#994C00", "ALO" = "#229971", "STR" = "#104735", "RIC" = "#6692FF",
-  "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D"
+  "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D", "ALB" = "#64C4FF",
+  "COL" = "#4789B3"
 )
 
 # Outlier function
