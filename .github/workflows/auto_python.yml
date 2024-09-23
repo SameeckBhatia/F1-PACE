@@ -2,7 +2,7 @@ name: Auto Python
 
 on:
   schedule:
-    - cron: '59 21 1,15,22 9 *'
+    - cron: '59 09 21,28 10 *'
 
 jobs:
   run-python:
