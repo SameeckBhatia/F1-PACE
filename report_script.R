@@ -150,3 +150,6 @@ plot_all("Italy", "ALB", "COL", "#009B47")
 
 # Azerbaijan GP
 plot_all("Azerbaijan", "PER", "SAI", "#0092BC")
+
+# Singapore GP
+plot_all("Singapore", "ALO", "HUL", "#EE2536")
