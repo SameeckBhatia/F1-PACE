@@ -20259,120 +20259,25 @@ round,grand_prix,constructor,driver,lap,position,time
 18,Singapore,Alpine,OCO,31,17,98.887
 18,Singapore,Haas,MAG,31,18,98.206
 18,Singapore,Aston Martin,STR,31,19,98.495
-19,United States,Ferrari,LEC,50,1,97.951
-19,United States,Ferrari,SAI,50,2,98.27
-19,United States,Red Bull,VER,50,3,98.692
-19,United States,McLaren,NOR,50,4,98.813
-19,United States,McLaren,PIA,50,5,97.979
-19,United States,Red Bull,PER,50,6,98.729
-19,United States,Mercedes,RUS,50,7,97.943
-19,United States,Haas,HUL,50,8,98.651
-19,United States,,LAW,50,9,98.513
-19,United States,Williams,COL,50,10,98.026
-19,United States,Haas,MAG,50,11,98.676
-19,United States,Alpine,GAS,50,12,99.174
-19,United States,Aston Martin,ALO,50,13,99.584
-19,United States,Racing Bulls,TSU,50,14,99.863
-19,United States,Alpine,OCO,50,15,99.573
-19,United States,Aston Martin,STR,50,16,99.759
-19,United States,Williams,ALB,50,17,99.639
-19,United States,Kick Sauber,BOT,50,18,101.045
-19,United States,Kick Sauber,ZHO,50,19,99.963
-19,United States,Ferrari,LEC,45,1,98.349
-19,United States,Ferrari,SAI,45,2,98.28
-19,United States,Red Bull,VER,45,3,98.269
-19,United States,McLaren,NOR,45,4,98.34
-19,United States,McLaren,PIA,45,5,97.979
-19,United States,Red Bull,PER,45,6,98.514
-19,United States,Mercedes,RUS,45,7,97.963
-19,United States,Haas,HUL,45,8,100.572
-19,United States,,LAW,45,9,99.084
-19,United States,Williams,COL,45,10,98.532
-19,United States,Alpine,GAS,45,11,100.665
-19,United States,Haas,MAG,45,12,99.045
-19,United States,Aston Martin,ALO,45,13,99.999
-19,United States,Racing Bulls,TSU,45,14,99.711
-19,United States,Alpine,OCO,45,15,99.827
-19,United States,Aston Martin,STR,45,16,100.481
-19,United States,Kick Sauber,BOT,45,17,105.416
-19,United States,Williams,ALB,45,18,99.961
-19,United States,Kick Sauber,ZHO,45,19,99.658
-19,United States,Ferrari,LEC,26,1,100.211
-19,United States,McLaren,NOR,26,2,99.527
-19,United States,McLaren,PIA,26,3,99.299
-19,United States,Ferrari,SAI,26,4,99.342
-19,United States,Red Bull,VER,26,5,119.619
-19,United States,Red Bull,PER,26,6,100.789
-19,United States,Haas,HUL,26,7,100.664
-19,United States,Mercedes,RUS,26,8,100.158
-19,United States,,LAW,26,9,100.922
-19,United States,Williams,COL,26,10,100.9
-19,United States,Aston Martin,ALO,26,11,102.193
-19,United States,Haas,MAG,26,12,100.479
-19,United States,Alpine,OCO,26,13,101.547
-19,United States,Williams,ALB,26,14,102.357
-19,United States,Aston Martin,STR,26,15,103.213
-19,United States,Alpine,GAS,26,16,101.954
-19,United States,Racing Bulls,TSU,26,17,100.927
-19,United States,Kick Sauber,BOT,26,18,100.839
-19,United States,Kick Sauber,ZHO,26,19,101.364
-19,United States,Ferrari,LEC,20,1,99.756
-19,United States,Red Bull,VER,20,2,99.986
-19,United States,Ferrari,SAI,20,3,99.814
-19,United States,McLaren,NOR,20,4,99.891
-19,United States,McLaren,PIA,20,5,99.791
-19,United States,Red Bull,PER,20,6,100.252
-19,United States,Haas,HUL,20,7,100.447
-19,United States,,LAW,20,8,100.988
-19,United States,Mercedes,RUS,20,9,100.766
-19,United States,Aston Martin,ALO,20,10,101.585
-19,United States,Williams,COL,20,11,101.123
-19,United States,Alpine,OCO,20,12,101.427
-19,United States,Aston Martin,STR,20,13,101.601
-19,United States,Williams,ALB,20,14,101.411
-19,United States,Haas,MAG,20,15,100.996
-19,United States,Alpine,GAS,20,16,101.596
-19,United States,Racing Bulls,TSU,20,17,101.198
-19,United States,Kick Sauber,BOT,20,18,100.837
-19,United States,Kick Sauber,ZHO,20,19,101.858
-19,United States,Ferrari,LEC,47,1,98.471
-19,United States,Ferrari,SAI,47,2,98.883
-19,United States,Red Bull,VER,47,3,99.191
-19,United States,McLaren,NOR,47,4,99.194
-19,United States,McLaren,PIA,47,5,98.655
-19,United States,Red Bull,PER,47,6,98.914
-19,United States,Mercedes,RUS,47,7,97.79
-19,United States,Haas,HUL,47,8,98.997
-19,United States,,LAW,47,9,98.631
-19,United States,Williams,COL,47,10,97.991
-19,United States,Haas,MAG,47,11,98.779
-19,United States,Alpine,GAS,47,12,100.973
-19,United States,Aston Martin,ALO,47,13,99.533
-19,United States,Racing Bulls,TSU,47,14,99.631
-19,United States,Alpine,OCO,47,15,99.596
-19,United States,Aston Martin,STR,47,16,99.524
-19,United States,Williams,ALB,47,17,99.552
-19,United States,Kick Sauber,BOT,47,18,101.064
-19,United States,Kick Sauber,ZHO,47,19,99.625
-19,United States,Ferrari,LEC,54,1,98.175
-19,United States,Ferrari,SAI,54,2,98.2
-19,United States,McLaren,NOR,54,3,97.889
-19,United States,Red Bull,VER,54,4,98.661
-19,United States,McLaren,PIA,54,5,97.954
-19,United States,Red Bull,PER,54,6,98.803
-19,United States,Mercedes,RUS,54,7,98.724
-19,United States,Haas,HUL,54,8,98.775
-19,United States,,LAW,54,9,98.091
-19,United States,Williams,COL,54,10,97.708
-19,United States,Haas,MAG,54,11,98.325
-19,United States,Alpine,GAS,54,12,98.728
-19,United States,Aston Martin,ALO,54,13,101.67
-19,United States,Racing Bulls,TSU,54,14,99.193
-19,United States,Aston Martin,STR,54,15,99.214
-19,United States,Williams,ALB,54,16,99.084
-19,United States,Kick Sauber,BOT,54,17,100.679
-19,United States,Alpine,OCO,54,18,99.993
-19,United States,Kick Sauber,ZHO,54,19,99.596
+19,United States,Ferrari,LEC,23,1,99.878
+19,United States,Red Bull,VER,23,2,100.42
+19,United States,McLaren,NOR,23,3,99.81
+19,United States,McLaren,PIA,23,4,99.91
+19,United States,Ferrari,SAI,23,5,98.731
+19,United States,Red Bull,PER,23,6,100.681
+19,United States,Haas,HUL,23,7,100.77
+19,United States,Mercedes,RUS,23,8,100.174
+19,United States,Racing Bulls,LAW,23,9,100.853
+19,United States,Williams,COL,23,10,101.312
+19,United States,Aston Martin,ALO,23,11,101.766
+19,United States,Alpine,OCO,23,12,101.72
+19,United States,Haas,MAG,23,13,100.732
+19,United States,Aston Martin,STR,23,14,102.237
+19,United States,Williams,ALB,23,15,101.886
+19,United States,Alpine,GAS,23,16,101.083
+19,United States,Racing Bulls,TSU,23,17,101.365
+19,United States,Kick Sauber,BOT,23,18,101.138
+19,United States,Kick Sauber,ZHO,23,19,102.259
 19,United States,Ferrari,LEC,46,1,99.177
 19,United States,Ferrari,SAI,46,2,98.618
 19,United States,Red Bull,VER,46,3,98.255
@@ -20381,7 +20286,7 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Red Bull,PER,46,6,98.579
 19,United States,Mercedes,RUS,46,7,97.782
 19,United States,Haas,HUL,46,8,98.645
-19,United States,,LAW,46,9,98.619
+19,United States,Racing Bulls,LAW,46,9,98.619
 19,United States,Williams,COL,46,10,97.611
 19,United States,Alpine,GAS,46,11,99.364
 19,United States,Haas,MAG,46,12,99.085
@@ -20392,177 +20297,32 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Williams,ALB,46,17,101.733
 19,United States,Kick Sauber,BOT,46,18,103.225
 19,United States,Kick Sauber,ZHO,46,19,99.858
-19,United States,Ferrari,LEC,9,1,99.257
-19,United States,Red Bull,VER,9,2,100.032
-19,United States,Ferrari,SAI,9,3,100.022
-19,United States,McLaren,NOR,9,4,100.196
-19,United States,McLaren,PIA,9,5,100.285
-19,United States,Alpine,GAS,9,6,100.712
-19,United States,Haas,MAG,9,7,100.634
-19,United States,Racing Bulls,TSU,9,8,100.953
-19,United States,Red Bull,PER,9,9,101.402
-19,United States,Haas,HUL,9,10,101.651
-19,United States,Aston Martin,ALO,9,11,101.975
-19,United States,,LAW,9,12,102.1
-19,United States,Kick Sauber,ZHO,9,13,101.91
-19,United States,Williams,COL,9,14,101.98
-19,United States,Kick Sauber,BOT,9,15,102.031
-19,United States,Mercedes,RUS,9,16,101.913
-19,United States,Alpine,OCO,9,17,101.837
-19,United States,Aston Martin,STR,9,18,101.972
-19,United States,Williams,ALB,9,19,102.001
-19,United States,Ferrari,LEC,2,1,100.341
-19,United States,Red Bull,VER,2,2,99.991
-19,United States,Ferrari,SAI,2,3,99.923
-19,United States,McLaren,NOR,2,4,100.864
-19,United States,McLaren,PIA,2,5,101.768
-19,United States,Alpine,GAS,2,6,102.067
-19,United States,Haas,MAG,2,7,102.038
-19,United States,Racing Bulls,TSU,2,8,102.114
-19,United States,Red Bull,PER,2,9,102.416
-19,United States,Aston Martin,ALO,2,10,102.72
-19,United States,Haas,HUL,2,11,102.841
-19,United States,Aston Martin,STR,2,12,102.792
-19,United States,,LAW,2,13,102.809
-19,United States,Kick Sauber,ZHO,2,14,102.96
-19,United States,Williams,COL,2,15,103.005
-19,United States,Kick Sauber,BOT,2,16,103.075
-19,United States,Mercedes,RUS,2,17,103.503
-19,United States,Williams,ALB,2,18,104.544
-19,United States,Alpine,OCO,2,19,101.717
-19,United States,Ferrari,LEC,8,1,99.307
-19,United States,Red Bull,VER,8,2,100.082
-19,United States,Ferrari,SAI,8,3,100.944
-19,United States,McLaren,NOR,8,4,100.411
-19,United States,McLaren,PIA,8,5,100.678
-19,United States,Alpine,GAS,8,6,101.037
-19,United States,Haas,MAG,8,7,100.836
-19,United States,Racing Bulls,TSU,8,8,101.101
-19,United States,Red Bull,PER,8,9,101.129
-19,United States,Haas,HUL,8,10,101.285
-19,United States,Aston Martin,ALO,8,11,101.508
-19,United States,,LAW,8,12,101.557
-19,United States,Kick Sauber,ZHO,8,13,101.474
-19,United States,Williams,COL,8,14,101.451
-19,United States,Kick Sauber,BOT,8,15,101.483
-19,United States,Mercedes,RUS,8,16,101.524
-19,United States,Alpine,OCO,8,17,101.675
-19,United States,Aston Martin,STR,8,18,101.873
-19,United States,Williams,ALB,8,19,102.144
-19,United States,Ferrari,LEC,39,1,97.834
-19,United States,Ferrari,SAI,39,2,98.075
-19,United States,Red Bull,VER,39,3,98.358
-19,United States,McLaren,NOR,39,4,98.062
-19,United States,McLaren,PIA,39,5,98.183
-19,United States,Mercedes,RUS,39,6,98.997
-19,United States,Red Bull,PER,39,7,98.986
-19,United States,Williams,COL,39,8,100.591
-19,United States,Haas,HUL,39,9,99.294
-19,United States,,LAW,39,10,99.396
-19,United States,Alpine,GAS,39,11,99.981
-19,United States,Racing Bulls,TSU,39,12,99.614
-19,United States,Haas,MAG,39,13,118.617
-19,United States,Aston Martin,ALO,39,14,100.079
-19,United States,Kick Sauber,BOT,39,15,100.78
-19,United States,Alpine,OCO,39,16,99.635
-19,United States,Aston Martin,STR,39,17,100.038
-19,United States,Williams,ALB,39,18,99.531
-19,United States,Kick Sauber,ZHO,39,19,101.88
-19,United States,Ferrari,LEC,56,1,99.518
-19,United States,Ferrari,SAI,56,2,101.083
-19,United States,McLaren,NOR,56,3,97.758
-19,United States,Red Bull,VER,56,4,99.018
-19,United States,McLaren,PIA,56,5,99.112
-19,United States,Mercedes,RUS,56,6,97.955
-19,United States,Red Bull,PER,56,7,99.57
-19,United States,Haas,HUL,56,8,99.0
-19,United States,,LAW,56,9,99.273
-19,United States,Williams,COL,56,10,98.488
-19,United States,Haas,MAG,56,11,98.21
-19,United States,Alpine,GAS,56,12,98.769
-19,United States,Ferrari,LEC,44,1,98.697
-19,United States,Ferrari,SAI,44,2,98.45
-19,United States,Red Bull,VER,44,3,98.453
-19,United States,McLaren,NOR,44,4,98.229
-19,United States,McLaren,PIA,44,5,98.455
-19,United States,Red Bull,PER,44,6,98.781
-19,United States,Haas,HUL,44,7,98.902
-19,United States,Mercedes,RUS,44,8,97.826
-19,United States,,LAW,44,9,99.057
-19,United States,Alpine,GAS,44,10,99.55
-19,United States,Williams,COL,44,11,98.876
-19,United States,Haas,MAG,44,12,98.671
-19,United States,Aston Martin,ALO,44,13,99.452
-19,United States,Racing Bulls,TSU,44,14,99.379
-19,United States,Kick Sauber,BOT,44,15,101.717
-19,United States,Alpine,OCO,44,16,101.275
-19,United States,Aston Martin,STR,44,17,100.001
-19,United States,Williams,ALB,44,18,101.215
-19,United States,Kick Sauber,ZHO,44,19,100.033
-19,United States,Ferrari,LEC,42,1,98.179
-19,United States,Ferrari,SAI,42,2,97.763
-19,United States,Red Bull,VER,42,3,98.117
-19,United States,McLaren,NOR,42,4,97.925
-19,United States,McLaren,PIA,42,5,97.883
-19,United States,Red Bull,PER,42,6,98.866
-19,United States,Haas,HUL,42,7,98.941
-19,United States,Mercedes,RUS,42,8,97.656
-19,United States,,LAW,42,9,98.409
-19,United States,Alpine,GAS,42,10,99.141
-19,United States,Williams,COL,42,11,98.533
-19,United States,Haas,MAG,42,12,98.653
-19,United States,Aston Martin,ALO,42,13,99.445
-19,United States,Racing Bulls,TSU,42,14,99.212
-19,United States,Kick Sauber,BOT,42,15,101.243
-19,United States,Alpine,OCO,42,16,100.078
-19,United States,Aston Martin,STR,42,17,100.085
-19,United States,Williams,ALB,42,18,99.241
-19,United States,Kick Sauber,ZHO,42,19,100.168
-19,United States,Ferrari,LEC,36,1,98.643
-19,United States,Ferrari,SAI,36,2,98.587
-19,United States,Red Bull,VER,36,3,98.715
-19,United States,McLaren,NOR,36,4,98.317
-19,United States,McLaren,PIA,36,5,98.31
-19,United States,Mercedes,RUS,36,6,99.152
-19,United States,,LAW,36,7,101.342
-19,United States,Williams,COL,36,8,100.026
-19,United States,Red Bull,PER,36,9,100.162
-19,United States,Haas,MAG,36,10,99.786
-19,United States,Haas,HUL,36,11,99.196
-19,United States,Alpine,GAS,36,12,100.63
-19,United States,Racing Bulls,TSU,36,13,99.923
-19,United States,Aston Martin,ALO,36,14,100.213
-19,United States,Kick Sauber,BOT,36,15,101.155
-19,United States,Alpine,OCO,36,16,100.301
-19,United States,Aston Martin,STR,36,17,100.435
-19,United States,Williams,ALB,36,18,99.721
-19,United States,Kick Sauber,ZHO,36,19,126.093
-19,United States,Ferrari,LEC,4,1,151.204
-19,United States,Red Bull,VER,4,2,151.496
-19,United States,Ferrari,SAI,4,3,151.665
-19,United States,McLaren,NOR,4,4,150.67
-19,United States,McLaren,PIA,4,5,149.123
-19,United States,Alpine,GAS,4,6,149.84
-19,United States,Haas,MAG,4,7,150.492
-19,United States,Racing Bulls,TSU,4,8,150.263
-19,United States,Red Bull,PER,4,9,150.697
-19,United States,Aston Martin,ALO,4,10,149.599
-19,United States,Haas,HUL,4,11,149.504
-19,United States,Aston Martin,STR,4,12,150.476
-19,United States,,LAW,4,13,150.921
-19,United States,Kick Sauber,ZHO,4,14,149.649
-19,United States,Williams,COL,4,15,150.829
-19,United States,Kick Sauber,BOT,4,16,150.342
-19,United States,Mercedes,RUS,4,17,150.121
-19,United States,Alpine,OCO,4,18,150.669
-19,United States,Williams,ALB,4,19,156.139
+19,United States,Ferrari,LEC,13,1,99.399
+19,United States,Red Bull,VER,13,2,99.936
+19,United States,Ferrari,SAI,13,3,100.014
+19,United States,McLaren,NOR,13,4,100.347
+19,United States,McLaren,PIA,13,5,100.579
+19,United States,Alpine,GAS,13,6,101.046
+19,United States,Haas,MAG,13,7,101.15
+19,United States,Racing Bulls,TSU,13,8,101.223
+19,United States,Red Bull,PER,13,9,101.219
+19,United States,Haas,HUL,13,10,101.334
+19,United States,Racing Bulls,LAW,13,11,101.32
+19,United States,Aston Martin,ALO,13,12,101.687
+19,United States,Williams,COL,13,13,101.766
+19,United States,Mercedes,RUS,13,14,101.3
+19,United States,Kick Sauber,BOT,13,15,102.677
+19,United States,Alpine,OCO,13,16,102.257
+19,United States,Aston Martin,STR,13,17,102.102
+19,United States,Williams,ALB,13,18,102.458
+19,United States,Kick Sauber,ZHO,13,19,102.427
 19,United States,Ferrari,LEC,35,1,98.897
 19,United States,Ferrari,SAI,35,2,98.62
 19,United States,Red Bull,VER,35,3,99.004
 19,United States,McLaren,NOR,35,4,97.918
 19,United States,McLaren,PIA,35,5,98.022
 19,United States,Mercedes,RUS,35,6,99.925
-19,United States,,LAW,35,7,100.484
+19,United States,Racing Bulls,LAW,35,7,100.484
 19,United States,Williams,COL,35,8,100.195
 19,United States,Red Bull,PER,35,9,100.105
 19,United States,Haas,MAG,35,10,99.585
@@ -20575,44 +20335,101 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Aston Martin,STR,35,17,100.399
 19,United States,Williams,ALB,35,18,100.029
 19,United States,Kick Sauber,ZHO,35,19,101.783
-19,United States,McLaren,NOR,30,1,99.705
-19,United States,McLaren,PIA,30,2,99.661
-19,United States,Ferrari,LEC,30,3,99.034
-19,United States,Ferrari,SAI,30,4,98.674
-19,United States,Red Bull,VER,30,5,98.75
-19,United States,Mercedes,RUS,30,6,99.577
-19,United States,,LAW,30,7,100.622
-19,United States,Williams,COL,30,8,100.366
-19,United States,Red Bull,PER,30,9,99.633
-19,United States,Haas,MAG,30,10,100.769
-19,United States,Alpine,OCO,30,11,101.452
-19,United States,Haas,HUL,30,12,100.338
-19,United States,Alpine,GAS,30,13,100.672
-19,United States,Racing Bulls,TSU,30,14,100.706
-19,United States,Williams,ALB,30,15,101.651
-19,United States,Kick Sauber,BOT,30,16,101.185
-19,United States,Aston Martin,ALO,30,17,100.21
-19,United States,Aston Martin,STR,30,18,100.384
-19,United States,Kick Sauber,ZHO,30,19,101.532
-19,United States,Ferrari,LEC,23,1,99.878
-19,United States,Red Bull,VER,23,2,100.42
-19,United States,McLaren,NOR,23,3,99.81
-19,United States,McLaren,PIA,23,4,99.91
-19,United States,Ferrari,SAI,23,5,98.731
-19,United States,Red Bull,PER,23,6,100.681
-19,United States,Haas,HUL,23,7,100.77
-19,United States,Mercedes,RUS,23,8,100.174
-19,United States,,LAW,23,9,100.853
-19,United States,Williams,COL,23,10,101.312
-19,United States,Aston Martin,ALO,23,11,101.766
-19,United States,Alpine,OCO,23,12,101.72
-19,United States,Haas,MAG,23,13,100.732
-19,United States,Aston Martin,STR,23,14,102.237
-19,United States,Williams,ALB,23,15,101.886
-19,United States,Alpine,GAS,23,16,101.083
-19,United States,Racing Bulls,TSU,23,17,101.365
-19,United States,Kick Sauber,BOT,23,18,101.138
-19,United States,Kick Sauber,ZHO,23,19,102.259
+19,United States,Ferrari,LEC,12,1,99.448
+19,United States,Red Bull,VER,12,2,100.182
+19,United States,Ferrari,SAI,12,3,100.241
+19,United States,McLaren,NOR,12,4,100.652
+19,United States,McLaren,PIA,12,5,100.696
+19,United States,Alpine,GAS,12,6,101.086
+19,United States,Haas,MAG,12,7,101.161
+19,United States,Racing Bulls,TSU,12,8,101.513
+19,United States,Red Bull,PER,12,9,101.491
+19,United States,Haas,HUL,12,10,101.432
+19,United States,Racing Bulls,LAW,12,11,101.26
+19,United States,Aston Martin,ALO,12,12,101.701
+19,United States,Williams,COL,12,13,101.886
+19,United States,Kick Sauber,BOT,12,14,101.945
+19,United States,Mercedes,RUS,12,15,101.837
+19,United States,Alpine,OCO,12,16,101.866
+19,United States,Aston Martin,STR,12,17,102.174
+19,United States,Williams,ALB,12,18,101.938
+19,United States,Kick Sauber,ZHO,12,19,102.262
+19,United States,Ferrari,LEC,2,1,100.341
+19,United States,Red Bull,VER,2,2,99.991
+19,United States,Ferrari,SAI,2,3,99.923
+19,United States,McLaren,NOR,2,4,100.864
+19,United States,McLaren,PIA,2,5,101.768
+19,United States,Alpine,GAS,2,6,102.067
+19,United States,Haas,MAG,2,7,102.038
+19,United States,Racing Bulls,TSU,2,8,102.114
+19,United States,Red Bull,PER,2,9,102.416
+19,United States,Aston Martin,ALO,2,10,102.72
+19,United States,Haas,HUL,2,11,102.841
+19,United States,Aston Martin,STR,2,12,102.792
+19,United States,Racing Bulls,LAW,2,13,102.809
+19,United States,Kick Sauber,ZHO,2,14,102.96
+19,United States,Williams,COL,2,15,103.005
+19,United States,Kick Sauber,BOT,2,16,103.075
+19,United States,Mercedes,RUS,2,17,103.503
+19,United States,Williams,ALB,2,18,104.544
+19,United States,Alpine,OCO,2,19,101.717
+19,United States,Ferrari,LEC,10,1,99.421
+19,United States,Red Bull,VER,10,2,99.97
+19,United States,Ferrari,SAI,10,3,99.887
+19,United States,McLaren,NOR,10,4,100.369
+19,United States,McLaren,PIA,10,5,100.339
+19,United States,Alpine,GAS,10,6,100.571
+19,United States,Haas,MAG,10,7,101.287
+19,United States,Racing Bulls,TSU,10,8,101.192
+19,United States,Red Bull,PER,10,9,101.136
+19,United States,Haas,HUL,10,10,101.3
+19,United States,Aston Martin,ALO,10,11,101.928
+19,United States,Racing Bulls,LAW,10,12,102.012
+19,United States,Williams,COL,10,13,101.702
+19,United States,Kick Sauber,BOT,10,14,101.749
+19,United States,Mercedes,RUS,10,15,101.994
+19,United States,Alpine,OCO,10,16,102.093
+19,United States,Aston Martin,STR,10,17,101.813
+19,United States,Williams,ALB,10,18,102.736
+19,United States,Kick Sauber,ZHO,10,19,110.686
+19,United States,Ferrari,LEC,3,1,122.873
+19,United States,Red Bull,VER,3,2,122.849
+19,United States,Ferrari,SAI,3,3,123.612
+19,United States,McLaren,NOR,3,4,124.41
+19,United States,McLaren,PIA,3,5,126.009
+19,United States,Alpine,GAS,3,6,128.872
+19,United States,Haas,MAG,3,7,128.559
+19,United States,Racing Bulls,TSU,3,8,131.6
+19,United States,Red Bull,PER,3,9,132.043
+19,United States,Aston Martin,ALO,3,10,133.66
+19,United States,Haas,HUL,3,11,134.259
+19,United States,Aston Martin,STR,3,12,134.001
+19,United States,Racing Bulls,LAW,3,13,135.152
+19,United States,Kick Sauber,ZHO,3,14,136.979
+19,United States,Williams,COL,3,15,137.406
+19,United States,Kick Sauber,BOT,3,16,138.546
+19,United States,Williams,ALB,3,17,136.698
+19,United States,Mercedes,RUS,3,18,140.454
+19,United States,Alpine,OCO,3,19,138.048
+19,United States,Ferrari,LEC,25,1,99.583
+19,United States,Red Bull,VER,25,2,100.718
+19,United States,McLaren,NOR,25,3,99.607
+19,United States,McLaren,PIA,25,4,99.409
+19,United States,Ferrari,SAI,25,5,99.355
+19,United States,Red Bull,PER,25,6,100.115
+19,United States,Haas,HUL,25,7,100.269
+19,United States,Mercedes,RUS,25,8,99.692
+19,United States,Racing Bulls,LAW,25,9,100.653
+19,United States,Williams,COL,25,10,100.756
+19,United States,Aston Martin,ALO,25,11,101.614
+19,United States,Haas,MAG,25,12,100.292
+19,United States,Alpine,OCO,25,13,102.393
+19,United States,Aston Martin,STR,25,14,101.634
+19,United States,Williams,ALB,25,15,101.418
+19,United States,Alpine,GAS,25,16,100.986
+19,United States,Racing Bulls,TSU,25,17,101.073
+19,United States,Kick Sauber,BOT,25,18,100.909
+19,United States,Kick Sauber,ZHO,25,19,101.696
 19,United States,Ferrari,LEC,1,1,99.987
 19,United States,Red Bull,VER,1,2,101.657
 19,United States,Ferrari,SAI,1,3,102.273
@@ -20626,241 +20443,32 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Haas,HUL,1,11,107.084
 19,United States,Mercedes,HAM,1,12,108.064
 19,United States,Aston Martin,STR,1,13,108.52
-19,United States,,LAW,1,14,108.974
+19,United States,Racing Bulls,LAW,1,14,108.974
 19,United States,Kick Sauber,ZHO,1,15,109.473
 19,United States,Williams,COL,1,16,109.923
 19,United States,Kick Sauber,BOT,1,17,110.705
 19,United States,Williams,ALB,1,18,111.269
 19,United States,Mercedes,RUS,1,19,111.647
 19,United States,Alpine,OCO,1,20,116.745
-19,United States,Ferrari,LEC,17,1,99.621
-19,United States,Red Bull,VER,17,2,100.16
-19,United States,Ferrari,SAI,17,3,100.203
-19,United States,McLaren,NOR,17,4,99.915
-19,United States,McLaren,PIA,17,5,99.925
-19,United States,Alpine,GAS,17,6,102.142
-19,United States,Haas,MAG,17,7,101.895
-19,United States,Red Bull,PER,17,8,101.48
-19,United States,Racing Bulls,TSU,17,9,103.026
-19,United States,Haas,HUL,17,10,101.19
-19,United States,,LAW,17,11,101.371
-19,United States,Mercedes,RUS,17,12,101.132
-19,United States,Aston Martin,ALO,17,13,102.424
-19,United States,Williams,COL,17,14,101.523
-19,United States,Alpine,OCO,17,15,101.831
-19,United States,Aston Martin,STR,17,16,102.054
-19,United States,Williams,ALB,17,17,101.884
-19,United States,Kick Sauber,BOT,17,18,100.801
-19,United States,Kick Sauber,ZHO,17,19,101.886
-19,United States,Ferrari,LEC,19,1,99.553
-19,United States,Red Bull,VER,19,2,99.981
-19,United States,Ferrari,SAI,19,3,99.898
-19,United States,McLaren,NOR,19,4,99.612
-19,United States,McLaren,PIA,19,5,99.685
-19,United States,Red Bull,PER,19,6,100.258
-19,United States,Haas,HUL,19,7,100.43
-19,United States,,LAW,19,8,101.101
-19,United States,Mercedes,RUS,19,9,101.203
-19,United States,Aston Martin,ALO,19,10,101.677
-19,United States,Williams,COL,19,11,101.01
-19,United States,Alpine,OCO,19,12,101.517
-19,United States,Aston Martin,STR,19,13,101.57
-19,United States,Williams,ALB,19,14,101.601
-19,United States,Haas,MAG,19,15,100.868
-19,United States,Alpine,GAS,19,16,125.822
-19,United States,Racing Bulls,TSU,19,17,122.848
-19,United States,Kick Sauber,BOT,19,18,100.869
-19,United States,Kick Sauber,ZHO,19,19,101.352
-19,United States,Ferrari,LEC,3,1,122.873
-19,United States,Red Bull,VER,3,2,122.849
-19,United States,Ferrari,SAI,3,3,123.612
-19,United States,McLaren,NOR,3,4,124.41
-19,United States,McLaren,PIA,3,5,126.009
-19,United States,Alpine,GAS,3,6,128.872
-19,United States,Haas,MAG,3,7,128.559
-19,United States,Racing Bulls,TSU,3,8,131.6
-19,United States,Red Bull,PER,3,9,132.043
-19,United States,Aston Martin,ALO,3,10,133.66
-19,United States,Haas,HUL,3,11,134.259
-19,United States,Aston Martin,STR,3,12,134.001
-19,United States,,LAW,3,13,135.152
-19,United States,Kick Sauber,ZHO,3,14,136.979
-19,United States,Williams,COL,3,15,137.406
-19,United States,Kick Sauber,BOT,3,16,138.546
-19,United States,Williams,ALB,3,17,136.698
-19,United States,Mercedes,RUS,3,18,140.454
-19,United States,Alpine,OCO,3,19,138.048
-19,United States,Ferrari,LEC,38,1,98.57
-19,United States,Ferrari,SAI,38,2,98.189
-19,United States,Red Bull,VER,38,3,98.641
-19,United States,McLaren,NOR,38,4,98.081
-19,United States,McLaren,PIA,38,5,98.212
-19,United States,Mercedes,RUS,38,6,99.331
-19,United States,Red Bull,PER,38,7,98.939
-19,United States,Williams,COL,38,8,100.11
-19,United States,Haas,MAG,38,9,99.843
-19,United States,Haas,HUL,38,10,99.179
-19,United States,,LAW,38,11,98.905
-19,United States,Alpine,GAS,38,12,100.845
-19,United States,Racing Bulls,TSU,38,13,99.855
-19,United States,Aston Martin,ALO,38,14,100.14
-19,United States,Kick Sauber,BOT,38,15,100.944
-19,United States,Alpine,OCO,38,16,99.937
-19,United States,Aston Martin,STR,38,17,100.025
-19,United States,Williams,ALB,38,18,99.69
-19,United States,Kick Sauber,ZHO,38,19,100.148
-19,United States,Ferrari,LEC,14,1,99.2
-19,United States,Red Bull,VER,14,2,99.846
-19,United States,Ferrari,SAI,14,3,100.038
-19,United States,McLaren,NOR,14,4,100.322
-19,United States,McLaren,PIA,14,5,100.807
-19,United States,Alpine,GAS,14,6,101.551
-19,United States,Haas,MAG,14,7,101.279
-19,United States,Racing Bulls,TSU,14,8,101.351
-19,United States,Red Bull,PER,14,9,101.431
-19,United States,Haas,HUL,14,10,101.048
-19,United States,,LAW,14,11,101.383
-19,United States,Aston Martin,ALO,14,12,101.706
-19,United States,Mercedes,RUS,14,13,101.098
-19,United States,Williams,COL,14,14,102.97
-19,United States,Kick Sauber,BOT,14,15,102.125
-19,United States,Alpine,OCO,14,16,102.249
-19,United States,Aston Martin,STR,14,17,102.062
-19,United States,Williams,ALB,14,18,102.221
-19,United States,Kick Sauber,ZHO,14,19,122.835
-19,United States,Ferrari,LEC,51,1,97.875
-19,United States,Ferrari,SAI,51,2,98.501
-19,United States,Red Bull,VER,51,3,99.105
-19,United States,McLaren,NOR,51,4,99.066
-19,United States,McLaren,PIA,51,5,98.532
-19,United States,Red Bull,PER,51,6,98.67
-19,United States,Mercedes,RUS,51,7,98.059
-19,United States,Haas,HUL,51,8,98.404
-19,United States,,LAW,51,9,98.453
-19,United States,Williams,COL,51,10,98.665
-19,United States,Haas,MAG,51,11,98.877
-19,United States,Alpine,GAS,51,12,99.384
-19,United States,Aston Martin,ALO,51,13,99.29
-19,United States,Racing Bulls,TSU,51,14,99.521
-19,United States,Alpine,OCO,51,15,101.838
-19,United States,Aston Martin,STR,51,16,99.896
-19,United States,Williams,ALB,51,17,99.72
-19,United States,Kick Sauber,BOT,51,18,102.931
-19,United States,Kick Sauber,ZHO,51,19,99.398
-19,United States,Ferrari,LEC,32,1,98.825
-19,United States,McLaren,PIA,32,2,101.107
-19,United States,Ferrari,SAI,32,3,99.025
-19,United States,Red Bull,VER,32,4,99.106
-19,United States,McLaren,NOR,32,5,119.605
-19,United States,Mercedes,RUS,32,6,99.553
-19,United States,,LAW,32,7,100.451
-19,United States,Williams,COL,32,8,100.27
-19,United States,Red Bull,PER,32,9,99.378
-19,United States,Haas,MAG,32,10,100.166
-19,United States,Haas,HUL,32,11,99.687
-19,United States,Alpine,GAS,32,12,100.493
-19,United States,Racing Bulls,TSU,32,13,100.466
-19,United States,Williams,ALB,32,14,101.297
-19,United States,Kick Sauber,BOT,32,15,100.932
-19,United States,Aston Martin,ALO,32,16,100.6
-19,United States,Alpine,OCO,32,17,120.757
-19,United States,Aston Martin,STR,32,18,100.689
-19,United States,Kick Sauber,ZHO,32,19,101.643
-19,United States,Ferrari,LEC,25,1,99.583
-19,United States,Red Bull,VER,25,2,100.718
-19,United States,McLaren,NOR,25,3,99.607
-19,United States,McLaren,PIA,25,4,99.409
-19,United States,Ferrari,SAI,25,5,99.355
-19,United States,Red Bull,PER,25,6,100.115
-19,United States,Haas,HUL,25,7,100.269
-19,United States,Mercedes,RUS,25,8,99.692
-19,United States,,LAW,25,9,100.653
-19,United States,Williams,COL,25,10,100.756
-19,United States,Aston Martin,ALO,25,11,101.614
-19,United States,Haas,MAG,25,12,100.292
-19,United States,Alpine,OCO,25,13,102.393
-19,United States,Aston Martin,STR,25,14,101.634
-19,United States,Williams,ALB,25,15,101.418
-19,United States,Alpine,GAS,25,16,100.986
-19,United States,Racing Bulls,TSU,25,17,101.073
-19,United States,Kick Sauber,BOT,25,18,100.909
-19,United States,Kick Sauber,ZHO,25,19,101.696
-19,United States,Ferrari,LEC,6,1,98.951
-19,United States,Red Bull,VER,6,2,99.779
-19,United States,Ferrari,SAI,6,3,100.002
-19,United States,McLaren,NOR,6,4,100.663
-19,United States,McLaren,PIA,6,5,101.753
-19,United States,Alpine,GAS,6,6,102.096
-19,United States,Haas,MAG,6,7,102.311
-19,United States,Racing Bulls,TSU,6,8,102.559
-19,United States,Red Bull,PER,6,9,102.576
-19,United States,Aston Martin,ALO,6,10,103.042
-19,United States,Haas,HUL,6,11,103.09
-19,United States,,LAW,6,12,102.925
-19,United States,Kick Sauber,ZHO,6,13,103.259
-19,United States,Williams,COL,6,14,103.338
-19,United States,Kick Sauber,BOT,6,15,103.6
-19,United States,Mercedes,RUS,6,16,104.179
-19,United States,Alpine,OCO,6,17,104.34
-19,United States,Aston Martin,STR,6,18,107.096
-19,United States,Williams,ALB,6,19,104.652
-19,United States,Ferrari,LEC,13,1,99.399
-19,United States,Red Bull,VER,13,2,99.936
-19,United States,Ferrari,SAI,13,3,100.014
-19,United States,McLaren,NOR,13,4,100.347
-19,United States,McLaren,PIA,13,5,100.579
-19,United States,Alpine,GAS,13,6,101.046
-19,United States,Haas,MAG,13,7,101.15
-19,United States,Racing Bulls,TSU,13,8,101.223
-19,United States,Red Bull,PER,13,9,101.219
-19,United States,Haas,HUL,13,10,101.334
-19,United States,,LAW,13,11,101.32
-19,United States,Aston Martin,ALO,13,12,101.687
-19,United States,Williams,COL,13,13,101.766
-19,United States,Mercedes,RUS,13,14,101.3
-19,United States,Kick Sauber,BOT,13,15,102.677
-19,United States,Alpine,OCO,13,16,102.257
-19,United States,Aston Martin,STR,13,17,102.102
-19,United States,Williams,ALB,13,18,102.458
-19,United States,Kick Sauber,ZHO,13,19,102.427
-19,United States,Ferrari,LEC,10,1,99.421
-19,United States,Red Bull,VER,10,2,99.97
-19,United States,Ferrari,SAI,10,3,99.887
-19,United States,McLaren,NOR,10,4,100.369
-19,United States,McLaren,PIA,10,5,100.339
-19,United States,Alpine,GAS,10,6,100.571
-19,United States,Haas,MAG,10,7,101.287
-19,United States,Racing Bulls,TSU,10,8,101.192
-19,United States,Red Bull,PER,10,9,101.136
-19,United States,Haas,HUL,10,10,101.3
-19,United States,Aston Martin,ALO,10,11,101.928
-19,United States,,LAW,10,12,102.012
-19,United States,Williams,COL,10,13,101.702
-19,United States,Kick Sauber,BOT,10,14,101.749
-19,United States,Mercedes,RUS,10,15,101.994
-19,United States,Alpine,OCO,10,16,102.093
-19,United States,Aston Martin,STR,10,17,101.813
-19,United States,Williams,ALB,10,18,102.736
-19,United States,Kick Sauber,ZHO,10,19,110.686
-19,United States,Ferrari,LEC,48,1,98.313
-19,United States,Ferrari,SAI,48,2,98.13
-19,United States,Red Bull,VER,48,3,98.572
-19,United States,McLaren,NOR,48,4,98.436
-19,United States,McLaren,PIA,48,5,98.021
-19,United States,Red Bull,PER,48,6,98.842
-19,United States,Mercedes,RUS,48,7,98.041
-19,United States,Haas,HUL,48,8,98.594
-19,United States,,LAW,48,9,98.493
-19,United States,Williams,COL,48,10,98.326
-19,United States,Haas,MAG,48,11,99.025
-19,United States,Alpine,GAS,48,12,99.561
-19,United States,Aston Martin,ALO,48,13,99.638
-19,United States,Racing Bulls,TSU,48,14,99.697
-19,United States,Alpine,OCO,48,15,100.898
-19,United States,Aston Martin,STR,48,16,99.666
-19,United States,Williams,ALB,48,17,99.205
-19,United States,Kick Sauber,BOT,48,18,101.07
-19,United States,Kick Sauber,ZHO,48,19,100.219
+19,United States,Ferrari,LEC,11,1,99.597
+19,United States,Red Bull,VER,11,2,100.246
+19,United States,Ferrari,SAI,11,3,100.352
+19,United States,McLaren,NOR,11,4,100.668
+19,United States,McLaren,PIA,11,5,100.607
+19,United States,Alpine,GAS,11,6,101.291
+19,United States,Haas,MAG,11,7,101.697
+19,United States,Racing Bulls,TSU,11,8,101.613
+19,United States,Red Bull,PER,11,9,101.525
+19,United States,Haas,HUL,11,10,101.689
+19,United States,Racing Bulls,LAW,11,11,101.535
+19,United States,Aston Martin,ALO,11,12,103.326
+19,United States,Williams,COL,11,13,102.239
+19,United States,Kick Sauber,BOT,11,14,102.3
+19,United States,Mercedes,RUS,11,15,102.165
+19,United States,Alpine,OCO,11,16,102.258
+19,United States,Aston Martin,STR,11,17,102.777
+19,United States,Williams,ALB,11,18,102.219
+19,United States,Kick Sauber,ZHO,11,19,102.743
 19,United States,McLaren,NOR,27,1,99.093
 19,United States,McLaren,PIA,27,2,99.016
 19,United States,Ferrari,LEC,27,3,119.522
@@ -20868,7 +20476,7 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Red Bull,VER,27,5,99.046
 19,United States,Haas,HUL,27,6,101.173
 19,United States,Mercedes,RUS,27,7,99.889
-19,United States,,LAW,27,8,100.304
+19,United States,Racing Bulls,LAW,27,8,100.304
 19,United States,Williams,COL,27,9,100.451
 19,United States,Haas,MAG,27,10,100.126
 19,United States,Red Bull,PER,27,11,119.807
@@ -20880,51 +20488,108 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Kick Sauber,BOT,27,17,100.869
 19,United States,Aston Martin,ALO,27,18,120.837
 19,United States,Kick Sauber,ZHO,27,19,101.186
-19,United States,Ferrari,LEC,12,1,99.448
-19,United States,Red Bull,VER,12,2,100.182
-19,United States,Ferrari,SAI,12,3,100.241
-19,United States,McLaren,NOR,12,4,100.652
-19,United States,McLaren,PIA,12,5,100.696
-19,United States,Alpine,GAS,12,6,101.086
-19,United States,Haas,MAG,12,7,101.161
-19,United States,Racing Bulls,TSU,12,8,101.513
-19,United States,Red Bull,PER,12,9,101.491
-19,United States,Haas,HUL,12,10,101.432
-19,United States,,LAW,12,11,101.26
-19,United States,Aston Martin,ALO,12,12,101.701
-19,United States,Williams,COL,12,13,101.886
-19,United States,Kick Sauber,BOT,12,14,101.945
-19,United States,Mercedes,RUS,12,15,101.837
-19,United States,Alpine,OCO,12,16,101.866
-19,United States,Aston Martin,STR,12,17,102.174
-19,United States,Williams,ALB,12,18,101.938
-19,United States,Kick Sauber,ZHO,12,19,102.262
-19,United States,McLaren,NOR,29,1,99.548
-19,United States,McLaren,PIA,29,2,99.55
-19,United States,Ferrari,LEC,29,3,99.067
-19,United States,Ferrari,SAI,29,4,99.203
-19,United States,Red Bull,VER,29,5,99.067
-19,United States,Mercedes,RUS,29,6,99.624
-19,United States,,LAW,29,7,100.523
-19,United States,Williams,COL,29,8,100.542
-19,United States,Red Bull,PER,29,9,99.451
-19,United States,Haas,MAG,29,10,100.25
-19,United States,Alpine,OCO,29,11,101.194
-19,United States,Haas,HUL,29,12,100.912
-19,United States,Alpine,GAS,29,13,100.435
-19,United States,Racing Bulls,TSU,29,14,100.793
-19,United States,Williams,ALB,29,15,101.287
-19,United States,Kick Sauber,BOT,29,16,101.298
-19,United States,Aston Martin,ALO,29,17,100.48
-19,United States,Aston Martin,STR,29,18,99.575
-19,United States,Kick Sauber,ZHO,29,19,102.231
+19,United States,Ferrari,LEC,15,1,99.672
+19,United States,Red Bull,VER,15,2,100.192
+19,United States,Ferrari,SAI,15,3,100.071
+19,United States,McLaren,NOR,15,4,100.36
+19,United States,McLaren,PIA,15,5,101.013
+19,United States,Alpine,GAS,15,6,101.499
+19,United States,Haas,MAG,15,7,101.736
+19,United States,Racing Bulls,TSU,15,8,101.536
+19,United States,Red Bull,PER,15,9,101.611
+19,United States,Haas,HUL,15,10,101.824
+19,United States,Racing Bulls,LAW,15,11,102.041
+19,United States,Aston Martin,ALO,15,12,101.53
+19,United States,Mercedes,RUS,15,13,101.155
+19,United States,Williams,COL,15,14,101.801
+19,United States,Kick Sauber,BOT,15,15,102.714
+19,United States,Alpine,OCO,15,16,102.175
+19,United States,Aston Martin,STR,15,17,102.348
+19,United States,Williams,ALB,15,18,102.263
+19,United States,Kick Sauber,ZHO,15,19,101.376
+19,United States,Ferrari,LEC,38,1,98.57
+19,United States,Ferrari,SAI,38,2,98.189
+19,United States,Red Bull,VER,38,3,98.641
+19,United States,McLaren,NOR,38,4,98.081
+19,United States,McLaren,PIA,38,5,98.212
+19,United States,Mercedes,RUS,38,6,99.331
+19,United States,Red Bull,PER,38,7,98.939
+19,United States,Williams,COL,38,8,100.11
+19,United States,Haas,MAG,38,9,99.843
+19,United States,Haas,HUL,38,10,99.179
+19,United States,Racing Bulls,LAW,38,11,98.905
+19,United States,Alpine,GAS,38,12,100.845
+19,United States,Racing Bulls,TSU,38,13,99.855
+19,United States,Aston Martin,ALO,38,14,100.14
+19,United States,Kick Sauber,BOT,38,15,100.944
+19,United States,Alpine,OCO,38,16,99.937
+19,United States,Aston Martin,STR,38,17,100.025
+19,United States,Williams,ALB,38,18,99.69
+19,United States,Kick Sauber,ZHO,38,19,100.148
+19,United States,Ferrari,LEC,49,1,98.326
+19,United States,Ferrari,SAI,49,2,98.584
+19,United States,Red Bull,VER,49,3,98.598
+19,United States,McLaren,NOR,49,4,98.549
+19,United States,McLaren,PIA,49,5,98.023
+19,United States,Red Bull,PER,49,6,98.682
+19,United States,Mercedes,RUS,49,7,98.001
+19,United States,Haas,HUL,49,8,98.51
+19,United States,Racing Bulls,LAW,49,9,98.558
+19,United States,Williams,COL,49,10,98.412
+19,United States,Haas,MAG,49,11,98.746
+19,United States,Alpine,GAS,49,12,99.3
+19,United States,Aston Martin,ALO,49,13,99.949
+19,United States,Racing Bulls,TSU,49,14,99.476
+19,United States,Alpine,OCO,49,15,99.655
+19,United States,Aston Martin,STR,49,16,101.69
+19,United States,Williams,ALB,49,17,99.509
+19,United States,Kick Sauber,BOT,49,18,103.447
+19,United States,Kick Sauber,ZHO,49,19,100.24
+19,United States,Ferrari,LEC,26,1,100.211
+19,United States,McLaren,NOR,26,2,99.527
+19,United States,McLaren,PIA,26,3,99.299
+19,United States,Ferrari,SAI,26,4,99.342
+19,United States,Red Bull,VER,26,5,119.619
+19,United States,Red Bull,PER,26,6,100.789
+19,United States,Haas,HUL,26,7,100.664
+19,United States,Mercedes,RUS,26,8,100.158
+19,United States,Racing Bulls,LAW,26,9,100.922
+19,United States,Williams,COL,26,10,100.9
+19,United States,Aston Martin,ALO,26,11,102.193
+19,United States,Haas,MAG,26,12,100.479
+19,United States,Alpine,OCO,26,13,101.547
+19,United States,Williams,ALB,26,14,102.357
+19,United States,Aston Martin,STR,26,15,103.213
+19,United States,Alpine,GAS,26,16,101.954
+19,United States,Racing Bulls,TSU,26,17,100.927
+19,United States,Kick Sauber,BOT,26,18,100.839
+19,United States,Kick Sauber,ZHO,26,19,101.364
+19,United States,Ferrari,LEC,22,1,99.411
+19,United States,Red Bull,VER,22,2,100.099
+19,United States,McLaren,NOR,22,3,99.542
+19,United States,McLaren,PIA,22,4,99.864
+19,United States,Ferrari,SAI,22,5,117.897
+19,United States,Red Bull,PER,22,6,101.456
+19,United States,Haas,HUL,22,7,100.757
+19,United States,Mercedes,RUS,22,8,100.019
+19,United States,Racing Bulls,LAW,22,9,101.448
+19,United States,Williams,COL,22,10,101.25
+19,United States,Aston Martin,ALO,22,11,102.707
+19,United States,Alpine,OCO,22,12,101.63
+19,United States,Haas,MAG,22,13,100.479
+19,United States,Aston Martin,STR,22,14,102.657
+19,United States,Williams,ALB,22,15,102.169
+19,United States,Alpine,GAS,22,16,101.033
+19,United States,Racing Bulls,TSU,22,17,101.005
+19,United States,Kick Sauber,BOT,22,18,100.998
+19,United States,Kick Sauber,ZHO,22,19,102.176
 19,United States,Ferrari,LEC,34,1,98.633
 19,United States,Ferrari,SAI,34,2,98.812
 19,United States,Red Bull,VER,34,3,99.063
 19,United States,McLaren,NOR,34,4,98.043
 19,United States,McLaren,PIA,34,5,98.495
 19,United States,Mercedes,RUS,34,6,100.071
-19,United States,,LAW,34,7,100.449
+19,United States,Racing Bulls,LAW,34,7,100.449
 19,United States,Williams,COL,34,8,100.306
 19,United States,Red Bull,PER,34,9,100.2
 19,United States,Haas,MAG,34,10,99.641
@@ -20937,63 +20602,63 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Aston Martin,STR,34,17,100.404
 19,United States,Kick Sauber,ZHO,34,18,101.387
 19,United States,Williams,ALB,34,19,121.549
-19,United States,Ferrari,LEC,49,1,98.326
-19,United States,Ferrari,SAI,49,2,98.584
-19,United States,Red Bull,VER,49,3,98.598
-19,United States,McLaren,NOR,49,4,98.549
-19,United States,McLaren,PIA,49,5,98.023
-19,United States,Red Bull,PER,49,6,98.682
-19,United States,Mercedes,RUS,49,7,98.001
-19,United States,Haas,HUL,49,8,98.51
-19,United States,,LAW,49,9,98.558
-19,United States,Williams,COL,49,10,98.412
-19,United States,Haas,MAG,49,11,98.746
-19,United States,Alpine,GAS,49,12,99.3
-19,United States,Aston Martin,ALO,49,13,99.949
-19,United States,Racing Bulls,TSU,49,14,99.476
-19,United States,Alpine,OCO,49,15,99.655
-19,United States,Aston Martin,STR,49,16,101.69
-19,United States,Williams,ALB,49,17,99.509
-19,United States,Kick Sauber,BOT,49,18,103.447
-19,United States,Kick Sauber,ZHO,49,19,100.24
-19,United States,Ferrari,LEC,21,1,99.506
-19,United States,Red Bull,VER,21,2,99.803
-19,United States,Ferrari,SAI,21,3,100.695
-19,United States,McLaren,NOR,21,4,99.474
-19,United States,McLaren,PIA,21,5,99.711
-19,United States,Red Bull,PER,21,6,100.57
-19,United States,Haas,HUL,21,7,100.523
-19,United States,Mercedes,RUS,21,8,99.965
-19,United States,,LAW,21,9,102.238
-19,United States,Aston Martin,ALO,21,10,101.297
-19,United States,Williams,COL,21,11,101.087
-19,United States,Alpine,OCO,21,12,101.246
-19,United States,Aston Martin,STR,21,13,101.416
-19,United States,Haas,MAG,21,14,101.259
-19,United States,Williams,ALB,21,15,102.46
-19,United States,Alpine,GAS,21,16,101.132
-19,United States,Racing Bulls,TSU,21,17,101.337
-19,United States,Kick Sauber,BOT,21,18,100.92
-19,United States,Kick Sauber,ZHO,21,19,101.435
-19,United States,Ferrari,LEC,24,1,99.699
-19,United States,Red Bull,VER,24,2,100.318
-19,United States,McLaren,NOR,24,3,99.789
-19,United States,McLaren,PIA,24,4,100.269
-19,United States,Ferrari,SAI,24,5,99.113
-19,United States,Red Bull,PER,24,6,100.564
-19,United States,Haas,HUL,24,7,100.329
-19,United States,Mercedes,RUS,24,8,100.06
-19,United States,,LAW,24,9,100.869
-19,United States,Williams,COL,24,10,101.227
-19,United States,Aston Martin,ALO,24,11,101.879
-19,United States,Alpine,OCO,24,12,101.489
-19,United States,Haas,MAG,24,13,100.626
-19,United States,Aston Martin,STR,24,14,101.678
-19,United States,Williams,ALB,24,15,101.432
-19,United States,Alpine,GAS,24,16,100.915
-19,United States,Racing Bulls,TSU,24,17,101.205
-19,United States,Kick Sauber,BOT,24,18,101.147
-19,United States,Kick Sauber,ZHO,24,19,101.649
+19,United States,Ferrari,LEC,47,1,98.471
+19,United States,Ferrari,SAI,47,2,98.883
+19,United States,Red Bull,VER,47,3,99.191
+19,United States,McLaren,NOR,47,4,99.194
+19,United States,McLaren,PIA,47,5,98.655
+19,United States,Red Bull,PER,47,6,98.914
+19,United States,Mercedes,RUS,47,7,97.79
+19,United States,Haas,HUL,47,8,98.997
+19,United States,Racing Bulls,LAW,47,9,98.631
+19,United States,Williams,COL,47,10,97.991
+19,United States,Haas,MAG,47,11,98.779
+19,United States,Alpine,GAS,47,12,100.973
+19,United States,Aston Martin,ALO,47,13,99.533
+19,United States,Racing Bulls,TSU,47,14,99.631
+19,United States,Alpine,OCO,47,15,99.596
+19,United States,Aston Martin,STR,47,16,99.524
+19,United States,Williams,ALB,47,17,99.552
+19,United States,Kick Sauber,BOT,47,18,101.064
+19,United States,Kick Sauber,ZHO,47,19,99.625
+19,United States,Ferrari,LEC,37,1,98.477
+19,United States,Ferrari,SAI,37,2,98.428
+19,United States,Red Bull,VER,37,3,98.963
+19,United States,McLaren,NOR,37,4,98.31
+19,United States,McLaren,PIA,37,5,98.49
+19,United States,Mercedes,RUS,37,6,99.451
+19,United States,Red Bull,PER,37,7,99.499
+19,United States,Williams,COL,37,8,101.395
+19,United States,Haas,MAG,37,9,100.481
+19,United States,Haas,HUL,37,10,99.39
+19,United States,Alpine,GAS,37,11,100.698
+19,United States,Racing Bulls,LAW,37,12,119.598
+19,United States,Racing Bulls,TSU,37,13,101.002
+19,United States,Aston Martin,ALO,37,14,100.61
+19,United States,Kick Sauber,BOT,37,15,100.815
+19,United States,Alpine,OCO,37,16,100.09
+19,United States,Aston Martin,STR,37,17,100.21
+19,United States,Williams,ALB,37,18,99.632
+19,United States,Kick Sauber,ZHO,37,19,100.161
+19,United States,Ferrari,LEC,48,1,98.313
+19,United States,Ferrari,SAI,48,2,98.13
+19,United States,Red Bull,VER,48,3,98.572
+19,United States,McLaren,NOR,48,4,98.436
+19,United States,McLaren,PIA,48,5,98.021
+19,United States,Red Bull,PER,48,6,98.842
+19,United States,Mercedes,RUS,48,7,98.041
+19,United States,Haas,HUL,48,8,98.594
+19,United States,Racing Bulls,LAW,48,9,98.493
+19,United States,Williams,COL,48,10,98.326
+19,United States,Haas,MAG,48,11,99.025
+19,United States,Alpine,GAS,48,12,99.561
+19,United States,Aston Martin,ALO,48,13,99.638
+19,United States,Racing Bulls,TSU,48,14,99.697
+19,United States,Alpine,OCO,48,15,100.898
+19,United States,Aston Martin,STR,48,16,99.666
+19,United States,Williams,ALB,48,17,99.205
+19,United States,Kick Sauber,BOT,48,18,101.07
+19,United States,Kick Sauber,ZHO,48,19,100.219
 19,United States,Ferrari,LEC,40,1,98.287
 19,United States,Ferrari,SAI,40,2,98.082
 19,United States,Red Bull,VER,40,3,98.624
@@ -21002,7 +20667,7 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Mercedes,RUS,40,6,100.641
 19,United States,Red Bull,PER,40,7,99.066
 19,United States,Haas,HUL,40,8,99.391
-19,United States,,LAW,40,9,99.035
+19,United States,Racing Bulls,LAW,40,9,99.035
 19,United States,Alpine,GAS,40,10,99.899
 19,United States,Racing Bulls,TSU,40,11,99.845
 19,United States,Williams,COL,40,12,119.212
@@ -21013,32 +20678,165 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Aston Martin,STR,40,17,99.831
 19,United States,Williams,ALB,40,18,99.666
 19,United States,Kick Sauber,ZHO,40,19,100.131
-19,United States,Ferrari,LEC,15,1,99.672
-19,United States,Red Bull,VER,15,2,100.192
-19,United States,Ferrari,SAI,15,3,100.071
-19,United States,McLaren,NOR,15,4,100.36
-19,United States,McLaren,PIA,15,5,101.013
-19,United States,Alpine,GAS,15,6,101.499
-19,United States,Haas,MAG,15,7,101.736
-19,United States,Racing Bulls,TSU,15,8,101.536
-19,United States,Red Bull,PER,15,9,101.611
-19,United States,Haas,HUL,15,10,101.824
-19,United States,,LAW,15,11,102.041
-19,United States,Aston Martin,ALO,15,12,101.53
-19,United States,Mercedes,RUS,15,13,101.155
-19,United States,Williams,COL,15,14,101.801
-19,United States,Kick Sauber,BOT,15,15,102.714
-19,United States,Alpine,OCO,15,16,102.175
-19,United States,Aston Martin,STR,15,17,102.348
-19,United States,Williams,ALB,15,18,102.263
-19,United States,Kick Sauber,ZHO,15,19,101.376
+19,United States,Ferrari,LEC,39,1,97.834
+19,United States,Ferrari,SAI,39,2,98.075
+19,United States,Red Bull,VER,39,3,98.358
+19,United States,McLaren,NOR,39,4,98.062
+19,United States,McLaren,PIA,39,5,98.183
+19,United States,Mercedes,RUS,39,6,98.997
+19,United States,Red Bull,PER,39,7,98.986
+19,United States,Williams,COL,39,8,100.591
+19,United States,Haas,HUL,39,9,99.294
+19,United States,Racing Bulls,LAW,39,10,99.396
+19,United States,Alpine,GAS,39,11,99.981
+19,United States,Racing Bulls,TSU,39,12,99.614
+19,United States,Haas,MAG,39,13,118.617
+19,United States,Aston Martin,ALO,39,14,100.079
+19,United States,Kick Sauber,BOT,39,15,100.78
+19,United States,Alpine,OCO,39,16,99.635
+19,United States,Aston Martin,STR,39,17,100.038
+19,United States,Williams,ALB,39,18,99.531
+19,United States,Kick Sauber,ZHO,39,19,101.88
+19,United States,Ferrari,LEC,51,1,97.875
+19,United States,Ferrari,SAI,51,2,98.501
+19,United States,Red Bull,VER,51,3,99.105
+19,United States,McLaren,NOR,51,4,99.066
+19,United States,McLaren,PIA,51,5,98.532
+19,United States,Red Bull,PER,51,6,98.67
+19,United States,Mercedes,RUS,51,7,98.059
+19,United States,Haas,HUL,51,8,98.404
+19,United States,Racing Bulls,LAW,51,9,98.453
+19,United States,Williams,COL,51,10,98.665
+19,United States,Haas,MAG,51,11,98.877
+19,United States,Alpine,GAS,51,12,99.384
+19,United States,Aston Martin,ALO,51,13,99.29
+19,United States,Racing Bulls,TSU,51,14,99.521
+19,United States,Alpine,OCO,51,15,101.838
+19,United States,Aston Martin,STR,51,16,99.896
+19,United States,Williams,ALB,51,17,99.72
+19,United States,Kick Sauber,BOT,51,18,102.931
+19,United States,Kick Sauber,ZHO,51,19,99.398
+19,United States,McLaren,NOR,30,1,99.705
+19,United States,McLaren,PIA,30,2,99.661
+19,United States,Ferrari,LEC,30,3,99.034
+19,United States,Ferrari,SAI,30,4,98.674
+19,United States,Red Bull,VER,30,5,98.75
+19,United States,Mercedes,RUS,30,6,99.577
+19,United States,Racing Bulls,LAW,30,7,100.622
+19,United States,Williams,COL,30,8,100.366
+19,United States,Red Bull,PER,30,9,99.633
+19,United States,Haas,MAG,30,10,100.769
+19,United States,Alpine,OCO,30,11,101.452
+19,United States,Haas,HUL,30,12,100.338
+19,United States,Alpine,GAS,30,13,100.672
+19,United States,Racing Bulls,TSU,30,14,100.706
+19,United States,Williams,ALB,30,15,101.651
+19,United States,Kick Sauber,BOT,30,16,101.185
+19,United States,Aston Martin,ALO,30,17,100.21
+19,United States,Aston Martin,STR,30,18,100.384
+19,United States,Kick Sauber,ZHO,30,19,101.532
+19,United States,Ferrari,LEC,8,1,99.307
+19,United States,Red Bull,VER,8,2,100.082
+19,United States,Ferrari,SAI,8,3,100.944
+19,United States,McLaren,NOR,8,4,100.411
+19,United States,McLaren,PIA,8,5,100.678
+19,United States,Alpine,GAS,8,6,101.037
+19,United States,Haas,MAG,8,7,100.836
+19,United States,Racing Bulls,TSU,8,8,101.101
+19,United States,Red Bull,PER,8,9,101.129
+19,United States,Haas,HUL,8,10,101.285
+19,United States,Aston Martin,ALO,8,11,101.508
+19,United States,Racing Bulls,LAW,8,12,101.557
+19,United States,Kick Sauber,ZHO,8,13,101.474
+19,United States,Williams,COL,8,14,101.451
+19,United States,Kick Sauber,BOT,8,15,101.483
+19,United States,Mercedes,RUS,8,16,101.524
+19,United States,Alpine,OCO,8,17,101.675
+19,United States,Aston Martin,STR,8,18,101.873
+19,United States,Williams,ALB,8,19,102.144
+19,United States,Ferrari,LEC,50,1,97.951
+19,United States,Ferrari,SAI,50,2,98.27
+19,United States,Red Bull,VER,50,3,98.692
+19,United States,McLaren,NOR,50,4,98.813
+19,United States,McLaren,PIA,50,5,97.979
+19,United States,Red Bull,PER,50,6,98.729
+19,United States,Mercedes,RUS,50,7,97.943
+19,United States,Haas,HUL,50,8,98.651
+19,United States,Racing Bulls,LAW,50,9,98.513
+19,United States,Williams,COL,50,10,98.026
+19,United States,Haas,MAG,50,11,98.676
+19,United States,Alpine,GAS,50,12,99.174
+19,United States,Aston Martin,ALO,50,13,99.584
+19,United States,Racing Bulls,TSU,50,14,99.863
+19,United States,Alpine,OCO,50,15,99.573
+19,United States,Aston Martin,STR,50,16,99.759
+19,United States,Williams,ALB,50,17,99.639
+19,United States,Kick Sauber,BOT,50,18,101.045
+19,United States,Kick Sauber,ZHO,50,19,99.963
+19,United States,Ferrari,LEC,14,1,99.2
+19,United States,Red Bull,VER,14,2,99.846
+19,United States,Ferrari,SAI,14,3,100.038
+19,United States,McLaren,NOR,14,4,100.322
+19,United States,McLaren,PIA,14,5,100.807
+19,United States,Alpine,GAS,14,6,101.551
+19,United States,Haas,MAG,14,7,101.279
+19,United States,Racing Bulls,TSU,14,8,101.351
+19,United States,Red Bull,PER,14,9,101.431
+19,United States,Haas,HUL,14,10,101.048
+19,United States,Racing Bulls,LAW,14,11,101.383
+19,United States,Aston Martin,ALO,14,12,101.706
+19,United States,Mercedes,RUS,14,13,101.098
+19,United States,Williams,COL,14,14,102.97
+19,United States,Kick Sauber,BOT,14,15,102.125
+19,United States,Alpine,OCO,14,16,102.249
+19,United States,Aston Martin,STR,14,17,102.062
+19,United States,Williams,ALB,14,18,102.221
+19,United States,Kick Sauber,ZHO,14,19,122.835
+19,United States,Ferrari,LEC,18,1,99.435
+19,United States,Red Bull,VER,18,2,99.921
+19,United States,Ferrari,SAI,18,3,99.696
+19,United States,McLaren,NOR,18,4,99.944
+19,United States,McLaren,PIA,18,5,100.006
+19,United States,Alpine,GAS,18,6,101.038
+19,United States,Red Bull,PER,18,7,100.538
+19,United States,Haas,HUL,18,8,102.13
+19,United States,Racing Bulls,TSU,18,9,102.676
+19,United States,Racing Bulls,LAW,18,10,101.335
+19,United States,Mercedes,RUS,18,11,100.53
+19,United States,Aston Martin,ALO,18,12,101.238
+19,United States,Williams,COL,18,13,101.427
+19,United States,Alpine,OCO,18,14,101.669
+19,United States,Aston Martin,STR,18,15,101.869
+19,United States,Williams,ALB,18,16,101.524
+19,United States,Haas,MAG,18,17,119.791
+19,United States,Kick Sauber,BOT,18,18,100.762
+19,United States,Kick Sauber,ZHO,18,19,101.325
+19,United States,Ferrari,LEC,36,1,98.643
+19,United States,Ferrari,SAI,36,2,98.587
+19,United States,Red Bull,VER,36,3,98.715
+19,United States,McLaren,NOR,36,4,98.317
+19,United States,McLaren,PIA,36,5,98.31
+19,United States,Mercedes,RUS,36,6,99.152
+19,United States,Racing Bulls,LAW,36,7,101.342
+19,United States,Williams,COL,36,8,100.026
+19,United States,Red Bull,PER,36,9,100.162
+19,United States,Haas,MAG,36,10,99.786
+19,United States,Haas,HUL,36,11,99.196
+19,United States,Alpine,GAS,36,12,100.63
+19,United States,Racing Bulls,TSU,36,13,99.923
+19,United States,Aston Martin,ALO,36,14,100.213
+19,United States,Kick Sauber,BOT,36,15,101.155
+19,United States,Alpine,OCO,36,16,100.301
+19,United States,Aston Martin,STR,36,17,100.435
+19,United States,Williams,ALB,36,18,99.721
+19,United States,Kick Sauber,ZHO,36,19,126.093
 19,United States,Ferrari,LEC,33,1,99.032
 19,United States,Ferrari,SAI,33,2,98.76
 19,United States,Red Bull,VER,33,3,98.827
 19,United States,McLaren,NOR,33,4,98.641
 19,United States,McLaren,PIA,33,5,119.344
 19,United States,Mercedes,RUS,33,6,100.373
-19,United States,,LAW,33,7,100.286
+19,United States,Racing Bulls,LAW,33,7,100.286
 19,United States,Williams,COL,33,8,100.238
 19,United States,Red Bull,PER,33,9,99.719
 19,United States,Haas,MAG,33,10,99.826
@@ -21051,25 +20849,208 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Alpine,OCO,33,17,100.214
 19,United States,Aston Martin,STR,33,18,100.414
 19,United States,Kick Sauber,ZHO,33,19,101.13
-19,United States,Ferrari,LEC,37,1,98.477
-19,United States,Ferrari,SAI,37,2,98.428
-19,United States,Red Bull,VER,37,3,98.963
-19,United States,McLaren,NOR,37,4,98.31
-19,United States,McLaren,PIA,37,5,98.49
-19,United States,Mercedes,RUS,37,6,99.451
-19,United States,Red Bull,PER,37,7,99.499
-19,United States,Williams,COL,37,8,101.395
-19,United States,Haas,MAG,37,9,100.481
-19,United States,Haas,HUL,37,10,99.39
-19,United States,Alpine,GAS,37,11,100.698
-19,United States,,LAW,37,12,119.598
-19,United States,Racing Bulls,TSU,37,13,101.002
-19,United States,Aston Martin,ALO,37,14,100.61
-19,United States,Kick Sauber,BOT,37,15,100.815
-19,United States,Alpine,OCO,37,16,100.09
-19,United States,Aston Martin,STR,37,17,100.21
-19,United States,Williams,ALB,37,18,99.632
-19,United States,Kick Sauber,ZHO,37,19,100.161
+19,United States,Ferrari,LEC,16,1,99.782
+19,United States,Red Bull,VER,16,2,100.033
+19,United States,Ferrari,SAI,16,3,100.286
+19,United States,McLaren,NOR,16,4,100.355
+19,United States,McLaren,PIA,16,5,100.229
+19,United States,Alpine,GAS,16,6,101.306
+19,United States,Haas,MAG,16,7,101.901
+19,United States,Racing Bulls,TSU,16,8,101.684
+19,United States,Red Bull,PER,16,9,101.468
+19,United States,Haas,HUL,16,10,101.512
+19,United States,Racing Bulls,LAW,16,11,101.646
+19,United States,Aston Martin,ALO,16,12,101.681
+19,United States,Mercedes,RUS,16,13,101.26
+19,United States,Williams,COL,16,14,101.956
+19,United States,Alpine,OCO,16,15,101.906
+19,United States,Aston Martin,STR,16,16,102.311
+19,United States,Williams,ALB,16,17,102.331
+19,United States,Kick Sauber,BOT,16,18,121.652
+19,United States,Kick Sauber,ZHO,16,19,101.633
+19,United States,Ferrari,LEC,24,1,99.699
+19,United States,Red Bull,VER,24,2,100.318
+19,United States,McLaren,NOR,24,3,99.789
+19,United States,McLaren,PIA,24,4,100.269
+19,United States,Ferrari,SAI,24,5,99.113
+19,United States,Red Bull,PER,24,6,100.564
+19,United States,Haas,HUL,24,7,100.329
+19,United States,Mercedes,RUS,24,8,100.06
+19,United States,Racing Bulls,LAW,24,9,100.869
+19,United States,Williams,COL,24,10,101.227
+19,United States,Aston Martin,ALO,24,11,101.879
+19,United States,Alpine,OCO,24,12,101.489
+19,United States,Haas,MAG,24,13,100.626
+19,United States,Aston Martin,STR,24,14,101.678
+19,United States,Williams,ALB,24,15,101.432
+19,United States,Alpine,GAS,24,16,100.915
+19,United States,Racing Bulls,TSU,24,17,101.205
+19,United States,Kick Sauber,BOT,24,18,101.147
+19,United States,Kick Sauber,ZHO,24,19,101.649
+19,United States,Ferrari,LEC,56,1,99.518
+19,United States,Ferrari,SAI,56,2,101.083
+19,United States,McLaren,NOR,56,3,97.758
+19,United States,Red Bull,VER,56,4,99.018
+19,United States,McLaren,PIA,56,5,99.112
+19,United States,Mercedes,RUS,56,6,97.955
+19,United States,Red Bull,PER,56,7,99.57
+19,United States,Haas,HUL,56,8,99.0
+19,United States,Racing Bulls,LAW,56,9,99.273
+19,United States,Williams,COL,56,10,98.488
+19,United States,Haas,MAG,56,11,98.21
+19,United States,Alpine,GAS,56,12,98.769
+19,United States,Ferrari,LEC,52,1,98.092
+19,United States,Ferrari,SAI,52,2,98.088
+19,United States,McLaren,NOR,52,3,99.843
+19,United States,Red Bull,VER,52,4,100.819
+19,United States,McLaren,PIA,52,5,98.18
+19,United States,Red Bull,PER,52,6,99.176
+19,United States,Mercedes,RUS,52,7,98.608
+19,United States,Haas,HUL,52,8,98.703
+19,United States,Racing Bulls,LAW,52,9,98.281
+19,United States,Williams,COL,52,10,98.133
+19,United States,Haas,MAG,52,11,98.623
+19,United States,Alpine,GAS,52,12,98.9
+19,United States,Aston Martin,ALO,52,13,99.261
+19,United States,Racing Bulls,TSU,52,14,99.657
+19,United States,Aston Martin,STR,52,15,99.448
+19,United States,Williams,ALB,52,16,99.279
+19,United States,Kick Sauber,BOT,52,17,100.658
+19,United States,Alpine,OCO,52,18,129.77
+19,United States,Kick Sauber,ZHO,52,19,99.683
+19,United States,Ferrari,LEC,20,1,99.756
+19,United States,Red Bull,VER,20,2,99.986
+19,United States,Ferrari,SAI,20,3,99.814
+19,United States,McLaren,NOR,20,4,99.891
+19,United States,McLaren,PIA,20,5,99.791
+19,United States,Red Bull,PER,20,6,100.252
+19,United States,Haas,HUL,20,7,100.447
+19,United States,Racing Bulls,LAW,20,8,100.988
+19,United States,Mercedes,RUS,20,9,100.766
+19,United States,Aston Martin,ALO,20,10,101.585
+19,United States,Williams,COL,20,11,101.123
+19,United States,Alpine,OCO,20,12,101.427
+19,United States,Aston Martin,STR,20,13,101.601
+19,United States,Williams,ALB,20,14,101.411
+19,United States,Haas,MAG,20,15,100.996
+19,United States,Alpine,GAS,20,16,101.596
+19,United States,Racing Bulls,TSU,20,17,101.198
+19,United States,Kick Sauber,BOT,20,18,100.837
+19,United States,Kick Sauber,ZHO,20,19,101.858
+19,United States,Ferrari,LEC,5,1,168.785
+19,United States,Red Bull,VER,5,2,167.623
+19,United States,Ferrari,SAI,5,3,166.655
+19,United States,McLaren,NOR,5,4,165.769
+19,United States,McLaren,PIA,5,5,164.254
+19,United States,Alpine,GAS,5,6,160.207
+19,United States,Haas,MAG,5,7,159.607
+19,United States,Racing Bulls,TSU,5,8,156.517
+19,United States,Red Bull,PER,5,9,155.478
+19,United States,Aston Martin,ALO,5,10,154.538
+19,United States,Haas,HUL,5,11,153.617
+19,United States,Aston Martin,STR,5,12,152.04
+19,United States,Racing Bulls,LAW,5,13,150.275
+19,United States,Kick Sauber,ZHO,5,14,149.529
+19,United States,Williams,COL,5,15,147.801
+19,United States,Kick Sauber,BOT,5,16,146.661
+19,United States,Mercedes,RUS,5,17,143.987
+19,United States,Alpine,OCO,5,18,143.011
+19,United States,Williams,ALB,5,19,141.937
+19,United States,Ferrari,LEC,32,1,98.825
+19,United States,McLaren,PIA,32,2,101.107
+19,United States,Ferrari,SAI,32,3,99.025
+19,United States,Red Bull,VER,32,4,99.106
+19,United States,McLaren,NOR,32,5,119.605
+19,United States,Mercedes,RUS,32,6,99.553
+19,United States,Racing Bulls,LAW,32,7,100.451
+19,United States,Williams,COL,32,8,100.27
+19,United States,Red Bull,PER,32,9,99.378
+19,United States,Haas,MAG,32,10,100.166
+19,United States,Haas,HUL,32,11,99.687
+19,United States,Alpine,GAS,32,12,100.493
+19,United States,Racing Bulls,TSU,32,13,100.466
+19,United States,Williams,ALB,32,14,101.297
+19,United States,Kick Sauber,BOT,32,15,100.932
+19,United States,Aston Martin,ALO,32,16,100.6
+19,United States,Alpine,OCO,32,17,120.757
+19,United States,Aston Martin,STR,32,18,100.689
+19,United States,Kick Sauber,ZHO,32,19,101.643
+19,United States,Ferrari,LEC,6,1,98.951
+19,United States,Red Bull,VER,6,2,99.779
+19,United States,Ferrari,SAI,6,3,100.002
+19,United States,McLaren,NOR,6,4,100.663
+19,United States,McLaren,PIA,6,5,101.753
+19,United States,Alpine,GAS,6,6,102.096
+19,United States,Haas,MAG,6,7,102.311
+19,United States,Racing Bulls,TSU,6,8,102.559
+19,United States,Red Bull,PER,6,9,102.576
+19,United States,Aston Martin,ALO,6,10,103.042
+19,United States,Haas,HUL,6,11,103.09
+19,United States,Racing Bulls,LAW,6,12,102.925
+19,United States,Kick Sauber,ZHO,6,13,103.259
+19,United States,Williams,COL,6,14,103.338
+19,United States,Kick Sauber,BOT,6,15,103.6
+19,United States,Mercedes,RUS,6,16,104.179
+19,United States,Alpine,OCO,6,17,104.34
+19,United States,Aston Martin,STR,6,18,107.096
+19,United States,Williams,ALB,6,19,104.652
+19,United States,Ferrari,LEC,55,1,97.902
+19,United States,Ferrari,SAI,55,2,99.009
+19,United States,McLaren,NOR,55,3,97.679
+19,United States,Red Bull,VER,55,4,98.252
+19,United States,McLaren,PIA,55,5,97.924
+19,United States,Mercedes,RUS,55,6,98.18
+19,United States,Red Bull,PER,55,7,99.987
+19,United States,Haas,HUL,55,8,98.714
+19,United States,Racing Bulls,LAW,55,9,98.433
+19,United States,Williams,COL,55,10,97.926
+19,United States,Haas,MAG,55,11,98.239
+19,United States,Alpine,GAS,55,12,98.311
+19,United States,Aston Martin,ALO,55,13,100.096
+19,United States,Racing Bulls,TSU,55,14,99.379
+19,United States,Aston Martin,STR,55,15,101.498
+19,United States,Williams,ALB,55,16,101.299
+19,United States,Kick Sauber,BOT,55,17,100.708
+19,United States,Alpine,OCO,55,18,99.999
+19,United States,Kick Sauber,ZHO,55,19,100.061
+19,United States,Ferrari,LEC,41,1,98.395
+19,United States,Ferrari,SAI,41,2,97.786
+19,United States,Red Bull,VER,41,3,98.463
+19,United States,McLaren,NOR,41,4,97.966
+19,United States,McLaren,PIA,41,5,98.206
+19,United States,Red Bull,PER,41,6,99.701
+19,United States,Haas,HUL,41,7,99.178
+19,United States,Mercedes,RUS,41,8,124.213
+19,United States,Racing Bulls,LAW,41,9,99.149
+19,United States,Alpine,GAS,41,10,100.583
+19,United States,Williams,COL,41,11,99.443
+19,United States,Haas,MAG,41,12,100.01
+19,United States,Aston Martin,ALO,41,13,101.035
+19,United States,Racing Bulls,TSU,41,14,112.718
+19,United States,Kick Sauber,BOT,41,15,101.258
+19,United States,Alpine,OCO,41,16,101.154
+19,United States,Aston Martin,STR,41,17,100.475
+19,United States,Williams,ALB,41,18,99.406
+19,United States,Kick Sauber,ZHO,41,19,100.342
+19,United States,Ferrari,LEC,53,1,98.365
+19,United States,Ferrari,SAI,53,2,98.17
+19,United States,McLaren,NOR,53,3,98.347
+19,United States,Red Bull,VER,53,4,99.384
+19,United States,McLaren,PIA,53,5,99.104
+19,United States,Red Bull,PER,53,6,99.739
+19,United States,Mercedes,RUS,53,7,99.888
+19,United States,Haas,HUL,53,8,98.512
+19,United States,Racing Bulls,LAW,53,9,98.113
+19,United States,Williams,COL,53,10,98.032
+19,United States,Haas,MAG,53,11,98.508
+19,United States,Alpine,GAS,53,12,99.127
+19,United States,Aston Martin,ALO,53,13,99.729
+19,United States,Racing Bulls,TSU,53,14,101.114
+19,United States,Aston Martin,STR,53,15,99.435
+19,United States,Williams,ALB,53,16,99.35
+19,United States,Kick Sauber,BOT,53,17,100.575
+19,United States,Alpine,OCO,53,18,97.33
+19,United States,Kick Sauber,ZHO,53,19,99.272
 19,United States,Ferrari,LEC,7,1,99.57
 19,United States,Red Bull,VER,7,2,99.731
 19,United States,Ferrari,SAI,7,3,99.684
@@ -21081,7 +21062,7 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Red Bull,PER,7,9,101.703
 19,United States,Haas,HUL,7,10,101.428
 19,United States,Aston Martin,ALO,7,11,102.409
-19,United States,,LAW,7,12,102.01
+19,United States,Racing Bulls,LAW,7,12,102.01
 19,United States,Kick Sauber,ZHO,7,13,102.1
 19,United States,Williams,COL,7,14,102.278
 19,United States,Kick Sauber,BOT,7,15,102.18
@@ -21095,7 +21076,7 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Ferrari,SAI,28,4,99.054
 19,United States,Red Bull,VER,28,5,98.784
 19,United States,Mercedes,RUS,28,6,99.235
-19,United States,,LAW,28,7,100.235
+19,United States,Racing Bulls,LAW,28,7,100.235
 19,United States,Williams,COL,28,8,100.205
 19,United States,Red Bull,PER,28,9,99.642
 19,United States,Haas,MAG,28,10,101.523
@@ -21108,32 +21089,165 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Aston Martin,ALO,28,17,100.478
 19,United States,Kick Sauber,ZHO,28,18,101.42
 19,United States,Aston Martin,STR,28,19,123.231
-19,United States,Ferrari,LEC,22,1,99.411
-19,United States,Red Bull,VER,22,2,100.099
-19,United States,McLaren,NOR,22,3,99.542
-19,United States,McLaren,PIA,22,4,99.864
-19,United States,Ferrari,SAI,22,5,117.897
-19,United States,Red Bull,PER,22,6,101.456
-19,United States,Haas,HUL,22,7,100.757
-19,United States,Mercedes,RUS,22,8,100.019
-19,United States,,LAW,22,9,101.448
-19,United States,Williams,COL,22,10,101.25
-19,United States,Aston Martin,ALO,22,11,102.707
-19,United States,Alpine,OCO,22,12,101.63
-19,United States,Haas,MAG,22,13,100.479
-19,United States,Aston Martin,STR,22,14,102.657
-19,United States,Williams,ALB,22,15,102.169
-19,United States,Alpine,GAS,22,16,101.033
-19,United States,Racing Bulls,TSU,22,17,101.005
-19,United States,Kick Sauber,BOT,22,18,100.998
-19,United States,Kick Sauber,ZHO,22,19,102.176
+19,United States,Ferrari,LEC,21,1,99.506
+19,United States,Red Bull,VER,21,2,99.803
+19,United States,Ferrari,SAI,21,3,100.695
+19,United States,McLaren,NOR,21,4,99.474
+19,United States,McLaren,PIA,21,5,99.711
+19,United States,Red Bull,PER,21,6,100.57
+19,United States,Haas,HUL,21,7,100.523
+19,United States,Mercedes,RUS,21,8,99.965
+19,United States,Racing Bulls,LAW,21,9,102.238
+19,United States,Aston Martin,ALO,21,10,101.297
+19,United States,Williams,COL,21,11,101.087
+19,United States,Alpine,OCO,21,12,101.246
+19,United States,Aston Martin,STR,21,13,101.416
+19,United States,Haas,MAG,21,14,101.259
+19,United States,Williams,ALB,21,15,102.46
+19,United States,Alpine,GAS,21,16,101.132
+19,United States,Racing Bulls,TSU,21,17,101.337
+19,United States,Kick Sauber,BOT,21,18,100.92
+19,United States,Kick Sauber,ZHO,21,19,101.435
+19,United States,Ferrari,LEC,4,1,151.204
+19,United States,Red Bull,VER,4,2,151.496
+19,United States,Ferrari,SAI,4,3,151.665
+19,United States,McLaren,NOR,4,4,150.67
+19,United States,McLaren,PIA,4,5,149.123
+19,United States,Alpine,GAS,4,6,149.84
+19,United States,Haas,MAG,4,7,150.492
+19,United States,Racing Bulls,TSU,4,8,150.263
+19,United States,Red Bull,PER,4,9,150.697
+19,United States,Aston Martin,ALO,4,10,149.599
+19,United States,Haas,HUL,4,11,149.504
+19,United States,Aston Martin,STR,4,12,150.476
+19,United States,Racing Bulls,LAW,4,13,150.921
+19,United States,Kick Sauber,ZHO,4,14,149.649
+19,United States,Williams,COL,4,15,150.829
+19,United States,Kick Sauber,BOT,4,16,150.342
+19,United States,Mercedes,RUS,4,17,150.121
+19,United States,Alpine,OCO,4,18,150.669
+19,United States,Williams,ALB,4,19,156.139
+19,United States,Ferrari,LEC,43,1,98.257
+19,United States,Ferrari,SAI,43,2,98.223
+19,United States,Red Bull,VER,43,3,98.526
+19,United States,McLaren,NOR,43,4,98.033
+19,United States,McLaren,PIA,43,5,97.984
+19,United States,Red Bull,PER,43,6,98.787
+19,United States,Haas,HUL,43,7,98.906
+19,United States,Mercedes,RUS,43,8,98.118
+19,United States,Racing Bulls,LAW,43,9,99.104
+19,United States,Alpine,GAS,43,10,99.276
+19,United States,Williams,COL,43,11,98.528
+19,United States,Haas,MAG,43,12,98.988
+19,United States,Aston Martin,ALO,43,13,99.554
+19,United States,Racing Bulls,TSU,43,14,99.361
+19,United States,Kick Sauber,BOT,43,15,100.696
+19,United States,Alpine,OCO,43,16,100.247
+19,United States,Aston Martin,STR,43,17,99.922
+19,United States,Williams,ALB,43,18,99.353
+19,United States,Kick Sauber,ZHO,43,19,100.241
+19,United States,Ferrari,LEC,44,1,98.697
+19,United States,Ferrari,SAI,44,2,98.45
+19,United States,Red Bull,VER,44,3,98.453
+19,United States,McLaren,NOR,44,4,98.229
+19,United States,McLaren,PIA,44,5,98.455
+19,United States,Red Bull,PER,44,6,98.781
+19,United States,Haas,HUL,44,7,98.902
+19,United States,Mercedes,RUS,44,8,97.826
+19,United States,Racing Bulls,LAW,44,9,99.057
+19,United States,Alpine,GAS,44,10,99.55
+19,United States,Williams,COL,44,11,98.876
+19,United States,Haas,MAG,44,12,98.671
+19,United States,Aston Martin,ALO,44,13,99.452
+19,United States,Racing Bulls,TSU,44,14,99.379
+19,United States,Kick Sauber,BOT,44,15,101.717
+19,United States,Alpine,OCO,44,16,101.275
+19,United States,Aston Martin,STR,44,17,100.001
+19,United States,Williams,ALB,44,18,101.215
+19,United States,Kick Sauber,ZHO,44,19,100.033
+19,United States,McLaren,NOR,29,1,99.548
+19,United States,McLaren,PIA,29,2,99.55
+19,United States,Ferrari,LEC,29,3,99.067
+19,United States,Ferrari,SAI,29,4,99.203
+19,United States,Red Bull,VER,29,5,99.067
+19,United States,Mercedes,RUS,29,6,99.624
+19,United States,Racing Bulls,LAW,29,7,100.523
+19,United States,Williams,COL,29,8,100.542
+19,United States,Red Bull,PER,29,9,99.451
+19,United States,Haas,MAG,29,10,100.25
+19,United States,Alpine,OCO,29,11,101.194
+19,United States,Haas,HUL,29,12,100.912
+19,United States,Alpine,GAS,29,13,100.435
+19,United States,Racing Bulls,TSU,29,14,100.793
+19,United States,Williams,ALB,29,15,101.287
+19,United States,Kick Sauber,BOT,29,16,101.298
+19,United States,Aston Martin,ALO,29,17,100.48
+19,United States,Aston Martin,STR,29,18,99.575
+19,United States,Kick Sauber,ZHO,29,19,102.231
+19,United States,Ferrari,LEC,17,1,99.621
+19,United States,Red Bull,VER,17,2,100.16
+19,United States,Ferrari,SAI,17,3,100.203
+19,United States,McLaren,NOR,17,4,99.915
+19,United States,McLaren,PIA,17,5,99.925
+19,United States,Alpine,GAS,17,6,102.142
+19,United States,Haas,MAG,17,7,101.895
+19,United States,Red Bull,PER,17,8,101.48
+19,United States,Racing Bulls,TSU,17,9,103.026
+19,United States,Haas,HUL,17,10,101.19
+19,United States,Racing Bulls,LAW,17,11,101.371
+19,United States,Mercedes,RUS,17,12,101.132
+19,United States,Aston Martin,ALO,17,13,102.424
+19,United States,Williams,COL,17,14,101.523
+19,United States,Alpine,OCO,17,15,101.831
+19,United States,Aston Martin,STR,17,16,102.054
+19,United States,Williams,ALB,17,17,101.884
+19,United States,Kick Sauber,BOT,17,18,100.801
+19,United States,Kick Sauber,ZHO,17,19,101.886
+19,United States,Ferrari,LEC,42,1,98.179
+19,United States,Ferrari,SAI,42,2,97.763
+19,United States,Red Bull,VER,42,3,98.117
+19,United States,McLaren,NOR,42,4,97.925
+19,United States,McLaren,PIA,42,5,97.883
+19,United States,Red Bull,PER,42,6,98.866
+19,United States,Haas,HUL,42,7,98.941
+19,United States,Mercedes,RUS,42,8,97.656
+19,United States,Racing Bulls,LAW,42,9,98.409
+19,United States,Alpine,GAS,42,10,99.141
+19,United States,Williams,COL,42,11,98.533
+19,United States,Haas,MAG,42,12,98.653
+19,United States,Aston Martin,ALO,42,13,99.445
+19,United States,Racing Bulls,TSU,42,14,99.212
+19,United States,Kick Sauber,BOT,42,15,101.243
+19,United States,Alpine,OCO,42,16,100.078
+19,United States,Aston Martin,STR,42,17,100.085
+19,United States,Williams,ALB,42,18,99.241
+19,United States,Kick Sauber,ZHO,42,19,100.168
+19,United States,Ferrari,LEC,9,1,99.257
+19,United States,Red Bull,VER,9,2,100.032
+19,United States,Ferrari,SAI,9,3,100.022
+19,United States,McLaren,NOR,9,4,100.196
+19,United States,McLaren,PIA,9,5,100.285
+19,United States,Alpine,GAS,9,6,100.712
+19,United States,Haas,MAG,9,7,100.634
+19,United States,Racing Bulls,TSU,9,8,100.953
+19,United States,Red Bull,PER,9,9,101.402
+19,United States,Haas,HUL,9,10,101.651
+19,United States,Aston Martin,ALO,9,11,101.975
+19,United States,Racing Bulls,LAW,9,12,102.1
+19,United States,Kick Sauber,ZHO,9,13,101.91
+19,United States,Williams,COL,9,14,101.98
+19,United States,Kick Sauber,BOT,9,15,102.031
+19,United States,Mercedes,RUS,9,16,101.913
+19,United States,Alpine,OCO,9,17,101.837
+19,United States,Aston Martin,STR,9,18,101.972
+19,United States,Williams,ALB,9,19,102.001
 19,United States,McLaren,NOR,31,1,101.469
 19,United States,Ferrari,LEC,31,2,98.667
 19,United States,McLaren,PIA,31,3,100.829
 19,United States,Ferrari,SAI,31,4,99.281
 19,United States,Red Bull,VER,31,5,99.058
 19,United States,Mercedes,RUS,31,6,99.634
-19,United States,,LAW,31,7,100.613
+19,United States,Racing Bulls,LAW,31,7,100.613
 19,United States,Williams,COL,31,8,100.535
 19,United States,Red Bull,PER,31,9,99.682
 19,United States,Haas,MAG,31,10,100.455
@@ -21146,174 +21260,60 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Aston Martin,ALO,31,17,100.133
 19,United States,Aston Martin,STR,31,18,100.088
 19,United States,Kick Sauber,ZHO,31,19,101.502
-19,United States,Ferrari,LEC,41,1,98.395
-19,United States,Ferrari,SAI,41,2,97.786
-19,United States,Red Bull,VER,41,3,98.463
-19,United States,McLaren,NOR,41,4,97.966
-19,United States,McLaren,PIA,41,5,98.206
-19,United States,Red Bull,PER,41,6,99.701
-19,United States,Haas,HUL,41,7,99.178
-19,United States,Mercedes,RUS,41,8,124.213
-19,United States,,LAW,41,9,99.149
-19,United States,Alpine,GAS,41,10,100.583
-19,United States,Williams,COL,41,11,99.443
-19,United States,Haas,MAG,41,12,100.01
-19,United States,Aston Martin,ALO,41,13,101.035
-19,United States,Racing Bulls,TSU,41,14,112.718
-19,United States,Kick Sauber,BOT,41,15,101.258
-19,United States,Alpine,OCO,41,16,101.154
-19,United States,Aston Martin,STR,41,17,100.475
-19,United States,Williams,ALB,41,18,99.406
-19,United States,Kick Sauber,ZHO,41,19,100.342
-19,United States,Ferrari,LEC,16,1,99.782
-19,United States,Red Bull,VER,16,2,100.033
-19,United States,Ferrari,SAI,16,3,100.286
-19,United States,McLaren,NOR,16,4,100.355
-19,United States,McLaren,PIA,16,5,100.229
-19,United States,Alpine,GAS,16,6,101.306
-19,United States,Haas,MAG,16,7,101.901
-19,United States,Racing Bulls,TSU,16,8,101.684
-19,United States,Red Bull,PER,16,9,101.468
-19,United States,Haas,HUL,16,10,101.512
-19,United States,,LAW,16,11,101.646
-19,United States,Aston Martin,ALO,16,12,101.681
-19,United States,Mercedes,RUS,16,13,101.26
-19,United States,Williams,COL,16,14,101.956
-19,United States,Alpine,OCO,16,15,101.906
-19,United States,Aston Martin,STR,16,16,102.311
-19,United States,Williams,ALB,16,17,102.331
-19,United States,Kick Sauber,BOT,16,18,121.652
-19,United States,Kick Sauber,ZHO,16,19,101.633
-19,United States,Ferrari,LEC,18,1,99.435
-19,United States,Red Bull,VER,18,2,99.921
-19,United States,Ferrari,SAI,18,3,99.696
-19,United States,McLaren,NOR,18,4,99.944
-19,United States,McLaren,PIA,18,5,100.006
-19,United States,Alpine,GAS,18,6,101.038
-19,United States,Red Bull,PER,18,7,100.538
-19,United States,Haas,HUL,18,8,102.13
-19,United States,Racing Bulls,TSU,18,9,102.676
-19,United States,,LAW,18,10,101.335
-19,United States,Mercedes,RUS,18,11,100.53
-19,United States,Aston Martin,ALO,18,12,101.238
-19,United States,Williams,COL,18,13,101.427
-19,United States,Alpine,OCO,18,14,101.669
-19,United States,Aston Martin,STR,18,15,101.869
-19,United States,Williams,ALB,18,16,101.524
-19,United States,Haas,MAG,18,17,119.791
-19,United States,Kick Sauber,BOT,18,18,100.762
-19,United States,Kick Sauber,ZHO,18,19,101.325
-19,United States,Ferrari,LEC,43,1,98.257
-19,United States,Ferrari,SAI,43,2,98.223
-19,United States,Red Bull,VER,43,3,98.526
-19,United States,McLaren,NOR,43,4,98.033
-19,United States,McLaren,PIA,43,5,97.984
-19,United States,Red Bull,PER,43,6,98.787
-19,United States,Haas,HUL,43,7,98.906
-19,United States,Mercedes,RUS,43,8,98.118
-19,United States,,LAW,43,9,99.104
-19,United States,Alpine,GAS,43,10,99.276
-19,United States,Williams,COL,43,11,98.528
-19,United States,Haas,MAG,43,12,98.988
-19,United States,Aston Martin,ALO,43,13,99.554
-19,United States,Racing Bulls,TSU,43,14,99.361
-19,United States,Kick Sauber,BOT,43,15,100.696
-19,United States,Alpine,OCO,43,16,100.247
-19,United States,Aston Martin,STR,43,17,99.922
-19,United States,Williams,ALB,43,18,99.353
-19,United States,Kick Sauber,ZHO,43,19,100.241
-19,United States,Ferrari,LEC,55,1,97.902
-19,United States,Ferrari,SAI,55,2,99.009
-19,United States,McLaren,NOR,55,3,97.679
-19,United States,Red Bull,VER,55,4,98.252
-19,United States,McLaren,PIA,55,5,97.924
-19,United States,Mercedes,RUS,55,6,98.18
-19,United States,Red Bull,PER,55,7,99.987
-19,United States,Haas,HUL,55,8,98.714
-19,United States,,LAW,55,9,98.433
-19,United States,Williams,COL,55,10,97.926
-19,United States,Haas,MAG,55,11,98.239
-19,United States,Alpine,GAS,55,12,98.311
-19,United States,Aston Martin,ALO,55,13,100.096
-19,United States,Racing Bulls,TSU,55,14,99.379
-19,United States,Aston Martin,STR,55,15,101.498
-19,United States,Williams,ALB,55,16,101.299
-19,United States,Kick Sauber,BOT,55,17,100.708
-19,United States,Alpine,OCO,55,18,99.999
-19,United States,Kick Sauber,ZHO,55,19,100.061
-19,United States,Ferrari,LEC,5,1,168.785
-19,United States,Red Bull,VER,5,2,167.623
-19,United States,Ferrari,SAI,5,3,166.655
-19,United States,McLaren,NOR,5,4,165.769
-19,United States,McLaren,PIA,5,5,164.254
-19,United States,Alpine,GAS,5,6,160.207
-19,United States,Haas,MAG,5,7,159.607
-19,United States,Racing Bulls,TSU,5,8,156.517
-19,United States,Red Bull,PER,5,9,155.478
-19,United States,Aston Martin,ALO,5,10,154.538
-19,United States,Haas,HUL,5,11,153.617
-19,United States,Aston Martin,STR,5,12,152.04
-19,United States,,LAW,5,13,150.275
-19,United States,Kick Sauber,ZHO,5,14,149.529
-19,United States,Williams,COL,5,15,147.801
-19,United States,Kick Sauber,BOT,5,16,146.661
-19,United States,Mercedes,RUS,5,17,143.987
-19,United States,Alpine,OCO,5,18,143.011
-19,United States,Williams,ALB,5,19,141.937
-19,United States,Ferrari,LEC,53,1,98.365
-19,United States,Ferrari,SAI,53,2,98.17
-19,United States,McLaren,NOR,53,3,98.347
-19,United States,Red Bull,VER,53,4,99.384
-19,United States,McLaren,PIA,53,5,99.104
-19,United States,Red Bull,PER,53,6,99.739
-19,United States,Mercedes,RUS,53,7,99.888
-19,United States,Haas,HUL,53,8,98.512
-19,United States,,LAW,53,9,98.113
-19,United States,Williams,COL,53,10,98.032
-19,United States,Haas,MAG,53,11,98.508
-19,United States,Alpine,GAS,53,12,99.127
-19,United States,Aston Martin,ALO,53,13,99.729
-19,United States,Racing Bulls,TSU,53,14,101.114
-19,United States,Aston Martin,STR,53,15,99.435
-19,United States,Williams,ALB,53,16,99.35
-19,United States,Kick Sauber,BOT,53,17,100.575
-19,United States,Alpine,OCO,53,18,97.33
-19,United States,Kick Sauber,ZHO,53,19,99.272
-19,United States,Ferrari,LEC,11,1,99.597
-19,United States,Red Bull,VER,11,2,100.246
-19,United States,Ferrari,SAI,11,3,100.352
-19,United States,McLaren,NOR,11,4,100.668
-19,United States,McLaren,PIA,11,5,100.607
-19,United States,Alpine,GAS,11,6,101.291
-19,United States,Haas,MAG,11,7,101.697
-19,United States,Racing Bulls,TSU,11,8,101.613
-19,United States,Red Bull,PER,11,9,101.525
-19,United States,Haas,HUL,11,10,101.689
-19,United States,,LAW,11,11,101.535
-19,United States,Aston Martin,ALO,11,12,103.326
-19,United States,Williams,COL,11,13,102.239
-19,United States,Kick Sauber,BOT,11,14,102.3
-19,United States,Mercedes,RUS,11,15,102.165
-19,United States,Alpine,OCO,11,16,102.258
-19,United States,Aston Martin,STR,11,17,102.777
-19,United States,Williams,ALB,11,18,102.219
-19,United States,Kick Sauber,ZHO,11,19,102.743
-19,United States,Ferrari,LEC,52,1,98.092
-19,United States,Ferrari,SAI,52,2,98.088
-19,United States,McLaren,NOR,52,3,99.843
-19,United States,Red Bull,VER,52,4,100.819
-19,United States,McLaren,PIA,52,5,98.18
-19,United States,Red Bull,PER,52,6,99.176
-19,United States,Mercedes,RUS,52,7,98.608
-19,United States,Haas,HUL,52,8,98.703
-19,United States,,LAW,52,9,98.281
-19,United States,Williams,COL,52,10,98.133
-19,United States,Haas,MAG,52,11,98.623
-19,United States,Alpine,GAS,52,12,98.9
-19,United States,Aston Martin,ALO,52,13,99.261
-19,United States,Racing Bulls,TSU,52,14,99.657
-19,United States,Aston Martin,STR,52,15,99.448
-19,United States,Williams,ALB,52,16,99.279
-19,United States,Kick Sauber,BOT,52,17,100.658
-19,United States,Alpine,OCO,52,18,129.77
-19,United States,Kick Sauber,ZHO,52,19,99.683
+19,United States,Ferrari,LEC,19,1,99.553
+19,United States,Red Bull,VER,19,2,99.981
+19,United States,Ferrari,SAI,19,3,99.898
+19,United States,McLaren,NOR,19,4,99.612
+19,United States,McLaren,PIA,19,5,99.685
+19,United States,Red Bull,PER,19,6,100.258
+19,United States,Haas,HUL,19,7,100.43
+19,United States,Racing Bulls,LAW,19,8,101.101
+19,United States,Mercedes,RUS,19,9,101.203
+19,United States,Aston Martin,ALO,19,10,101.677
+19,United States,Williams,COL,19,11,101.01
+19,United States,Alpine,OCO,19,12,101.517
+19,United States,Aston Martin,STR,19,13,101.57
+19,United States,Williams,ALB,19,14,101.601
+19,United States,Haas,MAG,19,15,100.868
+19,United States,Alpine,GAS,19,16,125.822
+19,United States,Racing Bulls,TSU,19,17,122.848
+19,United States,Kick Sauber,BOT,19,18,100.869
+19,United States,Kick Sauber,ZHO,19,19,101.352
+19,United States,Ferrari,LEC,54,1,98.175
+19,United States,Ferrari,SAI,54,2,98.2
+19,United States,McLaren,NOR,54,3,97.889
+19,United States,Red Bull,VER,54,4,98.661
+19,United States,McLaren,PIA,54,5,97.954
+19,United States,Red Bull,PER,54,6,98.803
+19,United States,Mercedes,RUS,54,7,98.724
+19,United States,Haas,HUL,54,8,98.775
+19,United States,Racing Bulls,LAW,54,9,98.091
+19,United States,Williams,COL,54,10,97.708
+19,United States,Haas,MAG,54,11,98.325
+19,United States,Alpine,GAS,54,12,98.728
+19,United States,Aston Martin,ALO,54,13,101.67
+19,United States,Racing Bulls,TSU,54,14,99.193
+19,United States,Aston Martin,STR,54,15,99.214
+19,United States,Williams,ALB,54,16,99.084
+19,United States,Kick Sauber,BOT,54,17,100.679
+19,United States,Alpine,OCO,54,18,99.993
+19,United States,Kick Sauber,ZHO,54,19,99.596
+19,United States,Ferrari,LEC,45,1,98.349
+19,United States,Ferrari,SAI,45,2,98.28
+19,United States,Red Bull,VER,45,3,98.269
+19,United States,McLaren,NOR,45,4,98.34
+19,United States,McLaren,PIA,45,5,97.979
+19,United States,Red Bull,PER,45,6,98.514
+19,United States,Mercedes,RUS,45,7,97.963
+19,United States,Haas,HUL,45,8,100.572
+19,United States,Racing Bulls,LAW,45,9,99.084
+19,United States,Williams,COL,45,10,98.532
+19,United States,Alpine,GAS,45,11,100.665
+19,United States,Haas,MAG,45,12,99.045
+19,United States,Aston Martin,ALO,45,13,99.999
+19,United States,Racing Bulls,TSU,45,14,99.711
+19,United States,Alpine,OCO,45,15,99.827
+19,United States,Aston Martin,STR,45,16,100.481
+19,United States,Kick Sauber,BOT,45,17,105.416
+19,United States,Williams,ALB,45,18,99.961
+19,United States,Kick Sauber,ZHO,45,19,99.658
