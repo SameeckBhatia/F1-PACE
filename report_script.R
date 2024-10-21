@@ -20,8 +20,8 @@ driver_colors <- list(
   "VER" = "#3671C6", "PER" = "#204374", "LEC" = "#E8002D", "SAI" = "#800019",
   "BEA" = "#800019", "RUS" = "#27F4D2", "HAM" = "#09AA8F", "NOR" = "#FF8000",
   "PIA" = "#994C00", "ALO" = "#229971", "STR" = "#104735", "RIC" = "#6692FF",
-  "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D", "ALB" = "#64C4FF",
-  "COL" = "#4789B3"
+  "LAW" = "#6692FF", "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D",
+  "ALB" = "#64C4FF", "COL" = "#4789B3"
 )
 
 # Outlier function
@@ -100,56 +100,59 @@ plot_all <- function(gp, driver1, driver2, color) {
   plot_3(gp, color)
 }
 
-# Bahrain GP
-plot_all("Bahrain", "RIC", "TSU", "#DA291C")
+# # Bahrain GP
+# plot_all("Bahrain", "RIC", "TSU", "#DA291C")
+#
+# # Saudi GP
+# plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
+#
+# # Australian GP
+# plot_all("Australia", "LEC", "SAI", "#00008B")
+#
+# # Japanese GP
+# plot_all("Japan", "ALO", "RUS", "#B0000F")
+#
+# # Chinese GP
+# plot_all("China", "ALO", "HAM", "#EE1C25")
+#
+# # Miami GP
+# plot_all("Miami", "NOR", "VER", "#00A8CC")
+#
+# # Emilia Romagna GP
+# plot_all("Emilia Romagna", "NOR", "VER", "#009B47")
+#
+# # Monaco GP
+# plot_all("Monaco", "LEC", "PIA", "#CF0921")
+#
+# # Canadian GP
+# plot_all("Canada", "HAM", "RUS", "#D80621")
+#
+# # Spanish GP
+# plot_all("Spain", "LEC", "RUS", "#FABD00")
+#
+# # Austrian GP
+# plot_all("Austria", "NOR", "VER", "#C8102E")
+#
+# # British GP
+# plot_all("Great Britain", "HAM", "VER", "#012169")
+#
+# # Hungarian GP
+# plot_all("Hungary", "NOR", "PIA", "#477050")
+#
+# # Belgian GP
+# plot_all("Belgium", "HAM", "RUS", "#EF3340")
+#
+# # Dutch GP
+# plot_all("Netherlands", "NOR", "VER", "#FF4F00")
+#
+# # Italian GP
+# plot_all("Italy", "ALB", "COL", "#009B47")
+#
+# # Azerbaijan GP
+# plot_all("Azerbaijan", "PER", "SAI", "#0092BC")
+#
+# # Singapore GP
+# plot_all("Singapore", "ALO", "HUL", "#EE2536")
 
-# Saudi GP
-plot_all("Saudi Arabia", "BEA", "NOR", "#005430")
-
-# Australian GP
-plot_all("Australia", "LEC", "SAI", "#00008B")
-
-# Japanese GP
-plot_all("Japan", "ALO", "RUS", "#B0000F")
-
-# Chinese GP
-plot_all("China", "ALO", "HAM", "#EE1C25")
-
-# Miami GP
-plot_all("Miami", "NOR", "VER", "#00A8CC")
-
-# Emilia Romagna GP
-plot_all("Emilia Romagna", "NOR", "VER", "#009B47")
-
-# Monaco GP
-plot_all("Monaco", "LEC", "PIA", "#CF0921")
-
-# Canadian GP
-plot_all("Canada", "HAM", "RUS", "#D80621")
-
-# Spanish GP
-plot_all("Spain", "LEC", "RUS", "#FABD00")
-
-# Austrian GP
-plot_all("Austria", "NOR", "VER", "#C8102E")
-
-# British GP
-plot_all("Great Britain", "HAM", "VER", "#012169")
-
-# Hungarian GP
-plot_all("Hungary", "NOR", "PIA", "#477050")
-
-# Belgian GP
-plot_all("Belgium", "HAM", "RUS", "#EF3340")
-
-# Dutch GP
-plot_all("Netherlands", "NOR", "VER", "#FF4F00")
-
-# Italian GP
-plot_all("Italy", "ALB", "COL", "#009B47")
-
-# Azerbaijan GP
-plot_all("Azerbaijan", "PER", "SAI", "#0092BC")
-
-# Singapore GP
-plot_all("Singapore", "ALO", "HUL", "#EE2536")
+# United States GP
+plot_all("United States", "LAW", "TSU", "#002368")
