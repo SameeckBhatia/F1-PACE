@@ -46,7 +46,7 @@ constructor_driver_dict = {
     "Alpine": ["GAS", "OCO"], "Aston Martin": ["ALO", "STR"],
     "Ferrari": ["LEC", "SAI", "BEA"], "Haas": ["HUL", "MAG"],
     "Kick Sauber": ["BOT", "ZHO"], "McLaren": ["NOR", "PIA"],
-    "Mercedes": ["HAM", "RUS"], "Racing Bulls": ["RIC", "TSU"],
+    "Mercedes": ["HAM", "RUS"], "Racing Bulls": ["RIC", "TSU", "LAW"],
     "Red Bull": ["PER", "VER"], "Williams": ["ALB", "SAR", "COL"]
 }
 
