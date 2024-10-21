@@ -1,8 +1,7 @@
 name: Auto Python
 
 on:
-  schedule:
-    - cron: '59 09 21,28 10 *'
+  push
 
 jobs:
   run-python:
