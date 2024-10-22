@@ -11,7 +11,6 @@ trends and patterns that define the thrilling dynamics of Formula One.
 
 The repo is structured as:
 
-- `.github/workflows` contains GitHub Actions configurations for automating workflows.
 - `data` contains all datasets relevant to the analysis.
 - `plots` contains generated plots for different GP races.
 - `requirements` contains the necessary dependencies for the project.
