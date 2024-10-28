@@ -21317,3 +21317,1216 @@ round,grand_prix,constructor,driver,lap,position,time
 19,United States,Kick Sauber,BOT,45,17,105.416
 19,United States,Williams,ALB,45,18,99.961
 19,United States,Kick Sauber,ZHO,45,19,99.658
+20,Mexico,Ferrari,SAI,26,1,81.596
+20,Mexico,Ferrari,LEC,26,2,82.359
+20,Mexico,McLaren,NOR,26,3,82.63
+20,Mexico,Red Bull,VER,26,4,85.562
+20,Mexico,Mercedes,RUS,26,5,82.457
+20,Mexico,Mercedes,HAM,26,6,83.293
+20,Mexico,Haas,MAG,26,7,83.901
+20,Mexico,Haas,HUL,26,8,83.983
+20,Mexico,Alpine,GAS,26,9,83.969
+20,Mexico,Racing Bulls,LAW,26,10,83.689
+20,Mexico,McLaren,PIA,26,11,82.664
+20,Mexico,Williams,COL,26,12,83.883
+20,Mexico,Kick Sauber,BOT,26,13,83.859
+20,Mexico,Aston Martin,STR,26,14,87.333
+20,Mexico,Kick Sauber,ZHO,26,15,84.058
+20,Mexico,Alpine,OCO,26,16,83.939
+20,Mexico,Red Bull,PER,26,17,82.399
+20,Mexico,Ferrari,SAI,24,1,81.428
+20,Mexico,Ferrari,LEC,24,2,81.904
+20,Mexico,Red Bull,VER,24,3,82.455
+20,Mexico,McLaren,NOR,24,4,82.062
+20,Mexico,Mercedes,RUS,24,5,82.191
+20,Mexico,Mercedes,HAM,24,6,82.723
+20,Mexico,Haas,MAG,24,7,83.315
+20,Mexico,Haas,HUL,24,8,83.391
+20,Mexico,Alpine,GAS,24,9,83.681
+20,Mexico,Racing Bulls,LAW,24,10,83.477
+20,Mexico,McLaren,PIA,24,11,82.605
+20,Mexico,Aston Martin,STR,24,12,84.731
+20,Mexico,Williams,COL,24,13,83.428
+20,Mexico,Kick Sauber,BOT,24,14,83.241
+20,Mexico,Kick Sauber,ZHO,24,15,83.371
+20,Mexico,Alpine,OCO,24,16,83.406
+20,Mexico,Red Bull,PER,24,17,82.109
+20,Mexico,Ferrari,SAI,23,1,81.516
+20,Mexico,Ferrari,LEC,23,2,81.938
+20,Mexico,Red Bull,VER,23,3,82.229
+20,Mexico,McLaren,NOR,23,4,82.29
+20,Mexico,Mercedes,RUS,23,5,82.36
+20,Mexico,Mercedes,HAM,23,6,82.54
+20,Mexico,Haas,MAG,23,7,83.068
+20,Mexico,Haas,HUL,23,8,83.276
+20,Mexico,Alpine,GAS,23,9,83.303
+20,Mexico,Racing Bulls,LAW,23,10,83.423
+20,Mexico,Aston Martin,STR,23,11,83.194
+20,Mexico,McLaren,PIA,23,12,82.68
+20,Mexico,Williams,COL,23,13,82.984
+20,Mexico,Kick Sauber,BOT,23,14,83.421
+20,Mexico,Kick Sauber,ZHO,23,15,83.709
+20,Mexico,Alpine,OCO,23,16,83.812
+20,Mexico,Red Bull,PER,23,17,81.879
+20,Mexico,Ferrari,SAI,15,1,81.516
+20,Mexico,Ferrari,LEC,15,2,82.212
+20,Mexico,Red Bull,VER,15,3,82.051
+20,Mexico,McLaren,NOR,15,4,82.146
+20,Mexico,Mercedes,RUS,15,5,82.408
+20,Mexico,Mercedes,HAM,15,6,84.039
+20,Mexico,Haas,MAG,15,7,83.119
+20,Mexico,Haas,HUL,15,8,83.243
+20,Mexico,Alpine,GAS,15,9,83.165
+20,Mexico,Racing Bulls,LAW,15,10,83.131
+20,Mexico,Red Bull,PER,15,11,83.001
+20,Mexico,Aston Martin,STR,15,12,83.127
+20,Mexico,Williams,COL,15,13,84.27
+20,Mexico,McLaren,PIA,15,14,84.244
+20,Mexico,Kick Sauber,BOT,15,15,84.215
+20,Mexico,Kick Sauber,ZHO,15,16,85.364
+20,Mexico,Aston Martin,ALO,15,17,88.421
+20,Mexico,Alpine,OCO,15,18,86.989
+20,Mexico,Ferrari,SAI,14,1,81.475
+20,Mexico,Ferrari,LEC,14,2,81.31
+20,Mexico,Red Bull,VER,14,3,81.758
+20,Mexico,McLaren,NOR,14,4,81.988
+20,Mexico,Mercedes,HAM,14,5,83.557
+20,Mexico,Mercedes,RUS,14,6,83.414
+20,Mexico,Haas,MAG,14,7,83.002
+20,Mexico,Haas,HUL,14,8,82.883
+20,Mexico,Alpine,GAS,14,9,82.988
+20,Mexico,Racing Bulls,LAW,14,10,82.791
+20,Mexico,Red Bull,PER,14,11,82.399
+20,Mexico,Aston Martin,STR,14,12,83.191
+20,Mexico,Aston Martin,ALO,14,13,84.366
+20,Mexico,Williams,COL,14,14,84.305
+20,Mexico,McLaren,PIA,14,15,84.172
+20,Mexico,Kick Sauber,BOT,14,16,84.189
+20,Mexico,Kick Sauber,ZHO,14,17,83.979
+20,Mexico,Alpine,OCO,14,18,83.956
+20,Mexico,Ferrari,SAI,46,1,80.592
+20,Mexico,Ferrari,LEC,46,2,80.542
+20,Mexico,McLaren,NOR,46,3,80.221
+20,Mexico,Mercedes,RUS,46,4,80.826
+20,Mexico,Mercedes,HAM,46,5,80.561
+20,Mexico,Red Bull,VER,46,6,81.284
+20,Mexico,Haas,MAG,46,7,81.41
+20,Mexico,Haas,HUL,46,8,81.839
+20,Mexico,Williams,COL,46,9,82.625
+20,Mexico,McLaren,PIA,46,10,81.164
+20,Mexico,Alpine,GAS,46,11,82.26
+20,Mexico,Kick Sauber,BOT,46,12,83.039
+20,Mexico,Alpine,OCO,46,13,83.038
+20,Mexico,Aston Martin,STR,46,14,82.028
+20,Mexico,Racing Bulls,LAW,46,15,81.601
+20,Mexico,Red Bull,PER,46,16,80.97
+20,Mexico,Kick Sauber,ZHO,46,17,83.064
+20,Mexico,Ferrari,SAI,56,1,80.256
+20,Mexico,Ferrari,LEC,56,2,81.06
+20,Mexico,McLaren,NOR,56,3,80.509
+20,Mexico,Mercedes,RUS,56,4,80.888
+20,Mexico,Mercedes,HAM,56,5,80.935
+20,Mexico,Red Bull,VER,56,6,81.013
+20,Mexico,Haas,MAG,56,7,80.892
+20,Mexico,McLaren,PIA,56,8,80.206
+20,Mexico,Haas,HUL,56,9,82.59
+20,Mexico,Alpine,GAS,56,10,81.565
+20,Mexico,Aston Martin,STR,56,11,81.462
+20,Mexico,Racing Bulls,LAW,56,12,81.302
+20,Mexico,Williams,COL,56,13,82.398
+20,Mexico,Kick Sauber,BOT,56,14,81.275
+20,Mexico,Alpine,OCO,56,15,81.278
+20,Mexico,Red Bull,PER,56,16,81.919
+20,Mexico,Kick Sauber,ZHO,56,17,81.553
+20,Mexico,Ferrari,SAI,17,1,82.012
+20,Mexico,Ferrari,LEC,17,2,81.86
+20,Mexico,Red Bull,VER,17,3,82.017
+20,Mexico,McLaren,NOR,17,4,82.332
+20,Mexico,Mercedes,RUS,17,5,82.566
+20,Mexico,Mercedes,HAM,17,6,83.006
+20,Mexico,Haas,MAG,17,7,82.962
+20,Mexico,Haas,HUL,17,8,83.452
+20,Mexico,Alpine,GAS,17,9,83.519
+20,Mexico,Racing Bulls,LAW,17,10,83.3
+20,Mexico,Red Bull,PER,17,11,83.257
+20,Mexico,Aston Martin,STR,17,12,83.412
+20,Mexico,Williams,COL,17,13,82.97
+20,Mexico,McLaren,PIA,17,14,82.946
+20,Mexico,Kick Sauber,BOT,17,15,83.705
+20,Mexico,Kick Sauber,ZHO,17,16,83.57
+20,Mexico,Alpine,OCO,17,17,83.107
+20,Mexico,Red Bull,VER,1,1,105.059
+20,Mexico,Ferrari,SAI,1,2,107.224
+20,Mexico,McLaren,NOR,1,3,109.304
+20,Mexico,Ferrari,LEC,1,4,110.826
+20,Mexico,Mercedes,HAM,1,5,112.235
+20,Mexico,Mercedes,RUS,1,6,114.932
+20,Mexico,Haas,MAG,1,7,116.783
+20,Mexico,Haas,HUL,1,8,118.596
+20,Mexico,Alpine,GAS,1,9,120.117
+20,Mexico,Racing Bulls,LAW,1,10,120.936
+20,Mexico,Aston Martin,STR,1,11,123.885
+20,Mexico,Aston Martin,ALO,1,12,125.776
+20,Mexico,Red Bull,PER,1,13,127.341
+20,Mexico,Williams,COL,1,14,128.478
+20,Mexico,Kick Sauber,BOT,1,15,130.545
+20,Mexico,Kick Sauber,ZHO,1,16,132.333
+20,Mexico,McLaren,PIA,1,17,133.443
+20,Mexico,Alpine,OCO,1,18,134.747
+20,Mexico,Ferrari,SAI,62,1,80.137
+20,Mexico,Ferrari,LEC,62,2,80.966
+20,Mexico,McLaren,NOR,62,3,80.141
+20,Mexico,Mercedes,RUS,62,4,80.791
+20,Mexico,Mercedes,HAM,62,5,80.738
+20,Mexico,Red Bull,VER,62,6,80.95
+20,Mexico,Haas,MAG,62,7,80.835
+20,Mexico,McLaren,PIA,62,8,80.472
+20,Mexico,Haas,HUL,62,9,81.36
+20,Mexico,Alpine,GAS,62,10,81.537
+20,Mexico,Aston Martin,STR,62,11,81.851
+20,Mexico,Racing Bulls,LAW,62,12,81.703
+20,Mexico,Williams,COL,62,13,81.766
+20,Mexico,Kick Sauber,BOT,62,14,81.383
+20,Mexico,Alpine,OCO,62,15,81.356
+20,Mexico,Red Bull,PER,62,16,81.915
+20,Mexico,Kick Sauber,ZHO,62,17,82.319
+20,Mexico,Ferrari,SAI,34,1,81.037
+20,Mexico,Ferrari,LEC,34,2,80.847
+20,Mexico,McLaren,NOR,34,3,80.881
+20,Mexico,Mercedes,RUS,34,4,81.794
+20,Mexico,McLaren,PIA,34,5,83.015
+20,Mexico,Mercedes,HAM,34,6,83.332
+20,Mexico,Racing Bulls,LAW,34,7,85.903
+20,Mexico,Williams,COL,34,8,83.101
+20,Mexico,Red Bull,VER,34,9,82.154
+20,Mexico,Kick Sauber,BOT,34,10,83.262
+20,Mexico,Haas,MAG,34,11,81.946
+20,Mexico,Haas,HUL,34,12,81.602
+20,Mexico,Alpine,OCO,34,13,83.486
+20,Mexico,Alpine,GAS,34,14,82.201
+20,Mexico,Kick Sauber,ZHO,34,15,83.519
+20,Mexico,Red Bull,PER,34,16,83.096
+20,Mexico,Aston Martin,STR,34,17,83.037
+20,Mexico,Ferrari,SAI,53,1,80.719
+20,Mexico,Ferrari,LEC,53,2,80.682
+20,Mexico,McLaren,NOR,53,3,80.471
+20,Mexico,Mercedes,RUS,53,4,81.167
+20,Mexico,Mercedes,HAM,53,5,80.984
+20,Mexico,Red Bull,VER,53,6,80.872
+20,Mexico,Haas,MAG,53,7,81.0
+20,Mexico,Haas,HUL,53,8,81.677
+20,Mexico,McLaren,PIA,53,9,80.27
+20,Mexico,Alpine,GAS,53,10,81.774
+20,Mexico,Aston Martin,STR,53,11,81.568
+20,Mexico,Racing Bulls,LAW,53,12,81.847
+20,Mexico,Williams,COL,53,13,80.926
+20,Mexico,Kick Sauber,BOT,53,14,81.25
+20,Mexico,Alpine,OCO,53,15,81.322
+20,Mexico,Red Bull,PER,53,16,81.25
+20,Mexico,Kick Sauber,ZHO,53,17,81.786
+20,Mexico,Ferrari,SAI,52,1,80.965
+20,Mexico,Ferrari,LEC,52,2,80.369
+20,Mexico,McLaren,NOR,52,3,80.474
+20,Mexico,Mercedes,RUS,52,4,80.79
+20,Mexico,Mercedes,HAM,52,5,80.9
+20,Mexico,Red Bull,VER,52,6,81.119
+20,Mexico,Haas,MAG,52,7,81.086
+20,Mexico,Haas,HUL,52,8,81.548
+20,Mexico,McLaren,PIA,52,9,80.234
+20,Mexico,Alpine,GAS,52,10,81.718
+20,Mexico,Aston Martin,STR,52,11,83.018
+20,Mexico,Racing Bulls,LAW,52,12,81.612
+20,Mexico,Williams,COL,52,13,80.887
+20,Mexico,Kick Sauber,BOT,52,14,81.442
+20,Mexico,Alpine,OCO,52,15,81.432
+20,Mexico,Red Bull,PER,52,16,81.392
+20,Mexico,Kick Sauber,ZHO,52,17,81.78
+20,Mexico,Red Bull,VER,7,1,81.442
+20,Mexico,Ferrari,SAI,7,2,81.83
+20,Mexico,McLaren,NOR,7,3,81.885
+20,Mexico,Ferrari,LEC,7,4,82.154
+20,Mexico,Mercedes,HAM,7,5,82.609
+20,Mexico,Mercedes,RUS,7,6,82.863
+20,Mexico,Haas,MAG,7,7,83.031
+20,Mexico,Haas,HUL,7,8,83.086
+20,Mexico,Alpine,GAS,7,9,83.2
+20,Mexico,Racing Bulls,LAW,7,10,83.455
+20,Mexico,Aston Martin,STR,7,11,83.306
+20,Mexico,Aston Martin,ALO,7,12,82.722
+20,Mexico,Red Bull,PER,7,13,83.003
+20,Mexico,Williams,COL,7,14,83.364
+20,Mexico,Kick Sauber,BOT,7,15,83.635
+20,Mexico,Kick Sauber,ZHO,7,16,83.668
+20,Mexico,McLaren,PIA,7,17,83.677
+20,Mexico,Alpine,OCO,7,18,83.742
+20,Mexico,Ferrari,SAI,38,1,80.616
+20,Mexico,Ferrari,LEC,38,2,80.577
+20,Mexico,McLaren,NOR,38,3,80.868
+20,Mexico,Mercedes,RUS,38,4,81.532
+20,Mexico,Mercedes,HAM,38,5,81.308
+20,Mexico,McLaren,PIA,38,6,82.312
+20,Mexico,Red Bull,VER,38,7,81.111
+20,Mexico,Racing Bulls,LAW,38,8,83.736
+20,Mexico,Williams,COL,38,9,83.199
+20,Mexico,Haas,MAG,38,10,82.09
+20,Mexico,Haas,HUL,38,11,82.666
+20,Mexico,Kick Sauber,BOT,38,12,83.275
+20,Mexico,Alpine,GAS,38,13,82.278
+20,Mexico,Alpine,OCO,38,14,83.036
+20,Mexico,Kick Sauber,ZHO,38,15,83.24
+20,Mexico,Red Bull,PER,38,16,83.74
+20,Mexico,Aston Martin,STR,38,17,82.84
+20,Mexico,Ferrari,SAI,60,1,80.326
+20,Mexico,Ferrari,LEC,60,2,80.46
+20,Mexico,McLaren,NOR,60,3,80.272
+20,Mexico,Mercedes,RUS,60,4,81.559
+20,Mexico,Mercedes,HAM,60,5,81.724
+20,Mexico,Red Bull,VER,60,6,81.052
+20,Mexico,Haas,MAG,60,7,80.729
+20,Mexico,McLaren,PIA,60,8,80.385
+20,Mexico,Haas,HUL,60,9,81.419
+20,Mexico,Alpine,GAS,60,10,81.457
+20,Mexico,Aston Martin,STR,60,11,81.585
+20,Mexico,Racing Bulls,LAW,60,12,81.416
+20,Mexico,Williams,COL,60,13,81.579
+20,Mexico,Kick Sauber,BOT,60,14,81.261
+20,Mexico,Alpine,OCO,60,15,81.122
+20,Mexico,Red Bull,PER,60,16,81.586
+20,Mexico,Kick Sauber,ZHO,60,17,82.413
+20,Mexico,Ferrari,SAI,42,1,80.939
+20,Mexico,Ferrari,LEC,42,2,80.58
+20,Mexico,McLaren,NOR,42,3,80.451
+20,Mexico,Mercedes,RUS,42,4,81.024
+20,Mexico,Mercedes,HAM,42,5,81.285
+20,Mexico,Red Bull,VER,42,6,81.596
+20,Mexico,Haas,MAG,42,7,81.779
+20,Mexico,Williams,COL,42,8,82.779
+20,Mexico,Haas,HUL,42,9,82.158
+20,Mexico,Kick Sauber,BOT,42,10,83.341
+20,Mexico,Alpine,GAS,42,11,83.016
+20,Mexico,McLaren,PIA,42,12,81.367
+20,Mexico,Alpine,OCO,42,13,82.938
+20,Mexico,Aston Martin,STR,42,14,81.675
+20,Mexico,Kick Sauber,ZHO,42,15,84.414
+20,Mexico,Racing Bulls,LAW,42,16,82.259
+20,Mexico,Red Bull,PER,42,17,83.677
+20,Mexico,Ferrari,SAI,27,1,81.827
+20,Mexico,Ferrari,LEC,27,2,82.743
+20,Mexico,McLaren,NOR,27,3,82.185
+20,Mexico,Mercedes,RUS,27,4,82.62
+20,Mexico,Mercedes,HAM,27,5,83.203
+20,Mexico,Haas,MAG,27,6,83.847
+20,Mexico,Haas,HUL,27,7,83.719
+20,Mexico,Alpine,GAS,27,8,84.108
+20,Mexico,Racing Bulls,LAW,27,9,83.812
+20,Mexico,McLaren,PIA,27,10,82.905
+20,Mexico,Williams,COL,27,11,82.758
+20,Mexico,Kick Sauber,BOT,27,12,83.553
+20,Mexico,Kick Sauber,ZHO,27,13,83.835
+20,Mexico,Alpine,OCO,27,14,83.803
+20,Mexico,Red Bull,VER,27,15,121.898
+20,Mexico,Red Bull,PER,27,16,82.772
+20,Mexico,Aston Martin,STR,27,17,101.589
+20,Mexico,Ferrari,SAI,11,1,81.847
+20,Mexico,Ferrari,LEC,11,2,81.423
+20,Mexico,Red Bull,VER,11,3,81.71
+20,Mexico,McLaren,NOR,11,4,82.047
+20,Mexico,Mercedes,HAM,11,5,82.469
+20,Mexico,Mercedes,RUS,11,6,82.86
+20,Mexico,Haas,MAG,11,7,83.04
+20,Mexico,Haas,HUL,11,8,82.933
+20,Mexico,Alpine,GAS,11,9,82.99
+20,Mexico,Racing Bulls,LAW,11,10,82.909
+20,Mexico,Aston Martin,STR,11,11,83.229
+20,Mexico,Red Bull,PER,11,12,82.738
+20,Mexico,Aston Martin,ALO,11,13,84.127
+20,Mexico,Williams,COL,11,14,83.535
+20,Mexico,Kick Sauber,BOT,11,15,83.677
+20,Mexico,McLaren,PIA,11,16,83.793
+20,Mexico,Kick Sauber,ZHO,11,17,83.608
+20,Mexico,Alpine,OCO,11,18,83.512
+20,Mexico,Ferrari,SAI,16,1,81.59
+20,Mexico,Ferrari,LEC,16,2,81.621
+20,Mexico,Red Bull,VER,16,3,82.08
+20,Mexico,McLaren,NOR,16,4,81.981
+20,Mexico,Mercedes,RUS,16,5,82.671
+20,Mexico,Mercedes,HAM,16,6,82.65
+20,Mexico,Haas,MAG,16,7,82.928
+20,Mexico,Haas,HUL,16,8,83.067
+20,Mexico,Alpine,GAS,16,9,83.254
+20,Mexico,Racing Bulls,LAW,16,10,83.246
+20,Mexico,Red Bull,PER,16,11,83.092
+20,Mexico,Aston Martin,STR,16,12,83.515
+20,Mexico,Williams,COL,16,13,82.617
+20,Mexico,McLaren,PIA,16,14,82.898
+20,Mexico,Kick Sauber,BOT,16,15,83.781
+20,Mexico,Kick Sauber,ZHO,16,16,84.126
+20,Mexico,Alpine,OCO,16,17,83.708
+20,Mexico,Ferrari,SAI,25,1,81.659
+20,Mexico,Ferrari,LEC,25,2,82.076
+20,Mexico,Red Bull,VER,25,3,82.621
+20,Mexico,McLaren,NOR,25,4,82.535
+20,Mexico,Mercedes,RUS,25,5,82.362
+20,Mexico,Mercedes,HAM,25,6,82.886
+20,Mexico,Haas,MAG,25,7,83.45
+20,Mexico,Haas,HUL,25,8,83.498
+20,Mexico,Alpine,GAS,25,9,83.758
+20,Mexico,Racing Bulls,LAW,25,10,83.493
+20,Mexico,McLaren,PIA,25,11,82.231
+20,Mexico,Aston Martin,STR,25,12,84.011
+20,Mexico,Williams,COL,25,13,83.769
+20,Mexico,Kick Sauber,BOT,25,14,83.584
+20,Mexico,Kick Sauber,ZHO,25,15,83.783
+20,Mexico,Alpine,OCO,25,16,83.79
+20,Mexico,Red Bull,PER,25,17,82.118
+20,Mexico,Ferrari,SAI,54,1,80.65
+20,Mexico,Ferrari,LEC,54,2,80.727
+20,Mexico,McLaren,NOR,54,3,80.667
+20,Mexico,Mercedes,RUS,54,4,81.102
+20,Mexico,Mercedes,HAM,54,5,81.128
+20,Mexico,Red Bull,VER,54,6,81.218
+20,Mexico,Haas,MAG,54,7,80.885
+20,Mexico,Haas,HUL,54,8,81.225
+20,Mexico,McLaren,PIA,54,9,80.605
+20,Mexico,Alpine,GAS,54,10,81.723
+20,Mexico,Aston Martin,STR,54,11,81.684
+20,Mexico,Racing Bulls,LAW,54,12,81.539
+20,Mexico,Williams,COL,54,13,80.795
+20,Mexico,Kick Sauber,BOT,54,14,81.239
+20,Mexico,Alpine,OCO,54,15,81.159
+20,Mexico,Red Bull,PER,54,16,81.369
+20,Mexico,Kick Sauber,ZHO,54,17,81.713
+20,Mexico,Ferrari,SAI,69,1,80.398
+20,Mexico,McLaren,NOR,69,2,79.922
+20,Mexico,Ferrari,LEC,69,3,84.799
+20,Mexico,Mercedes,HAM,69,4,80.389
+20,Mexico,Mercedes,RUS,69,5,81.244
+20,Mexico,Red Bull,VER,69,6,81.535
+20,Mexico,Haas,MAG,69,7,81.169
+20,Mexico,McLaren,PIA,69,8,80.891
+20,Mexico,Haas,HUL,69,9,80.748
+20,Mexico,Alpine,GAS,69,10,81.769
+20,Mexico,Aston Martin,STR,69,11,81.406
+20,Mexico,Williams,COL,69,12,81.348
+20,Mexico,Kick Sauber,BOT,69,13,82.585
+20,Mexico,Alpine,OCO,69,14,82.111
+20,Mexico,Kick Sauber,ZHO,69,15,83.604
+20,Mexico,Racing Bulls,LAW,69,16,81.857
+20,Mexico,Red Bull,PER,69,17,100.217
+20,Mexico,Ferrari,SAI,41,1,80.98
+20,Mexico,Ferrari,LEC,41,2,80.755
+20,Mexico,McLaren,NOR,41,3,80.768
+20,Mexico,Mercedes,RUS,41,4,80.974
+20,Mexico,Mercedes,HAM,41,5,81.2
+20,Mexico,Red Bull,VER,41,6,81.712
+20,Mexico,Haas,MAG,41,7,81.683
+20,Mexico,Williams,COL,41,8,82.855
+20,Mexico,Haas,HUL,41,9,82.086
+20,Mexico,Kick Sauber,BOT,41,10,83.145
+20,Mexico,Alpine,GAS,41,11,82.38
+20,Mexico,McLaren,PIA,41,12,80.371
+20,Mexico,Alpine,OCO,41,13,83.592
+20,Mexico,Kick Sauber,ZHO,41,14,83.646
+20,Mexico,Aston Martin,STR,41,15,82.608
+20,Mexico,Racing Bulls,LAW,41,16,81.503
+20,Mexico,Red Bull,PER,41,17,84.347
+20,Mexico,Red Bull,VER,6,1,124.357
+20,Mexico,Ferrari,SAI,6,2,123.834
+20,Mexico,McLaren,NOR,6,3,121.27
+20,Mexico,Ferrari,LEC,6,4,119.324
+20,Mexico,Mercedes,HAM,6,5,119.007
+20,Mexico,Mercedes,RUS,6,6,117.001
+20,Mexico,Haas,MAG,6,7,115.871
+20,Mexico,Haas,HUL,6,8,116.068
+20,Mexico,Alpine,GAS,6,9,115.05
+20,Mexico,Racing Bulls,LAW,6,10,113.303
+20,Mexico,Aston Martin,STR,6,11,111.45
+20,Mexico,Aston Martin,ALO,6,12,110.901
+20,Mexico,Red Bull,PER,6,13,110.79
+20,Mexico,Williams,COL,6,14,109.707
+20,Mexico,Kick Sauber,BOT,6,15,105.588
+20,Mexico,Kick Sauber,ZHO,6,16,104.212
+20,Mexico,McLaren,PIA,6,17,103.384
+20,Mexico,Alpine,OCO,6,18,100.421
+20,Mexico,Ferrari,SAI,47,1,80.375
+20,Mexico,Ferrari,LEC,47,2,80.569
+20,Mexico,McLaren,NOR,47,3,80.561
+20,Mexico,Mercedes,RUS,47,4,81.401
+20,Mexico,Mercedes,HAM,47,5,80.465
+20,Mexico,Red Bull,VER,47,6,81.157
+20,Mexico,Haas,MAG,47,7,81.437
+20,Mexico,Haas,HUL,47,8,81.542
+20,Mexico,McLaren,PIA,47,9,83.905
+20,Mexico,Williams,COL,47,10,87.309
+20,Mexico,Alpine,GAS,47,11,82.35
+20,Mexico,Kick Sauber,BOT,47,12,83.008
+20,Mexico,Alpine,OCO,47,13,83.089
+20,Mexico,Aston Martin,STR,47,14,82.725
+20,Mexico,Racing Bulls,LAW,47,15,82.781
+20,Mexico,Red Bull,PER,47,16,81.516
+20,Mexico,Kick Sauber,ZHO,47,17,81.98
+20,Mexico,Ferrari,SAI,20,1,81.789
+20,Mexico,Ferrari,LEC,20,2,81.793
+20,Mexico,Red Bull,VER,20,3,82.357
+20,Mexico,McLaren,NOR,20,4,82.352
+20,Mexico,Mercedes,RUS,20,5,82.749
+20,Mexico,Mercedes,HAM,20,6,82.911
+20,Mexico,Haas,MAG,20,7,83.323
+20,Mexico,Haas,HUL,20,8,83.362
+20,Mexico,Alpine,GAS,20,9,83.637
+20,Mexico,Racing Bulls,LAW,20,10,83.356
+20,Mexico,Aston Martin,STR,20,11,84.055
+20,Mexico,Williams,COL,20,12,84.63
+20,Mexico,McLaren,PIA,20,13,84.004
+20,Mexico,Kick Sauber,BOT,20,14,83.453
+20,Mexico,Red Bull,PER,20,15,89.685
+20,Mexico,Kick Sauber,ZHO,20,16,83.54
+20,Mexico,Alpine,OCO,20,17,83.683
+20,Mexico,Ferrari,SAI,37,1,81.153
+20,Mexico,Ferrari,LEC,37,2,80.831
+20,Mexico,McLaren,NOR,37,3,81.008
+20,Mexico,Mercedes,RUS,37,4,81.603
+20,Mexico,Mercedes,HAM,37,5,81.635
+20,Mexico,McLaren,PIA,37,6,82.667
+20,Mexico,Racing Bulls,LAW,37,7,83.154
+20,Mexico,Red Bull,VER,37,8,82.44
+20,Mexico,Williams,COL,37,9,83.098
+20,Mexico,Haas,MAG,37,10,81.795
+20,Mexico,Haas,HUL,37,11,81.935
+20,Mexico,Kick Sauber,BOT,37,12,83.97
+20,Mexico,Alpine,GAS,37,13,82.697
+20,Mexico,Alpine,OCO,37,14,85.002
+20,Mexico,Kick Sauber,ZHO,37,15,83.308
+20,Mexico,Red Bull,PER,37,16,83.72
+20,Mexico,Aston Martin,STR,37,17,83.028
+20,Mexico,Ferrari,SAI,51,1,80.825
+20,Mexico,Ferrari,LEC,51,2,80.321
+20,Mexico,McLaren,NOR,51,3,80.405
+20,Mexico,Mercedes,RUS,51,4,81.096
+20,Mexico,Mercedes,HAM,51,5,81.138
+20,Mexico,Red Bull,VER,51,6,81.16
+20,Mexico,Haas,MAG,51,7,81.033
+20,Mexico,Haas,HUL,51,8,81.364
+20,Mexico,McLaren,PIA,51,9,80.433
+20,Mexico,Alpine,GAS,51,10,81.539
+20,Mexico,Aston Martin,STR,51,11,81.542
+20,Mexico,Racing Bulls,LAW,51,12,83.18
+20,Mexico,Williams,COL,51,13,80.556
+20,Mexico,Kick Sauber,BOT,51,14,81.855
+20,Mexico,Alpine,OCO,51,15,81.207
+20,Mexico,Red Bull,PER,51,16,81.288
+20,Mexico,Kick Sauber,ZHO,51,17,81.772
+20,Mexico,Red Bull,VER,2,1,138.259
+20,Mexico,Ferrari,SAI,2,2,137.937
+20,Mexico,McLaren,NOR,2,3,138.718
+20,Mexico,Ferrari,LEC,2,4,138.252
+20,Mexico,Mercedes,HAM,2,5,138.527
+20,Mexico,Mercedes,RUS,2,6,138.197
+20,Mexico,Haas,MAG,2,7,137.679
+20,Mexico,Haas,HUL,2,8,137.184
+20,Mexico,Alpine,GAS,2,9,136.958
+20,Mexico,Racing Bulls,LAW,2,10,138.369
+20,Mexico,Aston Martin,STR,2,11,137.06
+20,Mexico,Aston Martin,ALO,2,12,137.643
+20,Mexico,Red Bull,PER,2,13,137.144
+20,Mexico,Williams,COL,2,14,137.692
+20,Mexico,Kick Sauber,BOT,2,15,137.814
+20,Mexico,Kick Sauber,ZHO,2,16,137.617
+20,Mexico,McLaren,PIA,2,17,138.05
+20,Mexico,Alpine,OCO,2,18,139.003
+20,Mexico,Red Bull,VER,3,1,134.297
+20,Mexico,Ferrari,SAI,3,2,133.771
+20,Mexico,McLaren,NOR,3,3,133.243
+20,Mexico,Ferrari,LEC,3,4,134.94
+20,Mexico,Mercedes,HAM,3,5,134.124
+20,Mexico,Mercedes,RUS,3,6,134.573
+20,Mexico,Haas,MAG,3,7,134.764
+20,Mexico,Haas,HUL,3,8,134.785
+20,Mexico,Alpine,GAS,3,9,134.313
+20,Mexico,Racing Bulls,LAW,3,10,134.537
+20,Mexico,Aston Martin,STR,3,11,135.154
+20,Mexico,Aston Martin,ALO,3,12,135.984
+20,Mexico,Red Bull,PER,3,13,135.573
+20,Mexico,Williams,COL,3,14,136.364
+20,Mexico,Kick Sauber,BOT,3,15,136.263
+20,Mexico,Kick Sauber,ZHO,3,16,136.548
+20,Mexico,McLaren,PIA,3,17,136.567
+20,Mexico,Alpine,OCO,3,18,135.147
+20,Mexico,Ferrari,SAI,18,1,81.765
+20,Mexico,Ferrari,LEC,18,2,82.141
+20,Mexico,Red Bull,VER,18,3,82.34
+20,Mexico,McLaren,NOR,18,4,82.271
+20,Mexico,Mercedes,RUS,18,5,82.637
+20,Mexico,Mercedes,HAM,18,6,82.838
+20,Mexico,Haas,MAG,18,7,83.247
+20,Mexico,Haas,HUL,18,8,83.303
+20,Mexico,Alpine,GAS,18,9,83.538
+20,Mexico,Racing Bulls,LAW,18,10,85.231
+20,Mexico,Red Bull,PER,18,11,87.331
+20,Mexico,Aston Martin,STR,18,12,84.573
+20,Mexico,Williams,COL,18,13,83.787
+20,Mexico,McLaren,PIA,18,14,83.693
+20,Mexico,Kick Sauber,BOT,18,15,83.806
+20,Mexico,Kick Sauber,ZHO,18,16,83.676
+20,Mexico,Alpine,OCO,18,17,83.497
+20,Mexico,Ferrari,SAI,65,1,80.523
+20,Mexico,McLaren,NOR,65,2,80.194
+20,Mexico,Ferrari,LEC,65,3,80.815
+20,Mexico,Mercedes,RUS,65,4,82.037
+20,Mexico,Mercedes,HAM,65,5,81.935
+20,Mexico,Red Bull,VER,65,6,81.247
+20,Mexico,Haas,MAG,65,7,80.787
+20,Mexico,McLaren,PIA,65,8,80.064
+20,Mexico,Haas,HUL,65,9,81.347
+20,Mexico,Alpine,GAS,65,10,81.457
+20,Mexico,Aston Martin,STR,65,11,81.615
+20,Mexico,Williams,COL,65,12,83.314
+20,Mexico,Racing Bulls,LAW,65,13,91.102
+20,Mexico,Kick Sauber,BOT,65,14,81.953
+20,Mexico,Alpine,OCO,65,15,81.504
+20,Mexico,Red Bull,PER,65,16,82.153
+20,Mexico,Kick Sauber,ZHO,65,17,81.935
+20,Mexico,Ferrari,SAI,45,1,80.582
+20,Mexico,Ferrari,LEC,45,2,80.581
+20,Mexico,McLaren,NOR,45,3,80.37
+20,Mexico,Mercedes,RUS,45,4,81.21
+20,Mexico,Mercedes,HAM,45,5,80.981
+20,Mexico,Red Bull,VER,45,6,81.266
+20,Mexico,Haas,MAG,45,7,81.62
+20,Mexico,Haas,HUL,45,8,81.731
+20,Mexico,Williams,COL,45,9,82.832
+20,Mexico,McLaren,PIA,45,10,81.068
+20,Mexico,Alpine,GAS,45,11,82.228
+20,Mexico,Kick Sauber,BOT,45,12,83.072
+20,Mexico,Alpine,OCO,45,13,83.233
+20,Mexico,Aston Martin,STR,45,14,82.06
+20,Mexico,Racing Bulls,LAW,45,15,81.787
+20,Mexico,Kick Sauber,ZHO,45,16,82.364
+20,Mexico,Red Bull,PER,45,17,81.589
+20,Mexico,Ferrari,SAI,63,1,80.556
+20,Mexico,McLaren,NOR,63,2,79.858
+20,Mexico,Ferrari,LEC,63,3,82.888
+20,Mexico,Mercedes,RUS,63,4,80.731
+20,Mexico,Mercedes,HAM,63,5,80.482
+20,Mexico,Red Bull,VER,63,6,81.292
+20,Mexico,Haas,MAG,63,7,80.785
+20,Mexico,McLaren,PIA,63,8,81.016
+20,Mexico,Haas,HUL,63,9,81.353
+20,Mexico,Alpine,GAS,63,10,81.702
+20,Mexico,Aston Martin,STR,63,11,81.633
+20,Mexico,Racing Bulls,LAW,63,12,81.773
+20,Mexico,Williams,COL,63,13,81.485
+20,Mexico,Kick Sauber,BOT,63,14,81.629
+20,Mexico,Alpine,OCO,63,15,81.429
+20,Mexico,Red Bull,PER,63,16,81.857
+20,Mexico,Kick Sauber,ZHO,63,17,81.82
+20,Mexico,Ferrari,SAI,30,1,81.837
+20,Mexico,Ferrari,LEC,30,2,82.322
+20,Mexico,McLaren,NOR,30,3,86.051
+20,Mexico,Mercedes,RUS,30,4,82.698
+20,Mexico,Haas,MAG,30,5,87.122
+20,Mexico,Racing Bulls,LAW,30,6,83.015
+20,Mexico,McLaren,PIA,30,7,82.677
+20,Mexico,Williams,COL,30,8,82.785
+20,Mexico,Mercedes,HAM,30,9,81.873
+20,Mexico,Kick Sauber,BOT,30,10,83.425
+20,Mexico,Red Bull,VER,30,11,81.252
+20,Mexico,Alpine,OCO,30,12,83.975
+20,Mexico,Kick Sauber,ZHO,30,13,83.71
+20,Mexico,Haas,HUL,30,14,101.492
+20,Mexico,Alpine,GAS,30,15,82.583
+20,Mexico,Red Bull,PER,30,16,82.754
+20,Mexico,Aston Martin,STR,30,17,82.837
+20,Mexico,Ferrari,SAI,22,1,81.682
+20,Mexico,Ferrari,LEC,22,2,82.249
+20,Mexico,Red Bull,VER,22,3,82.574
+20,Mexico,McLaren,NOR,22,4,82.311
+20,Mexico,Mercedes,RUS,22,5,82.702
+20,Mexico,Mercedes,HAM,22,6,82.782
+20,Mexico,Haas,MAG,22,7,83.219
+20,Mexico,Haas,HUL,22,8,83.441
+20,Mexico,Alpine,GAS,22,9,83.512
+20,Mexico,Racing Bulls,LAW,22,10,83.493
+20,Mexico,Aston Martin,STR,22,11,83.604
+20,Mexico,McLaren,PIA,22,12,82.825
+20,Mexico,Williams,COL,22,13,83.203
+20,Mexico,Kick Sauber,BOT,22,14,83.593
+20,Mexico,Kick Sauber,ZHO,22,15,83.7
+20,Mexico,Alpine,OCO,22,16,83.517
+20,Mexico,Red Bull,PER,22,17,81.659
+20,Mexico,Ferrari,SAI,61,1,80.215
+20,Mexico,Ferrari,LEC,61,2,80.156
+20,Mexico,McLaren,NOR,61,3,80.045
+20,Mexico,Mercedes,RUS,61,4,80.892
+20,Mexico,Mercedes,HAM,61,5,81.068
+20,Mexico,Red Bull,VER,61,6,81.332
+20,Mexico,Haas,MAG,61,7,80.637
+20,Mexico,McLaren,PIA,61,8,80.53
+20,Mexico,Haas,HUL,61,9,81.378
+20,Mexico,Alpine,GAS,61,10,81.393
+20,Mexico,Aston Martin,STR,61,11,81.577
+20,Mexico,Racing Bulls,LAW,61,12,81.429
+20,Mexico,Williams,COL,61,13,81.016
+20,Mexico,Kick Sauber,BOT,61,14,81.393
+20,Mexico,Alpine,OCO,61,15,81.172
+20,Mexico,Red Bull,PER,61,16,81.642
+20,Mexico,Kick Sauber,ZHO,61,17,82.442
+20,Mexico,Ferrari,SAI,29,1,81.869
+20,Mexico,Ferrari,LEC,29,2,82.33
+20,Mexico,McLaren,NOR,29,3,82.735
+20,Mexico,Mercedes,RUS,29,4,82.549
+20,Mexico,Haas,MAG,29,5,83.805
+20,Mexico,Haas,HUL,29,6,86.75
+20,Mexico,Racing Bulls,LAW,29,7,82.879
+20,Mexico,McLaren,PIA,29,8,82.782
+20,Mexico,Williams,COL,29,9,82.999
+20,Mexico,Mercedes,HAM,29,10,101.644
+20,Mexico,Kick Sauber,BOT,29,11,83.766
+20,Mexico,Alpine,OCO,29,12,83.568
+20,Mexico,Red Bull,VER,29,13,82.28
+20,Mexico,Kick Sauber,ZHO,29,14,84.497
+20,Mexico,Alpine,GAS,29,15,102.276
+20,Mexico,Red Bull,PER,29,16,82.965
+20,Mexico,Aston Martin,STR,29,17,82.867
+20,Mexico,Ferrari,SAI,28,1,82.008
+20,Mexico,Ferrari,LEC,28,2,82.589
+20,Mexico,McLaren,NOR,28,3,82.676
+20,Mexico,Mercedes,RUS,28,4,82.598
+20,Mexico,Mercedes,HAM,28,5,87.112
+20,Mexico,Haas,MAG,28,6,84.049
+20,Mexico,Haas,HUL,28,7,83.881
+20,Mexico,Racing Bulls,LAW,28,8,83.999
+20,Mexico,McLaren,PIA,28,9,83.084
+20,Mexico,Alpine,GAS,28,10,87.318
+20,Mexico,Williams,COL,28,11,83.125
+20,Mexico,Kick Sauber,BOT,28,12,83.45
+20,Mexico,Alpine,OCO,28,13,83.115
+20,Mexico,Kick Sauber,ZHO,28,14,85.184
+20,Mexico,Red Bull,VER,28,15,82.325
+20,Mexico,Red Bull,PER,28,16,82.818
+20,Mexico,Aston Martin,STR,28,17,82.602
+20,Mexico,Ferrari,SAI,55,1,80.306
+20,Mexico,Ferrari,LEC,55,2,80.86
+20,Mexico,McLaren,NOR,55,3,80.398
+20,Mexico,Mercedes,RUS,55,4,81.435
+20,Mexico,Mercedes,HAM,55,5,81.474
+20,Mexico,Red Bull,VER,55,6,80.995
+20,Mexico,Haas,MAG,55,7,81.144
+20,Mexico,Haas,HUL,55,8,81.361
+20,Mexico,McLaren,PIA,55,9,81.0
+20,Mexico,Alpine,GAS,55,10,81.633
+20,Mexico,Aston Martin,STR,55,11,81.311
+20,Mexico,Racing Bulls,LAW,55,12,83.394
+20,Mexico,Williams,COL,55,13,81.309
+20,Mexico,Kick Sauber,BOT,55,14,81.165
+20,Mexico,Alpine,OCO,55,15,81.257
+20,Mexico,Red Bull,PER,55,16,81.485
+20,Mexico,Kick Sauber,ZHO,55,17,81.586
+20,Mexico,Ferrari,SAI,71,1,80.585
+20,Mexico,McLaren,NOR,71,2,80.363
+20,Mexico,Ferrari,LEC,71,3,78.336
+20,Mexico,Mercedes,HAM,71,4,80.942
+20,Mexico,Mercedes,RUS,71,5,81.359
+20,Mexico,Red Bull,VER,71,6,81.57
+20,Mexico,Haas,MAG,71,7,81.905
+20,Mexico,McLaren,PIA,71,8,81.531
+20,Mexico,Ferrari,SAI,68,1,80.375
+20,Mexico,McLaren,NOR,68,2,79.691
+20,Mexico,Ferrari,LEC,68,3,81.009
+20,Mexico,Mercedes,HAM,68,4,80.645
+20,Mexico,Mercedes,RUS,68,5,81.036
+20,Mexico,Red Bull,VER,68,6,81.311
+20,Mexico,Haas,MAG,68,7,81.039
+20,Mexico,McLaren,PIA,68,8,80.271
+20,Mexico,Haas,HUL,68,9,81.063
+20,Mexico,Alpine,GAS,68,10,81.983
+20,Mexico,Aston Martin,STR,68,11,81.468
+20,Mexico,Williams,COL,68,12,81.264
+20,Mexico,Kick Sauber,BOT,68,13,81.464
+20,Mexico,Alpine,OCO,68,14,81.156
+20,Mexico,Red Bull,PER,68,15,85.925
+20,Mexico,Kick Sauber,ZHO,68,16,81.826
+20,Mexico,Racing Bulls,LAW,68,17,81.545
+20,Mexico,Ferrari,SAI,19,1,81.715
+20,Mexico,Ferrari,LEC,19,2,82.216
+20,Mexico,Red Bull,VER,19,3,82.362
+20,Mexico,McLaren,NOR,19,4,82.393
+20,Mexico,Mercedes,RUS,19,5,82.853
+20,Mexico,Mercedes,HAM,19,6,83.05
+20,Mexico,Haas,MAG,19,7,83.272
+20,Mexico,Haas,HUL,19,8,83.545
+20,Mexico,Alpine,GAS,19,9,83.939
+20,Mexico,Racing Bulls,LAW,19,10,83.517
+20,Mexico,Red Bull,PER,19,11,84.591
+20,Mexico,Aston Martin,STR,19,12,85.434
+20,Mexico,Williams,COL,19,13,83.68
+20,Mexico,McLaren,PIA,19,14,83.648
+20,Mexico,Kick Sauber,BOT,19,15,83.72
+20,Mexico,Kick Sauber,ZHO,19,16,83.694
+20,Mexico,Alpine,OCO,19,17,83.524
+20,Mexico,Ferrari,SAI,12,1,81.515
+20,Mexico,Ferrari,LEC,12,2,81.262
+20,Mexico,Red Bull,VER,12,3,81.712
+20,Mexico,McLaren,NOR,12,4,81.803
+20,Mexico,Mercedes,HAM,12,5,82.145
+20,Mexico,Mercedes,RUS,12,6,82.108
+20,Mexico,Haas,MAG,12,7,82.436
+20,Mexico,Haas,HUL,12,8,82.908
+20,Mexico,Alpine,GAS,12,9,82.9
+20,Mexico,Racing Bulls,LAW,12,10,82.693
+20,Mexico,Red Bull,PER,12,11,82.641
+20,Mexico,Aston Martin,STR,12,12,84.208
+20,Mexico,Aston Martin,ALO,12,13,83.681
+20,Mexico,Williams,COL,12,14,83.48
+20,Mexico,Kick Sauber,BOT,12,15,83.607
+20,Mexico,McLaren,PIA,12,16,83.449
+20,Mexico,Kick Sauber,ZHO,12,17,83.489
+20,Mexico,Alpine,OCO,12,18,83.635
+20,Mexico,Ferrari,SAI,49,1,80.815
+20,Mexico,Ferrari,LEC,49,2,80.847
+20,Mexico,McLaren,NOR,49,3,80.638
+20,Mexico,Mercedes,RUS,49,4,80.915
+20,Mexico,Mercedes,HAM,49,5,80.748
+20,Mexico,Red Bull,VER,49,6,81.052
+20,Mexico,Haas,MAG,49,7,81.466
+20,Mexico,Haas,HUL,49,8,81.668
+20,Mexico,McLaren,PIA,49,9,80.799
+20,Mexico,Alpine,GAS,49,10,81.872
+20,Mexico,Aston Martin,STR,49,11,81.896
+20,Mexico,Racing Bulls,LAW,49,12,81.695
+20,Mexico,Kick Sauber,BOT,49,13,85.822
+20,Mexico,Williams,COL,49,14,80.348
+20,Mexico,Alpine,OCO,49,15,100.883
+20,Mexico,Red Bull,PER,49,16,82.073
+20,Mexico,Kick Sauber,ZHO,49,17,81.689
+20,Mexico,Ferrari,SAI,66,1,80.301
+20,Mexico,McLaren,NOR,66,2,80.274
+20,Mexico,Ferrari,LEC,66,3,81.15
+20,Mexico,Mercedes,HAM,66,4,80.546
+20,Mexico,Mercedes,RUS,66,5,82.188
+20,Mexico,Red Bull,VER,66,6,81.257
+20,Mexico,Haas,MAG,66,7,81.019
+20,Mexico,McLaren,PIA,66,8,80.264
+20,Mexico,Haas,HUL,66,9,81.517
+20,Mexico,Alpine,GAS,66,10,83.543
+20,Mexico,Aston Martin,STR,66,11,81.917
+20,Mexico,Williams,COL,66,12,81.847
+20,Mexico,Kick Sauber,BOT,66,13,81.714
+20,Mexico,Alpine,OCO,66,14,81.384
+20,Mexico,Red Bull,PER,66,15,85.965
+20,Mexico,Kick Sauber,ZHO,66,16,81.835
+20,Mexico,Racing Bulls,LAW,66,17,108.916
+20,Mexico,Ferrari,SAI,21,1,81.413
+20,Mexico,Ferrari,LEC,21,2,81.954
+20,Mexico,Red Bull,VER,21,3,82.325
+20,Mexico,McLaren,NOR,21,4,82.137
+20,Mexico,Mercedes,RUS,21,5,82.533
+20,Mexico,Mercedes,HAM,21,6,82.709
+20,Mexico,Haas,MAG,21,7,83.18
+20,Mexico,Haas,HUL,21,8,83.357
+20,Mexico,Alpine,GAS,21,9,83.778
+20,Mexico,Racing Bulls,LAW,21,10,83.374
+20,Mexico,Aston Martin,STR,21,11,83.513
+20,Mexico,McLaren,PIA,21,12,83.88
+20,Mexico,Williams,COL,21,13,84.918
+20,Mexico,Kick Sauber,BOT,21,14,83.904
+20,Mexico,Kick Sauber,ZHO,21,15,83.774
+20,Mexico,Alpine,OCO,21,16,83.522
+20,Mexico,Red Bull,PER,21,17,106.242
+20,Mexico,Red Bull,VER,4,1,129.792
+20,Mexico,Ferrari,SAI,4,2,130.043
+20,Mexico,McLaren,NOR,4,3,131.1
+20,Mexico,Ferrari,LEC,4,4,130.481
+20,Mexico,Mercedes,HAM,4,5,130.636
+20,Mexico,Mercedes,RUS,4,6,129.897
+20,Mexico,Haas,MAG,4,7,130.314
+20,Mexico,Haas,HUL,4,8,130.097
+20,Mexico,Alpine,GAS,4,9,130.874
+20,Mexico,Racing Bulls,LAW,4,10,130.651
+20,Mexico,Aston Martin,STR,4,11,130.994
+20,Mexico,Aston Martin,ALO,4,12,129.705
+20,Mexico,Red Bull,PER,4,13,129.6
+20,Mexico,Williams,COL,4,14,129.527
+20,Mexico,Kick Sauber,BOT,4,15,129.902
+20,Mexico,Kick Sauber,ZHO,4,16,130.13
+20,Mexico,McLaren,PIA,4,17,130.001
+20,Mexico,Alpine,OCO,4,18,132.065
+20,Mexico,Ferrari,SAI,70,1,80.435
+20,Mexico,McLaren,NOR,70,2,79.721
+20,Mexico,Ferrari,LEC,70,3,99.142
+20,Mexico,Mercedes,HAM,70,4,81.287
+20,Mexico,Mercedes,RUS,70,5,81.266
+20,Mexico,Red Bull,VER,70,6,81.253
+20,Mexico,Haas,MAG,70,7,81.005
+20,Mexico,McLaren,PIA,70,8,80.55
+20,Mexico,Haas,HUL,70,9,85.874
+20,Mexico,Alpine,GAS,70,10,81.573
+20,Mexico,Aston Martin,STR,70,11,81.569
+20,Mexico,Williams,COL,70,12,81.238
+20,Mexico,Alpine,OCO,70,13,80.659
+20,Mexico,Kick Sauber,BOT,70,14,83.751
+20,Mexico,Kick Sauber,ZHO,70,15,82.731
+20,Mexico,Racing Bulls,LAW,70,16,85.016
+20,Mexico,Red Bull,PER,70,17,79.209
+20,Mexico,Ferrari,SAI,59,1,80.73
+20,Mexico,Ferrari,LEC,59,2,80.422
+20,Mexico,McLaren,NOR,59,3,80.163
+20,Mexico,Mercedes,RUS,59,4,81.404
+20,Mexico,Mercedes,HAM,59,5,81.436
+20,Mexico,Red Bull,VER,59,6,81.091
+20,Mexico,Haas,MAG,59,7,80.821
+20,Mexico,McLaren,PIA,59,8,80.359
+20,Mexico,Haas,HUL,59,9,81.708
+20,Mexico,Alpine,GAS,59,10,81.524
+20,Mexico,Aston Martin,STR,59,11,81.381
+20,Mexico,Racing Bulls,LAW,59,12,81.495
+20,Mexico,Williams,COL,59,13,81.879
+20,Mexico,Kick Sauber,BOT,59,14,81.089
+20,Mexico,Alpine,OCO,59,15,81.188
+20,Mexico,Red Bull,PER,59,16,81.682
+20,Mexico,Kick Sauber,ZHO,59,17,82.216
+20,Mexico,Ferrari,SAI,39,1,80.995
+20,Mexico,Ferrari,LEC,39,2,80.843
+20,Mexico,McLaren,NOR,39,3,80.71
+20,Mexico,Mercedes,RUS,39,4,81.504
+20,Mexico,Mercedes,HAM,39,5,81.05
+20,Mexico,Red Bull,VER,39,6,81.58
+20,Mexico,McLaren,PIA,39,7,85.068
+20,Mexico,Williams,COL,39,8,83.132
+20,Mexico,Haas,MAG,39,9,82.812
+20,Mexico,Racing Bulls,LAW,39,10,86.308
+20,Mexico,Haas,HUL,39,11,82.224
+20,Mexico,Kick Sauber,BOT,39,12,83.188
+20,Mexico,Alpine,GAS,39,13,82.471
+20,Mexico,Alpine,OCO,39,14,83.083
+20,Mexico,Kick Sauber,ZHO,39,15,83.444
+20,Mexico,Red Bull,PER,39,16,83.586
+20,Mexico,Aston Martin,STR,39,17,82.868
+20,Mexico,Ferrari,SAI,33,1,99.813
+20,Mexico,Ferrari,LEC,33,2,80.975
+20,Mexico,McLaren,NOR,33,3,80.859
+20,Mexico,Mercedes,RUS,33,4,81.708
+20,Mexico,Racing Bulls,LAW,33,5,84.101
+20,Mexico,McLaren,PIA,33,6,83.935
+20,Mexico,Mercedes,HAM,33,7,82.347
+20,Mexico,Williams,COL,33,8,82.976
+20,Mexico,Red Bull,VER,33,9,81.804
+20,Mexico,Kick Sauber,BOT,33,10,83.093
+20,Mexico,Haas,MAG,33,11,81.947
+20,Mexico,Alpine,OCO,33,12,84.33
+20,Mexico,Haas,HUL,33,13,81.912
+20,Mexico,Alpine,GAS,33,14,82.029
+20,Mexico,Kick Sauber,ZHO,33,15,84.323
+20,Mexico,Red Bull,PER,33,16,83.089
+20,Mexico,Aston Martin,STR,33,17,83.183
+20,Mexico,Ferrari,SAI,31,1,82.057
+20,Mexico,Ferrari,LEC,31,2,85.993
+20,Mexico,Mercedes,RUS,31,3,85.753
+20,Mexico,McLaren,NOR,31,4,99.899
+20,Mexico,Racing Bulls,LAW,31,5,83.088
+20,Mexico,McLaren,PIA,31,6,82.797
+20,Mexico,Mercedes,HAM,31,7,80.371
+20,Mexico,Williams,COL,31,8,83.09
+20,Mexico,Kick Sauber,BOT,31,9,82.994
+20,Mexico,Red Bull,VER,31,10,82.267
+20,Mexico,Alpine,OCO,31,11,83.171
+20,Mexico,Haas,MAG,31,12,102.205
+20,Mexico,Haas,HUL,31,13,83.431
+20,Mexico,Kick Sauber,ZHO,31,14,86.422
+20,Mexico,Alpine,GAS,31,15,82.391
+20,Mexico,Red Bull,PER,31,16,82.814
+20,Mexico,Aston Martin,STR,31,17,82.662
+20,Mexico,Ferrari,SAI,44,1,80.806
+20,Mexico,Ferrari,LEC,44,2,80.623
+20,Mexico,McLaren,NOR,44,3,80.385
+20,Mexico,Mercedes,RUS,44,4,81.018
+20,Mexico,Mercedes,HAM,44,5,80.889
+20,Mexico,Red Bull,VER,44,6,81.161
+20,Mexico,Haas,MAG,44,7,81.551
+20,Mexico,Haas,HUL,44,8,81.578
+20,Mexico,Williams,COL,44,9,82.551
+20,Mexico,McLaren,PIA,44,10,80.597
+20,Mexico,Alpine,GAS,44,11,83.267
+20,Mexico,Kick Sauber,BOT,44,12,83.206
+20,Mexico,Alpine,OCO,44,13,83.002
+20,Mexico,Aston Martin,STR,44,14,81.857
+20,Mexico,Racing Bulls,LAW,44,15,81.613
+20,Mexico,Kick Sauber,ZHO,44,16,102.961
+20,Mexico,Red Bull,PER,44,17,100.283
+20,Mexico,Ferrari,SAI,35,1,81.19
+20,Mexico,Ferrari,LEC,35,2,80.675
+20,Mexico,McLaren,NOR,35,3,80.697
+20,Mexico,Mercedes,RUS,35,4,81.609
+20,Mexico,Mercedes,HAM,35,5,81.244
+20,Mexico,McLaren,PIA,35,6,83.364
+20,Mexico,Racing Bulls,LAW,35,7,83.219
+20,Mexico,Williams,COL,35,8,83.134
+20,Mexico,Red Bull,VER,35,9,82.72
+20,Mexico,Kick Sauber,BOT,35,10,83.191
+20,Mexico,Haas,MAG,35,11,82.252
+20,Mexico,Haas,HUL,35,12,82.173
+20,Mexico,Alpine,OCO,35,13,83.209
+20,Mexico,Alpine,GAS,35,14,82.423
+20,Mexico,Kick Sauber,ZHO,35,15,83.514
+20,Mexico,Red Bull,PER,35,16,83.571
+20,Mexico,Aston Martin,STR,35,17,82.987
+20,Mexico,Ferrari,SAI,67,1,80.651
+20,Mexico,McLaren,NOR,67,2,79.972
+20,Mexico,Ferrari,LEC,67,3,81.173
+20,Mexico,Mercedes,HAM,67,4,80.649
+20,Mexico,Mercedes,RUS,67,5,81.69
+20,Mexico,Red Bull,VER,67,6,81.197
+20,Mexico,Haas,MAG,67,7,81.169
+20,Mexico,McLaren,PIA,67,8,80.572
+20,Mexico,Haas,HUL,67,9,81.759
+20,Mexico,Alpine,GAS,67,10,81.274
+20,Mexico,Aston Martin,STR,67,11,81.834
+20,Mexico,Williams,COL,67,12,81.481
+20,Mexico,Kick Sauber,BOT,67,13,81.416
+20,Mexico,Alpine,OCO,67,14,81.223
+20,Mexico,Red Bull,PER,67,15,82.396
+20,Mexico,Kick Sauber,ZHO,67,16,82.056
+20,Mexico,Racing Bulls,LAW,67,17,79.502
+20,Mexico,Ferrari,SAI,10,1,82.438
+20,Mexico,Ferrari,LEC,10,2,82.481
+20,Mexico,Red Bull,VER,10,3,84.675
+20,Mexico,McLaren,NOR,10,4,84.863
+20,Mexico,Mercedes,HAM,10,5,83.444
+20,Mexico,Mercedes,RUS,10,6,83.063
+20,Mexico,Haas,MAG,10,7,82.768
+20,Mexico,Haas,HUL,10,8,82.763
+20,Mexico,Alpine,GAS,10,9,82.781
+20,Mexico,Racing Bulls,LAW,10,10,83.002
+20,Mexico,Aston Martin,STR,10,11,83.289
+20,Mexico,Aston Martin,ALO,10,12,83.173
+20,Mexico,Red Bull,PER,10,13,83.138
+20,Mexico,Williams,COL,10,14,83.252
+20,Mexico,Kick Sauber,BOT,10,15,83.483
+20,Mexico,McLaren,PIA,10,16,82.793
+20,Mexico,Kick Sauber,ZHO,10,17,84.166
+20,Mexico,Alpine,OCO,10,18,83.45
+20,Mexico,Ferrari,SAI,64,1,80.493
+20,Mexico,McLaren,NOR,64,2,80.494
+20,Mexico,Ferrari,LEC,64,3,80.969
+20,Mexico,Mercedes,RUS,64,4,81.129
+20,Mexico,Mercedes,HAM,64,5,81.013
+20,Mexico,Red Bull,VER,64,6,81.16
+20,Mexico,Haas,MAG,64,7,80.864
+20,Mexico,McLaren,PIA,64,8,80.162
+20,Mexico,Haas,HUL,64,9,81.524
+20,Mexico,Alpine,GAS,64,10,83.422
+20,Mexico,Aston Martin,STR,64,11,81.753
+20,Mexico,Racing Bulls,LAW,64,12,81.904
+20,Mexico,Williams,COL,64,13,81.625
+20,Mexico,Kick Sauber,BOT,64,14,81.714
+20,Mexico,Alpine,OCO,64,15,81.309
+20,Mexico,Red Bull,PER,64,16,81.679
+20,Mexico,Kick Sauber,ZHO,64,17,81.962
+20,Mexico,Red Bull,VER,5,1,130.292
+20,Mexico,Ferrari,SAI,5,2,129.925
+20,Mexico,McLaren,NOR,5,3,129.824
+20,Mexico,Ferrari,LEC,5,4,130.248
+20,Mexico,Mercedes,HAM,5,5,130.151
+20,Mexico,Mercedes,RUS,5,6,130.591
+20,Mexico,Haas,MAG,5,7,130.254
+20,Mexico,Haas,HUL,5,8,129.62
+20,Mexico,Alpine,GAS,5,9,129.61
+20,Mexico,Racing Bulls,LAW,5,10,129.621
+20,Mexico,Aston Martin,STR,5,11,129.653
+20,Mexico,Aston Martin,ALO,5,12,129.13
+20,Mexico,Red Bull,PER,5,13,129.209
+20,Mexico,Williams,COL,5,14,128.334
+20,Mexico,Kick Sauber,BOT,5,15,130.636
+20,Mexico,Kick Sauber,ZHO,5,16,130.469
+20,Mexico,McLaren,PIA,5,17,130.449
+20,Mexico,Alpine,OCO,5,18,131.12
+20,Mexico,Ferrari,SAI,58,1,80.341
+20,Mexico,Ferrari,LEC,58,2,81.297
+20,Mexico,McLaren,NOR,58,3,80.405
+20,Mexico,Mercedes,RUS,58,4,81.373
+20,Mexico,Mercedes,HAM,58,5,81.281
+20,Mexico,Red Bull,VER,58,6,80.995
+20,Mexico,Haas,MAG,58,7,80.691
+20,Mexico,McLaren,PIA,58,8,80.268
+20,Mexico,Haas,HUL,58,9,81.537
+20,Mexico,Alpine,GAS,58,10,83.641
+20,Mexico,Aston Martin,STR,58,11,82.708
+20,Mexico,Racing Bulls,LAW,58,12,81.726
+20,Mexico,Williams,COL,58,13,81.551
+20,Mexico,Kick Sauber,BOT,58,14,81.142
+20,Mexico,Alpine,OCO,58,15,81.494
+20,Mexico,Red Bull,PER,58,16,81.527
+20,Mexico,Kick Sauber,ZHO,58,17,84.671
+20,Mexico,Ferrari,SAI,13,1,81.715
+20,Mexico,Ferrari,LEC,13,2,81.776
+20,Mexico,Red Bull,VER,13,3,81.884
+20,Mexico,McLaren,NOR,13,4,81.935
+20,Mexico,Mercedes,HAM,13,5,82.401
+20,Mexico,Mercedes,RUS,13,6,82.191
+20,Mexico,Haas,MAG,13,7,82.523
+20,Mexico,Haas,HUL,13,8,82.941
+20,Mexico,Alpine,GAS,13,9,82.908
+20,Mexico,Racing Bulls,LAW,13,10,82.815
+20,Mexico,Red Bull,PER,13,11,82.367
+20,Mexico,Aston Martin,STR,13,12,83.045
+20,Mexico,Aston Martin,ALO,13,13,84.166
+20,Mexico,Williams,COL,13,14,84.13
+20,Mexico,McLaren,PIA,13,15,83.074
+20,Mexico,Kick Sauber,BOT,13,16,84.325
+20,Mexico,Kick Sauber,ZHO,13,17,83.757
+20,Mexico,Alpine,OCO,13,18,83.585
+20,Mexico,Ferrari,SAI,57,1,80.315
+20,Mexico,Ferrari,LEC,57,2,80.524
+20,Mexico,McLaren,NOR,57,3,80.271
+20,Mexico,Mercedes,RUS,57,4,80.903
+20,Mexico,Mercedes,HAM,57,5,80.81
+20,Mexico,Red Bull,VER,57,6,80.902
+20,Mexico,Haas,MAG,57,7,80.774
+20,Mexico,McLaren,PIA,57,8,80.444
+20,Mexico,Haas,HUL,57,9,81.251
+20,Mexico,Alpine,GAS,57,10,81.42
+20,Mexico,Aston Martin,STR,57,11,83.54
+20,Mexico,Racing Bulls,LAW,57,12,82.777
+20,Mexico,Williams,COL,57,13,81.433
+20,Mexico,Kick Sauber,BOT,57,14,81.085
+20,Mexico,Alpine,OCO,57,15,81.491
+20,Mexico,Red Bull,PER,57,16,81.479
+20,Mexico,Kick Sauber,ZHO,57,17,81.864
+20,Mexico,Red Bull,VER,8,1,81.475
+20,Mexico,Ferrari,SAI,8,2,81.284
+20,Mexico,McLaren,NOR,8,3,81.724
+20,Mexico,Ferrari,LEC,8,4,81.865
+20,Mexico,Mercedes,HAM,8,5,81.998
+20,Mexico,Mercedes,RUS,8,6,82.04
+20,Mexico,Haas,MAG,8,7,82.259
+20,Mexico,Haas,HUL,8,8,82.468
+20,Mexico,Alpine,GAS,8,9,82.712
+20,Mexico,Racing Bulls,LAW,8,10,82.947
+20,Mexico,Aston Martin,STR,8,11,82.941
+20,Mexico,Aston Martin,ALO,8,12,83.312
+20,Mexico,Red Bull,PER,8,13,83.206
+20,Mexico,Williams,COL,8,14,83.241
+20,Mexico,Kick Sauber,BOT,8,15,83.131
+20,Mexico,Kick Sauber,ZHO,8,16,83.38
+20,Mexico,McLaren,PIA,8,17,83.399
+20,Mexico,Alpine,OCO,8,18,83.548
+20,Mexico,Ferrari,SAI,48,1,80.747
+20,Mexico,Ferrari,LEC,48,2,80.681
+20,Mexico,McLaren,NOR,48,3,80.443
+20,Mexico,Mercedes,RUS,48,4,81.144
+20,Mexico,Mercedes,HAM,48,5,80.897
+20,Mexico,Red Bull,VER,48,6,81.116
+20,Mexico,Haas,MAG,48,7,81.127
+20,Mexico,Haas,HUL,48,8,81.764
+20,Mexico,McLaren,PIA,48,9,80.434
+20,Mexico,Alpine,GAS,48,10,81.965
+20,Mexico,Kick Sauber,BOT,48,11,82.879
+20,Mexico,Aston Martin,STR,48,12,81.57
+20,Mexico,Racing Bulls,LAW,48,13,82.007
+20,Mexico,Alpine,OCO,48,14,88.34
+20,Mexico,Williams,COL,48,15,102.56
+20,Mexico,Red Bull,PER,48,16,81.19
+20,Mexico,Kick Sauber,ZHO,48,17,81.834
+20,Mexico,Ferrari,SAI,43,1,80.84
+20,Mexico,Ferrari,LEC,43,2,80.577
+20,Mexico,McLaren,NOR,43,3,80.687
+20,Mexico,Mercedes,RUS,43,4,81.202
+20,Mexico,Mercedes,HAM,43,5,81.125
+20,Mexico,Red Bull,VER,43,6,81.52
+20,Mexico,Haas,MAG,43,7,81.621
+20,Mexico,Haas,HUL,43,8,81.302
+20,Mexico,Williams,COL,43,9,83.659
+20,Mexico,Alpine,GAS,43,10,82.362
+20,Mexico,McLaren,PIA,43,11,82.545
+20,Mexico,Kick Sauber,BOT,43,12,85.121
+20,Mexico,Alpine,OCO,43,13,83.034
+20,Mexico,Aston Martin,STR,43,14,82.24
+20,Mexico,Racing Bulls,LAW,43,15,81.362
+20,Mexico,Kick Sauber,ZHO,43,16,87.429
+20,Mexico,Red Bull,PER,43,17,87.059
+20,Mexico,Ferrari,SAI,32,1,85.108
+20,Mexico,Ferrari,LEC,32,2,100.618
+20,Mexico,McLaren,NOR,32,3,81.052
+20,Mexico,Racing Bulls,LAW,32,4,83.155
+20,Mexico,McLaren,PIA,32,5,83.101
+20,Mexico,Mercedes,RUS,32,6,102.382
+20,Mexico,Mercedes,HAM,32,7,81.536
+20,Mexico,Williams,COL,32,8,82.653
+20,Mexico,Red Bull,VER,32,9,81.156
+20,Mexico,Kick Sauber,BOT,32,10,83.774
+20,Mexico,Alpine,OCO,32,11,83.263
+20,Mexico,Haas,MAG,32,12,81.832
+20,Mexico,Haas,HUL,32,13,82.245
+20,Mexico,Kick Sauber,ZHO,32,14,83.854
+20,Mexico,Alpine,GAS,32,15,83.185
+20,Mexico,Red Bull,PER,32,16,83.202
+20,Mexico,Aston Martin,STR,32,17,82.85
+20,Mexico,Ferrari,SAI,36,1,81.079
+20,Mexico,Ferrari,LEC,36,2,80.849
+20,Mexico,McLaren,NOR,36,3,80.703
+20,Mexico,Mercedes,RUS,36,4,81.406
+20,Mexico,Mercedes,HAM,36,5,81.364
+20,Mexico,McLaren,PIA,36,6,82.59
+20,Mexico,Racing Bulls,LAW,36,7,83.004
+20,Mexico,Red Bull,VER,36,8,81.803
+20,Mexico,Williams,COL,36,9,83.776
+20,Mexico,Haas,MAG,36,10,81.357
+20,Mexico,Kick Sauber,BOT,36,11,83.597
+20,Mexico,Haas,HUL,36,12,81.926
+20,Mexico,Alpine,OCO,36,13,83.225
+20,Mexico,Alpine,GAS,36,14,82.345
+20,Mexico,Kick Sauber,ZHO,36,15,83.521
+20,Mexico,Red Bull,PER,36,16,83.64
+20,Mexico,Aston Martin,STR,36,17,83.364
+20,Mexico,Ferrari,SAI,9,1,82.493
+20,Mexico,Red Bull,VER,9,2,84.027
+20,Mexico,McLaren,NOR,9,3,82.413
+20,Mexico,Ferrari,LEC,9,4,82.101
+20,Mexico,Mercedes,HAM,9,5,82.089
+20,Mexico,Mercedes,RUS,9,6,82.182
+20,Mexico,Haas,MAG,9,7,82.232
+20,Mexico,Haas,HUL,9,8,82.413
+20,Mexico,Alpine,GAS,9,9,82.301
+20,Mexico,Racing Bulls,LAW,9,10,83.203
+20,Mexico,Aston Martin,STR,9,11,83.285
+20,Mexico,Aston Martin,ALO,9,12,83.132
+20,Mexico,Red Bull,PER,9,13,83.091
+20,Mexico,Williams,COL,9,14,83.032
+20,Mexico,Kick Sauber,BOT,9,15,82.964
+20,Mexico,Kick Sauber,ZHO,9,16,82.904
+20,Mexico,McLaren,PIA,9,17,82.797
+20,Mexico,Alpine,OCO,9,18,82.995
+20,Mexico,Ferrari,SAI,40,1,80.688
+20,Mexico,Ferrari,LEC,40,2,80.722
+20,Mexico,McLaren,NOR,40,3,80.845
+20,Mexico,Mercedes,RUS,40,4,81.299
+20,Mexico,Mercedes,HAM,40,5,81.169
+20,Mexico,Red Bull,VER,40,6,81.448
+20,Mexico,Haas,MAG,40,7,81.414
+20,Mexico,Williams,COL,40,8,83.586
+20,Mexico,Haas,HUL,40,9,82.314
+20,Mexico,Kick Sauber,BOT,40,10,83.072
+20,Mexico,Alpine,GAS,40,11,82.267
+20,Mexico,Alpine,OCO,40,12,83.257
+20,Mexico,McLaren,PIA,40,13,99.719
+20,Mexico,Kick Sauber,ZHO,40,14,83.485
+20,Mexico,Aston Martin,STR,40,15,82.299
+20,Mexico,Red Bull,PER,40,16,85.538
+20,Mexico,Racing Bulls,LAW,40,17,103.85
+20,Mexico,Ferrari,SAI,50,1,80.733
+20,Mexico,Ferrari,LEC,50,2,80.627
+20,Mexico,McLaren,NOR,50,3,80.545
+20,Mexico,Mercedes,RUS,50,4,81.086
+20,Mexico,Mercedes,HAM,50,5,80.918
+20,Mexico,Red Bull,VER,50,6,81.023
+20,Mexico,Haas,MAG,50,7,81.066
+20,Mexico,Haas,HUL,50,8,81.316
+20,Mexico,McLaren,PIA,50,9,80.569
+20,Mexico,Alpine,GAS,50,10,81.713
+20,Mexico,Aston Martin,STR,50,11,81.586
+20,Mexico,Racing Bulls,LAW,50,12,81.438
+20,Mexico,Williams,COL,50,13,80.09
+20,Mexico,Kick Sauber,BOT,50,14,101.938
+20,Mexico,Alpine,OCO,50,15,81.118
+20,Mexico,Red Bull,PER,50,16,81.537
+20,Mexico,Kick Sauber,ZHO,50,17,81.776
