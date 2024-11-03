@@ -22,7 +22,7 @@ grand_prix_df = pd.DataFrame({
                    "Netherlands", "Italy", "Azerbaijan", "Singapore", 
                    "United States", "Mexico", "Brazil", "Las Vegas"],
     "laps": [57, 50, 58, 53, 56, 57, 63, 78, 70, 66, 71, 52,
-             70, 44, 72, 53, 51, 62, 56, 71, 71, 50]
+             70, 44, 72, 53, 51, 62, 56, 71, 69, 50]
 })
 
 # Setting the round number as the data frame index
