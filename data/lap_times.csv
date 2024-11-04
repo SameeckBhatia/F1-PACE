@@ -22530,3 +22530,1136 @@ round,grand_prix,constructor,driver,lap,position,time
 20,Mexico,Alpine,OCO,50,15,81.118
 20,Mexico,Red Bull,PER,50,16,81.537
 20,Mexico,Kick Sauber,ZHO,50,17,81.776
+21,Brazil,Alpine,OCO,42,1,143.552
+21,Brazil,Red Bull,VER,42,2,142.964
+21,Brazil,Alpine,GAS,42,3,140.928
+21,Brazil,Mercedes,RUS,42,4,139.051
+21,Brazil,McLaren,NOR,42,5,137.692
+21,Brazil,Ferrari,LEC,42,6,134.283
+21,Brazil,McLaren,PIA,42,7,132.899
+21,Brazil,Racing Bulls,TSU,42,8,129.387
+21,Brazil,Mercedes,HAM,42,9,128.111
+21,Brazil,Aston Martin,ALO,42,10,127.072
+21,Brazil,Racing Bulls,LAW,42,11,125.853
+21,Brazil,Red Bull,PER,42,12,124.054
+21,Brazil,Kick Sauber,BOT,42,13,122.559
+21,Brazil,Kick Sauber,ZHO,42,14,120.988
+21,Brazil,Ferrari,BEA,42,15,119.934
+21,Brazil,Alpine,OCO,36,1,85.773
+21,Brazil,Red Bull,VER,36,2,86.509
+21,Brazil,Alpine,GAS,36,3,86.658
+21,Brazil,Mercedes,RUS,36,4,86.885
+21,Brazil,McLaren,NOR,36,5,87.235
+21,Brazil,Ferrari,LEC,36,6,87.467
+21,Brazil,McLaren,PIA,36,7,87.878
+21,Brazil,Racing Bulls,TSU,36,8,89.062
+21,Brazil,Mercedes,HAM,36,9,88.763
+21,Brazil,Aston Martin,ALO,36,10,88.918
+21,Brazil,Racing Bulls,LAW,36,11,89.301
+21,Brazil,Red Bull,PER,36,12,89.093
+21,Brazil,Ferrari,SAI,36,13,88.886
+21,Brazil,Kick Sauber,BOT,36,14,92.055
+21,Brazil,Kick Sauber,ZHO,36,15,93.356
+21,Brazil,Ferrari,BEA,36,16,107.937
+21,Brazil,Red Bull,VER,44,1,83.884
+21,Brazil,Alpine,OCO,44,2,84.504
+21,Brazil,Alpine,GAS,44,3,84.886
+21,Brazil,Ferrari,LEC,44,4,85.195
+21,Brazil,Mercedes,RUS,44,5,85.346
+21,Brazil,McLaren,PIA,44,6,85.697
+21,Brazil,McLaren,NOR,44,7,85.605
+21,Brazil,Racing Bulls,TSU,44,8,86.547
+21,Brazil,Racing Bulls,LAW,44,9,86.375
+21,Brazil,Red Bull,PER,44,10,85.233
+21,Brazil,Mercedes,HAM,44,11,85.777
+21,Brazil,Ferrari,BEA,44,12,87.016
+21,Brazil,Kick Sauber,BOT,44,13,87.017
+21,Brazil,Kick Sauber,ZHO,44,14,87.953
+21,Brazil,Aston Martin,ALO,44,15,85.846
+21,Brazil,Mercedes,RUS,14,1,84.462
+21,Brazil,McLaren,NOR,14,2,84.437
+21,Brazil,Racing Bulls,TSU,14,3,84.827
+21,Brazil,Alpine,OCO,14,4,85.044
+21,Brazil,Ferrari,LEC,14,5,84.948
+21,Brazil,Red Bull,VER,14,6,84.791
+21,Brazil,Racing Bulls,LAW,14,7,84.813
+21,Brazil,McLaren,PIA,14,8,85.307
+21,Brazil,Aston Martin,ALO,14,9,84.793
+21,Brazil,Alpine,GAS,14,10,84.798
+21,Brazil,Haas,HUL,14,11,84.91
+21,Brazil,Williams,COL,14,12,84.75
+21,Brazil,Mercedes,HAM,14,13,84.51
+21,Brazil,Ferrari,SAI,14,14,84.312
+21,Brazil,Ferrari,BEA,14,15,84.365
+21,Brazil,Red Bull,PER,14,16,85.755
+21,Brazil,Kick Sauber,BOT,14,17,85.315
+21,Brazil,Kick Sauber,ZHO,14,18,87.146
+21,Brazil,Mercedes,RUS,5,1,85.317
+21,Brazil,McLaren,NOR,5,2,85.012
+21,Brazil,Racing Bulls,TSU,5,3,85.429
+21,Brazil,Alpine,OCO,5,4,85.417
+21,Brazil,Ferrari,LEC,5,5,85.018
+21,Brazil,Racing Bulls,LAW,5,6,85.366
+21,Brazil,McLaren,PIA,5,7,85.547
+21,Brazil,Aston Martin,ALO,5,8,86.044
+21,Brazil,Red Bull,VER,5,9,85.394
+21,Brazil,Alpine,GAS,5,10,86.804
+21,Brazil,Mercedes,HAM,5,11,85.992
+21,Brazil,Williams,COL,5,12,86.684
+21,Brazil,Haas,HUL,5,13,85.532
+21,Brazil,Kick Sauber,BOT,5,14,86.53
+21,Brazil,Ferrari,SAI,5,15,86.185
+21,Brazil,Ferrari,BEA,5,16,86.485
+21,Brazil,Red Bull,PER,5,17,86.062
+21,Brazil,Kick Sauber,ZHO,5,18,89.677
+21,Brazil,Mercedes,RUS,6,1,84.675
+21,Brazil,McLaren,NOR,6,2,84.922
+21,Brazil,Racing Bulls,TSU,6,3,84.903
+21,Brazil,Alpine,OCO,6,4,85.011
+21,Brazil,Ferrari,LEC,6,5,85.087
+21,Brazil,Racing Bulls,LAW,6,6,85.072
+21,Brazil,McLaren,PIA,6,7,85.2
+21,Brazil,Red Bull,VER,6,8,84.311
+21,Brazil,Aston Martin,ALO,6,9,86.445
+21,Brazil,Alpine,GAS,6,10,85.604
+21,Brazil,Mercedes,HAM,6,11,86.101
+21,Brazil,Haas,HUL,6,12,85.155
+21,Brazil,Williams,COL,6,13,87.143
+21,Brazil,Kick Sauber,BOT,6,14,86.143
+21,Brazil,Ferrari,SAI,6,15,86.915
+21,Brazil,Ferrari,BEA,6,16,85.728
+21,Brazil,Red Bull,PER,6,17,86.304
+21,Brazil,Kick Sauber,ZHO,6,18,86.557
+21,Brazil,Red Bull,VER,46,1,83.106
+21,Brazil,Alpine,OCO,46,2,83.395
+21,Brazil,Alpine,GAS,46,3,83.511
+21,Brazil,Mercedes,RUS,46,4,84.385
+21,Brazil,Ferrari,LEC,46,5,87.032
+21,Brazil,McLaren,NOR,46,6,84.879
+21,Brazil,McLaren,PIA,46,7,86.611
+21,Brazil,Racing Bulls,TSU,46,8,84.787
+21,Brazil,Racing Bulls,LAW,46,9,84.814
+21,Brazil,Red Bull,PER,46,10,84.858
+21,Brazil,Mercedes,HAM,46,11,84.622
+21,Brazil,Ferrari,BEA,46,12,84.578
+21,Brazil,Kick Sauber,BOT,46,13,84.963
+21,Brazil,Kick Sauber,ZHO,46,14,85.396
+21,Brazil,Aston Martin,ALO,46,15,85.094
+21,Brazil,Mercedes,RUS,21,1,83.517
+21,Brazil,McLaren,NOR,21,2,83.777
+21,Brazil,Racing Bulls,TSU,21,3,84.179
+21,Brazil,Alpine,OCO,21,4,84.037
+21,Brazil,Ferrari,LEC,21,5,84.802
+21,Brazil,Red Bull,VER,21,6,84.269
+21,Brazil,Racing Bulls,LAW,21,7,84.17
+21,Brazil,McLaren,PIA,21,8,84.098
+21,Brazil,Alpine,GAS,21,9,83.92
+21,Brazil,Aston Martin,ALO,21,10,84.09
+21,Brazil,Haas,HUL,21,11,83.764
+21,Brazil,Williams,COL,21,12,84.296
+21,Brazil,Ferrari,SAI,21,13,84.631
+21,Brazil,Ferrari,BEA,21,14,84.482
+21,Brazil,Mercedes,HAM,21,15,84.385
+21,Brazil,Red Bull,PER,21,16,84.408
+21,Brazil,Kick Sauber,BOT,21,17,84.726
+21,Brazil,Kick Sauber,ZHO,21,18,86.01
+21,Brazil,Mercedes,RUS,18,1,84.423
+21,Brazil,McLaren,NOR,18,2,84.505
+21,Brazil,Racing Bulls,TSU,18,3,84.547
+21,Brazil,Alpine,OCO,18,4,84.423
+21,Brazil,Ferrari,LEC,18,5,84.351
+21,Brazil,Red Bull,VER,18,6,84.248
+21,Brazil,Racing Bulls,LAW,18,7,84.682
+21,Brazil,McLaren,PIA,18,8,84.526
+21,Brazil,Alpine,GAS,18,9,84.199
+21,Brazil,Aston Martin,ALO,18,10,84.035
+21,Brazil,Haas,HUL,18,11,85.094
+21,Brazil,Williams,COL,18,12,84.836
+21,Brazil,Ferrari,SAI,18,13,84.874
+21,Brazil,Mercedes,HAM,18,14,86.035
+21,Brazil,Ferrari,BEA,18,15,84.883
+21,Brazil,Red Bull,PER,18,16,85.85
+21,Brazil,Kick Sauber,BOT,18,17,85.189
+21,Brazil,Kick Sauber,ZHO,18,18,85.579
+21,Brazil,Mercedes,RUS,11,1,83.928
+21,Brazil,McLaren,NOR,11,2,84.11
+21,Brazil,Racing Bulls,TSU,11,3,84.953
+21,Brazil,Alpine,OCO,11,4,84.782
+21,Brazil,Ferrari,LEC,11,5,84.432
+21,Brazil,Red Bull,VER,11,6,84.156
+21,Brazil,Racing Bulls,LAW,11,7,86.02
+21,Brazil,McLaren,PIA,11,8,84.792
+21,Brazil,Aston Martin,ALO,11,9,84.692
+21,Brazil,Alpine,GAS,11,10,84.829
+21,Brazil,Haas,HUL,11,11,85.005
+21,Brazil,Mercedes,HAM,11,12,91.858
+21,Brazil,Williams,COL,11,13,85.549
+21,Brazil,Kick Sauber,BOT,11,14,86.246
+21,Brazil,Ferrari,SAI,11,15,86.203
+21,Brazil,Ferrari,BEA,11,16,86.216
+21,Brazil,Red Bull,PER,11,17,86.025
+21,Brazil,Kick Sauber,ZHO,11,18,85.544
+21,Brazil,Red Bull,VER,50,1,82.043
+21,Brazil,Alpine,OCO,50,2,82.688
+21,Brazil,Alpine,GAS,50,3,83.033
+21,Brazil,Mercedes,RUS,50,4,82.698
+21,Brazil,Ferrari,LEC,50,5,83.72
+21,Brazil,McLaren,NOR,50,6,83.373
+21,Brazil,McLaren,PIA,50,7,83.473
+21,Brazil,Racing Bulls,TSU,50,8,83.596
+21,Brazil,Racing Bulls,LAW,50,9,83.687
+21,Brazil,Red Bull,PER,50,10,83.686
+21,Brazil,Mercedes,HAM,50,11,83.698
+21,Brazil,Ferrari,BEA,50,12,84.172
+21,Brazil,Kick Sauber,BOT,50,13,83.925
+21,Brazil,Kick Sauber,ZHO,50,14,84.37
+21,Brazil,Aston Martin,ALO,50,15,83.712
+21,Brazil,Red Bull,VER,61,1,81.336
+21,Brazil,Alpine,OCO,61,2,82.285
+21,Brazil,Alpine,GAS,61,3,82.22
+21,Brazil,Mercedes,RUS,61,4,82.161
+21,Brazil,Ferrari,LEC,61,5,81.91
+21,Brazil,McLaren,NOR,61,6,81.756
+21,Brazil,McLaren,PIA,61,7,82.125
+21,Brazil,Racing Bulls,TSU,61,8,82.405
+21,Brazil,Racing Bulls,LAW,61,9,82.653
+21,Brazil,Mercedes,HAM,61,10,82.747
+21,Brazil,Red Bull,PER,61,11,82.715
+21,Brazil,Ferrari,BEA,61,12,84.192
+21,Brazil,Kick Sauber,BOT,61,13,83.177
+21,Brazil,Aston Martin,ALO,61,14,82.71
+21,Brazil,Kick Sauber,ZHO,61,15,83.473
+21,Brazil,Mercedes,RUS,2,1,85.804
+21,Brazil,McLaren,NOR,2,2,86.207
+21,Brazil,Racing Bulls,TSU,2,3,86.351
+21,Brazil,Alpine,OCO,2,4,86.376
+21,Brazil,Ferrari,LEC,2,5,86.521
+21,Brazil,Racing Bulls,LAW,2,6,86.807
+21,Brazil,McLaren,PIA,2,7,87.194
+21,Brazil,Aston Martin,ALO,2,8,87.116
+21,Brazil,Alpine,GAS,2,9,87.33
+21,Brazil,Red Bull,VER,2,10,87.134
+21,Brazil,Mercedes,HAM,2,11,87.832
+21,Brazil,Williams,COL,2,12,87.983
+21,Brazil,Ferrari,BEA,2,13,88.376
+21,Brazil,Haas,HUL,2,14,87.576
+21,Brazil,Kick Sauber,BOT,2,15,88.923
+21,Brazil,Kick Sauber,ZHO,2,16,89.022
+21,Brazil,Ferrari,SAI,2,17,89.021
+21,Brazil,Red Bull,PER,2,18,87.047
+21,Brazil,Mercedes,RUS,8,1,84.588
+21,Brazil,McLaren,NOR,8,2,84.454
+21,Brazil,Racing Bulls,TSU,8,3,85.28
+21,Brazil,Alpine,OCO,8,4,84.954
+21,Brazil,Ferrari,LEC,8,5,85.076
+21,Brazil,Racing Bulls,LAW,8,6,85.237
+21,Brazil,McLaren,PIA,8,7,85.322
+21,Brazil,Red Bull,VER,8,8,84.657
+21,Brazil,Aston Martin,ALO,8,9,84.707
+21,Brazil,Alpine,GAS,8,10,85.227
+21,Brazil,Mercedes,HAM,8,11,85.153
+21,Brazil,Haas,HUL,8,12,84.701
+21,Brazil,Williams,COL,8,13,85.762
+21,Brazil,Kick Sauber,BOT,8,14,85.484
+21,Brazil,Ferrari,SAI,8,15,85.454
+21,Brazil,Ferrari,BEA,8,16,85.421
+21,Brazil,Red Bull,PER,8,17,85.102
+21,Brazil,Kick Sauber,ZHO,8,18,86.164
+21,Brazil,Mercedes,RUS,17,1,84.71
+21,Brazil,McLaren,NOR,17,2,83.973
+21,Brazil,Racing Bulls,TSU,17,3,84.724
+21,Brazil,Alpine,OCO,17,4,84.243
+21,Brazil,Ferrari,LEC,17,5,84.271
+21,Brazil,Red Bull,VER,17,6,84.328
+21,Brazil,Racing Bulls,LAW,17,7,84.525
+21,Brazil,McLaren,PIA,17,8,84.555
+21,Brazil,Alpine,GAS,17,9,84.237
+21,Brazil,Aston Martin,ALO,17,10,84.51
+21,Brazil,Haas,HUL,17,11,84.397
+21,Brazil,Williams,COL,17,12,84.967
+21,Brazil,Mercedes,HAM,17,13,84.732
+21,Brazil,Ferrari,SAI,17,14,84.667
+21,Brazil,Ferrari,BEA,17,15,84.941
+21,Brazil,Red Bull,PER,17,16,84.395
+21,Brazil,Kick Sauber,BOT,17,17,84.927
+21,Brazil,Kick Sauber,ZHO,17,18,85.855
+21,Brazil,Mercedes,RUS,22,1,83.883
+21,Brazil,McLaren,NOR,22,2,83.592
+21,Brazil,Racing Bulls,TSU,22,3,84.39
+21,Brazil,Alpine,OCO,22,4,84.37
+21,Brazil,Ferrari,LEC,22,5,84.309
+21,Brazil,Red Bull,VER,22,6,85.055
+21,Brazil,Racing Bulls,LAW,22,7,84.365
+21,Brazil,McLaren,PIA,22,8,84.225
+21,Brazil,Alpine,GAS,22,9,83.996
+21,Brazil,Aston Martin,ALO,22,10,84.384
+21,Brazil,Haas,HUL,22,11,84.062
+21,Brazil,Williams,COL,22,12,84.878
+21,Brazil,Ferrari,BEA,22,13,84.517
+21,Brazil,Mercedes,HAM,22,14,84.506
+21,Brazil,Ferrari,SAI,22,15,87.774
+21,Brazil,Red Bull,PER,22,16,85.382
+21,Brazil,Kick Sauber,BOT,22,17,85.144
+21,Brazil,Kick Sauber,ZHO,22,18,85.637
+21,Brazil,Alpine,OCO,30,1,118.147
+21,Brazil,Red Bull,VER,30,2,119.319
+21,Brazil,Alpine,GAS,30,3,118.4
+21,Brazil,McLaren,NOR,30,4,117.236
+21,Brazil,Mercedes,RUS,30,5,122.081
+21,Brazil,Racing Bulls,TSU,30,6,114.797
+21,Brazil,Ferrari,LEC,30,7,116.007
+21,Brazil,McLaren,PIA,30,8,117.584
+21,Brazil,Aston Martin,ALO,30,9,119.045
+21,Brazil,Racing Bulls,LAW,30,10,114.922
+21,Brazil,Mercedes,HAM,30,11,116.004
+21,Brazil,Kick Sauber,BOT,30,12,128.365
+21,Brazil,Ferrari,SAI,30,13,127.308
+21,Brazil,Red Bull,PER,30,14,128.473
+21,Brazil,Ferrari,BEA,30,15,128.143
+21,Brazil,Williams,COL,30,16,130.874
+21,Brazil,Kick Sauber,ZHO,30,17,125.363
+21,Brazil,Haas,HUL,30,18,174.656
+21,Brazil,Red Bull,VER,47,1,82.453
+21,Brazil,Alpine,OCO,47,2,82.946
+21,Brazil,Alpine,GAS,47,3,83.498
+21,Brazil,Mercedes,RUS,47,4,82.843
+21,Brazil,Ferrari,LEC,47,5,84.145
+21,Brazil,McLaren,NOR,47,6,84.475
+21,Brazil,McLaren,PIA,47,7,84.618
+21,Brazil,Racing Bulls,TSU,47,8,84.402
+21,Brazil,Racing Bulls,LAW,47,9,84.404
+21,Brazil,Red Bull,PER,47,10,84.656
+21,Brazil,Mercedes,HAM,47,11,84.794
+21,Brazil,Ferrari,BEA,47,12,84.616
+21,Brazil,Kick Sauber,BOT,47,13,84.722
+21,Brazil,Kick Sauber,ZHO,47,14,85.031
+21,Brazil,Aston Martin,ALO,47,15,83.697
+21,Brazil,Alpine,OCO,33,1,1557.824
+21,Brazil,Red Bull,VER,33,2,1556.41
+21,Brazil,Alpine,GAS,33,3,1550.5
+21,Brazil,McLaren,NOR,33,4,1549.718
+21,Brazil,Mercedes,RUS,33,5,1544.799
+21,Brazil,Racing Bulls,TSU,33,6,1543.702
+21,Brazil,Ferrari,LEC,33,7,1541.212
+21,Brazil,McLaren,PIA,33,8,1537.798
+21,Brazil,Aston Martin,ALO,33,9,1536.089
+21,Brazil,Racing Bulls,LAW,33,10,1534.389
+21,Brazil,Mercedes,HAM,33,11,1532.48
+21,Brazil,Kick Sauber,BOT,33,12,1527.455
+21,Brazil,Ferrari,SAI,33,13,1524.273
+21,Brazil,Red Bull,PER,33,14,1520.559
+21,Brazil,Kick Sauber,ZHO,33,15,173.772
+21,Brazil,Ferrari,BEA,33,16,1524.788
+21,Brazil,Mercedes,RUS,12,1,84.216
+21,Brazil,McLaren,NOR,12,2,84.072
+21,Brazil,Racing Bulls,TSU,12,3,84.877
+21,Brazil,Alpine,OCO,12,4,84.641
+21,Brazil,Ferrari,LEC,12,5,84.755
+21,Brazil,Red Bull,VER,12,6,83.43
+21,Brazil,Racing Bulls,LAW,12,7,84.834
+21,Brazil,McLaren,PIA,12,8,84.83
+21,Brazil,Aston Martin,ALO,12,9,84.657
+21,Brazil,Alpine,GAS,12,10,86.151
+21,Brazil,Haas,HUL,12,11,84.372
+21,Brazil,Williams,COL,12,12,85.418
+21,Brazil,Mercedes,HAM,12,13,86.433
+21,Brazil,Ferrari,SAI,12,14,85.633
+21,Brazil,Ferrari,BEA,12,15,85.992
+21,Brazil,Red Bull,PER,12,16,85.993
+21,Brazil,Kick Sauber,BOT,12,17,89.257
+21,Brazil,Kick Sauber,ZHO,12,18,86.543
+21,Brazil,Red Bull,VER,58,1,81.782
+21,Brazil,Alpine,OCO,58,2,82.393
+21,Brazil,Alpine,GAS,58,3,82.385
+21,Brazil,Mercedes,RUS,58,4,82.43
+21,Brazil,Ferrari,LEC,58,5,82.017
+21,Brazil,McLaren,NOR,58,6,82.42
+21,Brazil,McLaren,PIA,58,7,82.32
+21,Brazil,Racing Bulls,TSU,58,8,83.0
+21,Brazil,Racing Bulls,LAW,58,9,83.769
+21,Brazil,Mercedes,HAM,58,10,83.888
+21,Brazil,Red Bull,PER,58,11,83.714
+21,Brazil,Ferrari,BEA,58,12,82.992
+21,Brazil,Kick Sauber,BOT,58,13,83.185
+21,Brazil,Aston Martin,ALO,58,14,82.968
+21,Brazil,Kick Sauber,ZHO,58,15,86.018
+21,Brazil,Alpine,OCO,34,1,89.391
+21,Brazil,Red Bull,VER,34,2,90.36
+21,Brazil,Alpine,GAS,34,3,93.504
+21,Brazil,Mercedes,RUS,34,4,95.067
+21,Brazil,McLaren,NOR,34,5,96.887
+21,Brazil,Ferrari,LEC,34,6,97.098
+21,Brazil,McLaren,PIA,34,7,98.248
+21,Brazil,Racing Bulls,TSU,34,8,99.418
+21,Brazil,Mercedes,HAM,34,9,97.691
+21,Brazil,Aston Martin,ALO,34,10,99.529
+21,Brazil,Racing Bulls,LAW,34,11,99.368
+21,Brazil,Red Bull,PER,34,12,97.821
+21,Brazil,Kick Sauber,BOT,34,13,100.982
+21,Brazil,Ferrari,SAI,34,14,100.313
+21,Brazil,Ferrari,BEA,34,15,92.73
+21,Brazil,Kick Sauber,ZHO,34,16,98.583
+21,Brazil,Mercedes,RUS,20,1,83.751
+21,Brazil,McLaren,NOR,20,2,84.197
+21,Brazil,Racing Bulls,TSU,20,3,84.163
+21,Brazil,Alpine,OCO,20,4,84.282
+21,Brazil,Ferrari,LEC,20,5,84.231
+21,Brazil,Red Bull,VER,20,6,83.915
+21,Brazil,Racing Bulls,LAW,20,7,84.034
+21,Brazil,McLaren,PIA,20,8,84.278
+21,Brazil,Alpine,GAS,20,9,84.381
+21,Brazil,Aston Martin,ALO,20,10,83.949
+21,Brazil,Haas,HUL,20,11,84.354
+21,Brazil,Williams,COL,20,12,85.366
+21,Brazil,Ferrari,SAI,20,13,85.301
+21,Brazil,Ferrari,BEA,20,14,84.414
+21,Brazil,Mercedes,HAM,20,15,84.315
+21,Brazil,Red Bull,PER,20,16,84.522
+21,Brazil,Kick Sauber,BOT,20,17,84.984
+21,Brazil,Kick Sauber,ZHO,20,18,85.053
+21,Brazil,Red Bull,VER,68,1,81.554
+21,Brazil,Alpine,OCO,68,2,81.964
+21,Brazil,Alpine,GAS,68,3,81.877
+21,Brazil,Mercedes,RUS,68,4,81.803
+21,Brazil,Ferrari,LEC,68,5,81.664
+21,Brazil,McLaren,NOR,68,6,81.886
+21,Brazil,McLaren,PIA,68,7,81.719
+21,Brazil,Racing Bulls,TSU,68,8,81.979
+21,Brazil,Racing Bulls,LAW,68,9,82.291
+21,Brazil,Mercedes,HAM,68,10,82.104
+21,Brazil,Red Bull,PER,68,11,82.263
+21,Brazil,Ferrari,BEA,68,12,82.67
+21,Brazil,Kick Sauber,BOT,68,13,83.034
+21,Brazil,Aston Martin,ALO,68,14,83.717
+21,Brazil,Kick Sauber,ZHO,68,15,83.33
+21,Brazil,Red Bull,VER,51,1,82.306
+21,Brazil,Alpine,OCO,51,2,83.167
+21,Brazil,Alpine,GAS,51,3,83.001
+21,Brazil,Mercedes,RUS,51,4,82.661
+21,Brazil,Ferrari,LEC,51,5,83.5
+21,Brazil,McLaren,NOR,51,6,83.443
+21,Brazil,McLaren,PIA,51,7,86.267
+21,Brazil,Racing Bulls,TSU,51,8,83.717
+21,Brazil,Racing Bulls,LAW,51,9,84.09
+21,Brazil,Red Bull,PER,51,10,84.085
+21,Brazil,Mercedes,HAM,51,11,83.963
+21,Brazil,Ferrari,BEA,51,12,85.085
+21,Brazil,Kick Sauber,BOT,51,13,84.507
+21,Brazil,Kick Sauber,ZHO,51,14,84.812
+21,Brazil,Aston Martin,ALO,51,15,83.484
+21,Brazil,Mercedes,RUS,10,1,84.295
+21,Brazil,McLaren,NOR,10,2,84.088
+21,Brazil,Racing Bulls,TSU,10,3,84.592
+21,Brazil,Alpine,OCO,10,4,84.493
+21,Brazil,Ferrari,LEC,10,5,84.672
+21,Brazil,Racing Bulls,LAW,10,6,84.976
+21,Brazil,Red Bull,VER,10,7,84.015
+21,Brazil,McLaren,PIA,10,8,85.762
+21,Brazil,Aston Martin,ALO,10,9,85.472
+21,Brazil,Alpine,GAS,10,10,85.021
+21,Brazil,Mercedes,HAM,10,11,85.33
+21,Brazil,Haas,HUL,10,12,85.084
+21,Brazil,Williams,COL,10,13,85.975
+21,Brazil,Kick Sauber,BOT,10,14,85.851
+21,Brazil,Ferrari,SAI,10,15,85.406
+21,Brazil,Ferrari,BEA,10,16,85.115
+21,Brazil,Red Bull,PER,10,17,84.911
+21,Brazil,Kick Sauber,ZHO,10,18,85.712
+21,Brazil,Red Bull,VER,45,1,82.876
+21,Brazil,Alpine,OCO,45,2,83.771
+21,Brazil,Alpine,GAS,45,3,84.087
+21,Brazil,Ferrari,LEC,45,4,84.39
+21,Brazil,Mercedes,RUS,45,5,84.451
+21,Brazil,McLaren,PIA,45,6,84.29
+21,Brazil,McLaren,NOR,45,7,84.446
+21,Brazil,Racing Bulls,TSU,45,8,84.985
+21,Brazil,Racing Bulls,LAW,45,9,85.12
+21,Brazil,Red Bull,PER,45,10,85.156
+21,Brazil,Mercedes,HAM,45,11,84.825
+21,Brazil,Ferrari,BEA,45,12,85.307
+21,Brazil,Kick Sauber,BOT,45,13,86.05
+21,Brazil,Kick Sauber,ZHO,45,14,86.202
+21,Brazil,Aston Martin,ALO,45,15,83.861
+21,Brazil,Alpine,OCO,39,1,84.42
+21,Brazil,Red Bull,VER,39,2,85.296
+21,Brazil,Alpine,GAS,39,3,90.233
+21,Brazil,Mercedes,RUS,39,4,93.033
+21,Brazil,McLaren,NOR,39,5,93.718
+21,Brazil,Ferrari,LEC,39,6,95.846
+21,Brazil,McLaren,PIA,39,7,96.338
+21,Brazil,Racing Bulls,TSU,39,8,97.004
+21,Brazil,Mercedes,HAM,39,9,98.741
+21,Brazil,Aston Martin,ALO,39,10,98.579
+21,Brazil,Racing Bulls,LAW,39,11,99.603
+21,Brazil,Red Bull,PER,39,12,101.208
+21,Brazil,Kick Sauber,BOT,39,13,99.942
+21,Brazil,Kick Sauber,ZHO,39,14,102.318
+21,Brazil,Ferrari,BEA,39,15,104.52
+21,Brazil,Mercedes,RUS,19,1,84.338
+21,Brazil,McLaren,NOR,19,2,84.465
+21,Brazil,Racing Bulls,TSU,19,3,84.275
+21,Brazil,Alpine,OCO,19,4,84.222
+21,Brazil,Ferrari,LEC,19,5,84.243
+21,Brazil,Red Bull,VER,19,6,84.493
+21,Brazil,Racing Bulls,LAW,19,7,84.607
+21,Brazil,McLaren,PIA,19,8,84.563
+21,Brazil,Alpine,GAS,19,9,84.214
+21,Brazil,Aston Martin,ALO,19,10,84.787
+21,Brazil,Haas,HUL,19,11,84.415
+21,Brazil,Williams,COL,19,12,85.028
+21,Brazil,Ferrari,SAI,19,13,84.201
+21,Brazil,Ferrari,BEA,19,14,85.601
+21,Brazil,Mercedes,HAM,19,15,86.872
+21,Brazil,Red Bull,PER,19,16,84.414
+21,Brazil,Kick Sauber,BOT,19,17,85.089
+21,Brazil,Kick Sauber,ZHO,19,18,85.376
+21,Brazil,Mercedes,RUS,9,1,84.238
+21,Brazil,McLaren,NOR,9,2,84.382
+21,Brazil,Racing Bulls,TSU,9,3,84.832
+21,Brazil,Alpine,OCO,9,4,84.654
+21,Brazil,Ferrari,LEC,9,5,84.674
+21,Brazil,Racing Bulls,LAW,9,6,84.682
+21,Brazil,McLaren,PIA,9,7,84.869
+21,Brazil,Red Bull,VER,9,8,84.778
+21,Brazil,Aston Martin,ALO,9,9,84.702
+21,Brazil,Alpine,GAS,9,10,85.105
+21,Brazil,Mercedes,HAM,9,11,84.646
+21,Brazil,Haas,HUL,9,12,84.425
+21,Brazil,Williams,COL,9,13,85.048
+21,Brazil,Kick Sauber,BOT,9,14,84.851
+21,Brazil,Ferrari,SAI,9,15,85.191
+21,Brazil,Ferrari,BEA,9,16,85.164
+21,Brazil,Red Bull,PER,9,17,85.253
+21,Brazil,Kick Sauber,ZHO,9,18,85.915
+21,Brazil,Mercedes,RUS,23,1,84.127
+21,Brazil,McLaren,NOR,23,2,83.732
+21,Brazil,Racing Bulls,TSU,23,3,84.543
+21,Brazil,Alpine,OCO,23,4,84.606
+21,Brazil,Ferrari,LEC,23,5,84.137
+21,Brazil,Red Bull,VER,23,6,84.267
+21,Brazil,Racing Bulls,LAW,23,7,85.0
+21,Brazil,McLaren,PIA,23,8,84.774
+21,Brazil,Alpine,GAS,23,9,84.744
+21,Brazil,Aston Martin,ALO,23,10,84.204
+21,Brazil,Haas,HUL,23,11,84.583
+21,Brazil,Ferrari,BEA,23,12,84.306
+21,Brazil,Mercedes,HAM,23,13,84.555
+21,Brazil,Williams,COL,23,14,88.291
+21,Brazil,Ferrari,SAI,23,15,85.187
+21,Brazil,Red Bull,PER,23,16,85.158
+21,Brazil,Kick Sauber,BOT,23,17,84.966
+21,Brazil,Kick Sauber,ZHO,23,18,86.438
+21,Brazil,Red Bull,VER,53,1,82.251
+21,Brazil,Alpine,OCO,53,2,82.559
+21,Brazil,Alpine,GAS,53,3,82.512
+21,Brazil,Mercedes,RUS,53,4,82.427
+21,Brazil,Ferrari,LEC,53,5,83.118
+21,Brazil,McLaren,NOR,53,6,83.615
+21,Brazil,McLaren,PIA,53,7,82.73
+21,Brazil,Racing Bulls,TSU,53,8,83.545
+21,Brazil,Racing Bulls,LAW,53,9,84.048
+21,Brazil,Red Bull,PER,53,10,84.023
+21,Brazil,Mercedes,HAM,53,11,83.84
+21,Brazil,Ferrari,BEA,53,12,83.969
+21,Brazil,Kick Sauber,BOT,53,13,84.36
+21,Brazil,Kick Sauber,ZHO,53,14,84.727
+21,Brazil,Aston Martin,ALO,53,15,83.265
+21,Brazil,Red Bull,VER,52,1,82.38
+21,Brazil,Alpine,OCO,52,2,82.569
+21,Brazil,Alpine,GAS,52,3,82.912
+21,Brazil,Mercedes,RUS,52,4,82.953
+21,Brazil,Ferrari,LEC,52,5,83.142
+21,Brazil,McLaren,NOR,52,6,83.349
+21,Brazil,McLaren,PIA,52,7,82.933
+21,Brazil,Racing Bulls,TSU,52,8,84.536
+21,Brazil,Racing Bulls,LAW,52,9,84.199
+21,Brazil,Red Bull,PER,52,10,84.086
+21,Brazil,Mercedes,HAM,52,11,84.276
+21,Brazil,Ferrari,BEA,52,12,83.909
+21,Brazil,Kick Sauber,BOT,52,13,84.36
+21,Brazil,Kick Sauber,ZHO,52,14,84.69
+21,Brazil,Aston Martin,ALO,52,15,83.078
+21,Brazil,Alpine,OCO,31,1,132.11
+21,Brazil,Red Bull,VER,31,2,124.967
+21,Brazil,Alpine,GAS,31,3,126.773
+21,Brazil,McLaren,NOR,31,4,126.964
+21,Brazil,Mercedes,RUS,31,5,125.485
+21,Brazil,Racing Bulls,TSU,31,6,125.198
+21,Brazil,Ferrari,LEC,31,7,120.957
+21,Brazil,McLaren,PIA,31,8,119.357
+21,Brazil,Aston Martin,ALO,31,9,116.643
+21,Brazil,Racing Bulls,LAW,31,10,112.061
+21,Brazil,Mercedes,HAM,31,11,112.031
+21,Brazil,Kick Sauber,BOT,31,12,112.258
+21,Brazil,Ferrari,SAI,31,13,111.416
+21,Brazil,Red Bull,PER,31,14,111.015
+21,Brazil,Ferrari,BEA,31,15,112.001
+21,Brazil,Kick Sauber,ZHO,31,16,160.52
+21,Brazil,Mercedes,RUS,28,1,114.428
+21,Brazil,McLaren,NOR,28,2,115.212
+21,Brazil,Alpine,OCO,28,3,110.714
+21,Brazil,Red Bull,VER,28,4,111.717
+21,Brazil,Racing Bulls,TSU,28,5,117.034
+21,Brazil,Alpine,GAS,28,6,109.087
+21,Brazil,Racing Bulls,LAW,28,7,113.045
+21,Brazil,Ferrari,LEC,28,8,106.521
+21,Brazil,McLaren,PIA,28,9,121.36
+21,Brazil,Aston Martin,ALO,28,10,120.925
+21,Brazil,Kick Sauber,BOT,28,11,106.762
+21,Brazil,Mercedes,HAM,28,12,119.838
+21,Brazil,Ferrari,SAI,28,13,122.82
+21,Brazil,Ferrari,BEA,28,14,131.553
+21,Brazil,Red Bull,PER,28,15,120.667
+21,Brazil,Williams,COL,28,16,102.804
+21,Brazil,Kick Sauber,ZHO,28,17,126.376
+21,Brazil,Haas,HUL,28,18,168.684
+21,Brazil,Red Bull,VER,60,1,81.331
+21,Brazil,Alpine,OCO,60,2,82.111
+21,Brazil,Alpine,GAS,60,3,82.093
+21,Brazil,Mercedes,RUS,60,4,82.057
+21,Brazil,Ferrari,LEC,60,5,81.631
+21,Brazil,McLaren,NOR,60,6,81.759
+21,Brazil,McLaren,PIA,60,7,82.106
+21,Brazil,Racing Bulls,TSU,60,8,82.664
+21,Brazil,Racing Bulls,LAW,60,9,83.1
+21,Brazil,Mercedes,HAM,60,10,83.122
+21,Brazil,Red Bull,PER,60,11,83.112
+21,Brazil,Ferrari,BEA,60,12,82.944
+21,Brazil,Kick Sauber,BOT,60,13,82.911
+21,Brazil,Aston Martin,ALO,60,14,84.826
+21,Brazil,Kick Sauber,ZHO,60,15,83.471
+21,Brazil,Mercedes,RUS,7,1,84.854
+21,Brazil,McLaren,NOR,7,2,85.001
+21,Brazil,Racing Bulls,TSU,7,3,85.024
+21,Brazil,Alpine,OCO,7,4,85.38
+21,Brazil,Ferrari,LEC,7,5,85.353
+21,Brazil,Racing Bulls,LAW,7,6,85.411
+21,Brazil,McLaren,PIA,7,7,85.367
+21,Brazil,Red Bull,VER,7,8,84.342
+21,Brazil,Aston Martin,ALO,7,9,85.264
+21,Brazil,Alpine,GAS,7,10,85.323
+21,Brazil,Mercedes,HAM,7,11,85.254
+21,Brazil,Haas,HUL,7,12,85.526
+21,Brazil,Williams,COL,7,13,85.837
+21,Brazil,Kick Sauber,BOT,7,14,85.823
+21,Brazil,Ferrari,SAI,7,15,85.419
+21,Brazil,Ferrari,BEA,7,16,85.412
+21,Brazil,Red Bull,PER,7,17,85.83
+21,Brazil,Kick Sauber,ZHO,7,18,86.941
+21,Brazil,Red Bull,VER,57,1,81.862
+21,Brazil,Alpine,OCO,57,2,82.462
+21,Brazil,Alpine,GAS,57,3,82.468
+21,Brazil,Mercedes,RUS,57,4,82.815
+21,Brazil,Ferrari,LEC,57,5,82.512
+21,Brazil,McLaren,NOR,57,6,82.411
+21,Brazil,McLaren,PIA,57,7,82.524
+21,Brazil,Racing Bulls,TSU,57,8,82.766
+21,Brazil,Racing Bulls,LAW,57,9,82.953
+21,Brazil,Mercedes,HAM,57,10,82.901
+21,Brazil,Red Bull,PER,57,11,82.777
+21,Brazil,Ferrari,BEA,57,12,83.395
+21,Brazil,Kick Sauber,BOT,57,13,83.451
+21,Brazil,Kick Sauber,ZHO,57,14,84.302
+21,Brazil,Aston Martin,ALO,57,15,84.175
+21,Brazil,Red Bull,VER,64,1,81.029
+21,Brazil,Alpine,OCO,64,2,81.771
+21,Brazil,Alpine,GAS,64,3,81.707
+21,Brazil,Mercedes,RUS,64,4,81.78
+21,Brazil,Ferrari,LEC,64,5,81.682
+21,Brazil,McLaren,NOR,64,6,81.538
+21,Brazil,McLaren,PIA,64,7,81.838
+21,Brazil,Racing Bulls,TSU,64,8,82.035
+21,Brazil,Racing Bulls,LAW,64,9,82.427
+21,Brazil,Mercedes,HAM,64,10,82.197
+21,Brazil,Red Bull,PER,64,11,82.322
+21,Brazil,Ferrari,BEA,64,12,82.494
+21,Brazil,Kick Sauber,BOT,64,13,82.996
+21,Brazil,Aston Martin,ALO,64,14,83.313
+21,Brazil,Kick Sauber,ZHO,64,15,83.515
+21,Brazil,Alpine,OCO,40,1,132.164
+21,Brazil,Red Bull,VER,40,2,129.449
+21,Brazil,Alpine,GAS,40,3,120.75
+21,Brazil,Mercedes,RUS,40,4,117.269
+21,Brazil,McLaren,NOR,40,5,116.606
+21,Brazil,Ferrari,LEC,40,6,115.628
+21,Brazil,McLaren,PIA,40,7,113.528
+21,Brazil,Racing Bulls,TSU,40,8,111.544
+21,Brazil,Mercedes,HAM,40,9,109.874
+21,Brazil,Aston Martin,ALO,40,10,110.941
+21,Brazil,Racing Bulls,LAW,40,11,110.352
+21,Brazil,Red Bull,PER,40,12,108.85
+21,Brazil,Kick Sauber,BOT,40,13,111.569
+21,Brazil,Kick Sauber,ZHO,40,14,110.597
+21,Brazil,Ferrari,BEA,40,15,112.287
+21,Brazil,Red Bull,VER,66,1,81.111
+21,Brazil,Alpine,OCO,66,2,81.914
+21,Brazil,Alpine,GAS,66,3,81.645
+21,Brazil,Mercedes,RUS,66,4,81.645
+21,Brazil,Ferrari,LEC,66,5,82.131
+21,Brazil,McLaren,NOR,66,6,82.018
+21,Brazil,McLaren,PIA,66,7,81.884
+21,Brazil,Racing Bulls,TSU,66,8,82.159
+21,Brazil,Racing Bulls,LAW,66,9,82.652
+21,Brazil,Mercedes,HAM,66,10,82.731
+21,Brazil,Red Bull,PER,66,11,82.978
+21,Brazil,Ferrari,BEA,66,12,82.51
+21,Brazil,Kick Sauber,BOT,66,13,83.335
+21,Brazil,Aston Martin,ALO,66,14,83.619
+21,Brazil,Kick Sauber,ZHO,66,15,83.126
+21,Brazil,Red Bull,VER,49,1,82.241
+21,Brazil,Alpine,OCO,49,2,82.998
+21,Brazil,Alpine,GAS,49,3,83.183
+21,Brazil,Mercedes,RUS,49,4,82.552
+21,Brazil,Ferrari,LEC,49,5,83.324
+21,Brazil,McLaren,NOR,49,6,83.272
+21,Brazil,McLaren,PIA,49,7,83.036
+21,Brazil,Racing Bulls,TSU,49,8,83.943
+21,Brazil,Racing Bulls,LAW,49,9,84.049
+21,Brazil,Red Bull,PER,49,10,84.142
+21,Brazil,Mercedes,HAM,49,11,84.02
+21,Brazil,Ferrari,BEA,49,12,84.035
+21,Brazil,Kick Sauber,BOT,49,13,84.112
+21,Brazil,Kick Sauber,ZHO,49,14,84.415
+21,Brazil,Aston Martin,ALO,49,15,83.573
+21,Brazil,Red Bull,VER,54,1,82.246
+21,Brazil,Alpine,OCO,54,2,82.815
+21,Brazil,Alpine,GAS,54,3,82.739
+21,Brazil,Mercedes,RUS,54,4,82.777
+21,Brazil,Ferrari,LEC,54,5,82.957
+21,Brazil,McLaren,NOR,54,6,82.817
+21,Brazil,McLaren,PIA,54,7,82.908
+21,Brazil,Racing Bulls,TSU,54,8,83.512
+21,Brazil,Racing Bulls,LAW,54,9,83.942
+21,Brazil,Red Bull,PER,54,10,83.744
+21,Brazil,Mercedes,HAM,54,11,83.528
+21,Brazil,Ferrari,BEA,54,12,83.601
+21,Brazil,Kick Sauber,BOT,54,13,84.444
+21,Brazil,Kick Sauber,ZHO,54,14,84.925
+21,Brazil,Aston Martin,ALO,54,15,82.791
+21,Brazil,Mercedes,RUS,25,1,84.47
+21,Brazil,McLaren,NOR,25,2,84.877
+21,Brazil,Racing Bulls,TSU,25,3,84.91
+21,Brazil,Alpine,OCO,25,4,85.061
+21,Brazil,Red Bull,VER,25,5,84.156
+21,Brazil,Racing Bulls,LAW,25,6,84.915
+21,Brazil,McLaren,PIA,25,7,84.918
+21,Brazil,Alpine,GAS,25,8,84.41
+21,Brazil,Aston Martin,ALO,25,9,84.443
+21,Brazil,Haas,HUL,25,10,90.41
+21,Brazil,Ferrari,BEA,25,11,84.737
+21,Brazil,Mercedes,HAM,25,12,85.165
+21,Brazil,Ferrari,LEC,25,13,105.082
+21,Brazil,Williams,COL,25,14,85.835
+21,Brazil,Ferrari,SAI,25,15,85.396
+21,Brazil,Red Bull,PER,25,16,86.257
+21,Brazil,Kick Sauber,BOT,25,17,85.525
+21,Brazil,Kick Sauber,ZHO,25,18,87.336
+21,Brazil,Red Bull,VER,67,1,80.472
+21,Brazil,Alpine,OCO,67,2,82.108
+21,Brazil,Alpine,GAS,67,3,81.783
+21,Brazil,Mercedes,RUS,67,4,81.886
+21,Brazil,Ferrari,LEC,67,5,81.973
+21,Brazil,McLaren,NOR,67,6,81.517
+21,Brazil,McLaren,PIA,67,7,82.286
+21,Brazil,Racing Bulls,TSU,67,8,81.894
+21,Brazil,Racing Bulls,LAW,67,9,82.123
+21,Brazil,Mercedes,HAM,67,10,82.614
+21,Brazil,Red Bull,PER,67,11,82.143
+21,Brazil,Ferrari,BEA,67,12,82.533
+21,Brazil,Kick Sauber,BOT,67,13,82.877
+21,Brazil,Aston Martin,ALO,67,14,84.475
+21,Brazil,Kick Sauber,ZHO,67,15,83.991
+21,Brazil,Mercedes,RUS,15,1,84.383
+21,Brazil,McLaren,NOR,15,2,84.461
+21,Brazil,Racing Bulls,TSU,15,3,84.635
+21,Brazil,Alpine,OCO,15,4,84.896
+21,Brazil,Ferrari,LEC,15,5,84.652
+21,Brazil,Red Bull,VER,15,6,84.669
+21,Brazil,Racing Bulls,LAW,15,7,85.154
+21,Brazil,McLaren,PIA,15,8,84.924
+21,Brazil,Aston Martin,ALO,15,9,84.579
+21,Brazil,Alpine,GAS,15,10,84.66
+21,Brazil,Haas,HUL,15,11,84.845
+21,Brazil,Williams,COL,15,12,85.655
+21,Brazil,Mercedes,HAM,15,13,85.793
+21,Brazil,Ferrari,SAI,15,14,85.434
+21,Brazil,Ferrari,BEA,15,15,84.73
+21,Brazil,Red Bull,PER,15,16,85.279
+21,Brazil,Kick Sauber,BOT,15,17,85.431
+21,Brazil,Kick Sauber,ZHO,15,18,86.38
+21,Brazil,Mercedes,RUS,13,1,84.672
+21,Brazil,McLaren,NOR,13,2,84.725
+21,Brazil,Racing Bulls,TSU,13,3,85.172
+21,Brazil,Alpine,OCO,13,4,84.926
+21,Brazil,Ferrari,LEC,13,5,84.943
+21,Brazil,Red Bull,VER,13,6,84.512
+21,Brazil,Racing Bulls,LAW,13,7,85.21
+21,Brazil,McLaren,PIA,13,8,85.187
+21,Brazil,Aston Martin,ALO,13,9,84.886
+21,Brazil,Alpine,GAS,13,10,84.937
+21,Brazil,Haas,HUL,13,11,84.796
+21,Brazil,Williams,COL,13,12,84.565
+21,Brazil,Mercedes,HAM,13,13,84.559
+21,Brazil,Ferrari,SAI,13,14,84.293
+21,Brazil,Ferrari,BEA,13,15,85.215
+21,Brazil,Red Bull,PER,13,16,85.641
+21,Brazil,Kick Sauber,BOT,13,17,86.638
+21,Brazil,Kick Sauber,ZHO,13,18,87.829
+21,Brazil,Red Bull,VER,69,1,81.322
+21,Brazil,Alpine,OCO,69,2,82.264
+21,Brazil,Alpine,GAS,69,3,82.436
+21,Brazil,Mercedes,RUS,69,4,82.189
+21,Brazil,Ferrari,LEC,69,5,82.994
+21,Brazil,McLaren,NOR,69,6,81.819
+21,Brazil,McLaren,PIA,69,7,81.532
+21,Brazil,Racing Bulls,TSU,69,8,81.828
+21,Brazil,Racing Bulls,LAW,69,9,82.533
+21,Brazil,Mercedes,HAM,69,10,82.041
+21,Brazil,Red Bull,PER,69,11,82.222
+21,Brazil,Ferrari,BEA,69,12,82.839
+21,Brazil,Kick Sauber,BOT,69,13,83.003
+21,Brazil,Aston Martin,ALO,69,14,83.919
+21,Brazil,Kick Sauber,ZHO,69,15,83.701
+21,Brazil,Red Bull,VER,59,1,81.551
+21,Brazil,Alpine,OCO,59,2,82.16
+21,Brazil,Alpine,GAS,59,3,82.408
+21,Brazil,Mercedes,RUS,59,4,82.163
+21,Brazil,Ferrari,LEC,59,5,81.893
+21,Brazil,McLaren,NOR,59,6,82.137
+21,Brazil,McLaren,PIA,59,7,82.18
+21,Brazil,Racing Bulls,TSU,59,8,82.872
+21,Brazil,Racing Bulls,LAW,59,9,83.152
+21,Brazil,Mercedes,HAM,59,10,83.028
+21,Brazil,Red Bull,PER,59,11,83.086
+21,Brazil,Ferrari,BEA,59,12,82.897
+21,Brazil,Kick Sauber,BOT,59,13,83.418
+21,Brazil,Aston Martin,ALO,59,14,82.293
+21,Brazil,Kick Sauber,ZHO,59,15,83.806
+21,Brazil,Alpine,OCO,29,1,100.823
+21,Brazil,Red Bull,VER,29,2,105.014
+21,Brazil,Alpine,GAS,29,3,102.264
+21,Brazil,Mercedes,RUS,29,4,122.979
+21,Brazil,McLaren,NOR,29,5,122.458
+21,Brazil,Racing Bulls,TSU,29,6,115.413
+21,Brazil,Ferrari,LEC,29,7,99.37
+21,Brazil,McLaren,PIA,29,8,101.078
+21,Brazil,Aston Martin,ALO,29,9,105.422
+21,Brazil,Mercedes,HAM,29,10,105.316
+21,Brazil,Racing Bulls,LAW,29,11,125.322
+21,Brazil,Kick Sauber,BOT,29,12,110.114
+21,Brazil,Ferrari,SAI,29,13,102.131
+21,Brazil,Red Bull,PER,29,14,101.662
+21,Brazil,Ferrari,BEA,29,15,103.986
+21,Brazil,Williams,COL,29,16,103.469
+21,Brazil,Kick Sauber,ZHO,29,17,138.727
+21,Brazil,Haas,HUL,29,18,127.542
+21,Brazil,Mercedes,RUS,16,1,83.984
+21,Brazil,McLaren,NOR,16,2,84.484
+21,Brazil,Racing Bulls,TSU,16,3,84.762
+21,Brazil,Alpine,OCO,16,4,85.045
+21,Brazil,Ferrari,LEC,16,5,85.249
+21,Brazil,Red Bull,VER,16,6,85.131
+21,Brazil,Racing Bulls,LAW,16,7,84.984
+21,Brazil,McLaren,PIA,16,8,84.896
+21,Brazil,Alpine,GAS,16,9,84.351
+21,Brazil,Aston Martin,ALO,16,10,88.626
+21,Brazil,Haas,HUL,16,11,85.646
+21,Brazil,Williams,COL,16,12,85.338
+21,Brazil,Mercedes,HAM,16,13,85.448
+21,Brazil,Ferrari,SAI,16,14,85.792
+21,Brazil,Ferrari,BEA,16,15,85.055
+21,Brazil,Red Bull,PER,16,16,84.469
+21,Brazil,Kick Sauber,BOT,16,17,84.896
+21,Brazil,Kick Sauber,ZHO,16,18,86.125
+21,Brazil,Alpine,OCO,38,1,84.602
+21,Brazil,Red Bull,VER,38,2,84.391
+21,Brazil,Alpine,GAS,38,3,85.236
+21,Brazil,Mercedes,RUS,38,4,84.89
+21,Brazil,McLaren,NOR,38,5,85.282
+21,Brazil,Ferrari,LEC,38,6,84.88
+21,Brazil,McLaren,PIA,38,7,85.182
+21,Brazil,Racing Bulls,TSU,38,8,85.788
+21,Brazil,Mercedes,HAM,38,9,86.37
+21,Brazil,Aston Martin,ALO,38,10,86.561
+21,Brazil,Racing Bulls,LAW,38,11,86.873
+21,Brazil,Red Bull,PER,38,12,87.244
+21,Brazil,Ferrari,SAI,38,13,86.771
+21,Brazil,Kick Sauber,BOT,38,14,87.343
+21,Brazil,Kick Sauber,ZHO,38,15,87.983
+21,Brazil,Ferrari,BEA,38,16,87.141
+21,Brazil,Alpine,OCO,37,1,85.271
+21,Brazil,Red Bull,VER,37,2,85.286
+21,Brazil,Alpine,GAS,37,3,85.284
+21,Brazil,Mercedes,RUS,37,4,85.886
+21,Brazil,McLaren,NOR,37,5,85.337
+21,Brazil,Ferrari,LEC,37,6,86.055
+21,Brazil,McLaren,PIA,37,7,86.052
+21,Brazil,Racing Bulls,TSU,37,8,86.916
+21,Brazil,Mercedes,HAM,37,9,87.526
+21,Brazil,Aston Martin,ALO,37,10,88.143
+21,Brazil,Racing Bulls,LAW,37,11,88.046
+21,Brazil,Red Bull,PER,37,12,87.886
+21,Brazil,Ferrari,SAI,37,13,87.101
+21,Brazil,Kick Sauber,BOT,37,14,88.061
+21,Brazil,Kick Sauber,ZHO,37,15,89.472
+21,Brazil,Ferrari,BEA,37,16,91.737
+21,Brazil,Red Bull,VER,43,1,85.676
+21,Brazil,Alpine,OCO,43,2,87.354
+21,Brazil,Alpine,GAS,43,3,87.53
+21,Brazil,Ferrari,LEC,43,4,88.797
+21,Brazil,Mercedes,RUS,43,5,89.684
+21,Brazil,McLaren,PIA,43,6,89.836
+21,Brazil,McLaren,NOR,43,7,91.039
+21,Brazil,Racing Bulls,TSU,43,8,91.609
+21,Brazil,Racing Bulls,LAW,43,9,90.558
+21,Brazil,Red Bull,PER,43,10,92.206
+21,Brazil,Mercedes,HAM,43,11,94.637
+21,Brazil,Ferrari,BEA,43,12,92.19
+21,Brazil,Kick Sauber,BOT,43,13,93.797
+21,Brazil,Kick Sauber,ZHO,43,14,94.48
+21,Brazil,Aston Martin,ALO,43,15,113.466
+21,Brazil,Red Bull,VER,65,1,80.99
+21,Brazil,Alpine,OCO,65,2,81.825
+21,Brazil,Alpine,GAS,65,3,81.824
+21,Brazil,Mercedes,RUS,65,4,81.851
+21,Brazil,Ferrari,LEC,65,5,81.752
+21,Brazil,McLaren,NOR,65,6,81.64
+21,Brazil,McLaren,PIA,65,7,81.84
+21,Brazil,Racing Bulls,TSU,65,8,81.955
+21,Brazil,Racing Bulls,LAW,65,9,82.515
+21,Brazil,Mercedes,HAM,65,10,82.422
+21,Brazil,Red Bull,PER,65,11,82.22
+21,Brazil,Ferrari,BEA,65,12,82.981
+21,Brazil,Kick Sauber,BOT,65,13,82.903
+21,Brazil,Aston Martin,ALO,65,14,83.676
+21,Brazil,Kick Sauber,ZHO,65,15,83.058
+21,Brazil,Mercedes,RUS,3,1,85.598
+21,Brazil,McLaren,NOR,3,2,85.402
+21,Brazil,Racing Bulls,TSU,3,3,86.018
+21,Brazil,Alpine,OCO,3,4,86.338
+21,Brazil,Ferrari,LEC,3,5,86.205
+21,Brazil,Racing Bulls,LAW,3,6,86.348
+21,Brazil,McLaren,PIA,3,7,86.233
+21,Brazil,Aston Martin,ALO,3,8,86.966
+21,Brazil,Alpine,GAS,3,9,86.668
+21,Brazil,Red Bull,VER,3,10,86.24
+21,Brazil,Mercedes,HAM,3,11,86.853
+21,Brazil,Williams,COL,3,12,87.14
+21,Brazil,Ferrari,BEA,3,13,86.798
+21,Brazil,Haas,HUL,3,14,87.18
+21,Brazil,Kick Sauber,BOT,3,15,87.735
+21,Brazil,Kick Sauber,ZHO,3,16,87.514
+21,Brazil,Ferrari,SAI,3,17,86.884
+21,Brazil,Red Bull,PER,3,18,85.891
+21,Brazil,Red Bull,VER,56,1,82.005
+21,Brazil,Alpine,OCO,56,2,82.804
+21,Brazil,Alpine,GAS,56,3,82.747
+21,Brazil,Mercedes,RUS,56,4,82.496
+21,Brazil,Ferrari,LEC,56,5,82.728
+21,Brazil,McLaren,NOR,56,6,82.985
+21,Brazil,McLaren,PIA,56,7,82.644
+21,Brazil,Racing Bulls,TSU,56,8,83.061
+21,Brazil,Racing Bulls,LAW,56,9,83.385
+21,Brazil,Mercedes,HAM,56,10,82.945
+21,Brazil,Red Bull,PER,56,11,82.757
+21,Brazil,Ferrari,BEA,56,12,83.14
+21,Brazil,Kick Sauber,BOT,56,13,83.508
+21,Brazil,Kick Sauber,ZHO,56,14,84.658
+21,Brazil,Aston Martin,ALO,56,15,84.72
+21,Brazil,Alpine,OCO,35,1,86.913
+21,Brazil,Red Bull,VER,35,2,88.006
+21,Brazil,Alpine,GAS,35,3,88.741
+21,Brazil,Mercedes,RUS,35,4,88.677
+21,Brazil,McLaren,NOR,35,5,89.337
+21,Brazil,Ferrari,LEC,35,6,89.146
+21,Brazil,McLaren,PIA,35,7,89.882
+21,Brazil,Racing Bulls,TSU,35,8,91.883
+21,Brazil,Mercedes,HAM,35,9,91.457
+21,Brazil,Aston Martin,ALO,35,10,92.61
+21,Brazil,Racing Bulls,LAW,35,11,92.634
+21,Brazil,Red Bull,PER,35,12,92.534
+21,Brazil,Ferrari,SAI,35,13,91.779
+21,Brazil,Ferrari,BEA,35,14,91.578
+21,Brazil,Kick Sauber,BOT,35,15,95.37
+21,Brazil,Kick Sauber,ZHO,35,16,95.014
+21,Brazil,Red Bull,VER,63,1,81.232
+21,Brazil,Alpine,OCO,63,2,82.02
+21,Brazil,Alpine,GAS,63,3,81.828
+21,Brazil,Mercedes,RUS,63,4,81.908
+21,Brazil,Ferrari,LEC,63,5,81.675
+21,Brazil,McLaren,NOR,63,6,81.791
+21,Brazil,McLaren,PIA,63,7,82.216
+21,Brazil,Racing Bulls,TSU,63,8,82.047
+21,Brazil,Racing Bulls,LAW,63,9,82.292
+21,Brazil,Mercedes,HAM,63,10,82.611
+21,Brazil,Red Bull,PER,63,11,82.373
+21,Brazil,Ferrari,BEA,63,12,82.837
+21,Brazil,Kick Sauber,BOT,63,13,83.015
+21,Brazil,Aston Martin,ALO,63,14,83.931
+21,Brazil,Kick Sauber,ZHO,63,15,83.453
+21,Brazil,Red Bull,VER,48,1,82.29
+21,Brazil,Alpine,OCO,48,2,82.93
+21,Brazil,Alpine,GAS,48,3,83.53
+21,Brazil,Mercedes,RUS,48,4,82.744
+21,Brazil,Ferrari,LEC,48,5,83.536
+21,Brazil,McLaren,NOR,48,6,83.99
+21,Brazil,McLaren,PIA,48,7,84.174
+21,Brazil,Racing Bulls,TSU,48,8,84.293
+21,Brazil,Racing Bulls,LAW,48,9,84.324
+21,Brazil,Red Bull,PER,48,10,83.911
+21,Brazil,Mercedes,HAM,48,11,84.246
+21,Brazil,Ferrari,BEA,48,12,83.945
+21,Brazil,Kick Sauber,BOT,48,13,84.284
+21,Brazil,Kick Sauber,ZHO,48,14,84.728
+21,Brazil,Aston Martin,ALO,48,15,83.379
+21,Brazil,Alpine,OCO,32,1,158.23
+21,Brazil,Red Bull,VER,32,2,158.629
+21,Brazil,Alpine,GAS,32,3,160.808
+21,Brazil,McLaren,NOR,32,4,159.932
+21,Brazil,Mercedes,RUS,32,5,162.892
+21,Brazil,Racing Bulls,TSU,32,6,163.084
+21,Brazil,Ferrari,LEC,32,7,163.725
+21,Brazil,McLaren,PIA,32,8,164.524
+21,Brazil,Aston Martin,ALO,32,9,161.09
+21,Brazil,Racing Bulls,LAW,32,10,158.789
+21,Brazil,Mercedes,HAM,32,11,160.982
+21,Brazil,Kick Sauber,BOT,32,12,151.847
+21,Brazil,Ferrari,SAI,32,13,154.208
+21,Brazil,Red Bull,PER,32,14,156.778
+21,Brazil,Ferrari,BEA,32,15,158.79
+21,Brazil,Kick Sauber,ZHO,32,16,1392.307
+21,Brazil,Mercedes,RUS,27,1,86.877
+21,Brazil,McLaren,NOR,27,2,86.879
+21,Brazil,Alpine,OCO,27,3,86.62
+21,Brazil,Racing Bulls,TSU,27,4,88.833
+21,Brazil,Red Bull,VER,27,5,88.393
+21,Brazil,Alpine,GAS,27,6,89.666
+21,Brazil,McLaren,PIA,27,7,96.487
+21,Brazil,Aston Martin,ALO,27,8,98.089
+21,Brazil,Racing Bulls,LAW,27,9,97.664
+21,Brazil,Ferrari,LEC,27,10,95.274
+21,Brazil,Ferrari,BEA,27,11,98.431
+21,Brazil,Mercedes,HAM,27,12,100.067
+21,Brazil,Ferrari,SAI,27,13,101.195
+21,Brazil,Red Bull,PER,27,14,102.155
+21,Brazil,Kick Sauber,BOT,27,15,100.966
+21,Brazil,Williams,COL,27,16,122.141
+21,Brazil,Kick Sauber,ZHO,27,17,108.354
+21,Brazil,Haas,HUL,27,18,230.215
+21,Brazil,Alpine,OCO,41,1,125.513
+21,Brazil,Red Bull,VER,41,2,125.095
+21,Brazil,Alpine,GAS,41,3,125.971
+21,Brazil,Mercedes,RUS,41,4,125.823
+21,Brazil,McLaren,NOR,41,5,125.139
+21,Brazil,Ferrari,LEC,41,6,125.604
+21,Brazil,McLaren,PIA,41,7,125.903
+21,Brazil,Racing Bulls,TSU,41,8,125.331
+21,Brazil,Mercedes,HAM,41,9,125.297
+21,Brazil,Aston Martin,ALO,41,10,123.546
+21,Brazil,Racing Bulls,LAW,41,11,124.355
+21,Brazil,Red Bull,PER,41,12,125.017
+21,Brazil,Kick Sauber,BOT,41,13,117.089
+21,Brazil,Kick Sauber,ZHO,41,14,110.526
+21,Brazil,Ferrari,BEA,41,15,98.426
+21,Brazil,Red Bull,VER,62,1,81.069
+21,Brazil,Alpine,OCO,62,2,82.036
+21,Brazil,Alpine,GAS,62,3,82.097
+21,Brazil,Mercedes,RUS,62,4,82.139
+21,Brazil,Ferrari,LEC,62,5,81.789
+21,Brazil,McLaren,NOR,62,6,82.541
+21,Brazil,McLaren,PIA,62,7,82.222
+21,Brazil,Racing Bulls,TSU,62,8,82.236
+21,Brazil,Racing Bulls,LAW,62,9,82.729
+21,Brazil,Mercedes,HAM,62,10,82.583
+21,Brazil,Red Bull,PER,62,11,82.892
+21,Brazil,Ferrari,BEA,62,12,82.816
+21,Brazil,Kick Sauber,BOT,62,13,83.241
+21,Brazil,Aston Martin,ALO,62,14,83.387
+21,Brazil,Kick Sauber,ZHO,62,15,83.712
+21,Brazil,Mercedes,RUS,1,1,90.516
+21,Brazil,McLaren,NOR,1,2,91.803
+21,Brazil,Racing Bulls,TSU,1,3,93.749
+21,Brazil,Alpine,OCO,1,4,94.467
+21,Brazil,Ferrari,LEC,1,5,94.968
+21,Brazil,Racing Bulls,LAW,1,6,95.992
+21,Brazil,McLaren,PIA,1,7,96.644
+21,Brazil,Aston Martin,ALO,1,8,97.318
+21,Brazil,Alpine,GAS,1,9,98.052
+21,Brazil,Mercedes,HAM,1,10,98.874
+21,Brazil,Red Bull,VER,1,11,99.161
+21,Brazil,Williams,COL,1,12,99.943
+21,Brazil,Ferrari,BEA,1,13,100.491
+21,Brazil,Haas,HUL,1,14,101.582
+21,Brazil,Kick Sauber,BOT,1,15,101.65
+21,Brazil,Kick Sauber,ZHO,1,16,102.75
+21,Brazil,Ferrari,SAI,1,17,103.434
+21,Brazil,Red Bull,PER,1,18,109.387
+21,Brazil,Mercedes,RUS,24,1,84.407
+21,Brazil,McLaren,NOR,24,2,83.982
+21,Brazil,Racing Bulls,TSU,24,3,84.617
+21,Brazil,Alpine,OCO,24,4,84.516
+21,Brazil,Red Bull,VER,24,5,84.53
+21,Brazil,Ferrari,LEC,24,6,88.997
+21,Brazil,Racing Bulls,LAW,24,7,84.757
+21,Brazil,McLaren,PIA,24,8,84.789
+21,Brazil,Alpine,GAS,24,9,84.399
+21,Brazil,Aston Martin,ALO,24,10,84.27
+21,Brazil,Haas,HUL,24,11,84.756
+21,Brazil,Ferrari,BEA,24,12,84.429
+21,Brazil,Mercedes,HAM,24,13,83.973
+21,Brazil,Williams,COL,24,14,85.116
+21,Brazil,Ferrari,SAI,24,15,85.684
+21,Brazil,Red Bull,PER,24,16,85.871
+21,Brazil,Kick Sauber,BOT,24,17,85.203
+21,Brazil,Kick Sauber,ZHO,24,18,86.086
+21,Brazil,Mercedes,RUS,26,1,85.404
+21,Brazil,McLaren,NOR,26,2,85.114
+21,Brazil,Racing Bulls,TSU,26,3,85.424
+21,Brazil,Alpine,OCO,26,4,85.47
+21,Brazil,Red Bull,VER,26,5,85.252
+21,Brazil,Alpine,GAS,26,6,85.245
+21,Brazil,McLaren,PIA,26,7,88.032
+21,Brazil,Aston Martin,ALO,26,8,86.96
+21,Brazil,Racing Bulls,LAW,26,9,92.246
+21,Brazil,Ferrari,BEA,26,10,85.027
+21,Brazil,Mercedes,HAM,26,11,84.983
+21,Brazil,Ferrari,LEC,26,12,84.479
+21,Brazil,Ferrari,SAI,26,13,86.167
+21,Brazil,Red Bull,PER,26,14,86.572
+21,Brazil,Williams,COL,26,15,89.885
+21,Brazil,Kick Sauber,BOT,26,16,87.132
+21,Brazil,Haas,HUL,26,17,106.643
+21,Brazil,Kick Sauber,ZHO,26,18,88.22
+21,Brazil,Red Bull,VER,55,1,82.291
+21,Brazil,Alpine,OCO,55,2,82.67
+21,Brazil,Alpine,GAS,55,3,82.75
+21,Brazil,Mercedes,RUS,55,4,82.527
+21,Brazil,Ferrari,LEC,55,5,82.707
+21,Brazil,McLaren,NOR,55,6,82.71
+21,Brazil,McLaren,PIA,55,7,82.521
+21,Brazil,Racing Bulls,TSU,55,8,83.118
+21,Brazil,Racing Bulls,LAW,55,9,83.697
+21,Brazil,Mercedes,HAM,55,10,83.659
+21,Brazil,Red Bull,PER,55,11,85.533
+21,Brazil,Ferrari,BEA,55,12,83.815
+21,Brazil,Kick Sauber,BOT,55,13,83.957
+21,Brazil,Kick Sauber,ZHO,55,14,84.899
+21,Brazil,Aston Martin,ALO,55,15,83.683
+21,Brazil,Mercedes,RUS,4,1,85.642
+21,Brazil,McLaren,NOR,4,2,85.165
+21,Brazil,Racing Bulls,TSU,4,3,85.425
+21,Brazil,Alpine,OCO,4,4,85.703
+21,Brazil,Ferrari,LEC,4,5,86.165
+21,Brazil,Racing Bulls,LAW,4,6,86.217
+21,Brazil,McLaren,PIA,4,7,85.913
+21,Brazil,Aston Martin,ALO,4,8,86.72
+21,Brazil,Alpine,GAS,4,9,86.864
+21,Brazil,Red Bull,VER,4,10,86.702
+21,Brazil,Mercedes,HAM,4,11,86.659
+21,Brazil,Williams,COL,4,12,87.685
+21,Brazil,Haas,HUL,4,13,87.959
+21,Brazil,Kick Sauber,BOT,4,14,87.071
+21,Brazil,Ferrari,SAI,4,15,86.54
+21,Brazil,Kick Sauber,ZHO,4,16,88.172
+21,Brazil,Ferrari,BEA,4,17,92.155
+21,Brazil,Red Bull,PER,4,18,86.274
