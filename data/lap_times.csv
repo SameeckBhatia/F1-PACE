@@ -23663,3 +23663,941 @@ round,grand_prix,constructor,driver,lap,position,time
 21,Brazil,Kick Sauber,ZHO,4,16,88.172
 21,Brazil,Ferrari,BEA,4,17,92.155
 21,Brazil,Red Bull,PER,4,18,86.274
+22,Las Vegas,Mercedes,RUS,38,1,96.407
+22,Las Vegas,Mercedes,HAM,38,2,96.148
+22,Las Vegas,Red Bull,VER,38,3,96.979
+22,Las Vegas,Ferrari,SAI,38,4,96.125
+22,Las Vegas,Ferrari,LEC,38,5,96.079
+22,Las Vegas,McLaren,NOR,38,6,96.447
+22,Las Vegas,McLaren,PIA,38,7,97.607
+22,Las Vegas,Racing Bulls,TSU,38,8,98.146
+22,Las Vegas,Haas,HUL,38,9,97.528
+22,Las Vegas,Aston Martin,ALO,38,10,97.565
+22,Las Vegas,Alpine,OCO,38,11,99.605
+22,Las Vegas,Red Bull,PER,38,12,97.542
+22,Las Vegas,Haas,MAG,38,13,99.44
+22,Las Vegas,Williams,COL,38,14,98.55
+22,Las Vegas,Racing Bulls,LAW,38,15,105.262
+22,Las Vegas,Kick Sauber,ZHO,38,16,97.515
+22,Las Vegas,Aston Martin,STR,38,17,97.955
+22,Las Vegas,Kick Sauber,BOT,38,18,97.092
+22,Las Vegas,Mercedes,RUS,40,1,96.358
+22,Las Vegas,Mercedes,HAM,40,2,95.928
+22,Las Vegas,Red Bull,VER,40,3,96.495
+22,Las Vegas,Ferrari,SAI,40,4,96.043
+22,Las Vegas,Ferrari,LEC,40,5,95.674
+22,Las Vegas,McLaren,NOR,40,6,95.843
+22,Las Vegas,McLaren,PIA,40,7,97.586
+22,Las Vegas,Racing Bulls,TSU,40,8,97.624
+22,Las Vegas,Haas,HUL,40,9,97.687
+22,Las Vegas,Aston Martin,ALO,40,10,97.174
+22,Las Vegas,Red Bull,PER,40,11,97.536
+22,Las Vegas,Haas,MAG,40,12,97.831
+22,Las Vegas,Alpine,OCO,40,13,99.823
+22,Las Vegas,Williams,COL,40,14,98.569
+22,Las Vegas,Kick Sauber,ZHO,40,15,96.913
+22,Las Vegas,Aston Martin,STR,40,16,97.473
+22,Las Vegas,Racing Bulls,LAW,40,17,98.166
+22,Las Vegas,Kick Sauber,BOT,40,18,99.608
+22,Las Vegas,Mercedes,RUS,9,1,98.751
+22,Las Vegas,Ferrari,SAI,9,2,100.512
+22,Las Vegas,Red Bull,VER,9,3,99.79
+22,Las Vegas,Alpine,GAS,9,4,101.862
+22,Las Vegas,Mercedes,HAM,9,5,100.926
+22,Las Vegas,Racing Bulls,TSU,9,6,102.418
+22,Las Vegas,Ferrari,LEC,9,7,107.546
+22,Las Vegas,McLaren,PIA,9,8,101.986
+22,Las Vegas,Haas,HUL,9,9,100.925
+22,Las Vegas,McLaren,NOR,9,10,105.24
+22,Las Vegas,Alpine,OCO,9,11,100.852
+22,Las Vegas,Kick Sauber,ZHO,9,12,100.819
+22,Las Vegas,Red Bull,PER,9,13,99.523
+22,Las Vegas,Racing Bulls,LAW,9,14,101.469
+22,Las Vegas,Haas,MAG,9,15,100.151
+22,Las Vegas,Kick Sauber,BOT,9,16,99.566
+22,Las Vegas,Williams,COL,9,17,99.574
+22,Las Vegas,Williams,ALB,9,18,104.883
+22,Las Vegas,Aston Martin,STR,9,19,105.282
+22,Las Vegas,Aston Martin,ALO,9,20,99.125
+22,Las Vegas,Mercedes,RUS,44,1,95.946
+22,Las Vegas,Mercedes,HAM,44,2,95.662
+22,Las Vegas,Ferrari,SAI,44,3,95.875
+22,Las Vegas,Red Bull,VER,44,4,96.279
+22,Las Vegas,Ferrari,LEC,44,5,96.543
+22,Las Vegas,McLaren,NOR,44,6,95.527
+22,Las Vegas,McLaren,PIA,44,7,96.598
+22,Las Vegas,Haas,HUL,44,8,96.893
+22,Las Vegas,Racing Bulls,TSU,44,9,97.976
+22,Las Vegas,Aston Martin,ALO,44,10,97.754
+22,Las Vegas,Red Bull,PER,44,11,97.037
+22,Las Vegas,Haas,MAG,44,12,97.784
+22,Las Vegas,Williams,COL,44,13,97.774
+22,Las Vegas,Kick Sauber,ZHO,44,14,97.082
+22,Las Vegas,Alpine,OCO,44,15,98.928
+22,Las Vegas,Aston Martin,STR,44,16,98.92
+22,Las Vegas,Racing Bulls,LAW,44,17,97.102
+22,Las Vegas,Kick Sauber,BOT,44,18,96.621
+22,Las Vegas,Mercedes,RUS,20,1,97.733
+22,Las Vegas,Red Bull,VER,20,2,97.846
+22,Las Vegas,Ferrari,SAI,20,3,97.774
+22,Las Vegas,Ferrari,LEC,20,4,97.295
+22,Las Vegas,Mercedes,HAM,20,5,97.275
+22,Las Vegas,McLaren,NOR,20,6,98.166
+22,Las Vegas,Racing Bulls,TSU,20,7,98.258
+22,Las Vegas,McLaren,PIA,20,8,98.301
+22,Las Vegas,Williams,ALB,20,9,98.046
+22,Las Vegas,Haas,HUL,20,10,97.634
+22,Las Vegas,Aston Martin,ALO,20,11,98.612
+22,Las Vegas,Kick Sauber,ZHO,20,12,98.775
+22,Las Vegas,Racing Bulls,LAW,20,13,99.385
+22,Las Vegas,Red Bull,PER,20,14,98.25
+22,Las Vegas,Alpine,OCO,20,15,98.495
+22,Las Vegas,Aston Martin,STR,20,16,98.424
+22,Las Vegas,Williams,COL,20,17,98.316
+22,Las Vegas,Haas,MAG,20,18,99.233
+22,Las Vegas,Kick Sauber,BOT,20,19,99.349
+22,Las Vegas,Mercedes,RUS,34,1,97.621
+22,Las Vegas,Mercedes,HAM,34,2,96.685
+22,Las Vegas,Red Bull,VER,34,3,97.484
+22,Las Vegas,Ferrari,SAI,34,4,97.146
+22,Las Vegas,Ferrari,LEC,34,5,97.081
+22,Las Vegas,McLaren,NOR,34,6,97.587
+22,Las Vegas,McLaren,PIA,34,7,97.841
+22,Las Vegas,Alpine,OCO,34,8,99.238
+22,Las Vegas,Racing Bulls,TSU,34,9,98.088
+22,Las Vegas,Racing Bulls,LAW,34,10,100.525
+22,Las Vegas,Haas,HUL,34,11,115.136
+22,Las Vegas,Kick Sauber,ZHO,34,12,104.144
+22,Las Vegas,Aston Martin,ALO,34,13,97.932
+22,Las Vegas,Haas,MAG,34,14,97.68
+22,Las Vegas,Red Bull,PER,34,15,97.262
+22,Las Vegas,Williams,COL,34,16,97.419
+22,Las Vegas,Kick Sauber,BOT,34,17,100.828
+22,Las Vegas,Aston Martin,STR,34,18,97.828
+22,Las Vegas,Mercedes,RUS,17,1,97.869
+22,Las Vegas,Red Bull,VER,17,2,98.055
+22,Las Vegas,Ferrari,SAI,17,3,97.967
+22,Las Vegas,Ferrari,LEC,17,4,99.487
+22,Las Vegas,Mercedes,HAM,17,5,99.354
+22,Las Vegas,McLaren,NOR,17,6,99.928
+22,Las Vegas,Red Bull,PER,17,7,108.327
+22,Las Vegas,Racing Bulls,TSU,17,8,98.549
+22,Las Vegas,McLaren,PIA,17,9,99.28
+22,Las Vegas,Aston Martin,ALO,17,10,100.366
+22,Las Vegas,Williams,ALB,17,11,100.51
+22,Las Vegas,Haas,HUL,17,12,98.54
+22,Las Vegas,Kick Sauber,ZHO,17,13,99.144
+22,Las Vegas,Haas,MAG,17,14,107.306
+22,Las Vegas,Racing Bulls,LAW,17,15,99.249
+22,Las Vegas,Kick Sauber,BOT,17,16,107.928
+22,Las Vegas,Alpine,OCO,17,17,98.871
+22,Las Vegas,Aston Martin,STR,17,18,98.598
+22,Las Vegas,Williams,COL,17,19,115.655
+22,Las Vegas,Mercedes,RUS,33,1,113.703
+22,Las Vegas,Mercedes,HAM,33,2,97.293
+22,Las Vegas,Red Bull,VER,33,3,97.579
+22,Las Vegas,Ferrari,SAI,33,4,97.524
+22,Las Vegas,Ferrari,LEC,33,5,98.017
+22,Las Vegas,McLaren,NOR,33,6,97.886
+22,Las Vegas,Haas,HUL,33,7,103.457
+22,Las Vegas,McLaren,PIA,33,8,98.689
+22,Las Vegas,Kick Sauber,ZHO,33,9,99.448
+22,Las Vegas,Alpine,OCO,33,10,99.436
+22,Las Vegas,Racing Bulls,LAW,33,11,99.583
+22,Las Vegas,Racing Bulls,TSU,33,12,98.044
+22,Las Vegas,Aston Martin,ALO,33,13,97.634
+22,Las Vegas,Haas,MAG,33,14,97.731
+22,Las Vegas,Red Bull,PER,33,15,114.573
+22,Las Vegas,Williams,COL,33,16,97.89
+22,Las Vegas,Kick Sauber,BOT,33,17,100.195
+22,Las Vegas,Aston Martin,STR,33,18,97.918
+22,Las Vegas,Mercedes,RUS,5,1,98.136
+22,Las Vegas,Ferrari,LEC,5,2,99.177
+22,Las Vegas,Ferrari,SAI,5,3,98.394
+22,Las Vegas,Red Bull,VER,5,4,98.472
+22,Las Vegas,Alpine,GAS,5,5,99.24
+22,Las Vegas,McLaren,NOR,5,6,99.49
+22,Las Vegas,Racing Bulls,TSU,5,7,99.366
+22,Las Vegas,McLaren,PIA,5,8,99.01
+22,Las Vegas,Haas,HUL,5,9,100.092
+22,Las Vegas,Mercedes,HAM,5,10,99.207
+22,Las Vegas,Alpine,OCO,5,11,99.388
+22,Las Vegas,Kick Sauber,ZHO,5,12,99.398
+22,Las Vegas,Racing Bulls,LAW,5,13,99.698
+22,Las Vegas,Haas,MAG,5,14,99.314
+22,Las Vegas,Red Bull,PER,5,15,99.277
+22,Las Vegas,Williams,ALB,5,16,99.537
+22,Las Vegas,Aston Martin,STR,5,17,99.447
+22,Las Vegas,Kick Sauber,BOT,5,18,99.498
+22,Las Vegas,Williams,COL,5,19,99.837
+22,Las Vegas,Aston Martin,ALO,5,20,115.61
+22,Las Vegas,Mercedes,RUS,25,1,97.724
+22,Las Vegas,Red Bull,VER,25,2,98.038
+22,Las Vegas,Ferrari,SAI,25,3,97.944
+22,Las Vegas,Ferrari,LEC,25,4,97.291
+22,Las Vegas,Mercedes,HAM,25,5,98.213
+22,Las Vegas,McLaren,NOR,25,6,98.529
+22,Las Vegas,Racing Bulls,TSU,25,7,98.985
+22,Las Vegas,Haas,HUL,25,8,98.705
+22,Las Vegas,McLaren,PIA,25,9,103.929
+22,Las Vegas,Kick Sauber,ZHO,25,10,99.8
+22,Las Vegas,Red Bull,PER,25,11,98.1
+22,Las Vegas,Racing Bulls,LAW,25,12,99.676
+22,Las Vegas,Alpine,OCO,25,13,98.825
+22,Las Vegas,Williams,ALB,25,14,109.105
+22,Las Vegas,Aston Martin,STR,25,15,99.488
+22,Las Vegas,Williams,COL,25,16,97.866
+22,Las Vegas,Aston Martin,ALO,25,17,114.074
+22,Las Vegas,Haas,MAG,25,18,99.087
+22,Las Vegas,Kick Sauber,BOT,25,19,99.697
+22,Las Vegas,Mercedes,RUS,21,1,97.359
+22,Las Vegas,Red Bull,VER,21,2,97.59
+22,Las Vegas,Ferrari,SAI,21,3,97.546
+22,Las Vegas,Ferrari,LEC,21,4,97.448
+22,Las Vegas,Mercedes,HAM,21,5,97.355
+22,Las Vegas,McLaren,NOR,21,6,98.14
+22,Las Vegas,Racing Bulls,TSU,21,7,98.387
+22,Las Vegas,McLaren,PIA,21,8,98.458
+22,Las Vegas,Williams,ALB,21,9,98.008
+22,Las Vegas,Haas,HUL,21,10,97.98
+22,Las Vegas,Aston Martin,ALO,21,11,98.989
+22,Las Vegas,Kick Sauber,ZHO,21,12,98.846
+22,Las Vegas,Racing Bulls,LAW,21,13,99.297
+22,Las Vegas,Red Bull,PER,21,14,98.109
+22,Las Vegas,Alpine,OCO,21,15,98.306
+22,Las Vegas,Aston Martin,STR,21,16,98.452
+22,Las Vegas,Williams,COL,21,17,97.978
+22,Las Vegas,Haas,MAG,21,18,99.503
+22,Las Vegas,Kick Sauber,BOT,21,19,99.342
+22,Las Vegas,Mercedes,RUS,45,1,96.057
+22,Las Vegas,Mercedes,HAM,45,2,95.988
+22,Las Vegas,Ferrari,SAI,45,3,96.34
+22,Las Vegas,Red Bull,VER,45,4,96.394
+22,Las Vegas,Ferrari,LEC,45,5,96.031
+22,Las Vegas,McLaren,NOR,45,6,96.363
+22,Las Vegas,McLaren,PIA,45,7,97.089
+22,Las Vegas,Haas,HUL,45,8,96.68
+22,Las Vegas,Racing Bulls,TSU,45,9,97.381
+22,Las Vegas,Red Bull,PER,45,10,97.396
+22,Las Vegas,Aston Martin,ALO,45,11,98.527
+22,Las Vegas,Haas,MAG,45,12,97.471
+22,Las Vegas,Williams,COL,45,13,98.056
+22,Las Vegas,Kick Sauber,ZHO,45,14,96.542
+22,Las Vegas,Aston Martin,STR,45,15,97.641
+22,Las Vegas,Alpine,OCO,45,16,103.454
+22,Las Vegas,Racing Bulls,LAW,45,17,96.98
+22,Las Vegas,Kick Sauber,BOT,45,18,96.762
+22,Las Vegas,Mercedes,RUS,28,1,97.896
+22,Las Vegas,Ferrari,LEC,28,2,98.07
+22,Las Vegas,Ferrari,SAI,28,3,103.655
+22,Las Vegas,McLaren,NOR,28,4,98.892
+22,Las Vegas,Red Bull,VER,28,5,114.746
+22,Las Vegas,Mercedes,HAM,28,6,112.902
+22,Las Vegas,Racing Bulls,TSU,28,7,99.213
+22,Las Vegas,Haas,HUL,28,8,98.986
+22,Las Vegas,Red Bull,PER,28,9,97.997
+22,Las Vegas,Kick Sauber,ZHO,28,10,99.644
+22,Las Vegas,Alpine,OCO,28,11,99.635
+22,Las Vegas,Racing Bulls,LAW,28,12,100.637
+22,Las Vegas,McLaren,PIA,28,13,98.108
+22,Las Vegas,Aston Martin,STR,28,14,106.525
+22,Las Vegas,Aston Martin,ALO,28,15,98.655
+22,Las Vegas,Haas,MAG,28,16,98.627
+22,Las Vegas,Kick Sauber,BOT,28,17,98.594
+22,Las Vegas,Williams,COL,28,18,97.959
+22,Las Vegas,Mercedes,RUS,36,1,97.021
+22,Las Vegas,Mercedes,HAM,36,2,96.288
+22,Las Vegas,Red Bull,VER,36,3,97.001
+22,Las Vegas,Ferrari,SAI,36,4,96.519
+22,Las Vegas,Ferrari,LEC,36,5,96.285
+22,Las Vegas,McLaren,NOR,36,6,96.845
+22,Las Vegas,McLaren,PIA,36,7,97.201
+22,Las Vegas,Racing Bulls,TSU,36,8,98.514
+22,Las Vegas,Haas,HUL,36,9,97.73
+22,Las Vegas,Alpine,OCO,36,10,100.334
+22,Las Vegas,Aston Martin,ALO,36,11,98.853
+22,Las Vegas,Racing Bulls,LAW,36,12,100.531
+22,Las Vegas,Haas,MAG,36,13,98.043
+22,Las Vegas,Red Bull,PER,36,14,96.983
+22,Las Vegas,Williams,COL,36,15,97.374
+22,Las Vegas,Kick Sauber,ZHO,36,16,97.95
+22,Las Vegas,Aston Martin,STR,36,17,98.606
+22,Las Vegas,Kick Sauber,BOT,36,18,117.069
+22,Las Vegas,Mercedes,RUS,49,1,97.204
+22,Las Vegas,Mercedes,HAM,49,2,97.593
+22,Las Vegas,Ferrari,SAI,49,3,96.467
+22,Las Vegas,Ferrari,LEC,49,4,96.571
+22,Las Vegas,Red Bull,VER,49,5,97.016
+22,Las Vegas,McLaren,NOR,49,6,112.312
+22,Las Vegas,McLaren,PIA,49,7,97.752
+22,Las Vegas,Haas,HUL,49,8,96.704
+22,Las Vegas,Racing Bulls,TSU,49,9,97.304
+22,Las Vegas,Red Bull,PER,49,10,96.939
+22,Las Vegas,Aston Martin,ALO,49,11,97.904
+22,Las Vegas,Haas,MAG,49,12,96.557
+22,Las Vegas,Williams,COL,49,13,97.239
+22,Las Vegas,Kick Sauber,ZHO,49,14,96.975
+22,Las Vegas,Aston Martin,STR,49,15,97.451
+22,Las Vegas,Racing Bulls,LAW,49,16,97.279
+22,Las Vegas,Alpine,OCO,49,17,97.563
+22,Las Vegas,Kick Sauber,BOT,49,18,98.738
+22,Las Vegas,Mercedes,RUS,46,1,95.717
+22,Las Vegas,Mercedes,HAM,46,2,95.877
+22,Las Vegas,Ferrari,SAI,46,3,96.139
+22,Las Vegas,Ferrari,LEC,46,4,96.333
+22,Las Vegas,Red Bull,VER,46,5,96.929
+22,Las Vegas,McLaren,NOR,46,6,96.006
+22,Las Vegas,McLaren,PIA,46,7,97.047
+22,Las Vegas,Haas,HUL,46,8,96.986
+22,Las Vegas,Racing Bulls,TSU,46,9,97.323
+22,Las Vegas,Red Bull,PER,46,10,96.95
+22,Las Vegas,Aston Martin,ALO,46,11,98.513
+22,Las Vegas,Haas,MAG,46,12,97.228
+22,Las Vegas,Williams,COL,46,13,98.007
+22,Las Vegas,Kick Sauber,ZHO,46,14,96.324
+22,Las Vegas,Aston Martin,STR,46,15,97.313
+22,Las Vegas,Racing Bulls,LAW,46,16,97.106
+22,Las Vegas,Alpine,OCO,46,17,114.485
+22,Las Vegas,Kick Sauber,BOT,46,18,96.601
+22,Las Vegas,Mercedes,RUS,41,1,96.559
+22,Las Vegas,Mercedes,HAM,41,2,95.48
+22,Las Vegas,Ferrari,SAI,41,3,96.507
+22,Las Vegas,Red Bull,VER,41,4,97.522
+22,Las Vegas,Ferrari,LEC,41,5,96.469
+22,Las Vegas,McLaren,NOR,41,6,95.983
+22,Las Vegas,McLaren,PIA,41,7,97.188
+22,Las Vegas,Racing Bulls,TSU,41,8,98.223
+22,Las Vegas,Haas,HUL,41,9,98.226
+22,Las Vegas,Aston Martin,ALO,41,10,97.681
+22,Las Vegas,Red Bull,PER,41,11,96.579
+22,Las Vegas,Haas,MAG,41,12,97.945
+22,Las Vegas,Williams,COL,41,13,98.474
+22,Las Vegas,Alpine,OCO,41,14,99.919
+22,Las Vegas,Kick Sauber,ZHO,41,15,97.003
+22,Las Vegas,Aston Martin,STR,41,16,97.47
+22,Las Vegas,Racing Bulls,LAW,41,17,97.463
+22,Las Vegas,Kick Sauber,BOT,41,18,98.3
+22,Las Vegas,Mercedes,RUS,22,1,97.556
+22,Las Vegas,Red Bull,VER,22,2,97.679
+22,Las Vegas,Ferrari,SAI,22,3,97.514
+22,Las Vegas,Ferrari,LEC,22,4,97.13
+22,Las Vegas,Mercedes,HAM,22,5,97.086
+22,Las Vegas,McLaren,NOR,22,6,98.444
+22,Las Vegas,Racing Bulls,TSU,22,7,98.831
+22,Las Vegas,McLaren,PIA,22,8,99.05
+22,Las Vegas,Haas,HUL,22,9,97.948
+22,Las Vegas,Williams,ALB,22,10,99.147
+22,Las Vegas,Aston Martin,ALO,22,11,99.515
+22,Las Vegas,Kick Sauber,ZHO,22,12,98.846
+22,Las Vegas,Racing Bulls,LAW,22,13,99.694
+22,Las Vegas,Red Bull,PER,22,14,98.112
+22,Las Vegas,Alpine,OCO,22,15,98.673
+22,Las Vegas,Aston Martin,STR,22,16,98.545
+22,Las Vegas,Williams,COL,22,17,98.175
+22,Las Vegas,Haas,MAG,22,18,99.03
+22,Las Vegas,Kick Sauber,BOT,22,19,99.177
+22,Las Vegas,Mercedes,RUS,6,1,98.33
+22,Las Vegas,Ferrari,LEC,6,2,98.652
+22,Las Vegas,Ferrari,SAI,6,3,98.708
+22,Las Vegas,Red Bull,VER,6,4,98.661
+22,Las Vegas,Alpine,GAS,6,5,99.408
+22,Las Vegas,McLaren,NOR,6,6,98.848
+22,Las Vegas,Racing Bulls,TSU,6,7,99.428
+22,Las Vegas,McLaren,PIA,6,8,99.097
+22,Las Vegas,Mercedes,HAM,6,9,98.648
+22,Las Vegas,Haas,HUL,6,10,100.615
+22,Las Vegas,Alpine,OCO,6,11,99.597
+22,Las Vegas,Kick Sauber,ZHO,6,12,99.769
+22,Las Vegas,Racing Bulls,LAW,6,13,99.71
+22,Las Vegas,Haas,MAG,6,14,98.923
+22,Las Vegas,Red Bull,PER,6,15,98.985
+22,Las Vegas,Williams,ALB,6,16,98.803
+22,Las Vegas,Aston Martin,STR,6,17,99.006
+22,Las Vegas,Kick Sauber,BOT,6,18,99.75
+22,Las Vegas,Williams,COL,6,19,99.204
+22,Las Vegas,Aston Martin,ALO,6,20,99.777
+22,Las Vegas,Mercedes,RUS,30,1,97.544
+22,Las Vegas,Ferrari,LEC,30,2,98.458
+22,Las Vegas,Red Bull,VER,30,3,97.549
+22,Las Vegas,McLaren,NOR,30,4,104.646
+22,Las Vegas,Mercedes,HAM,30,5,96.748
+22,Las Vegas,Ferrari,SAI,30,6,97.353
+22,Las Vegas,Haas,HUL,30,7,98.817
+22,Las Vegas,Red Bull,PER,30,8,98.317
+22,Las Vegas,Kick Sauber,ZHO,30,9,99.663
+22,Las Vegas,Alpine,OCO,30,10,99.029
+22,Las Vegas,McLaren,PIA,30,11,98.11
+22,Las Vegas,Racing Bulls,LAW,30,12,99.243
+22,Las Vegas,Racing Bulls,TSU,30,13,115.356
+22,Las Vegas,Aston Martin,ALO,30,14,97.818
+22,Las Vegas,Haas,MAG,30,15,98.261
+22,Las Vegas,Kick Sauber,BOT,30,16,99.452
+22,Las Vegas,Williams,COL,30,17,98.219
+22,Las Vegas,Aston Martin,STR,30,18,98.748
+22,Las Vegas,Mercedes,RUS,23,1,97.73
+22,Las Vegas,Red Bull,VER,23,2,97.524
+22,Las Vegas,Ferrari,SAI,23,3,97.477
+22,Las Vegas,Ferrari,LEC,23,4,97.177
+22,Las Vegas,Mercedes,HAM,23,5,97.121
+22,Las Vegas,McLaren,NOR,23,6,98.283
+22,Las Vegas,Racing Bulls,TSU,23,7,98.925
+22,Las Vegas,McLaren,PIA,23,8,98.849
+22,Las Vegas,Haas,HUL,23,9,98.264
+22,Las Vegas,Williams,ALB,23,10,99.713
+22,Las Vegas,Kick Sauber,ZHO,23,11,99.691
+22,Las Vegas,Aston Martin,ALO,23,12,101.065
+22,Las Vegas,Racing Bulls,LAW,23,13,99.04
+22,Las Vegas,Red Bull,PER,23,14,98.007
+22,Las Vegas,Alpine,OCO,23,15,98.435
+22,Las Vegas,Aston Martin,STR,23,16,98.614
+22,Las Vegas,Williams,COL,23,17,98.095
+22,Las Vegas,Haas,MAG,23,18,99.182
+22,Las Vegas,Kick Sauber,BOT,23,19,99.193
+22,Las Vegas,Mercedes,HAM,13,1,103.19
+22,Las Vegas,Mercedes,RUS,13,2,114.754
+22,Las Vegas,Red Bull,PER,13,3,100.107
+22,Las Vegas,Haas,HUL,13,4,101.171
+22,Las Vegas,Red Bull,VER,13,5,98.307
+22,Las Vegas,Ferrari,SAI,13,6,99.627
+22,Las Vegas,Ferrari,LEC,13,7,99.948
+22,Las Vegas,Haas,MAG,13,8,102.195
+22,Las Vegas,McLaren,NOR,13,9,100.365
+22,Las Vegas,Kick Sauber,BOT,13,10,102.69
+22,Las Vegas,Williams,COL,13,11,102.309
+22,Las Vegas,Racing Bulls,TSU,13,12,98.304
+22,Las Vegas,Alpine,GAS,13,13,98.314
+22,Las Vegas,Aston Martin,ALO,13,14,98.437
+22,Las Vegas,McLaren,PIA,13,15,97.942
+22,Las Vegas,Williams,ALB,13,16,98.6
+22,Las Vegas,Kick Sauber,ZHO,13,17,99.928
+22,Las Vegas,Racing Bulls,LAW,13,18,100.237
+22,Las Vegas,Alpine,OCO,13,19,116.03
+22,Las Vegas,Aston Martin,STR,13,20,99.89
+22,Las Vegas,Mercedes,RUS,18,1,97.964
+22,Las Vegas,Red Bull,VER,18,2,97.956
+22,Las Vegas,Ferrari,SAI,18,3,98.076
+22,Las Vegas,Ferrari,LEC,18,4,98.251
+22,Las Vegas,Mercedes,HAM,18,5,97.668
+22,Las Vegas,McLaren,NOR,18,6,98.152
+22,Las Vegas,Racing Bulls,TSU,18,7,98.576
+22,Las Vegas,McLaren,PIA,18,8,98.127
+22,Las Vegas,Williams,ALB,18,9,98.525
+22,Las Vegas,Aston Martin,ALO,18,10,99.432
+22,Las Vegas,Haas,HUL,18,11,98.481
+22,Las Vegas,Kick Sauber,ZHO,18,12,98.902
+22,Las Vegas,Racing Bulls,LAW,18,13,99.416
+22,Las Vegas,Red Bull,PER,18,14,116.44
+22,Las Vegas,Alpine,OCO,18,15,98.766
+22,Las Vegas,Aston Martin,STR,18,16,98.688
+22,Las Vegas,Williams,COL,18,17,99.217
+22,Las Vegas,Haas,MAG,18,18,117.747
+22,Las Vegas,Kick Sauber,BOT,18,19,115.486
+22,Las Vegas,Mercedes,RUS,1,1,103.267
+22,Las Vegas,Ferrari,LEC,1,2,103.882
+22,Las Vegas,Ferrari,SAI,1,3,104.812
+22,Las Vegas,Alpine,GAS,1,4,105.33
+22,Las Vegas,Red Bull,VER,1,5,105.917
+22,Las Vegas,McLaren,NOR,1,6,106.792
+22,Las Vegas,Racing Bulls,TSU,1,7,107.34
+22,Las Vegas,McLaren,PIA,1,8,108.433
+22,Las Vegas,Haas,HUL,1,9,108.675
+22,Las Vegas,Mercedes,HAM,1,10,109.116
+22,Las Vegas,Alpine,OCO,1,11,110.001
+22,Las Vegas,Kick Sauber,ZHO,1,12,110.678
+22,Las Vegas,Racing Bulls,LAW,1,13,112.392
+22,Las Vegas,Haas,MAG,1,14,112.614
+22,Las Vegas,Aston Martin,ALO,1,15,112.823
+22,Las Vegas,Williams,ALB,1,16,113.147
+22,Las Vegas,Red Bull,PER,1,17,113.292
+22,Las Vegas,Aston Martin,STR,1,18,113.727
+22,Las Vegas,Kick Sauber,BOT,1,19,114.609
+22,Las Vegas,Williams,COL,1,20,115.624
+22,Las Vegas,Mercedes,RUS,27,1,97.609
+22,Las Vegas,Ferrari,LEC,27,2,98.698
+22,Las Vegas,Red Bull,VER,27,3,103.108
+22,Las Vegas,Ferrari,SAI,27,4,101.611
+22,Las Vegas,Mercedes,HAM,27,5,103.83
+22,Las Vegas,McLaren,NOR,27,6,98.795
+22,Las Vegas,Racing Bulls,TSU,27,7,98.827
+22,Las Vegas,Haas,HUL,27,8,98.706
+22,Las Vegas,Red Bull,PER,27,9,98.36
+22,Las Vegas,Kick Sauber,ZHO,27,10,99.643
+22,Las Vegas,Racing Bulls,LAW,27,11,99.98
+22,Las Vegas,Alpine,OCO,27,12,99.589
+22,Las Vegas,Aston Martin,STR,27,13,99.778
+22,Las Vegas,McLaren,PIA,27,14,97.906
+22,Las Vegas,Aston Martin,ALO,27,15,98.422
+22,Las Vegas,Haas,MAG,27,16,99.412
+22,Las Vegas,Kick Sauber,BOT,27,17,98.676
+22,Las Vegas,Williams,COL,27,18,112.302
+22,Las Vegas,Mercedes,RUS,39,1,96.275
+22,Las Vegas,Mercedes,HAM,39,2,95.88
+22,Las Vegas,Red Bull,VER,39,3,96.344
+22,Las Vegas,Ferrari,SAI,39,4,96.196
+22,Las Vegas,Ferrari,LEC,39,5,96.102
+22,Las Vegas,McLaren,NOR,39,6,96.237
+22,Las Vegas,McLaren,PIA,39,7,97.144
+22,Las Vegas,Racing Bulls,TSU,39,8,97.802
+22,Las Vegas,Haas,HUL,39,9,97.228
+22,Las Vegas,Aston Martin,ALO,39,10,96.553
+22,Las Vegas,Red Bull,PER,39,11,98.613
+22,Las Vegas,Alpine,OCO,39,12,99.576
+22,Las Vegas,Haas,MAG,39,13,97.857
+22,Las Vegas,Williams,COL,39,14,97.974
+22,Las Vegas,Kick Sauber,ZHO,39,15,97.189
+22,Las Vegas,Aston Martin,STR,39,16,98.027
+22,Las Vegas,Racing Bulls,LAW,39,17,114.487
+22,Las Vegas,Kick Sauber,BOT,39,18,96.89
+22,Las Vegas,Mercedes,RUS,14,1,98.296
+22,Las Vegas,Red Bull,PER,14,2,100.897
+22,Las Vegas,Red Bull,VER,14,3,98.376
+22,Las Vegas,Ferrari,SAI,14,4,97.921
+22,Las Vegas,Haas,HUL,14,5,106.441
+22,Las Vegas,Ferrari,LEC,14,6,98.893
+22,Las Vegas,McLaren,NOR,14,7,99.798
+22,Las Vegas,Mercedes,HAM,14,8,114.928
+22,Las Vegas,Haas,MAG,14,9,102.439
+22,Las Vegas,Kick Sauber,BOT,14,10,102.256
+22,Las Vegas,Williams,COL,14,11,102.135
+22,Las Vegas,Racing Bulls,TSU,14,12,100.19
+22,Las Vegas,Alpine,GAS,14,13,100.248
+22,Las Vegas,Aston Martin,ALO,14,14,99.368
+22,Las Vegas,McLaren,PIA,14,15,98.85
+22,Las Vegas,Williams,ALB,14,16,98.768
+22,Las Vegas,Kick Sauber,ZHO,14,17,99.349
+22,Las Vegas,Racing Bulls,LAW,14,18,99.219
+22,Las Vegas,Alpine,OCO,14,19,98.931
+22,Las Vegas,Aston Martin,STR,14,20,99.287
+22,Las Vegas,Mercedes,RUS,50,1,97.867
+22,Las Vegas,Mercedes,HAM,50,2,98.117
+22,Las Vegas,Ferrari,SAI,50,3,96.759
+22,Las Vegas,Ferrari,LEC,50,4,97.218
+22,Las Vegas,Red Bull,VER,50,5,97.21
+22,Las Vegas,McLaren,NOR,50,6,94.876
+22,Las Vegas,McLaren,PIA,50,7,98.272
+22,Las Vegas,Haas,HUL,50,8,97.575
+22,Las Vegas,Racing Bulls,TSU,50,9,98.064
+22,Las Vegas,Red Bull,PER,50,10,98.017
+22,Las Vegas,Aston Martin,ALO,50,11,97.98
+22,Las Vegas,Haas,MAG,50,12,97.305
+22,Las Vegas,Kick Sauber,ZHO,50,13,98.399
+22,Las Vegas,Williams,COL,50,14,99.731
+22,Las Vegas,Aston Martin,STR,50,15,97.939
+22,Las Vegas,Racing Bulls,LAW,50,16,97.519
+22,Las Vegas,Mercedes,RUS,29,1,97.556
+22,Las Vegas,Ferrari,LEC,29,2,97.95
+22,Las Vegas,McLaren,NOR,29,3,99.05
+22,Las Vegas,Red Bull,VER,29,4,97.386
+22,Las Vegas,Mercedes,HAM,29,5,96.951
+22,Las Vegas,Ferrari,SAI,29,6,113.088
+22,Las Vegas,Haas,HUL,29,7,99.469
+22,Las Vegas,Racing Bulls,TSU,29,8,104.582
+22,Las Vegas,Red Bull,PER,29,9,97.883
+22,Las Vegas,Kick Sauber,ZHO,29,10,99.313
+22,Las Vegas,Alpine,OCO,29,11,98.9
+22,Las Vegas,Racing Bulls,LAW,29,12,98.861
+22,Las Vegas,McLaren,PIA,29,13,97.582
+22,Las Vegas,Aston Martin,ALO,29,14,98.034
+22,Las Vegas,Haas,MAG,29,15,98.43
+22,Las Vegas,Kick Sauber,BOT,29,16,98.756
+22,Las Vegas,Williams,COL,29,17,98.333
+22,Las Vegas,Aston Martin,STR,29,18,115.15
+22,Las Vegas,Mercedes,RUS,16,1,97.913
+22,Las Vegas,Red Bull,VER,16,2,98.563
+22,Las Vegas,Ferrari,SAI,16,3,98.868
+22,Las Vegas,Red Bull,PER,16,4,100.939
+22,Las Vegas,Ferrari,LEC,16,5,98.316
+22,Las Vegas,Mercedes,HAM,16,6,97.091
+22,Las Vegas,McLaren,NOR,16,7,98.165
+22,Las Vegas,Racing Bulls,TSU,16,8,100.708
+22,Las Vegas,Haas,MAG,16,9,101.85
+22,Las Vegas,McLaren,PIA,16,10,99.691
+22,Las Vegas,Kick Sauber,BOT,16,11,103.358
+22,Las Vegas,Aston Martin,ALO,16,12,101.595
+22,Las Vegas,Williams,ALB,16,13,99.506
+22,Las Vegas,Williams,COL,16,14,106.201
+22,Las Vegas,Haas,HUL,16,15,98.986
+22,Las Vegas,Kick Sauber,ZHO,16,16,99.212
+22,Las Vegas,Racing Bulls,LAW,16,17,98.939
+22,Las Vegas,Alpine,OCO,16,18,98.955
+22,Las Vegas,Aston Martin,STR,16,19,99.039
+22,Las Vegas,Mercedes,RUS,3,1,98.864
+22,Las Vegas,Ferrari,LEC,3,2,98.329
+22,Las Vegas,Ferrari,SAI,3,3,98.581
+22,Las Vegas,Alpine,GAS,3,4,99.234
+22,Las Vegas,Red Bull,VER,3,5,99.345
+22,Las Vegas,McLaren,NOR,3,6,99.197
+22,Las Vegas,Racing Bulls,TSU,3,7,99.407
+22,Las Vegas,Haas,HUL,3,8,99.073
+22,Las Vegas,McLaren,PIA,3,9,99.144
+22,Las Vegas,Mercedes,HAM,3,10,99.403
+22,Las Vegas,Alpine,OCO,3,11,99.585
+22,Las Vegas,Kick Sauber,ZHO,3,12,99.399
+22,Las Vegas,Racing Bulls,LAW,3,13,99.729
+22,Las Vegas,Aston Martin,ALO,3,14,100.165
+22,Las Vegas,Haas,MAG,3,15,100.169
+22,Las Vegas,Red Bull,PER,3,16,100.45
+22,Las Vegas,Williams,ALB,3,17,100.535
+22,Las Vegas,Aston Martin,STR,3,18,100.483
+22,Las Vegas,Kick Sauber,BOT,3,19,100.669
+22,Las Vegas,Williams,COL,3,20,101.198
+22,Las Vegas,Mercedes,RUS,47,1,96.36
+22,Las Vegas,Mercedes,HAM,47,2,97.086
+22,Las Vegas,Ferrari,SAI,47,3,95.88
+22,Las Vegas,Ferrari,LEC,47,4,96.054
+22,Las Vegas,Red Bull,VER,47,5,96.736
+22,Las Vegas,McLaren,NOR,47,6,96.445
+22,Las Vegas,McLaren,PIA,47,7,97.122
+22,Las Vegas,Haas,HUL,47,8,96.994
+22,Las Vegas,Racing Bulls,TSU,47,9,97.028
+22,Las Vegas,Red Bull,PER,47,10,96.473
+22,Las Vegas,Aston Martin,ALO,47,11,98.136
+22,Las Vegas,Haas,MAG,47,12,96.775
+22,Las Vegas,Williams,COL,47,13,97.018
+22,Las Vegas,Kick Sauber,ZHO,47,14,96.36
+22,Las Vegas,Aston Martin,STR,47,15,97.239
+22,Las Vegas,Racing Bulls,LAW,47,16,97.288
+22,Las Vegas,Alpine,OCO,47,17,96.511
+22,Las Vegas,Kick Sauber,BOT,47,18,96.728
+22,Las Vegas,Mercedes,RUS,11,1,98.689
+22,Las Vegas,Red Bull,VER,11,2,104.351
+22,Las Vegas,Mercedes,HAM,11,3,99.007
+22,Las Vegas,Haas,HUL,11,4,100.865
+22,Las Vegas,Red Bull,PER,11,5,100.706
+22,Las Vegas,Alpine,OCO,11,6,105.832
+22,Las Vegas,Haas,MAG,11,7,101.267
+22,Las Vegas,Kick Sauber,BOT,11,8,100.916
+22,Las Vegas,Kick Sauber,ZHO,11,9,106.469
+22,Las Vegas,Williams,COL,11,10,100.973
+22,Las Vegas,Ferrari,SAI,11,11,114.659
+22,Las Vegas,Ferrari,LEC,11,12,98.818
+22,Las Vegas,Racing Bulls,LAW,11,13,106.707
+22,Las Vegas,McLaren,NOR,11,14,97.795
+22,Las Vegas,Racing Bulls,TSU,11,15,115.855
+22,Las Vegas,Alpine,GAS,11,16,116.714
+22,Las Vegas,Aston Martin,ALO,11,17,98.578
+22,Las Vegas,McLaren,PIA,11,18,121.018
+22,Las Vegas,Williams,ALB,11,19,99.066
+22,Las Vegas,Aston Martin,STR,11,20,98.691
+22,Las Vegas,Mercedes,RUS,48,1,96.663
+22,Las Vegas,Mercedes,HAM,48,2,97.457
+22,Las Vegas,Ferrari,SAI,48,3,96.015
+22,Las Vegas,Ferrari,LEC,48,4,96.065
+22,Las Vegas,Red Bull,VER,48,5,96.922
+22,Las Vegas,McLaren,NOR,48,6,100.9
+22,Las Vegas,McLaren,PIA,48,7,97.847
+22,Las Vegas,Haas,HUL,48,8,96.585
+22,Las Vegas,Racing Bulls,TSU,48,9,96.957
+22,Las Vegas,Red Bull,PER,48,10,96.716
+22,Las Vegas,Aston Martin,ALO,48,11,98.338
+22,Las Vegas,Haas,MAG,48,12,96.816
+22,Las Vegas,Williams,COL,48,13,97.02
+22,Las Vegas,Kick Sauber,ZHO,48,14,96.609
+22,Las Vegas,Aston Martin,STR,48,15,97.388
+22,Las Vegas,Racing Bulls,LAW,48,16,97.033
+22,Las Vegas,Alpine,OCO,48,17,96.649
+22,Las Vegas,Kick Sauber,BOT,48,18,98.301
+22,Las Vegas,Mercedes,RUS,26,1,97.467
+22,Las Vegas,Red Bull,VER,26,2,98.362
+22,Las Vegas,Ferrari,SAI,26,3,98.321
+22,Las Vegas,Ferrari,LEC,26,4,97.933
+22,Las Vegas,Mercedes,HAM,26,5,97.055
+22,Las Vegas,McLaren,NOR,26,6,98.819
+22,Las Vegas,Racing Bulls,TSU,26,7,98.932
+22,Las Vegas,Haas,HUL,26,8,98.539
+22,Las Vegas,Red Bull,PER,26,9,97.931
+22,Las Vegas,Kick Sauber,ZHO,26,10,100.098
+22,Las Vegas,Racing Bulls,LAW,26,11,98.737
+22,Las Vegas,Alpine,OCO,26,12,98.271
+22,Las Vegas,Aston Martin,STR,26,13,99.384
+22,Las Vegas,McLaren,PIA,26,14,114.146
+22,Las Vegas,Williams,COL,26,15,102.724
+22,Las Vegas,Aston Martin,ALO,26,16,97.924
+22,Las Vegas,Haas,MAG,26,17,98.295
+22,Las Vegas,Kick Sauber,BOT,26,18,98.693
+22,Las Vegas,Mercedes,RUS,43,1,95.951
+22,Las Vegas,Mercedes,HAM,43,2,95.863
+22,Las Vegas,Ferrari,SAI,43,3,96.302
+22,Las Vegas,Red Bull,VER,43,4,96.248
+22,Las Vegas,Ferrari,LEC,43,5,96.055
+22,Las Vegas,McLaren,NOR,43,6,95.876
+22,Las Vegas,McLaren,PIA,43,7,97.097
+22,Las Vegas,Racing Bulls,TSU,43,8,97.478
+22,Las Vegas,Haas,HUL,43,9,97.556
+22,Las Vegas,Aston Martin,ALO,43,10,97.775
+22,Las Vegas,Red Bull,PER,43,11,96.491
+22,Las Vegas,Haas,MAG,43,12,97.881
+22,Las Vegas,Williams,COL,43,13,96.929
+22,Las Vegas,Alpine,OCO,43,14,98.783
+22,Las Vegas,Kick Sauber,ZHO,43,15,96.766
+22,Las Vegas,Aston Martin,STR,43,16,97.179
+22,Las Vegas,Racing Bulls,LAW,43,17,97.195
+22,Las Vegas,Kick Sauber,BOT,43,18,97.062
+22,Las Vegas,Mercedes,RUS,32,1,102.229
+22,Las Vegas,Mercedes,HAM,32,2,96.96
+22,Las Vegas,Red Bull,VER,32,3,97.714
+22,Las Vegas,Ferrari,SAI,32,4,97.397
+22,Las Vegas,Ferrari,LEC,32,5,115.014
+22,Las Vegas,Haas,HUL,32,6,98.741
+22,Las Vegas,McLaren,NOR,32,7,97.649
+22,Las Vegas,Red Bull,PER,32,8,103.652
+22,Las Vegas,McLaren,PIA,32,9,98.495
+22,Las Vegas,Kick Sauber,ZHO,32,10,100.016
+22,Las Vegas,Alpine,OCO,32,11,99.182
+22,Las Vegas,Racing Bulls,LAW,32,12,99.134
+22,Las Vegas,Racing Bulls,TSU,32,13,98.174
+22,Las Vegas,Aston Martin,ALO,32,14,97.531
+22,Las Vegas,Haas,MAG,32,15,97.948
+22,Las Vegas,Williams,COL,32,16,98.901
+22,Las Vegas,Kick Sauber,BOT,32,17,100.589
+22,Las Vegas,Aston Martin,STR,32,18,97.893
+22,Las Vegas,Mercedes,RUS,2,1,99.077
+22,Las Vegas,Ferrari,LEC,2,2,99.333
+22,Las Vegas,Ferrari,SAI,2,3,99.466
+22,Las Vegas,Alpine,GAS,2,4,99.956
+22,Las Vegas,Red Bull,VER,2,5,99.861
+22,Las Vegas,McLaren,NOR,2,6,99.907
+22,Las Vegas,Racing Bulls,TSU,2,7,100.026
+22,Las Vegas,Haas,HUL,2,8,99.76
+22,Las Vegas,McLaren,PIA,2,9,100.495
+22,Las Vegas,Mercedes,HAM,2,10,100.033
+22,Las Vegas,Alpine,OCO,2,11,100.137
+22,Las Vegas,Kick Sauber,ZHO,2,12,100.366
+22,Las Vegas,Racing Bulls,LAW,2,13,100.447
+22,Las Vegas,Aston Martin,ALO,2,14,100.592
+22,Las Vegas,Haas,MAG,2,15,102.38
+22,Las Vegas,Red Bull,PER,2,16,102.106
+22,Las Vegas,Williams,ALB,2,17,102.776
+22,Las Vegas,Aston Martin,STR,2,18,102.752
+22,Las Vegas,Kick Sauber,BOT,2,19,102.556
+22,Las Vegas,Williams,COL,2,20,102.181
+22,Las Vegas,Mercedes,RUS,7,1,98.498
+22,Las Vegas,Ferrari,SAI,7,2,99.042
+22,Las Vegas,Ferrari,LEC,7,3,100.006
+22,Las Vegas,Red Bull,VER,7,4,98.906
+22,Las Vegas,Alpine,GAS,7,5,99.668
+22,Las Vegas,McLaren,NOR,7,6,99.716
+22,Las Vegas,Racing Bulls,TSU,7,7,99.507
+22,Las Vegas,McLaren,PIA,7,8,100.118
+22,Las Vegas,Mercedes,HAM,7,9,100.235
+22,Las Vegas,Haas,HUL,7,10,99.687
+22,Las Vegas,Alpine,OCO,7,11,99.898
+22,Las Vegas,Kick Sauber,ZHO,7,12,99.911
+22,Las Vegas,Racing Bulls,LAW,7,13,99.404
+22,Las Vegas,Red Bull,PER,7,14,99.368
+22,Las Vegas,Haas,MAG,7,15,100.623
+22,Las Vegas,Williams,ALB,7,16,99.597
+22,Las Vegas,Aston Martin,STR,7,17,99.302
+22,Las Vegas,Kick Sauber,BOT,7,18,99.581
+22,Las Vegas,Williams,COL,7,19,100.57
+22,Las Vegas,Aston Martin,ALO,7,20,99.233
+22,Las Vegas,Mercedes,RUS,10,1,98.681
+22,Las Vegas,Red Bull,VER,10,2,100.064
+22,Las Vegas,Ferrari,SAI,10,3,106.562
+22,Las Vegas,Mercedes,HAM,10,4,100.2
+22,Las Vegas,Haas,HUL,10,5,100.934
+22,Las Vegas,Alpine,OCO,10,6,101.095
+22,Las Vegas,Kick Sauber,ZHO,10,7,101.281
+22,Las Vegas,Red Bull,PER,10,8,99.229
+22,Las Vegas,Alpine,GAS,10,9,106.263
+22,Las Vegas,Racing Bulls,TSU,10,10,105.973
+22,Las Vegas,McLaren,PIA,10,11,105.43
+22,Las Vegas,Racing Bulls,LAW,10,12,100.967
+22,Las Vegas,Haas,MAG,10,13,101.368
+22,Las Vegas,Kick Sauber,BOT,10,14,99.756
+22,Las Vegas,Williams,COL,10,15,99.335
+22,Las Vegas,Ferrari,LEC,10,16,114.299
+22,Las Vegas,McLaren,NOR,10,17,114.247
+22,Las Vegas,Aston Martin,ALO,10,18,98.935
+22,Las Vegas,Williams,ALB,10,19,116.773
+22,Las Vegas,Aston Martin,STR,10,20,129.226
+22,Las Vegas,Mercedes,RUS,8,1,98.353
+22,Las Vegas,Ferrari,SAI,8,2,99.584
+22,Las Vegas,Red Bull,VER,8,3,99.047
+22,Las Vegas,Ferrari,LEC,8,4,101.841
+22,Las Vegas,McLaren,NOR,8,5,100.573
+22,Las Vegas,Alpine,GAS,8,6,101.258
+22,Las Vegas,Racing Bulls,TSU,8,7,99.973
+22,Las Vegas,Mercedes,HAM,8,8,99.095
+22,Las Vegas,McLaren,PIA,8,9,100.351
+22,Las Vegas,Haas,HUL,8,10,100.577
+22,Las Vegas,Alpine,OCO,8,11,100.498
+22,Las Vegas,Kick Sauber,ZHO,8,12,100.168
+22,Las Vegas,Racing Bulls,LAW,8,13,100.095
+22,Las Vegas,Red Bull,PER,8,14,98.882
+22,Las Vegas,Haas,MAG,8,15,99.595
+22,Las Vegas,Williams,ALB,8,16,99.714
+22,Las Vegas,Aston Martin,STR,8,17,100.168
+22,Las Vegas,Kick Sauber,BOT,8,18,99.93
+22,Las Vegas,Williams,COL,8,19,99.397
+22,Las Vegas,Aston Martin,ALO,8,20,99.614
+22,Las Vegas,Mercedes,RUS,35,1,97.246
+22,Las Vegas,Mercedes,HAM,35,2,96.397
+22,Las Vegas,Red Bull,VER,35,3,97.243
+22,Las Vegas,Ferrari,SAI,35,4,96.641
+22,Las Vegas,Ferrari,LEC,35,5,96.481
+22,Las Vegas,McLaren,NOR,35,6,97.355
+22,Las Vegas,McLaren,PIA,35,7,97.431
+22,Las Vegas,Racing Bulls,TSU,35,8,98.173
+22,Las Vegas,Alpine,OCO,35,9,99.64
+22,Las Vegas,Racing Bulls,LAW,35,10,99.045
+22,Las Vegas,Haas,HUL,35,11,98.045
+22,Las Vegas,Aston Martin,ALO,35,12,97.883
+22,Las Vegas,Haas,MAG,35,13,97.371
+22,Las Vegas,Red Bull,PER,35,14,97.112
+22,Las Vegas,Williams,COL,35,15,96.981
+22,Las Vegas,Kick Sauber,ZHO,35,16,115.582
+22,Las Vegas,Aston Martin,STR,35,17,99.434
+22,Las Vegas,Kick Sauber,BOT,35,18,107.595
+22,Las Vegas,Mercedes,RUS,4,1,98.748
+22,Las Vegas,Ferrari,LEC,4,2,98.501
+22,Las Vegas,Ferrari,SAI,4,3,98.537
+22,Las Vegas,Red Bull,VER,4,4,98.713
+22,Las Vegas,Alpine,GAS,4,5,99.635
+22,Las Vegas,McLaren,NOR,4,6,99.094
+22,Las Vegas,Racing Bulls,TSU,4,7,99.071
+22,Las Vegas,Haas,HUL,4,8,98.998
+22,Las Vegas,McLaren,PIA,4,9,99.226
+22,Las Vegas,Mercedes,HAM,4,10,99.157
+22,Las Vegas,Alpine,OCO,4,11,99.367
+22,Las Vegas,Kick Sauber,ZHO,4,12,99.307
+22,Las Vegas,Racing Bulls,LAW,4,13,99.839
+22,Las Vegas,Haas,MAG,4,14,100.422
+22,Las Vegas,Red Bull,PER,4,15,100.282
+22,Las Vegas,Williams,ALB,4,16,100.351
+22,Las Vegas,Aston Martin,STR,4,17,100.502
+22,Las Vegas,Kick Sauber,BOT,4,18,100.459
+22,Las Vegas,Aston Martin,ALO,4,19,105.129
+22,Las Vegas,Williams,COL,4,20,99.852
+22,Las Vegas,Mercedes,RUS,19,1,98.003
+22,Las Vegas,Red Bull,VER,19,2,97.678
+22,Las Vegas,Ferrari,SAI,19,3,97.763
+22,Las Vegas,Ferrari,LEC,19,4,97.978
+22,Las Vegas,Mercedes,HAM,19,5,98.14
+22,Las Vegas,McLaren,NOR,19,6,98.232
+22,Las Vegas,Racing Bulls,TSU,19,7,98.49
+22,Las Vegas,McLaren,PIA,19,8,98.439
+22,Las Vegas,Williams,ALB,19,9,98.66
+22,Las Vegas,Haas,HUL,19,10,98.372
+22,Las Vegas,Aston Martin,ALO,19,11,99.761
+22,Las Vegas,Kick Sauber,ZHO,19,12,98.981
+22,Las Vegas,Racing Bulls,LAW,19,13,99.226
+22,Las Vegas,Red Bull,PER,19,14,98.953
+22,Las Vegas,Alpine,OCO,19,15,98.629
+22,Las Vegas,Aston Martin,STR,19,16,98.562
+22,Las Vegas,Williams,COL,19,17,98.805
+22,Las Vegas,Haas,MAG,19,18,99.918
+22,Las Vegas,Kick Sauber,BOT,19,19,99.697
+22,Las Vegas,Mercedes,RUS,37,1,96.844
+22,Las Vegas,Mercedes,HAM,37,2,96.177
+22,Las Vegas,Red Bull,VER,37,3,96.72
+22,Las Vegas,Ferrari,SAI,37,4,96.509
+22,Las Vegas,Ferrari,LEC,37,5,96.177
+22,Las Vegas,McLaren,NOR,37,6,96.473
+22,Las Vegas,McLaren,PIA,37,7,96.74
+22,Las Vegas,Racing Bulls,TSU,37,8,97.6
+22,Las Vegas,Haas,HUL,37,9,97.526
+22,Las Vegas,Aston Martin,ALO,37,10,97.82
+22,Las Vegas,Alpine,OCO,37,11,99.508
+22,Las Vegas,Red Bull,PER,37,12,98.607
+22,Las Vegas,Racing Bulls,LAW,37,13,100.72
+22,Las Vegas,Haas,MAG,37,14,100.547
+22,Las Vegas,Williams,COL,37,15,96.867
+22,Las Vegas,Kick Sauber,ZHO,37,16,97.553
+22,Las Vegas,Aston Martin,STR,37,17,97.702
+22,Las Vegas,Kick Sauber,BOT,37,18,97.506
+22,Las Vegas,Mercedes,RUS,31,1,97.801
+22,Las Vegas,Ferrari,LEC,31,2,102.968
+22,Las Vegas,Mercedes,HAM,31,3,96.412
+22,Las Vegas,Red Bull,VER,31,4,97.996
+22,Las Vegas,Ferrari,SAI,31,5,96.973
+22,Las Vegas,Haas,HUL,31,6,98.6
+22,Las Vegas,McLaren,NOR,31,7,113.261
+22,Las Vegas,Red Bull,PER,31,8,99.896
+22,Las Vegas,Kick Sauber,ZHO,31,9,99.674
+22,Las Vegas,McLaren,PIA,31,10,98.356
+22,Las Vegas,Alpine,OCO,31,11,100.267
+22,Las Vegas,Racing Bulls,LAW,31,12,99.853
+22,Las Vegas,Racing Bulls,TSU,31,13,98.72
+22,Las Vegas,Aston Martin,ALO,31,14,98.053
+22,Las Vegas,Haas,MAG,31,15,98.073
+22,Las Vegas,Kick Sauber,BOT,31,16,100.085
+22,Las Vegas,Williams,COL,31,17,98.367
+22,Las Vegas,Aston Martin,STR,31,18,98.352
+22,Las Vegas,Mercedes,RUS,24,1,97.576
+22,Las Vegas,Red Bull,VER,24,2,97.695
+22,Las Vegas,Ferrari,SAI,24,3,97.919
+22,Las Vegas,Ferrari,LEC,24,4,97.256
+22,Las Vegas,Mercedes,HAM,24,5,97.323
+22,Las Vegas,McLaren,NOR,24,6,98.434
+22,Las Vegas,Racing Bulls,TSU,24,7,100.038
+22,Las Vegas,McLaren,PIA,24,8,99.168
+22,Las Vegas,Haas,HUL,24,9,98.166
+22,Las Vegas,Williams,ALB,24,10,100.174
+22,Las Vegas,Kick Sauber,ZHO,24,11,99.382
+22,Las Vegas,Red Bull,PER,24,12,98.326
+22,Las Vegas,Racing Bulls,LAW,24,13,99.658
+22,Las Vegas,Alpine,OCO,24,14,98.207
+22,Las Vegas,Aston Martin,ALO,24,15,104.985
+22,Las Vegas,Aston Martin,STR,24,16,98.531
+22,Las Vegas,Williams,COL,24,17,97.947
+22,Las Vegas,Haas,MAG,24,18,98.696
+22,Las Vegas,Kick Sauber,BOT,24,19,98.631
+22,Las Vegas,Mercedes,RUS,12,1,103.522
+22,Las Vegas,Mercedes,HAM,12,2,99.078
+22,Las Vegas,Haas,HUL,12,3,100.972
+22,Las Vegas,Red Bull,PER,12,4,99.663
+22,Las Vegas,Red Bull,VER,12,5,115.018
+22,Las Vegas,Haas,MAG,12,6,101.935
+22,Las Vegas,Kick Sauber,BOT,12,7,101.845
+22,Las Vegas,Ferrari,SAI,12,8,100.794
+22,Las Vegas,Williams,COL,12,9,102.436
+22,Las Vegas,Ferrari,LEC,12,10,99.962
+22,Las Vegas,McLaren,NOR,12,11,99.909
+22,Las Vegas,Racing Bulls,TSU,12,12,98.177
+22,Las Vegas,Alpine,GAS,12,13,98.621
+22,Las Vegas,Aston Martin,ALO,12,14,98.615
+22,Las Vegas,Alpine,OCO,12,15,114.887
+22,Las Vegas,McLaren,PIA,12,16,98.137
+22,Las Vegas,Williams,ALB,12,17,99.211
+22,Las Vegas,Kick Sauber,ZHO,12,18,119.067
+22,Las Vegas,Racing Bulls,LAW,12,19,117.446
+22,Las Vegas,Aston Martin,STR,12,20,99.976
+22,Las Vegas,Mercedes,RUS,42,1,96.344
+22,Las Vegas,Mercedes,HAM,42,2,95.884
+22,Las Vegas,Ferrari,SAI,42,3,96.223
+22,Las Vegas,Red Bull,VER,42,4,96.489
+22,Las Vegas,Ferrari,LEC,42,5,96.873
+22,Las Vegas,McLaren,NOR,42,6,95.601
+22,Las Vegas,McLaren,PIA,42,7,97.295
+22,Las Vegas,Racing Bulls,TSU,42,8,97.721
+22,Las Vegas,Haas,HUL,42,9,97.999
+22,Las Vegas,Aston Martin,ALO,42,10,98.078
+22,Las Vegas,Red Bull,PER,42,11,96.326
+22,Las Vegas,Haas,MAG,42,12,97.555
+22,Las Vegas,Williams,COL,42,13,97.187
+22,Las Vegas,Alpine,OCO,42,14,98.799
+22,Las Vegas,Kick Sauber,ZHO,42,15,97.183
+22,Las Vegas,Aston Martin,STR,42,16,97.37
+22,Las Vegas,Racing Bulls,LAW,42,17,97.318
+22,Las Vegas,Kick Sauber,BOT,42,18,98.341
+22,Las Vegas,Mercedes,RUS,15,1,98.331
+22,Las Vegas,Red Bull,VER,15,2,98.648
+22,Las Vegas,Red Bull,PER,15,3,101.565
+22,Las Vegas,Ferrari,SAI,15,4,98.22
+22,Las Vegas,Ferrari,LEC,15,5,98.237
+22,Las Vegas,McLaren,NOR,15,6,98.236
+22,Las Vegas,Mercedes,HAM,15,7,97.772
+22,Las Vegas,Haas,MAG,15,8,101.962
+22,Las Vegas,Racing Bulls,TSU,15,9,100.745
+22,Las Vegas,Kick Sauber,BOT,15,10,102.233
+22,Las Vegas,Williams,COL,15,11,102.397
+22,Las Vegas,McLaren,PIA,15,12,98.556
+22,Las Vegas,Aston Martin,ALO,15,13,102.232
+22,Las Vegas,Williams,ALB,15,14,98.866
+22,Las Vegas,Haas,HUL,15,15,115.523
+22,Las Vegas,Kick Sauber,ZHO,15,16,98.978
+22,Las Vegas,Racing Bulls,LAW,15,17,98.988
+22,Las Vegas,Alpine,GAS,15,18,111.222
+22,Las Vegas,Alpine,OCO,15,19,98.645
+22,Las Vegas,Aston Martin,STR,15,20,98.708
