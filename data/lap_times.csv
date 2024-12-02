@@ -24601,3 +24601,942 @@ round,grand_prix,constructor,driver,lap,position,time
 22,Las Vegas,Alpine,GAS,15,18,111.222
 22,Las Vegas,Alpine,OCO,15,19,98.645
 22,Las Vegas,Aston Martin,STR,15,20,98.708
+23,Qatar,Red Bull,VER,17,1,85.46
+23,Qatar,McLaren,NOR,17,2,85.39
+23,Qatar,Mercedes,RUS,17,3,85.749
+23,Qatar,McLaren,PIA,17,4,86.031
+23,Qatar,Ferrari,LEC,17,5,85.835
+23,Qatar,Ferrari,SAI,17,6,85.873
+23,Qatar,Red Bull,PER,17,7,85.929
+23,Qatar,Mercedes,HAM,17,8,86.276
+23,Qatar,Haas,MAG,17,9,86.65
+23,Qatar,Alpine,GAS,17,10,86.514
+23,Qatar,Aston Martin,ALO,17,11,86.687
+23,Qatar,Kick Sauber,ZHO,17,12,87.247
+23,Qatar,Racing Bulls,TSU,17,13,87.433
+23,Qatar,Kick Sauber,BOT,17,14,87.339
+23,Qatar,Williams,ALB,17,15,87.556
+23,Qatar,Haas,HUL,17,16,87.481
+23,Qatar,Racing Bulls,LAW,17,17,87.411
+23,Qatar,Red Bull,VER,47,1,83.303
+23,Qatar,Ferrari,LEC,47,2,83.722
+23,Qatar,McLaren,PIA,47,3,83.568
+23,Qatar,Mercedes,RUS,47,4,83.889
+23,Qatar,Alpine,GAS,47,5,84.097
+23,Qatar,Ferrari,SAI,47,6,84.445
+23,Qatar,Aston Martin,ALO,47,7,84.383
+23,Qatar,Kick Sauber,ZHO,47,8,84.936
+23,Qatar,Williams,ALB,47,9,85.559
+23,Qatar,Haas,MAG,47,10,85.542
+23,Qatar,Kick Sauber,BOT,47,11,85.92
+23,Qatar,Racing Bulls,TSU,47,12,86.144
+23,Qatar,Racing Bulls,LAW,47,13,86.424
+23,Qatar,Mercedes,HAM,47,14,89.954
+23,Qatar,McLaren,NOR,47,15,82.936
+23,Qatar,Red Bull,VER,29,1,84.861
+23,Qatar,McLaren,NOR,29,2,84.915
+23,Qatar,McLaren,PIA,29,3,84.761
+23,Qatar,Ferrari,LEC,29,4,84.653
+23,Qatar,Ferrari,SAI,29,5,84.982
+23,Qatar,Red Bull,PER,29,6,85.507
+23,Qatar,Mercedes,HAM,29,7,85.25
+23,Qatar,Alpine,GAS,29,8,85.588
+23,Qatar,Aston Martin,ALO,29,9,85.957
+23,Qatar,Mercedes,RUS,29,10,85.916
+23,Qatar,Kick Sauber,ZHO,29,11,85.979
+23,Qatar,Racing Bulls,TSU,29,12,86.505
+23,Qatar,Williams,ALB,29,13,86.395
+23,Qatar,Haas,HUL,29,14,86.334
+23,Qatar,Racing Bulls,LAW,29,15,86.446
+23,Qatar,Haas,MAG,29,16,85.682
+23,Qatar,Kick Sauber,BOT,29,17,86.93
+23,Qatar,Red Bull,VER,41,1,136.076
+23,Qatar,McLaren,NOR,41,2,137.19
+23,Qatar,Ferrari,LEC,41,3,135.614
+23,Qatar,McLaren,PIA,41,4,135.81
+23,Qatar,Mercedes,RUS,41,5,134.121
+23,Qatar,Alpine,GAS,41,6,133.101
+23,Qatar,Ferrari,SAI,41,7,133.053
+23,Qatar,Aston Martin,ALO,41,8,132.579
+23,Qatar,Kick Sauber,ZHO,41,9,132.403
+23,Qatar,Haas,MAG,41,10,133.54
+23,Qatar,Williams,ALB,41,11,134.065
+23,Qatar,Mercedes,HAM,41,12,134.586
+23,Qatar,Kick Sauber,BOT,41,13,132.721
+23,Qatar,Racing Bulls,TSU,41,14,134.978
+23,Qatar,Racing Bulls,LAW,41,15,135.917
+23,Qatar,Red Bull,VER,13,1,85.843
+23,Qatar,McLaren,NOR,13,2,85.794
+23,Qatar,Mercedes,RUS,13,3,86.182
+23,Qatar,McLaren,PIA,13,4,86.035
+23,Qatar,Ferrari,LEC,13,5,86.272
+23,Qatar,Ferrari,SAI,13,6,86.126
+23,Qatar,Red Bull,PER,13,7,86.631
+23,Qatar,Mercedes,HAM,13,8,86.514
+23,Qatar,Haas,MAG,13,9,87.321
+23,Qatar,Alpine,GAS,13,10,86.986
+23,Qatar,Racing Bulls,TSU,13,11,88.7
+23,Qatar,Aston Martin,ALO,13,12,87.721
+23,Qatar,Kick Sauber,ZHO,13,13,87.659
+23,Qatar,Kick Sauber,BOT,13,14,87.753
+23,Qatar,Williams,ALB,13,15,87.771
+23,Qatar,Haas,HUL,13,16,87.908
+23,Qatar,Racing Bulls,LAW,13,17,88.275
+23,Qatar,Red Bull,VER,19,1,85.309
+23,Qatar,McLaren,NOR,19,2,85.276
+23,Qatar,Mercedes,RUS,19,3,85.546
+23,Qatar,McLaren,PIA,19,4,85.494
+23,Qatar,Ferrari,LEC,19,5,85.647
+23,Qatar,Ferrari,SAI,19,6,85.852
+23,Qatar,Red Bull,PER,19,7,86.152
+23,Qatar,Mercedes,HAM,19,8,86.323
+23,Qatar,Haas,MAG,19,9,86.607
+23,Qatar,Alpine,GAS,19,10,86.696
+23,Qatar,Aston Martin,ALO,19,11,86.629
+23,Qatar,Kick Sauber,ZHO,19,12,86.888
+23,Qatar,Racing Bulls,TSU,19,13,87.537
+23,Qatar,Kick Sauber,BOT,19,14,87.16
+23,Qatar,Williams,ALB,19,15,87.428
+23,Qatar,Haas,HUL,19,16,87.227
+23,Qatar,Racing Bulls,LAW,19,17,87.288
+23,Qatar,Red Bull,VER,2,1,141.257
+23,Qatar,McLaren,NOR,2,2,141.28
+23,Qatar,Mercedes,RUS,2,3,141.375
+23,Qatar,Ferrari,LEC,2,4,142.075
+23,Qatar,McLaren,PIA,2,5,142.913
+23,Qatar,Ferrari,SAI,2,6,143.307
+23,Qatar,Red Bull,PER,2,7,143.708
+23,Qatar,Aston Martin,ALO,2,8,142.483
+23,Qatar,Mercedes,HAM,2,9,144.03
+23,Qatar,Racing Bulls,TSU,2,10,143.351
+23,Qatar,Haas,MAG,2,11,143.343
+23,Qatar,Alpine,GAS,2,12,143.807
+23,Qatar,Kick Sauber,BOT,2,13,144.412
+23,Qatar,Racing Bulls,LAW,2,14,145.297
+23,Qatar,Kick Sauber,ZHO,2,15,145.861
+23,Qatar,Williams,ALB,2,16,146.296
+23,Qatar,Aston Martin,STR,2,17,147.099
+23,Qatar,Haas,HUL,2,18,127.072
+23,Qatar,Red Bull,VER,28,1,84.719
+23,Qatar,McLaren,NOR,28,2,84.751
+23,Qatar,McLaren,PIA,28,3,84.71
+23,Qatar,Ferrari,LEC,28,4,84.909
+23,Qatar,Ferrari,SAI,28,5,85.144
+23,Qatar,Red Bull,PER,28,6,85.555
+23,Qatar,Mercedes,HAM,28,7,86.598
+23,Qatar,Alpine,GAS,28,8,85.533
+23,Qatar,Aston Martin,ALO,28,9,85.941
+23,Qatar,Mercedes,RUS,28,10,85.867
+23,Qatar,Kick Sauber,ZHO,28,11,85.916
+23,Qatar,Racing Bulls,TSU,28,12,86.46
+23,Qatar,Williams,ALB,28,13,86.553
+23,Qatar,Haas,HUL,28,14,86.235
+23,Qatar,Racing Bulls,LAW,28,15,86.533
+23,Qatar,Haas,MAG,28,16,108.853
+23,Qatar,Kick Sauber,BOT,28,17,89.406
+23,Qatar,Red Bull,VER,42,1,149.083
+23,Qatar,McLaren,NOR,42,2,148.012
+23,Qatar,Ferrari,LEC,42,3,147.125
+23,Qatar,McLaren,PIA,42,4,145.878
+23,Qatar,Mercedes,RUS,42,5,144.716
+23,Qatar,Alpine,GAS,42,6,143.945
+23,Qatar,Ferrari,SAI,42,7,142.05
+23,Qatar,Aston Martin,ALO,42,8,140.832
+23,Qatar,Kick Sauber,ZHO,42,9,139.983
+23,Qatar,Haas,MAG,42,10,138.376
+23,Qatar,Williams,ALB,42,11,136.483
+23,Qatar,Mercedes,HAM,42,12,135.024
+23,Qatar,Kick Sauber,BOT,42,13,133.244
+23,Qatar,Racing Bulls,TSU,42,14,131.701
+23,Qatar,Racing Bulls,LAW,42,15,128.759
+23,Qatar,Red Bull,VER,40,1,99.436
+23,Qatar,McLaren,NOR,40,2,99.808
+23,Qatar,Ferrari,LEC,40,3,101.971
+23,Qatar,McLaren,PIA,40,4,103.378
+23,Qatar,Mercedes,RUS,40,5,106.275
+23,Qatar,Alpine,GAS,40,6,108.476
+23,Qatar,Ferrari,SAI,40,7,110.298
+23,Qatar,Aston Martin,ALO,40,8,111.269
+23,Qatar,Kick Sauber,ZHO,40,9,112.918
+23,Qatar,Haas,MAG,40,10,113.041
+23,Qatar,Williams,ALB,40,11,114.034
+23,Qatar,Mercedes,HAM,40,12,114.351
+23,Qatar,Racing Bulls,TSU,40,13,119.241
+23,Qatar,Kick Sauber,BOT,40,14,117.286
+23,Qatar,Racing Bulls,LAW,40,15,120.647
+23,Qatar,Red Bull,VER,56,1,83.369
+23,Qatar,Ferrari,LEC,56,2,83.356
+23,Qatar,McLaren,PIA,56,3,83.313
+23,Qatar,Mercedes,RUS,56,4,83.366
+23,Qatar,Alpine,GAS,56,5,83.705
+23,Qatar,Ferrari,SAI,56,6,83.544
+23,Qatar,Aston Martin,ALO,56,7,83.885
+23,Qatar,Kick Sauber,ZHO,56,8,83.978
+23,Qatar,Haas,MAG,56,9,84.741
+23,Qatar,McLaren,NOR,56,10,82.384
+23,Qatar,Kick Sauber,BOT,56,11,86.311
+23,Qatar,Mercedes,HAM,56,12,84.412
+23,Qatar,Racing Bulls,TSU,56,13,87.674
+23,Qatar,Racing Bulls,LAW,56,14,86.327
+23,Qatar,Williams,ALB,56,15,123.543
+23,Qatar,Red Bull,VER,25,1,84.702
+23,Qatar,McLaren,NOR,25,2,84.721
+23,Qatar,McLaren,PIA,25,3,84.897
+23,Qatar,Ferrari,LEC,25,4,84.801
+23,Qatar,Ferrari,SAI,25,5,85.331
+23,Qatar,Red Bull,PER,25,6,85.498
+23,Qatar,Mercedes,HAM,25,7,85.378
+23,Qatar,Haas,MAG,25,8,86.106
+23,Qatar,Alpine,GAS,25,9,86.174
+23,Qatar,Aston Martin,ALO,25,10,86.245
+23,Qatar,Mercedes,RUS,25,11,85.514
+23,Qatar,Kick Sauber,ZHO,25,12,86.191
+23,Qatar,Racing Bulls,TSU,25,13,86.975
+23,Qatar,Williams,ALB,25,14,86.998
+23,Qatar,Haas,HUL,25,15,86.647
+23,Qatar,Racing Bulls,LAW,25,16,87.045
+23,Qatar,Kick Sauber,BOT,25,17,111.494
+23,Qatar,Red Bull,VER,53,1,83.132
+23,Qatar,Ferrari,LEC,53,2,83.242
+23,Qatar,McLaren,PIA,53,3,83.523
+23,Qatar,Mercedes,RUS,53,4,83.681
+23,Qatar,Alpine,GAS,53,5,83.984
+23,Qatar,Ferrari,SAI,53,6,83.62
+23,Qatar,Aston Martin,ALO,53,7,83.993
+23,Qatar,Kick Sauber,ZHO,53,8,84.294
+23,Qatar,Haas,MAG,53,9,84.482
+23,Qatar,Kick Sauber,BOT,53,10,85.533
+23,Qatar,McLaren,NOR,53,11,85.089
+23,Qatar,Williams,ALB,53,12,90.321
+23,Qatar,Racing Bulls,TSU,53,13,87.383
+23,Qatar,Racing Bulls,LAW,53,14,87.521
+23,Qatar,Mercedes,HAM,53,15,84.044
+23,Qatar,Red Bull,VER,55,1,82.905
+23,Qatar,Ferrari,LEC,55,2,83.498
+23,Qatar,McLaren,PIA,55,3,83.269
+23,Qatar,Mercedes,RUS,55,4,83.361
+23,Qatar,Alpine,GAS,55,5,84.158
+23,Qatar,Ferrari,SAI,55,6,84.559
+23,Qatar,Aston Martin,ALO,55,7,84.078
+23,Qatar,Kick Sauber,ZHO,55,8,84.038
+23,Qatar,Haas,MAG,55,9,84.259
+23,Qatar,McLaren,NOR,55,10,82.994
+23,Qatar,Kick Sauber,BOT,55,11,86.051
+23,Qatar,Racing Bulls,TSU,55,12,87.433
+23,Qatar,Mercedes,HAM,55,13,84.25
+23,Qatar,Williams,ALB,55,14,92.223
+23,Qatar,Racing Bulls,LAW,55,15,87.54
+23,Qatar,Red Bull,VER,22,1,84.908
+23,Qatar,McLaren,NOR,22,2,84.865
+23,Qatar,Mercedes,RUS,22,3,85.576
+23,Qatar,McLaren,PIA,22,4,85.218
+23,Qatar,Ferrari,LEC,22,5,85.036
+23,Qatar,Ferrari,SAI,22,6,85.353
+23,Qatar,Red Bull,PER,22,7,85.973
+23,Qatar,Mercedes,HAM,22,8,86.189
+23,Qatar,Haas,MAG,22,9,86.377
+23,Qatar,Alpine,GAS,22,10,86.453
+23,Qatar,Aston Martin,ALO,22,11,86.481
+23,Qatar,Kick Sauber,ZHO,22,12,86.428
+23,Qatar,Kick Sauber,BOT,22,13,86.843
+23,Qatar,Racing Bulls,TSU,22,14,87.162
+23,Qatar,Williams,ALB,22,15,87.133
+23,Qatar,Haas,HUL,22,16,87.214
+23,Qatar,Racing Bulls,LAW,22,17,87.107
+23,Qatar,Red Bull,VER,14,1,85.812
+23,Qatar,McLaren,NOR,14,2,85.924
+23,Qatar,Mercedes,RUS,14,3,86.24
+23,Qatar,McLaren,PIA,14,4,86.056
+23,Qatar,Ferrari,LEC,14,5,85.66
+23,Qatar,Ferrari,SAI,14,6,86.19
+23,Qatar,Red Bull,PER,14,7,86.483
+23,Qatar,Mercedes,HAM,14,8,86.558
+23,Qatar,Haas,MAG,14,9,86.989
+23,Qatar,Alpine,GAS,14,10,87.011
+23,Qatar,Aston Martin,ALO,14,11,86.802
+23,Qatar,Racing Bulls,TSU,14,12,88.832
+23,Qatar,Kick Sauber,ZHO,14,13,87.909
+23,Qatar,Kick Sauber,BOT,14,14,87.79
+23,Qatar,Williams,ALB,14,15,87.525
+23,Qatar,Haas,HUL,14,16,87.442
+23,Qatar,Racing Bulls,LAW,14,17,87.703
+23,Qatar,Red Bull,VER,15,1,85.698
+23,Qatar,McLaren,NOR,15,2,85.535
+23,Qatar,Mercedes,RUS,15,3,85.958
+23,Qatar,McLaren,PIA,15,4,85.803
+23,Qatar,Ferrari,LEC,15,5,85.805
+23,Qatar,Ferrari,SAI,15,6,86.112
+23,Qatar,Red Bull,PER,15,7,86.409
+23,Qatar,Mercedes,HAM,15,8,86.8
+23,Qatar,Haas,MAG,15,9,86.911
+23,Qatar,Alpine,GAS,15,10,86.737
+23,Qatar,Aston Martin,ALO,15,11,86.7
+23,Qatar,Kick Sauber,ZHO,15,12,87.024
+23,Qatar,Racing Bulls,TSU,15,13,88.648
+23,Qatar,Kick Sauber,BOT,15,14,88.029
+23,Qatar,Williams,ALB,15,15,87.793
+23,Qatar,Haas,HUL,15,16,87.232
+23,Qatar,Racing Bulls,LAW,15,17,87.692
+23,Qatar,Red Bull,VER,4,1,153.079
+23,Qatar,McLaren,NOR,4,2,151.036
+23,Qatar,Mercedes,RUS,4,3,149.191
+23,Qatar,Ferrari,LEC,4,4,147.558
+23,Qatar,McLaren,PIA,4,5,145.626
+23,Qatar,Ferrari,SAI,4,6,144.487
+23,Qatar,Red Bull,PER,4,7,143.573
+23,Qatar,Aston Martin,ALO,4,8,142.341
+23,Qatar,Mercedes,HAM,4,9,139.017
+23,Qatar,Racing Bulls,TSU,4,10,136.969
+23,Qatar,Haas,MAG,4,11,134.923
+23,Qatar,Alpine,GAS,4,12,133.088
+23,Qatar,Kick Sauber,BOT,4,13,132.447
+23,Qatar,Racing Bulls,LAW,4,14,130.85
+23,Qatar,Kick Sauber,ZHO,4,15,130.295
+23,Qatar,Williams,ALB,4,16,129.827
+23,Qatar,Aston Martin,STR,4,17,129.1
+23,Qatar,Haas,HUL,4,18,126.08
+23,Qatar,Red Bull,VER,18,1,85.079
+23,Qatar,McLaren,NOR,18,2,85.253
+23,Qatar,Mercedes,RUS,18,3,85.56
+23,Qatar,McLaren,PIA,18,4,85.703
+23,Qatar,Ferrari,LEC,18,5,85.496
+23,Qatar,Ferrari,SAI,18,6,85.568
+23,Qatar,Red Bull,PER,18,7,86.455
+23,Qatar,Mercedes,HAM,18,8,86.47
+23,Qatar,Haas,MAG,18,9,86.763
+23,Qatar,Alpine,GAS,18,10,86.694
+23,Qatar,Aston Martin,ALO,18,11,86.744
+23,Qatar,Kick Sauber,ZHO,18,12,87.02
+23,Qatar,Racing Bulls,TSU,18,13,87.574
+23,Qatar,Kick Sauber,BOT,18,14,87.489
+23,Qatar,Williams,ALB,18,15,87.321
+23,Qatar,Haas,HUL,18,16,87.808
+23,Qatar,Racing Bulls,LAW,18,17,87.362
+23,Qatar,Red Bull,VER,50,1,83.321
+23,Qatar,Ferrari,LEC,50,2,83.405
+23,Qatar,McLaren,PIA,50,3,83.625
+23,Qatar,Mercedes,RUS,50,4,83.355
+23,Qatar,Alpine,GAS,50,5,83.866
+23,Qatar,Ferrari,SAI,50,6,83.858
+23,Qatar,Aston Martin,ALO,50,7,84.057
+23,Qatar,Kick Sauber,ZHO,50,8,84.428
+23,Qatar,Haas,MAG,50,9,84.584
+23,Qatar,Williams,ALB,50,10,86.781
+23,Qatar,Kick Sauber,BOT,50,11,85.881
+23,Qatar,Racing Bulls,TSU,50,12,87.03
+23,Qatar,Racing Bulls,LAW,50,13,87.637
+23,Qatar,McLaren,NOR,50,14,84.692
+23,Qatar,Mercedes,HAM,50,15,84.806
+23,Qatar,Red Bull,VER,49,1,83.468
+23,Qatar,Ferrari,LEC,49,2,83.47
+23,Qatar,McLaren,PIA,49,3,83.623
+23,Qatar,Mercedes,RUS,49,4,83.744
+23,Qatar,Alpine,GAS,49,5,83.942
+23,Qatar,Ferrari,SAI,49,6,83.89
+23,Qatar,Aston Martin,ALO,49,7,84.395
+23,Qatar,Kick Sauber,ZHO,49,8,84.667
+23,Qatar,Haas,MAG,49,9,84.603
+23,Qatar,Williams,ALB,49,10,87.222
+23,Qatar,Kick Sauber,BOT,49,11,85.639
+23,Qatar,Racing Bulls,TSU,49,12,86.28
+23,Qatar,Racing Bulls,LAW,49,13,86.753
+23,Qatar,McLaren,NOR,49,14,82.822
+23,Qatar,Mercedes,HAM,49,15,85.096
+23,Qatar,Red Bull,VER,16,1,85.605
+23,Qatar,McLaren,NOR,16,2,85.508
+23,Qatar,Mercedes,RUS,16,3,86.022
+23,Qatar,McLaren,PIA,16,4,86.474
+23,Qatar,Ferrari,LEC,16,5,85.93
+23,Qatar,Ferrari,SAI,16,6,85.887
+23,Qatar,Red Bull,PER,16,7,86.359
+23,Qatar,Mercedes,HAM,16,8,86.585
+23,Qatar,Haas,MAG,16,9,86.797
+23,Qatar,Alpine,GAS,16,10,86.7
+23,Qatar,Aston Martin,ALO,16,11,86.867
+23,Qatar,Kick Sauber,ZHO,16,12,87.165
+23,Qatar,Racing Bulls,TSU,16,13,87.635
+23,Qatar,Kick Sauber,BOT,16,14,87.96
+23,Qatar,Williams,ALB,16,15,87.6
+23,Qatar,Haas,HUL,16,16,86.897
+23,Qatar,Racing Bulls,LAW,16,17,87.514
+23,Qatar,Red Bull,VER,10,1,85.973
+23,Qatar,McLaren,NOR,10,2,85.972
+23,Qatar,Mercedes,RUS,10,3,86.274
+23,Qatar,McLaren,PIA,10,4,86.169
+23,Qatar,Ferrari,LEC,10,5,86.435
+23,Qatar,Ferrari,SAI,10,6,86.466
+23,Qatar,Red Bull,PER,10,7,86.884
+23,Qatar,Mercedes,HAM,10,8,87.154
+23,Qatar,Haas,MAG,10,9,87.601
+23,Qatar,Racing Bulls,TSU,10,10,89.206
+23,Qatar,Alpine,GAS,10,11,88.272
+23,Qatar,Aston Martin,ALO,10,12,88.156
+23,Qatar,Kick Sauber,ZHO,10,13,87.643
+23,Qatar,Kick Sauber,BOT,10,14,87.717
+23,Qatar,Williams,ALB,10,15,87.781
+23,Qatar,Haas,HUL,10,16,88.286
+23,Qatar,Racing Bulls,LAW,10,17,88.209
+23,Qatar,Red Bull,VER,21,1,84.97
+23,Qatar,McLaren,NOR,21,2,84.997
+23,Qatar,Mercedes,RUS,21,3,85.721
+23,Qatar,McLaren,PIA,21,4,85.366
+23,Qatar,Ferrari,LEC,21,5,85.323
+23,Qatar,Ferrari,SAI,21,6,85.369
+23,Qatar,Red Bull,PER,21,7,85.714
+23,Qatar,Mercedes,HAM,21,8,86.026
+23,Qatar,Haas,MAG,21,9,86.46
+23,Qatar,Alpine,GAS,21,10,86.946
+23,Qatar,Aston Martin,ALO,21,11,86.37
+23,Qatar,Kick Sauber,ZHO,21,12,86.594
+23,Qatar,Kick Sauber,BOT,21,13,86.958
+23,Qatar,Racing Bulls,TSU,21,14,87.301
+23,Qatar,Williams,ALB,21,15,87.42
+23,Qatar,Haas,HUL,21,16,87.327
+23,Qatar,Racing Bulls,LAW,21,17,87.143
+23,Qatar,Red Bull,VER,24,1,84.825
+23,Qatar,McLaren,NOR,24,2,84.67
+23,Qatar,McLaren,PIA,24,3,84.75
+23,Qatar,Ferrari,LEC,24,4,85.133
+23,Qatar,Ferrari,SAI,24,5,85.279
+23,Qatar,Red Bull,PER,24,6,85.642
+23,Qatar,Mercedes,HAM,24,7,85.734
+23,Qatar,Haas,MAG,24,8,86.304
+23,Qatar,Alpine,GAS,24,9,86.235
+23,Qatar,Aston Martin,ALO,24,10,86.377
+23,Qatar,Mercedes,RUS,24,11,113.294
+23,Qatar,Kick Sauber,ZHO,24,12,86.397
+23,Qatar,Racing Bulls,TSU,24,13,87.036
+23,Qatar,Kick Sauber,BOT,24,14,90.542
+23,Qatar,Williams,ALB,24,15,86.968
+23,Qatar,Haas,HUL,24,16,87.021
+23,Qatar,Racing Bulls,LAW,24,17,87.019
+23,Qatar,Red Bull,VER,33,1,84.35
+23,Qatar,McLaren,NOR,33,2,84.96
+23,Qatar,McLaren,PIA,33,3,85.284
+23,Qatar,Ferrari,LEC,33,4,84.9
+23,Qatar,Ferrari,SAI,33,5,85.104
+23,Qatar,Red Bull,PER,33,6,85.382
+23,Qatar,Mercedes,HAM,33,7,85.713
+23,Qatar,Alpine,GAS,33,8,85.122
+23,Qatar,Aston Martin,ALO,33,9,85.797
+23,Qatar,Mercedes,RUS,33,10,85.498
+23,Qatar,Kick Sauber,ZHO,33,11,85.659
+23,Qatar,Racing Bulls,TSU,33,12,86.519
+23,Qatar,Williams,ALB,33,13,86.303
+23,Qatar,Racing Bulls,LAW,33,14,86.219
+23,Qatar,Haas,MAG,33,15,85.58
+23,Qatar,Haas,HUL,33,16,85.767
+23,Qatar,Kick Sauber,BOT,33,17,88.461
+23,Qatar,Red Bull,VER,39,1,146.153
+23,Qatar,McLaren,NOR,39,2,144.447
+23,Qatar,Ferrari,LEC,39,3,142.818
+23,Qatar,McLaren,PIA,39,4,141.872
+23,Qatar,Alpine,GAS,39,5,139.279
+23,Qatar,Mercedes,RUS,39,6,137.029
+23,Qatar,Ferrari,SAI,39,7,135.775
+23,Qatar,Kick Sauber,ZHO,39,8,135.506
+23,Qatar,Aston Martin,ALO,39,9,134.005
+23,Qatar,Haas,MAG,39,10,132.021
+23,Qatar,Racing Bulls,TSU,39,11,129.747
+23,Qatar,Williams,ALB,39,12,129.058
+23,Qatar,Haas,HUL,39,13,127.982
+23,Qatar,Racing Bulls,LAW,39,14,125.703
+23,Qatar,Mercedes,HAM,39,15,91.819
+23,Qatar,Kick Sauber,BOT,39,16,89.792
+23,Qatar,Red Bull,VER,44,1,83.533
+23,Qatar,McLaren,NOR,44,2,83.473
+23,Qatar,Ferrari,LEC,44,3,84.012
+23,Qatar,McLaren,PIA,44,4,84.301
+23,Qatar,Mercedes,RUS,44,5,84.644
+23,Qatar,Alpine,GAS,44,6,85.421
+23,Qatar,Ferrari,SAI,44,7,85.236
+23,Qatar,Aston Martin,ALO,44,8,85.477
+23,Qatar,Kick Sauber,ZHO,44,9,86.299
+23,Qatar,Williams,ALB,44,10,86.524
+23,Qatar,Haas,MAG,44,11,86.26
+23,Qatar,Kick Sauber,BOT,44,12,86.779
+23,Qatar,Racing Bulls,TSU,44,13,87.188
+23,Qatar,Mercedes,HAM,44,14,87.093
+23,Qatar,Racing Bulls,LAW,44,15,87.6
+23,Qatar,Red Bull,VER,36,1,169.155
+23,Qatar,McLaren,NOR,36,2,170.429
+23,Qatar,Ferrari,LEC,36,3,157.723
+23,Qatar,McLaren,PIA,36,4,128.14
+23,Qatar,Red Bull,PER,36,5,143.642
+23,Qatar,Alpine,GAS,36,6,142.16
+23,Qatar,Mercedes,RUS,36,7,142.188
+23,Qatar,Ferrari,SAI,36,8,123.309
+23,Qatar,Aston Martin,ALO,36,9,146.362
+23,Qatar,Kick Sauber,ZHO,36,10,146.39
+23,Qatar,Haas,MAG,36,11,125.526
+23,Qatar,Racing Bulls,TSU,36,12,143.242
+23,Qatar,Williams,ALB,36,13,142.739
+23,Qatar,Haas,HUL,36,14,116.135
+23,Qatar,Racing Bulls,LAW,36,15,159.436
+23,Qatar,Mercedes,HAM,36,16,169.975
+23,Qatar,Kick Sauber,BOT,36,17,171.06
+23,Qatar,Red Bull,VER,7,1,86.376
+23,Qatar,McLaren,NOR,7,2,86.5
+23,Qatar,Mercedes,RUS,7,3,86.561
+23,Qatar,McLaren,PIA,7,4,86.851
+23,Qatar,Ferrari,LEC,7,5,86.887
+23,Qatar,Ferrari,SAI,7,6,87.189
+23,Qatar,Red Bull,PER,7,7,87.28
+23,Qatar,Mercedes,HAM,7,8,87.872
+23,Qatar,Racing Bulls,TSU,7,9,88.217
+23,Qatar,Haas,MAG,7,10,88.075
+23,Qatar,Alpine,GAS,7,11,87.738
+23,Qatar,Aston Martin,ALO,7,12,88.057
+23,Qatar,Kick Sauber,ZHO,7,13,88.056
+23,Qatar,Kick Sauber,BOT,7,14,88.25
+23,Qatar,Williams,ALB,7,15,88.528
+23,Qatar,Haas,HUL,7,16,88.652
+23,Qatar,Racing Bulls,LAW,7,17,88.165
+23,Qatar,Aston Martin,STR,7,18,96.33
+23,Qatar,Red Bull,VER,48,1,83.423
+23,Qatar,Ferrari,LEC,48,2,83.68
+23,Qatar,McLaren,PIA,48,3,83.624
+23,Qatar,Mercedes,RUS,48,4,83.796
+23,Qatar,Alpine,GAS,48,5,84.156
+23,Qatar,Ferrari,SAI,48,6,84.094
+23,Qatar,Aston Martin,ALO,48,7,84.472
+23,Qatar,Kick Sauber,ZHO,48,8,84.906
+23,Qatar,Williams,ALB,48,9,85.751
+23,Qatar,Haas,MAG,48,10,85.56
+23,Qatar,Kick Sauber,BOT,48,11,85.548
+23,Qatar,Racing Bulls,TSU,48,12,86.154
+23,Qatar,Racing Bulls,LAW,48,13,86.369
+23,Qatar,McLaren,NOR,48,14,82.64
+23,Qatar,Mercedes,HAM,48,15,102.41
+23,Qatar,Red Bull,VER,43,1,84.509
+23,Qatar,McLaren,NOR,43,2,84.627
+23,Qatar,Ferrari,LEC,43,3,85.854
+23,Qatar,McLaren,PIA,43,4,86.116
+23,Qatar,Mercedes,RUS,43,5,86.371
+23,Qatar,Alpine,GAS,43,6,87.285
+23,Qatar,Ferrari,SAI,43,7,87.686
+23,Qatar,Aston Martin,ALO,43,8,87.771
+23,Qatar,Kick Sauber,ZHO,43,9,88.011
+23,Qatar,Williams,ALB,43,10,87.968
+23,Qatar,Haas,MAG,43,11,89.014
+23,Qatar,Kick Sauber,BOT,43,12,88.386
+23,Qatar,Racing Bulls,TSU,43,13,88.689
+23,Qatar,Mercedes,HAM,43,14,89.654
+23,Qatar,Racing Bulls,LAW,43,15,89.07
+23,Qatar,Red Bull,VER,37,1,168.652
+23,Qatar,McLaren,NOR,37,2,167.29
+23,Qatar,Ferrari,LEC,37,3,166.965
+23,Qatar,McLaren,PIA,37,4,165.54
+23,Qatar,Red Bull,PER,37,5,158.29
+23,Qatar,Alpine,GAS,37,6,141.304
+23,Qatar,Mercedes,RUS,37,7,134.784
+23,Qatar,Ferrari,SAI,37,8,133.402
+23,Qatar,Kick Sauber,ZHO,37,9,129.664
+23,Qatar,Aston Martin,ALO,37,10,135.542
+23,Qatar,Haas,MAG,37,11,130.074
+23,Qatar,Racing Bulls,TSU,37,12,118.996
+23,Qatar,Williams,ALB,37,13,118.603
+23,Qatar,Haas,HUL,37,14,119.627
+23,Qatar,Racing Bulls,LAW,37,15,115.739
+23,Qatar,Mercedes,HAM,37,16,120.881
+23,Qatar,Kick Sauber,BOT,37,17,120.033
+23,Qatar,Red Bull,VER,30,1,85.127
+23,Qatar,McLaren,NOR,30,2,84.556
+23,Qatar,McLaren,PIA,30,3,85.129
+23,Qatar,Ferrari,LEC,30,4,85.168
+23,Qatar,Ferrari,SAI,30,5,85.235
+23,Qatar,Red Bull,PER,30,6,85.409
+23,Qatar,Mercedes,HAM,30,7,85.396
+23,Qatar,Alpine,GAS,30,8,85.344
+23,Qatar,Aston Martin,ALO,30,9,85.893
+23,Qatar,Mercedes,RUS,30,10,86.145
+23,Qatar,Kick Sauber,ZHO,30,11,85.849
+23,Qatar,Racing Bulls,TSU,30,12,86.912
+23,Qatar,Williams,ALB,30,13,86.708
+23,Qatar,Haas,HUL,30,14,86.595
+23,Qatar,Racing Bulls,LAW,30,15,86.642
+23,Qatar,Haas,MAG,30,16,85.602
+23,Qatar,Kick Sauber,BOT,30,17,86.461
+23,Qatar,Red Bull,VER,38,1,151.089
+23,Qatar,McLaren,NOR,38,2,149.162
+23,Qatar,Ferrari,LEC,38,3,148.35
+23,Qatar,McLaren,PIA,38,4,148.28
+23,Qatar,Red Bull,PER,38,5,147.063
+23,Qatar,Alpine,GAS,38,6,146.588
+23,Qatar,Mercedes,RUS,38,7,146.38
+23,Qatar,Ferrari,SAI,38,8,146.73
+23,Qatar,Kick Sauber,ZHO,38,9,146.432
+23,Qatar,Aston Martin,ALO,38,10,144.47
+23,Qatar,Haas,MAG,38,11,146.776
+23,Qatar,Racing Bulls,TSU,38,12,146.782
+23,Qatar,Williams,ALB,38,13,146.301
+23,Qatar,Haas,HUL,38,14,144.972
+23,Qatar,Racing Bulls,LAW,38,15,134.297
+23,Qatar,Mercedes,HAM,38,16,86.953
+23,Qatar,Kick Sauber,BOT,38,17,88.199
+23,Qatar,Red Bull,VER,35,1,92.307
+23,Qatar,McLaren,NOR,35,2,93.654
+23,Qatar,Ferrari,LEC,35,3,98.515
+23,Qatar,Red Bull,PER,35,4,106.636
+23,Qatar,McLaren,PIA,35,5,127.624
+23,Qatar,Alpine,GAS,35,6,111.497
+23,Qatar,Mercedes,RUS,35,7,114.752
+23,Qatar,Aston Martin,ALO,35,8,115.097
+23,Qatar,Kick Sauber,ZHO,35,9,115.892
+23,Qatar,Ferrari,SAI,35,10,148.364
+23,Qatar,Racing Bulls,TSU,35,11,121.862
+23,Qatar,Williams,ALB,35,12,121.917
+23,Qatar,Haas,MAG,35,13,120.651
+23,Qatar,Racing Bulls,LAW,35,14,123.205
+23,Qatar,Haas,HUL,35,15,118.789
+23,Qatar,Mercedes,HAM,35,16,177.756
+23,Qatar,Kick Sauber,BOT,35,17,150.13
+23,Qatar,Red Bull,VER,1,1,111.344
+23,Qatar,McLaren,NOR,1,2,113.635
+23,Qatar,Mercedes,RUS,1,3,115.631
+23,Qatar,Ferrari,LEC,1,4,117.439
+23,Qatar,McLaren,PIA,1,5,118.513
+23,Qatar,Ferrari,SAI,1,6,119.394
+23,Qatar,Red Bull,PER,1,7,120.204
+23,Qatar,Aston Martin,ALO,1,8,123.172
+23,Qatar,Mercedes,HAM,1,9,124.279
+23,Qatar,Racing Bulls,TSU,1,10,127.75
+23,Qatar,Haas,MAG,1,11,129.92
+23,Qatar,Alpine,GAS,1,12,130.912
+23,Qatar,Kick Sauber,BOT,1,13,132.082
+23,Qatar,Racing Bulls,LAW,1,14,133.331
+23,Qatar,Kick Sauber,ZHO,1,15,134.044
+23,Qatar,Williams,ALB,1,16,135.384
+23,Qatar,Aston Martin,STR,1,17,136.793
+23,Qatar,Haas,HUL,1,18,165.271
+23,Qatar,Red Bull,VER,57,1,83.776
+23,Qatar,Ferrari,LEC,57,2,83.559
+23,Qatar,McLaren,PIA,57,3,83.241
+23,Qatar,Mercedes,RUS,57,4,83.477
+23,Qatar,Alpine,GAS,57,5,83.937
+23,Qatar,Ferrari,SAI,57,6,83.905
+23,Qatar,Aston Martin,ALO,57,7,83.667
+23,Qatar,Kick Sauber,ZHO,57,8,83.889
+23,Qatar,Haas,MAG,57,9,84.827
+23,Qatar,McLaren,NOR,57,10,83.271
+23,Qatar,Kick Sauber,BOT,57,11,87.014
+23,Qatar,Mercedes,HAM,57,12,85.086
+23,Qatar,Racing Bulls,TSU,57,13,87.125
+23,Qatar,Racing Bulls,LAW,57,14,86.522
+23,Qatar,Red Bull,VER,8,1,86.28
+23,Qatar,McLaren,NOR,8,2,86.668
+23,Qatar,Mercedes,RUS,8,3,86.433
+23,Qatar,McLaren,PIA,8,4,86.322
+23,Qatar,Ferrari,LEC,8,5,87.19
+23,Qatar,Ferrari,SAI,8,6,87.142
+23,Qatar,Red Bull,PER,8,7,87.403
+23,Qatar,Mercedes,HAM,8,8,87.043
+23,Qatar,Racing Bulls,TSU,8,9,87.737
+23,Qatar,Haas,MAG,8,10,87.707
+23,Qatar,Alpine,GAS,8,11,87.881
+23,Qatar,Aston Martin,ALO,8,12,88.028
+23,Qatar,Kick Sauber,ZHO,8,13,88.369
+23,Qatar,Kick Sauber,BOT,8,14,88.501
+23,Qatar,Williams,ALB,8,15,88.499
+23,Qatar,Haas,HUL,8,16,88.418
+23,Qatar,Racing Bulls,LAW,8,17,88.159
+23,Qatar,Aston Martin,STR,8,18,140.862
+23,Qatar,Red Bull,VER,54,1,83.006
+23,Qatar,Ferrari,LEC,54,2,83.454
+23,Qatar,McLaren,PIA,54,3,83.37
+23,Qatar,Mercedes,RUS,54,4,83.56
+23,Qatar,Alpine,GAS,54,5,84.082
+23,Qatar,Ferrari,SAI,54,6,83.745
+23,Qatar,Aston Martin,ALO,54,7,83.871
+23,Qatar,Kick Sauber,ZHO,54,8,84.239
+23,Qatar,Haas,MAG,54,9,84.431
+23,Qatar,McLaren,NOR,54,10,82.471
+23,Qatar,Kick Sauber,BOT,54,11,86.568
+23,Qatar,Williams,ALB,54,12,88.167
+23,Qatar,Racing Bulls,TSU,54,13,87.337
+23,Qatar,Racing Bulls,LAW,54,14,87.69
+23,Qatar,Mercedes,HAM,54,15,87.079
+23,Qatar,Red Bull,VER,26,1,84.775
+23,Qatar,McLaren,NOR,26,2,84.537
+23,Qatar,McLaren,PIA,26,3,84.898
+23,Qatar,Ferrari,LEC,26,4,85.099
+23,Qatar,Ferrari,SAI,26,5,85.13
+23,Qatar,Red Bull,PER,26,6,85.458
+23,Qatar,Mercedes,HAM,26,7,85.326
+23,Qatar,Haas,MAG,26,8,86.148
+23,Qatar,Alpine,GAS,26,9,86.12
+23,Qatar,Aston Martin,ALO,26,10,86.3
+23,Qatar,Mercedes,RUS,26,11,85.973
+23,Qatar,Kick Sauber,ZHO,26,12,85.928
+23,Qatar,Racing Bulls,TSU,26,13,86.725
+23,Qatar,Williams,ALB,26,14,86.774
+23,Qatar,Haas,HUL,26,15,86.568
+23,Qatar,Racing Bulls,LAW,26,16,86.915
+23,Qatar,Kick Sauber,BOT,26,17,87.079
+23,Qatar,Red Bull,VER,20,1,84.896
+23,Qatar,McLaren,NOR,20,2,85.017
+23,Qatar,Mercedes,RUS,20,3,85.76
+23,Qatar,McLaren,PIA,20,4,85.517
+23,Qatar,Ferrari,LEC,20,5,85.467
+23,Qatar,Ferrari,SAI,20,6,85.559
+23,Qatar,Red Bull,PER,20,7,86.049
+23,Qatar,Mercedes,HAM,20,8,86.383
+23,Qatar,Haas,MAG,20,9,86.58
+23,Qatar,Alpine,GAS,20,10,86.369
+23,Qatar,Aston Martin,ALO,20,11,86.855
+23,Qatar,Kick Sauber,ZHO,20,12,86.609
+23,Qatar,Kick Sauber,BOT,20,13,86.295
+23,Qatar,Racing Bulls,TSU,20,14,88.247
+23,Qatar,Williams,ALB,20,15,87.347
+23,Qatar,Haas,HUL,20,16,87.237
+23,Qatar,Racing Bulls,LAW,20,17,87.111
+23,Qatar,Red Bull,VER,52,1,83.162
+23,Qatar,Ferrari,LEC,52,2,83.72
+23,Qatar,McLaren,PIA,52,3,83.478
+23,Qatar,Mercedes,RUS,52,4,83.549
+23,Qatar,Alpine,GAS,52,5,84.057
+23,Qatar,Ferrari,SAI,52,6,83.465
+23,Qatar,Aston Martin,ALO,52,7,84.196
+23,Qatar,Kick Sauber,ZHO,52,8,84.403
+23,Qatar,Haas,MAG,52,9,84.593
+23,Qatar,Williams,ALB,52,10,87.51
+23,Qatar,Kick Sauber,BOT,52,11,86.927
+23,Qatar,McLaren,NOR,52,12,82.928
+23,Qatar,Racing Bulls,TSU,52,13,87.78
+23,Qatar,Racing Bulls,LAW,52,14,87.612
+23,Qatar,Mercedes,HAM,52,15,83.865
+23,Qatar,Red Bull,VER,46,1,83.37
+23,Qatar,Ferrari,LEC,46,2,83.665
+23,Qatar,McLaren,PIA,46,3,83.909
+23,Qatar,Mercedes,RUS,46,4,83.614
+23,Qatar,Alpine,GAS,46,5,84.238
+23,Qatar,Ferrari,SAI,46,6,84.17
+23,Qatar,Aston Martin,ALO,46,7,84.44
+23,Qatar,Kick Sauber,ZHO,46,8,85.067
+23,Qatar,Williams,ALB,46,9,85.701
+23,Qatar,Haas,MAG,46,10,85.823
+23,Qatar,Mercedes,HAM,46,11,84.726
+23,Qatar,Kick Sauber,BOT,46,12,86.979
+23,Qatar,Racing Bulls,TSU,46,13,86.367
+23,Qatar,Racing Bulls,LAW,46,14,86.076
+23,Qatar,McLaren,NOR,46,15,112.677
+23,Qatar,Red Bull,VER,9,1,86.2
+23,Qatar,McLaren,NOR,9,2,86.344
+23,Qatar,Mercedes,RUS,9,3,86.498
+23,Qatar,McLaren,PIA,9,4,86.464
+23,Qatar,Ferrari,LEC,9,5,86.914
+23,Qatar,Ferrari,SAI,9,6,86.794
+23,Qatar,Red Bull,PER,9,7,87.124
+23,Qatar,Mercedes,HAM,9,8,86.983
+23,Qatar,Racing Bulls,TSU,9,9,87.661
+23,Qatar,Haas,MAG,9,10,87.395
+23,Qatar,Alpine,GAS,9,11,87.58
+23,Qatar,Aston Martin,ALO,9,12,87.644
+23,Qatar,Kick Sauber,ZHO,9,13,88.078
+23,Qatar,Kick Sauber,BOT,9,14,87.855
+23,Qatar,Williams,ALB,9,15,88.038
+23,Qatar,Haas,HUL,9,16,87.812
+23,Qatar,Racing Bulls,LAW,9,17,87.66
+23,Qatar,Red Bull,VER,45,1,83.393
+23,Qatar,Ferrari,LEC,45,2,83.937
+23,Qatar,McLaren,PIA,45,3,83.98
+23,Qatar,McLaren,NOR,45,4,87.666
+23,Qatar,Mercedes,RUS,45,5,84.01
+23,Qatar,Alpine,GAS,45,6,84.508
+23,Qatar,Ferrari,SAI,45,7,84.607
+23,Qatar,Aston Martin,ALO,45,8,85.0
+23,Qatar,Kick Sauber,ZHO,45,9,85.141
+23,Qatar,Williams,ALB,45,10,85.844
+23,Qatar,Haas,MAG,45,11,85.784
+23,Qatar,Kick Sauber,BOT,45,12,86.296
+23,Qatar,Mercedes,HAM,45,13,85.28
+23,Qatar,Racing Bulls,TSU,45,14,86.798
+23,Qatar,Racing Bulls,LAW,45,15,86.207
+23,Qatar,Red Bull,VER,27,1,84.72
+23,Qatar,McLaren,NOR,27,2,84.861
+23,Qatar,McLaren,PIA,27,3,84.727
+23,Qatar,Ferrari,LEC,27,4,84.749
+23,Qatar,Ferrari,SAI,27,5,84.859
+23,Qatar,Red Bull,PER,27,6,85.576
+23,Qatar,Mercedes,HAM,27,7,85.227
+23,Qatar,Alpine,GAS,27,8,85.969
+23,Qatar,Aston Martin,ALO,27,9,86.085
+23,Qatar,Haas,MAG,27,10,90.05
+23,Qatar,Mercedes,RUS,27,11,86.155
+23,Qatar,Kick Sauber,ZHO,27,12,85.912
+23,Qatar,Racing Bulls,TSU,27,13,86.505
+23,Qatar,Williams,ALB,27,14,86.663
+23,Qatar,Haas,HUL,27,15,86.737
+23,Qatar,Racing Bulls,LAW,27,16,86.56
+23,Qatar,Kick Sauber,BOT,27,17,86.69
+23,Qatar,Red Bull,VER,3,1,137.39
+23,Qatar,McLaren,NOR,3,2,137.622
+23,Qatar,Mercedes,RUS,3,3,137.726
+23,Qatar,Ferrari,LEC,3,4,137.488
+23,Qatar,McLaren,PIA,3,5,137.707
+23,Qatar,Ferrari,SAI,3,6,137.994
+23,Qatar,Red Bull,PER,3,7,138.267
+23,Qatar,Aston Martin,ALO,3,8,138.215
+23,Qatar,Mercedes,HAM,3,9,138.93
+23,Qatar,Racing Bulls,TSU,3,10,138.497
+23,Qatar,Haas,MAG,3,11,138.697
+23,Qatar,Alpine,GAS,3,12,139.509
+23,Qatar,Kick Sauber,BOT,3,13,138.818
+23,Qatar,Racing Bulls,LAW,3,14,138.396
+23,Qatar,Kick Sauber,ZHO,3,15,138.331
+23,Qatar,Williams,ALB,3,16,137.47
+23,Qatar,Aston Martin,STR,3,17,136.92
+23,Qatar,Haas,HUL,3,18,131.639
+23,Qatar,Red Bull,VER,32,1,84.427
+23,Qatar,McLaren,NOR,32,2,84.65
+23,Qatar,McLaren,PIA,32,3,84.894
+23,Qatar,Ferrari,LEC,32,4,84.679
+23,Qatar,Ferrari,SAI,32,5,84.885
+23,Qatar,Red Bull,PER,32,6,85.39
+23,Qatar,Mercedes,HAM,32,7,85.253
+23,Qatar,Alpine,GAS,32,8,85.331
+23,Qatar,Aston Martin,ALO,32,9,85.649
+23,Qatar,Mercedes,RUS,32,10,85.583
+23,Qatar,Kick Sauber,ZHO,32,11,85.849
+23,Qatar,Racing Bulls,TSU,32,12,86.456
+23,Qatar,Williams,ALB,32,13,86.572
+23,Qatar,Racing Bulls,LAW,32,14,86.264
+23,Qatar,Haas,MAG,32,15,85.877
+23,Qatar,Haas,HUL,32,16,106.841
+23,Qatar,Kick Sauber,BOT,32,17,88.647
+23,Qatar,Red Bull,VER,23,1,84.856
+23,Qatar,McLaren,NOR,23,2,84.977
+23,Qatar,McLaren,PIA,23,3,85.634
+23,Qatar,Ferrari,LEC,23,4,85.189
+23,Qatar,Mercedes,RUS,23,5,89.591
+23,Qatar,Ferrari,SAI,23,6,85.373
+23,Qatar,Red Bull,PER,23,7,85.85
+23,Qatar,Mercedes,HAM,23,8,85.618
+23,Qatar,Haas,MAG,23,9,86.237
+23,Qatar,Alpine,GAS,23,10,86.298
+23,Qatar,Aston Martin,ALO,23,11,86.268
+23,Qatar,Kick Sauber,ZHO,23,12,86.126
+23,Qatar,Kick Sauber,BOT,23,13,86.299
+23,Qatar,Racing Bulls,TSU,23,14,87.139
+23,Qatar,Williams,ALB,23,15,86.951
+23,Qatar,Haas,HUL,23,16,87.3
+23,Qatar,Racing Bulls,LAW,23,17,86.886
+23,Qatar,Red Bull,VER,31,1,84.413
+23,Qatar,McLaren,NOR,31,2,84.794
+23,Qatar,McLaren,PIA,31,3,84.883
+23,Qatar,Ferrari,LEC,31,4,84.71
+23,Qatar,Ferrari,SAI,31,5,84.802
+23,Qatar,Red Bull,PER,31,6,85.288
+23,Qatar,Mercedes,HAM,31,7,85.272
+23,Qatar,Alpine,GAS,31,8,85.335
+23,Qatar,Aston Martin,ALO,31,9,85.724
+23,Qatar,Mercedes,RUS,31,10,85.811
+23,Qatar,Kick Sauber,ZHO,31,11,85.899
+23,Qatar,Racing Bulls,TSU,31,12,86.369
+23,Qatar,Williams,ALB,31,13,86.39
+23,Qatar,Racing Bulls,LAW,31,14,86.242
+23,Qatar,Haas,HUL,31,15,90.767
+23,Qatar,Haas,MAG,31,16,85.307
+23,Qatar,Kick Sauber,BOT,31,17,86.288
+23,Qatar,Red Bull,VER,12,1,85.903
+23,Qatar,McLaren,NOR,12,2,85.813
+23,Qatar,Mercedes,RUS,12,3,85.989
+23,Qatar,McLaren,PIA,12,4,86.288
+23,Qatar,Ferrari,LEC,12,5,86.027
+23,Qatar,Ferrari,SAI,12,6,86.223
+23,Qatar,Red Bull,PER,12,7,86.729
+23,Qatar,Mercedes,HAM,12,8,86.532
+23,Qatar,Haas,MAG,12,9,87.513
+23,Qatar,Racing Bulls,TSU,12,10,87.91
+23,Qatar,Alpine,GAS,12,11,87.827
+23,Qatar,Aston Martin,ALO,12,12,87.906
+23,Qatar,Kick Sauber,ZHO,12,13,87.973
+23,Qatar,Kick Sauber,BOT,12,14,87.842
+23,Qatar,Williams,ALB,12,15,87.299
+23,Qatar,Haas,HUL,12,16,88.229
+23,Qatar,Racing Bulls,LAW,12,17,88.11
+23,Qatar,Red Bull,VER,51,1,83.043
+23,Qatar,Ferrari,LEC,51,2,83.332
+23,Qatar,McLaren,PIA,51,3,83.218
+23,Qatar,Mercedes,RUS,51,4,83.495
+23,Qatar,Alpine,GAS,51,5,83.904
+23,Qatar,Ferrari,SAI,51,6,84.922
+23,Qatar,Aston Martin,ALO,51,7,84.054
+23,Qatar,Kick Sauber,ZHO,51,8,84.425
+23,Qatar,Haas,MAG,51,9,84.558
+23,Qatar,Williams,ALB,51,10,86.66
+23,Qatar,Kick Sauber,BOT,51,11,86.352
+23,Qatar,Racing Bulls,TSU,51,12,87.301
+23,Qatar,McLaren,NOR,51,13,85.197
+23,Qatar,Racing Bulls,LAW,51,14,88.245
+23,Qatar,Mercedes,HAM,51,15,84.462
+23,Qatar,Red Bull,VER,34,1,84.468
+23,Qatar,McLaren,NOR,34,2,84.562
+23,Qatar,Ferrari,LEC,34,3,84.754
+23,Qatar,McLaren,PIA,34,4,89.34
+23,Qatar,Red Bull,PER,34,5,86.5
+23,Qatar,Ferrari,SAI,34,6,107.696
+23,Qatar,Alpine,GAS,34,7,85.622
+23,Qatar,Mercedes,RUS,34,8,85.972
+23,Qatar,Aston Martin,ALO,34,9,87.518
+23,Qatar,Kick Sauber,ZHO,34,10,85.937
+23,Qatar,Racing Bulls,TSU,34,11,86.33
+23,Qatar,Williams,ALB,34,12,87.708
+23,Qatar,Racing Bulls,LAW,34,13,86.194
+23,Qatar,Haas,MAG,34,14,86.137
+23,Qatar,Mercedes,HAM,34,15,136.781
+23,Qatar,Haas,HUL,34,16,94.689
+23,Qatar,Kick Sauber,BOT,34,17,97.515
+23,Qatar,Red Bull,VER,5,1,86.724
+23,Qatar,McLaren,NOR,5,2,87.175
+23,Qatar,Mercedes,RUS,5,3,87.948
+23,Qatar,McLaren,PIA,5,4,87.603
+23,Qatar,Ferrari,LEC,5,5,89.202
+23,Qatar,Ferrari,SAI,5,6,89.355
+23,Qatar,Red Bull,PER,5,7,89.55
+23,Qatar,Mercedes,HAM,5,8,89.473
+23,Qatar,Racing Bulls,TSU,5,9,90.04
+23,Qatar,Haas,MAG,5,10,90.89
+23,Qatar,Aston Martin,ALO,5,11,92.386
+23,Qatar,Alpine,GAS,5,12,91.425
+23,Qatar,Kick Sauber,ZHO,5,13,90.517
+23,Qatar,Kick Sauber,BOT,5,14,92.024
+23,Qatar,Williams,ALB,5,15,91.146
+23,Qatar,Haas,HUL,5,16,91.557
+23,Qatar,Aston Martin,STR,5,17,93.523
+23,Qatar,Racing Bulls,LAW,5,18,97.35
+23,Qatar,Red Bull,VER,6,1,86.502
+23,Qatar,McLaren,NOR,6,2,86.683
+23,Qatar,Mercedes,RUS,6,3,86.797
+23,Qatar,McLaren,PIA,6,4,87.02
+23,Qatar,Ferrari,LEC,6,5,87.556
+23,Qatar,Ferrari,SAI,6,6,87.634
+23,Qatar,Red Bull,PER,6,7,87.827
+23,Qatar,Mercedes,HAM,6,8,88.084
+23,Qatar,Racing Bulls,TSU,6,9,88.679
+23,Qatar,Haas,MAG,6,10,88.533
+23,Qatar,Alpine,GAS,6,11,88.418
+23,Qatar,Aston Martin,ALO,6,12,89.044
+23,Qatar,Kick Sauber,ZHO,6,13,89.258
+23,Qatar,Kick Sauber,BOT,6,14,89.4
+23,Qatar,Williams,ALB,6,15,89.921
+23,Qatar,Haas,HUL,6,16,90.682
+23,Qatar,Aston Martin,STR,6,17,90.935
+23,Qatar,Racing Bulls,LAW,6,18,89.548
+23,Qatar,Red Bull,VER,11,1,85.808
+23,Qatar,McLaren,NOR,11,2,85.985
+23,Qatar,Mercedes,RUS,11,3,86.214
+23,Qatar,McLaren,PIA,11,4,86.382
+23,Qatar,Ferrari,LEC,11,5,86.381
+23,Qatar,Ferrari,SAI,11,6,86.378
+23,Qatar,Red Bull,PER,11,7,86.788
+23,Qatar,Mercedes,HAM,11,8,86.816
+23,Qatar,Haas,MAG,11,9,88.499
+23,Qatar,Racing Bulls,TSU,11,10,88.174
+23,Qatar,Alpine,GAS,11,11,88.181
+23,Qatar,Aston Martin,ALO,11,12,88.253
+23,Qatar,Kick Sauber,ZHO,11,13,88.164
+23,Qatar,Kick Sauber,BOT,11,14,88.141
+23,Qatar,Williams,ALB,11,15,89.252
+23,Qatar,Haas,HUL,11,16,88.031
+23,Qatar,Racing Bulls,LAW,11,17,88.037
