@@ -21,7 +21,8 @@ driver_colors <- list(
   "BEA" = "#800019", "RUS" = "#27F4D2", "HAM" = "#09AA8F", "NOR" = "#FF8000",
   "PIA" = "#994C00", "ALO" = "#229971", "STR" = "#104735", "RIC" = "#6692FF",
   "LAW" = "#6692FF", "TSU" = "#5274CC", "HUL" = "#B6BABD", "MAG" = "#81888D",
-  "ALB" = "#64C4FF", "COL" = "#4789B3", "GAS" = "#0093CC", "OCO" = "#004966"
+  "ALB" = "#64C4FF", "COL" = "#4789B3", "GAS" = "#0093CC", "OCO" = "#004966",
+  "ZHO" = "#52E252", "BOT" = "#1FAD1F"
 )
 
 # Outlier function
@@ -165,3 +166,9 @@ plot_all("Brazil", "OCO", "GAS", "#009B3A")
 
 # Las Vegas GP
 plot_all("Las Vegas", "HAM", "RUS", "#0B45A1")
+
+# Qatar GP
+plot_all("Qatar", "MAG", "ZHO", "#8A1538")
+
+# Abu Dhabi GP
+plot_all("Abu Dhabi", "HAM", "LEC", "#FF0000")
