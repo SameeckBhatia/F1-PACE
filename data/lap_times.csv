@@ -25540,3 +25540,1036 @@ round,grand_prix,constructor,driver,lap,position,time
 23,Qatar,Williams,ALB,11,15,89.252
 23,Qatar,Haas,HUL,11,16,88.031
 23,Qatar,Racing Bulls,LAW,11,17,88.037
+24,Abu Dhabi,McLaren,NOR,20,1,89.213
+24,Abu Dhabi,Ferrari,SAI,20,2,89.208
+24,Abu Dhabi,Mercedes,RUS,20,3,89.903
+24,Abu Dhabi,Ferrari,LEC,20,4,92.189
+24,Abu Dhabi,Red Bull,VER,20,5,90.004
+24,Abu Dhabi,Mercedes,HAM,20,6,89.807
+24,Abu Dhabi,Racing Bulls,LAW,20,7,90.725
+24,Abu Dhabi,Alpine,GAS,20,8,89.562
+24,Abu Dhabi,Haas,HUL,20,9,89.872
+24,Abu Dhabi,Racing Bulls,TSU,20,10,91.265
+24,Abu Dhabi,,DOO,20,11,90.94
+24,Abu Dhabi,Aston Martin,ALO,20,12,90.087
+24,Abu Dhabi,McLaren,PIA,20,13,90.191
+24,Abu Dhabi,Aston Martin,STR,20,14,90.375
+24,Abu Dhabi,Haas,MAG,20,15,90.819
+24,Abu Dhabi,Williams,ALB,20,16,90.183
+24,Abu Dhabi,Kick Sauber,ZHO,20,17,89.984
+24,Abu Dhabi,Kick Sauber,BOT,20,18,90.103
+24,Abu Dhabi,Williams,COL,20,19,90.066
+24,Abu Dhabi,McLaren,NOR,37,1,88.076
+24,Abu Dhabi,Ferrari,SAI,37,2,88.202
+24,Abu Dhabi,Ferrari,LEC,37,3,88.305
+24,Abu Dhabi,Mercedes,RUS,37,4,88.498
+24,Abu Dhabi,Alpine,GAS,37,5,89.212
+24,Abu Dhabi,Haas,HUL,37,6,89.277
+24,Abu Dhabi,Mercedes,HAM,37,7,87.741
+24,Abu Dhabi,Red Bull,VER,37,8,88.413
+24,Abu Dhabi,Aston Martin,ALO,37,9,91.999
+24,Abu Dhabi,Williams,ALB,37,10,89.576
+24,Abu Dhabi,Kick Sauber,ZHO,37,11,89.708
+24,Abu Dhabi,Racing Bulls,TSU,37,12,89.626
+24,Abu Dhabi,,DOO,37,13,89.495
+24,Abu Dhabi,Aston Martin,STR,37,14,88.798
+24,Abu Dhabi,McLaren,PIA,37,15,88.469
+24,Abu Dhabi,Haas,MAG,37,16,88.996
+24,Abu Dhabi,Racing Bulls,LAW,37,17,89.562
+24,Abu Dhabi,McLaren,NOR,7,1,89.024
+24,Abu Dhabi,Ferrari,SAI,7,2,89.063
+24,Abu Dhabi,Alpine,GAS,7,3,89.744
+24,Abu Dhabi,Mercedes,RUS,7,4,89.738
+24,Abu Dhabi,Haas,HUL,7,5,89.76
+24,Abu Dhabi,Aston Martin,ALO,7,6,89.785
+24,Abu Dhabi,Ferrari,LEC,7,7,89.538
+24,Abu Dhabi,Haas,MAG,7,8,91.078
+24,Abu Dhabi,Red Bull,VER,7,9,89.885
+24,Abu Dhabi,Aston Martin,STR,7,10,90.19
+24,Abu Dhabi,Racing Bulls,LAW,7,11,90.264
+24,Abu Dhabi,Mercedes,HAM,7,12,90.355
+24,Abu Dhabi,Kick Sauber,ZHO,7,13,90.541
+24,Abu Dhabi,Williams,ALB,7,14,90.317
+24,Abu Dhabi,Racing Bulls,TSU,7,15,90.436
+24,Abu Dhabi,,DOO,7,16,90.775
+24,Abu Dhabi,McLaren,PIA,7,17,89.152
+24,Abu Dhabi,Kick Sauber,BOT,7,18,130.132
+24,Abu Dhabi,Williams,COL,7,19,90.034
+24,Abu Dhabi,McLaren,NOR,4,1,89.01
+24,Abu Dhabi,Ferrari,SAI,4,2,88.995
+24,Abu Dhabi,Alpine,GAS,4,3,89.406
+24,Abu Dhabi,Mercedes,RUS,4,4,89.488
+24,Abu Dhabi,Haas,HUL,4,5,89.348
+24,Abu Dhabi,Aston Martin,ALO,4,6,89.434
+24,Abu Dhabi,Haas,MAG,4,7,89.202
+24,Abu Dhabi,Ferrari,LEC,4,8,89.273
+24,Abu Dhabi,Aston Martin,STR,4,9,89.685
+24,Abu Dhabi,Red Bull,VER,4,10,89.504
+24,Abu Dhabi,Racing Bulls,LAW,4,11,89.738
+24,Abu Dhabi,Mercedes,HAM,4,12,89.666
+24,Abu Dhabi,Kick Sauber,BOT,4,13,89.944
+24,Abu Dhabi,Kick Sauber,ZHO,4,14,89.966
+24,Abu Dhabi,Williams,ALB,4,15,90.06
+24,Abu Dhabi,Racing Bulls,TSU,4,16,90.115
+24,Abu Dhabi,,DOO,4,17,90.198
+24,Abu Dhabi,McLaren,PIA,4,18,92.201
+24,Abu Dhabi,Williams,COL,4,19,115.146
+24,Abu Dhabi,McLaren,NOR,55,1,87.647
+24,Abu Dhabi,Ferrari,SAI,55,2,87.765
+24,Abu Dhabi,Ferrari,LEC,55,3,88.387
+24,Abu Dhabi,Mercedes,RUS,55,4,88.361
+24,Abu Dhabi,Mercedes,HAM,55,5,87.398
+24,Abu Dhabi,Red Bull,VER,55,6,87.821
+24,Abu Dhabi,Alpine,GAS,55,7,90.172
+24,Abu Dhabi,Haas,HUL,55,8,89.939
+24,Abu Dhabi,Aston Martin,ALO,55,9,88.281
+24,Abu Dhabi,McLaren,PIA,55,10,87.781
+24,Abu Dhabi,Williams,ALB,55,11,90.406
+24,Abu Dhabi,Aston Martin,STR,55,12,88.618
+24,Abu Dhabi,Racing Bulls,TSU,55,13,90.255
+24,Abu Dhabi,Kick Sauber,ZHO,55,14,88.047
+24,Abu Dhabi,,DOO,55,15,89.647
+24,Abu Dhabi,Haas,MAG,55,16,91.958
+24,Abu Dhabi,Racing Bulls,LAW,55,17,89.184
+24,Abu Dhabi,McLaren,NOR,53,1,87.52
+24,Abu Dhabi,Ferrari,SAI,53,2,88.297
+24,Abu Dhabi,Ferrari,LEC,53,3,88.518
+24,Abu Dhabi,Mercedes,RUS,53,4,88.687
+24,Abu Dhabi,Mercedes,HAM,53,5,87.707
+24,Abu Dhabi,Red Bull,VER,53,6,88.064
+24,Abu Dhabi,Alpine,GAS,53,7,89.676
+24,Abu Dhabi,Haas,HUL,53,8,90.107
+24,Abu Dhabi,Aston Martin,ALO,53,9,88.231
+24,Abu Dhabi,McLaren,PIA,53,10,88.168
+24,Abu Dhabi,Williams,ALB,53,11,91.212
+24,Abu Dhabi,Racing Bulls,TSU,53,12,91.043
+24,Abu Dhabi,Aston Martin,STR,53,13,89.525
+24,Abu Dhabi,Kick Sauber,ZHO,53,14,88.483
+24,Abu Dhabi,,DOO,53,15,89.717
+24,Abu Dhabi,Haas,MAG,53,16,90.215
+24,Abu Dhabi,Racing Bulls,LAW,53,17,88.803
+24,Abu Dhabi,McLaren,NOR,21,1,89.133
+24,Abu Dhabi,Ferrari,SAI,21,2,89.191
+24,Abu Dhabi,Mercedes,RUS,21,3,90.368
+24,Abu Dhabi,Red Bull,VER,21,4,89.695
+24,Abu Dhabi,Mercedes,HAM,21,5,89.719
+24,Abu Dhabi,Racing Bulls,LAW,21,6,90.796
+24,Abu Dhabi,Alpine,GAS,21,7,89.725
+24,Abu Dhabi,Ferrari,LEC,21,8,108.662
+24,Abu Dhabi,Haas,HUL,21,9,89.891
+24,Abu Dhabi,Racing Bulls,TSU,21,10,91.218
+24,Abu Dhabi,,DOO,21,11,90.92
+24,Abu Dhabi,Aston Martin,ALO,21,12,90.133
+24,Abu Dhabi,McLaren,PIA,21,13,90.277
+24,Abu Dhabi,Aston Martin,STR,21,14,90.348
+24,Abu Dhabi,Haas,MAG,21,15,90.025
+24,Abu Dhabi,Williams,ALB,21,16,90.23
+24,Abu Dhabi,Kick Sauber,ZHO,21,17,89.928
+24,Abu Dhabi,Kick Sauber,BOT,21,18,89.823
+24,Abu Dhabi,Williams,COL,21,19,90.149
+24,Abu Dhabi,McLaren,NOR,45,1,88.055
+24,Abu Dhabi,Ferrari,SAI,45,2,88.331
+24,Abu Dhabi,Ferrari,LEC,45,3,88.312
+24,Abu Dhabi,Mercedes,RUS,45,4,88.709
+24,Abu Dhabi,Mercedes,HAM,45,5,87.629
+24,Abu Dhabi,Red Bull,VER,45,6,88.067
+24,Abu Dhabi,Alpine,GAS,45,7,90.401
+24,Abu Dhabi,Haas,HUL,45,8,89.756
+24,Abu Dhabi,Williams,ALB,45,9,89.475
+24,Abu Dhabi,Aston Martin,ALO,45,10,88.238
+24,Abu Dhabi,Racing Bulls,TSU,45,11,90.557
+24,Abu Dhabi,McLaren,PIA,45,12,90.015
+24,Abu Dhabi,Aston Martin,STR,45,13,88.777
+24,Abu Dhabi,,DOO,45,14,89.493
+24,Abu Dhabi,Kick Sauber,ZHO,45,15,88.689
+24,Abu Dhabi,Haas,MAG,45,16,89.632
+24,Abu Dhabi,Racing Bulls,LAW,45,17,89.188
+24,Abu Dhabi,McLaren,NOR,5,1,89.104
+24,Abu Dhabi,Ferrari,SAI,5,2,89.25
+24,Abu Dhabi,Alpine,GAS,5,3,89.611
+24,Abu Dhabi,Mercedes,RUS,5,4,89.796
+24,Abu Dhabi,Haas,HUL,5,5,89.968
+24,Abu Dhabi,Aston Martin,ALO,5,6,90.084
+24,Abu Dhabi,Haas,MAG,5,7,90.04
+24,Abu Dhabi,Ferrari,LEC,5,8,89.753
+24,Abu Dhabi,Aston Martin,STR,5,9,90.05
+24,Abu Dhabi,Red Bull,VER,5,10,89.813
+24,Abu Dhabi,Racing Bulls,LAW,5,11,89.869
+24,Abu Dhabi,Mercedes,HAM,5,12,89.733
+24,Abu Dhabi,Kick Sauber,BOT,5,13,90.474
+24,Abu Dhabi,Kick Sauber,ZHO,5,14,90.462
+24,Abu Dhabi,Williams,ALB,5,15,90.369
+24,Abu Dhabi,Racing Bulls,TSU,5,16,90.343
+24,Abu Dhabi,,DOO,5,17,90.457
+24,Abu Dhabi,McLaren,PIA,5,18,110.887
+24,Abu Dhabi,Williams,COL,5,19,89.411
+24,Abu Dhabi,McLaren,NOR,58,1,89.858
+24,Abu Dhabi,Ferrari,SAI,58,2,88.031
+24,Abu Dhabi,Ferrari,LEC,58,3,89.918
+24,Abu Dhabi,Mercedes,HAM,58,4,87.784
+24,Abu Dhabi,Mercedes,RUS,58,5,89.592
+24,Abu Dhabi,Red Bull,VER,58,6,88.78
+24,Abu Dhabi,Alpine,GAS,58,7,90.865
+24,Abu Dhabi,Haas,HUL,58,8,90.04
+24,Abu Dhabi,Aston Martin,ALO,58,9,88.621
+24,Abu Dhabi,McLaren,PIA,58,10,88.01
+24,Abu Dhabi,McLaren,NOR,33,1,88.126
+24,Abu Dhabi,Ferrari,SAI,33,2,88.37
+24,Abu Dhabi,Mercedes,HAM,33,3,89.589
+24,Abu Dhabi,Ferrari,LEC,33,4,88.518
+24,Abu Dhabi,Mercedes,RUS,33,5,88.611
+24,Abu Dhabi,Alpine,GAS,33,6,89.516
+24,Abu Dhabi,Haas,HUL,33,7,89.331
+24,Abu Dhabi,Aston Martin,ALO,33,8,89.839
+24,Abu Dhabi,Red Bull,VER,33,9,88.333
+24,Abu Dhabi,Williams,ALB,33,10,89.712
+24,Abu Dhabi,Kick Sauber,ZHO,33,11,90.014
+24,Abu Dhabi,Racing Bulls,TSU,33,12,89.741
+24,Abu Dhabi,,DOO,33,13,90.131
+24,Abu Dhabi,Aston Martin,STR,33,14,110.047
+24,Abu Dhabi,McLaren,PIA,33,15,120.448
+24,Abu Dhabi,Haas,MAG,33,16,89.175
+24,Abu Dhabi,Racing Bulls,LAW,33,17,89.25
+24,Abu Dhabi,McLaren,NOR,43,1,88.002
+24,Abu Dhabi,Ferrari,SAI,43,2,87.854
+24,Abu Dhabi,Ferrari,LEC,43,3,88.571
+24,Abu Dhabi,Mercedes,RUS,43,4,88.329
+24,Abu Dhabi,Mercedes,HAM,43,5,87.556
+24,Abu Dhabi,Alpine,GAS,43,6,89.453
+24,Abu Dhabi,Red Bull,VER,43,7,88.089
+24,Abu Dhabi,Haas,HUL,43,8,90.47
+24,Abu Dhabi,Williams,ALB,43,9,89.696
+24,Abu Dhabi,Racing Bulls,TSU,43,10,89.412
+24,Abu Dhabi,Aston Martin,ALO,43,11,88.729
+24,Abu Dhabi,McLaren,PIA,43,12,88.052
+24,Abu Dhabi,Aston Martin,STR,43,13,88.804
+24,Abu Dhabi,,DOO,43,14,91.232
+24,Abu Dhabi,Kick Sauber,ZHO,43,15,88.69
+24,Abu Dhabi,Haas,MAG,43,16,88.89
+24,Abu Dhabi,Racing Bulls,LAW,43,17,91.416
+24,Abu Dhabi,McLaren,NOR,35,1,87.974
+24,Abu Dhabi,Ferrari,SAI,35,2,88.22
+24,Abu Dhabi,Ferrari,LEC,35,3,88.312
+24,Abu Dhabi,Mercedes,RUS,35,4,88.473
+24,Abu Dhabi,Alpine,GAS,35,5,89.5
+24,Abu Dhabi,Haas,HUL,35,6,89.358
+24,Abu Dhabi,Mercedes,HAM,35,7,108.722
+24,Abu Dhabi,Aston Martin,ALO,35,8,90.225
+24,Abu Dhabi,Red Bull,VER,35,9,89.111
+24,Abu Dhabi,Williams,ALB,35,10,89.683
+24,Abu Dhabi,Kick Sauber,ZHO,35,11,89.834
+24,Abu Dhabi,Racing Bulls,TSU,35,12,89.49
+24,Abu Dhabi,,DOO,35,13,89.713
+24,Abu Dhabi,Aston Martin,STR,35,14,89.398
+24,Abu Dhabi,McLaren,PIA,35,15,88.193
+24,Abu Dhabi,Haas,MAG,35,16,89.382
+24,Abu Dhabi,Racing Bulls,LAW,35,17,89.143
+24,Abu Dhabi,McLaren,NOR,2,1,108.349
+24,Abu Dhabi,Ferrari,SAI,2,2,109.77
+24,Abu Dhabi,Alpine,GAS,2,3,109.76
+24,Abu Dhabi,Mercedes,RUS,2,4,109.838
+24,Abu Dhabi,Haas,HUL,2,5,109.887
+24,Abu Dhabi,Aston Martin,ALO,2,6,110.156
+24,Abu Dhabi,Haas,MAG,2,7,110.197
+24,Abu Dhabi,Ferrari,LEC,2,8,113.013
+24,Abu Dhabi,Aston Martin,STR,2,9,113.356
+24,Abu Dhabi,Racing Bulls,LAW,2,10,114.148
+24,Abu Dhabi,Red Bull,VER,2,11,114.938
+24,Abu Dhabi,Mercedes,HAM,2,12,116.731
+24,Abu Dhabi,Kick Sauber,BOT,2,13,117.544
+24,Abu Dhabi,Kick Sauber,ZHO,2,14,119.827
+24,Abu Dhabi,Williams,ALB,2,15,120.191
+24,Abu Dhabi,,DOO,2,16,120.814
+24,Abu Dhabi,Racing Bulls,TSU,2,17,121.592
+24,Abu Dhabi,Williams,COL,2,18,122.028
+24,Abu Dhabi,McLaren,PIA,2,19,121.916
+24,Abu Dhabi,McLaren,NOR,27,1,107.513
+24,Abu Dhabi,Ferrari,SAI,27,2,88.177
+24,Abu Dhabi,Red Bull,VER,27,3,89.897
+24,Abu Dhabi,Mercedes,HAM,27,4,89.844
+24,Abu Dhabi,Ferrari,LEC,27,5,88.873
+24,Abu Dhabi,Mercedes,RUS,27,6,108.853
+24,Abu Dhabi,Alpine,GAS,27,7,90.381
+24,Abu Dhabi,Haas,HUL,27,8,89.808
+24,Abu Dhabi,Aston Martin,ALO,27,9,89.718
+24,Abu Dhabi,McLaren,PIA,27,10,89.631
+24,Abu Dhabi,Aston Martin,STR,27,11,90.163
+24,Abu Dhabi,Haas,MAG,27,12,90.623
+24,Abu Dhabi,Williams,ALB,27,13,90.326
+24,Abu Dhabi,Kick Sauber,ZHO,27,14,90.238
+24,Abu Dhabi,Racing Bulls,TSU,27,15,89.703
+24,Abu Dhabi,,DOO,27,16,90.173
+24,Abu Dhabi,Kick Sauber,BOT,27,17,90.814
+24,Abu Dhabi,Racing Bulls,LAW,27,18,89.637
+24,Abu Dhabi,McLaren,NOR,24,1,89.484
+24,Abu Dhabi,Ferrari,SAI,24,2,89.372
+24,Abu Dhabi,Mercedes,RUS,24,3,89.922
+24,Abu Dhabi,Red Bull,VER,24,4,89.75
+24,Abu Dhabi,Mercedes,HAM,24,5,89.698
+24,Abu Dhabi,Ferrari,LEC,24,6,89.185
+24,Abu Dhabi,Alpine,GAS,24,7,91.144
+24,Abu Dhabi,Haas,HUL,24,8,90.006
+24,Abu Dhabi,Aston Martin,ALO,24,9,89.652
+24,Abu Dhabi,McLaren,PIA,24,10,89.79
+24,Abu Dhabi,Aston Martin,STR,24,11,90.425
+24,Abu Dhabi,Haas,MAG,24,12,90.352
+24,Abu Dhabi,Williams,ALB,24,13,89.99
+24,Abu Dhabi,Kick Sauber,ZHO,24,14,89.935
+24,Abu Dhabi,Racing Bulls,TSU,24,15,89.905
+24,Abu Dhabi,Racing Bulls,LAW,24,16,116.467
+24,Abu Dhabi,Kick Sauber,BOT,24,17,90.673
+24,Abu Dhabi,,DOO,24,18,89.815
+24,Abu Dhabi,Williams,COL,24,19,90.528
+24,Abu Dhabi,McLaren,NOR,23,1,89.262
+24,Abu Dhabi,Ferrari,SAI,23,2,89.157
+24,Abu Dhabi,Mercedes,RUS,23,3,90.295
+24,Abu Dhabi,Red Bull,VER,23,4,89.939
+24,Abu Dhabi,Mercedes,HAM,23,5,89.787
+24,Abu Dhabi,Alpine,GAS,23,6,90.137
+24,Abu Dhabi,Ferrari,LEC,23,7,90.437
+24,Abu Dhabi,Haas,HUL,23,8,89.987
+24,Abu Dhabi,Racing Bulls,LAW,23,9,94.497
+24,Abu Dhabi,Aston Martin,ALO,23,10,89.863
+24,Abu Dhabi,McLaren,PIA,23,11,89.661
+24,Abu Dhabi,Aston Martin,STR,23,12,90.297
+24,Abu Dhabi,Haas,MAG,23,13,90.293
+24,Abu Dhabi,Williams,ALB,23,14,89.987
+24,Abu Dhabi,Kick Sauber,ZHO,23,15,89.946
+24,Abu Dhabi,Racing Bulls,TSU,23,16,110.323
+24,Abu Dhabi,Kick Sauber,BOT,23,17,90.799
+24,Abu Dhabi,,DOO,23,18,110.994
+24,Abu Dhabi,Williams,COL,23,19,90.387
+24,Abu Dhabi,McLaren,NOR,31,1,88.362
+24,Abu Dhabi,Ferrari,SAI,31,2,88.388
+24,Abu Dhabi,Mercedes,HAM,31,3,89.714
+24,Abu Dhabi,Ferrari,LEC,31,4,88.485
+24,Abu Dhabi,Mercedes,RUS,31,5,88.981
+24,Abu Dhabi,Alpine,GAS,31,6,89.563
+24,Abu Dhabi,Haas,HUL,31,7,89.727
+24,Abu Dhabi,Aston Martin,ALO,31,8,89.874
+24,Abu Dhabi,McLaren,PIA,31,9,90.169
+24,Abu Dhabi,Red Bull,VER,31,10,88.088
+24,Abu Dhabi,Aston Martin,STR,31,11,90.696
+24,Abu Dhabi,Williams,ALB,31,12,90.108
+24,Abu Dhabi,Kick Sauber,ZHO,31,13,90.609
+24,Abu Dhabi,Racing Bulls,TSU,31,14,89.757
+24,Abu Dhabi,,DOO,31,15,90.072
+24,Abu Dhabi,Haas,MAG,31,16,112.368
+24,Abu Dhabi,Racing Bulls,LAW,31,17,89.599
+24,Abu Dhabi,McLaren,NOR,36,1,87.875
+24,Abu Dhabi,Ferrari,SAI,36,2,88.367
+24,Abu Dhabi,Ferrari,LEC,36,3,88.09
+24,Abu Dhabi,Mercedes,RUS,36,4,88.501
+24,Abu Dhabi,Alpine,GAS,36,5,89.321
+24,Abu Dhabi,Haas,HUL,36,6,89.457
+24,Abu Dhabi,Mercedes,HAM,36,7,87.803
+24,Abu Dhabi,Red Bull,VER,36,8,88.557
+24,Abu Dhabi,Aston Martin,ALO,36,9,90.419
+24,Abu Dhabi,Williams,ALB,36,10,89.539
+24,Abu Dhabi,Kick Sauber,ZHO,36,11,89.753
+24,Abu Dhabi,Racing Bulls,TSU,36,12,89.335
+24,Abu Dhabi,,DOO,36,13,89.449
+24,Abu Dhabi,Aston Martin,STR,36,14,88.853
+24,Abu Dhabi,McLaren,PIA,36,15,87.931
+24,Abu Dhabi,Haas,MAG,36,16,89.176
+24,Abu Dhabi,Racing Bulls,LAW,36,17,89.307
+24,Abu Dhabi,McLaren,NOR,56,1,87.698
+24,Abu Dhabi,Ferrari,SAI,56,2,87.825
+24,Abu Dhabi,Ferrari,LEC,56,3,88.22
+24,Abu Dhabi,Mercedes,RUS,56,4,88.195
+24,Abu Dhabi,Mercedes,HAM,56,5,87.738
+24,Abu Dhabi,Red Bull,VER,56,6,87.765
+24,Abu Dhabi,Alpine,GAS,56,7,89.541
+24,Abu Dhabi,Haas,HUL,56,8,89.991
+24,Abu Dhabi,Aston Martin,ALO,56,9,88.276
+24,Abu Dhabi,McLaren,PIA,56,10,87.816
+24,Abu Dhabi,Williams,ALB,56,11,91.909
+24,Abu Dhabi,Aston Martin,STR,56,12,89.126
+24,Abu Dhabi,Racing Bulls,TSU,56,13,89.429
+24,Abu Dhabi,Kick Sauber,ZHO,56,14,87.982
+24,Abu Dhabi,,DOO,56,15,89.121
+24,Abu Dhabi,Haas,MAG,56,16,112.994
+24,Abu Dhabi,McLaren,NOR,16,1,88.951
+24,Abu Dhabi,Ferrari,SAI,16,2,89.224
+24,Abu Dhabi,Mercedes,RUS,16,3,89.795
+24,Abu Dhabi,Ferrari,LEC,16,4,89.82
+24,Abu Dhabi,Red Bull,VER,16,5,90.047
+24,Abu Dhabi,Mercedes,HAM,16,6,89.966
+24,Abu Dhabi,Racing Bulls,LAW,16,7,90.62
+24,Abu Dhabi,Racing Bulls,TSU,16,8,90.714
+24,Abu Dhabi,Alpine,GAS,16,9,89.927
+24,Abu Dhabi,,DOO,16,10,91.1
+24,Abu Dhabi,Haas,HUL,16,11,89.985
+24,Abu Dhabi,Aston Martin,ALO,16,12,89.907
+24,Abu Dhabi,McLaren,PIA,16,13,89.904
+24,Abu Dhabi,Aston Martin,STR,16,14,90.032
+24,Abu Dhabi,Haas,MAG,16,15,90.014
+24,Abu Dhabi,Williams,ALB,16,16,89.927
+24,Abu Dhabi,Kick Sauber,ZHO,16,17,90.136
+24,Abu Dhabi,Kick Sauber,BOT,16,18,89.582
+24,Abu Dhabi,Williams,COL,16,19,90.464
+24,Abu Dhabi,McLaren,NOR,3,1,103.313
+24,Abu Dhabi,Ferrari,SAI,3,2,102.795
+24,Abu Dhabi,Alpine,GAS,3,3,102.837
+24,Abu Dhabi,Mercedes,RUS,3,4,102.811
+24,Abu Dhabi,Haas,HUL,3,5,102.689
+24,Abu Dhabi,Aston Martin,ALO,3,6,102.24
+24,Abu Dhabi,Haas,MAG,3,7,102.283
+24,Abu Dhabi,Ferrari,LEC,3,8,99.656
+24,Abu Dhabi,Aston Martin,STR,3,9,99.525
+24,Abu Dhabi,Red Bull,VER,3,10,98.051
+24,Abu Dhabi,Racing Bulls,LAW,3,11,100.324
+24,Abu Dhabi,Mercedes,HAM,3,12,97.736
+24,Abu Dhabi,Kick Sauber,BOT,3,13,98.101
+24,Abu Dhabi,Kick Sauber,ZHO,3,14,95.927
+24,Abu Dhabi,Williams,ALB,3,15,95.776
+24,Abu Dhabi,Racing Bulls,TSU,3,16,94.821
+24,Abu Dhabi,,DOO,3,17,96.802
+24,Abu Dhabi,McLaren,PIA,3,18,94.86
+24,Abu Dhabi,Williams,COL,3,19,130.71
+24,Abu Dhabi,McLaren,NOR,29,1,88.439
+24,Abu Dhabi,Ferrari,SAI,29,2,88.399
+24,Abu Dhabi,Red Bull,VER,29,3,91.857
+24,Abu Dhabi,Mercedes,HAM,29,4,89.756
+24,Abu Dhabi,Ferrari,LEC,29,5,88.56
+24,Abu Dhabi,Mercedes,RUS,29,6,88.48
+24,Abu Dhabi,Alpine,GAS,29,7,89.409
+24,Abu Dhabi,Haas,HUL,29,8,89.784
+24,Abu Dhabi,Aston Martin,ALO,29,9,89.828
+24,Abu Dhabi,McLaren,PIA,29,10,89.735
+24,Abu Dhabi,Aston Martin,STR,29,11,90.162
+24,Abu Dhabi,Williams,ALB,29,12,90.082
+24,Abu Dhabi,Haas,MAG,29,13,91.849
+24,Abu Dhabi,Kick Sauber,ZHO,29,14,90.244
+24,Abu Dhabi,Racing Bulls,TSU,29,15,89.582
+24,Abu Dhabi,,DOO,29,16,90.212
+24,Abu Dhabi,Kick Sauber,BOT,29,17,90.691
+24,Abu Dhabi,Racing Bulls,LAW,29,18,92.322
+24,Abu Dhabi,McLaren,NOR,28,1,88.325
+24,Abu Dhabi,Ferrari,SAI,28,2,88.482
+24,Abu Dhabi,Red Bull,VER,28,3,90.274
+24,Abu Dhabi,Mercedes,HAM,28,4,89.481
+24,Abu Dhabi,Ferrari,LEC,28,5,88.443
+24,Abu Dhabi,Mercedes,RUS,28,6,88.47
+24,Abu Dhabi,Alpine,GAS,28,7,89.596
+24,Abu Dhabi,Haas,HUL,28,8,89.572
+24,Abu Dhabi,Aston Martin,ALO,28,9,89.672
+24,Abu Dhabi,McLaren,PIA,28,10,90.036
+24,Abu Dhabi,Aston Martin,STR,28,11,90.32
+24,Abu Dhabi,Haas,MAG,28,12,90.42
+24,Abu Dhabi,Williams,ALB,28,13,90.058
+24,Abu Dhabi,Kick Sauber,ZHO,28,14,90.148
+24,Abu Dhabi,Racing Bulls,TSU,28,15,89.775
+24,Abu Dhabi,,DOO,28,16,90.089
+24,Abu Dhabi,Kick Sauber,BOT,28,17,90.702
+24,Abu Dhabi,Racing Bulls,LAW,28,18,89.585
+24,Abu Dhabi,McLaren,NOR,54,1,88.124
+24,Abu Dhabi,Ferrari,SAI,54,2,88.183
+24,Abu Dhabi,Ferrari,LEC,54,3,88.47
+24,Abu Dhabi,Mercedes,RUS,54,4,88.38
+24,Abu Dhabi,Mercedes,HAM,54,5,87.342
+24,Abu Dhabi,Red Bull,VER,54,6,88.352
+24,Abu Dhabi,Alpine,GAS,54,7,89.447
+24,Abu Dhabi,Haas,HUL,54,8,89.819
+24,Abu Dhabi,Aston Martin,ALO,54,9,88.214
+24,Abu Dhabi,McLaren,PIA,54,10,87.731
+24,Abu Dhabi,Williams,ALB,54,11,91.529
+24,Abu Dhabi,Racing Bulls,TSU,54,12,89.543
+24,Abu Dhabi,Aston Martin,STR,54,13,89.568
+24,Abu Dhabi,Kick Sauber,ZHO,54,14,88.022
+24,Abu Dhabi,,DOO,54,15,89.539
+24,Abu Dhabi,Haas,MAG,54,16,91.204
+24,Abu Dhabi,Racing Bulls,LAW,54,17,88.819
+24,Abu Dhabi,McLaren,NOR,11,1,89.128
+24,Abu Dhabi,Ferrari,SAI,11,2,89.246
+24,Abu Dhabi,Alpine,GAS,11,3,90.072
+24,Abu Dhabi,Mercedes,RUS,11,4,90.055
+24,Abu Dhabi,Haas,HUL,11,5,90.744
+24,Abu Dhabi,Ferrari,LEC,11,6,90.268
+24,Abu Dhabi,Aston Martin,ALO,11,7,91.088
+24,Abu Dhabi,Red Bull,VER,11,8,90.395
+24,Abu Dhabi,Haas,MAG,11,9,90.943
+24,Abu Dhabi,Racing Bulls,LAW,11,10,90.989
+24,Abu Dhabi,Aston Martin,STR,11,11,92.854
+24,Abu Dhabi,Mercedes,HAM,11,12,91.066
+24,Abu Dhabi,Kick Sauber,ZHO,11,13,90.808
+24,Abu Dhabi,Williams,ALB,11,14,90.758
+24,Abu Dhabi,Racing Bulls,TSU,11,15,90.835
+24,Abu Dhabi,,DOO,11,16,90.825
+24,Abu Dhabi,McLaren,PIA,11,17,89.317
+24,Abu Dhabi,Kick Sauber,BOT,11,18,89.893
+24,Abu Dhabi,Williams,COL,11,19,90.459
+24,Abu Dhabi,McLaren,NOR,49,1,88.371
+24,Abu Dhabi,Ferrari,SAI,49,2,87.871
+24,Abu Dhabi,Ferrari,LEC,49,3,88.36
+24,Abu Dhabi,Mercedes,RUS,49,4,88.42
+24,Abu Dhabi,Mercedes,HAM,49,5,87.49
+24,Abu Dhabi,Red Bull,VER,49,6,87.927
+24,Abu Dhabi,Alpine,GAS,49,7,89.493
+24,Abu Dhabi,Haas,HUL,49,8,89.359
+24,Abu Dhabi,Williams,ALB,49,9,89.944
+24,Abu Dhabi,Aston Martin,ALO,49,10,88.372
+24,Abu Dhabi,McLaren,PIA,49,11,87.928
+24,Abu Dhabi,Racing Bulls,TSU,49,12,89.671
+24,Abu Dhabi,Aston Martin,STR,49,13,90.413
+24,Abu Dhabi,,DOO,49,14,89.617
+24,Abu Dhabi,Kick Sauber,ZHO,49,15,89.096
+24,Abu Dhabi,Haas,MAG,49,16,90.332
+24,Abu Dhabi,Racing Bulls,LAW,49,17,89.558
+24,Abu Dhabi,McLaren,NOR,50,1,88.128
+24,Abu Dhabi,Ferrari,SAI,50,2,87.885
+24,Abu Dhabi,Ferrari,LEC,50,3,88.213
+24,Abu Dhabi,Mercedes,RUS,50,4,88.623
+24,Abu Dhabi,Mercedes,HAM,50,5,87.735
+24,Abu Dhabi,Red Bull,VER,50,6,87.961
+24,Abu Dhabi,Alpine,GAS,50,7,89.606
+24,Abu Dhabi,Haas,HUL,50,8,89.595
+24,Abu Dhabi,Williams,ALB,50,9,89.699
+24,Abu Dhabi,Aston Martin,ALO,50,10,88.709
+24,Abu Dhabi,McLaren,PIA,50,11,87.705
+24,Abu Dhabi,Racing Bulls,TSU,50,12,91.091
+24,Abu Dhabi,Aston Martin,STR,50,13,89.244
+24,Abu Dhabi,,DOO,50,14,90.537
+24,Abu Dhabi,Kick Sauber,ZHO,50,15,90.162
+24,Abu Dhabi,Haas,MAG,50,16,91.11
+24,Abu Dhabi,Racing Bulls,LAW,50,17,88.851
+24,Abu Dhabi,McLaren,NOR,42,1,88.162
+24,Abu Dhabi,Ferrari,SAI,42,2,88.255
+24,Abu Dhabi,Ferrari,LEC,42,3,88.49
+24,Abu Dhabi,Mercedes,RUS,42,4,88.438
+24,Abu Dhabi,Mercedes,HAM,42,5,87.692
+24,Abu Dhabi,Alpine,GAS,42,6,89.998
+24,Abu Dhabi,Haas,HUL,42,7,89.379
+24,Abu Dhabi,Red Bull,VER,42,8,88.113
+24,Abu Dhabi,Williams,ALB,42,9,89.615
+24,Abu Dhabi,Racing Bulls,TSU,42,10,89.348
+24,Abu Dhabi,Aston Martin,ALO,42,11,88.379
+24,Abu Dhabi,McLaren,PIA,42,12,88.067
+24,Abu Dhabi,Aston Martin,STR,42,13,88.604
+24,Abu Dhabi,,DOO,42,14,89.592
+24,Abu Dhabi,Kick Sauber,ZHO,42,15,88.303
+24,Abu Dhabi,Haas,MAG,42,16,89.086
+24,Abu Dhabi,Racing Bulls,LAW,42,17,88.994
+24,Abu Dhabi,McLaren,NOR,26,1,91.567
+24,Abu Dhabi,Ferrari,SAI,26,2,107.557
+24,Abu Dhabi,Mercedes,RUS,26,3,92.057
+24,Abu Dhabi,Red Bull,VER,26,4,90.268
+24,Abu Dhabi,Mercedes,HAM,26,5,89.833
+24,Abu Dhabi,Ferrari,LEC,26,6,89.084
+24,Abu Dhabi,Alpine,GAS,26,7,89.688
+24,Abu Dhabi,Haas,HUL,26,8,89.715
+24,Abu Dhabi,Aston Martin,ALO,26,9,89.755
+24,Abu Dhabi,McLaren,PIA,26,10,89.669
+24,Abu Dhabi,Aston Martin,STR,26,11,90.185
+24,Abu Dhabi,Haas,MAG,26,12,90.514
+24,Abu Dhabi,Williams,ALB,26,13,90.197
+24,Abu Dhabi,Kick Sauber,ZHO,26,14,90.126
+24,Abu Dhabi,Racing Bulls,TSU,26,15,89.863
+24,Abu Dhabi,,DOO,26,16,90.411
+24,Abu Dhabi,Kick Sauber,BOT,26,17,91.252
+24,Abu Dhabi,Racing Bulls,LAW,26,18,89.611
+24,Abu Dhabi,Williams,COL,26,19,100.514
+24,Abu Dhabi,McLaren,NOR,44,1,87.962
+24,Abu Dhabi,Ferrari,SAI,44,2,88.148
+24,Abu Dhabi,Ferrari,LEC,44,3,88.743
+24,Abu Dhabi,Mercedes,RUS,44,4,88.436
+24,Abu Dhabi,Mercedes,HAM,44,5,87.278
+24,Abu Dhabi,Alpine,GAS,44,6,89.379
+24,Abu Dhabi,Red Bull,VER,44,7,88.501
+24,Abu Dhabi,Haas,HUL,44,8,89.595
+24,Abu Dhabi,Williams,ALB,44,9,89.622
+24,Abu Dhabi,Racing Bulls,TSU,44,10,89.432
+24,Abu Dhabi,Aston Martin,ALO,44,11,89.066
+24,Abu Dhabi,McLaren,PIA,44,12,88.497
+24,Abu Dhabi,Aston Martin,STR,44,13,88.731
+24,Abu Dhabi,,DOO,44,14,89.753
+24,Abu Dhabi,Kick Sauber,ZHO,44,15,88.678
+24,Abu Dhabi,Haas,MAG,44,16,91.131
+24,Abu Dhabi,Racing Bulls,LAW,44,17,89.297
+24,Abu Dhabi,McLaren,NOR,14,1,89.039
+24,Abu Dhabi,Ferrari,SAI,14,2,89.14
+24,Abu Dhabi,Mercedes,RUS,14,3,89.967
+24,Abu Dhabi,Alpine,GAS,14,4,92.241
+24,Abu Dhabi,Ferrari,LEC,14,5,89.516
+24,Abu Dhabi,Red Bull,VER,14,6,90.128
+24,Abu Dhabi,Mercedes,HAM,14,7,90.038
+24,Abu Dhabi,Racing Bulls,LAW,14,8,90.795
+24,Abu Dhabi,Racing Bulls,TSU,14,9,90.916
+24,Abu Dhabi,,DOO,14,10,90.61
+24,Abu Dhabi,Haas,HUL,14,11,109.649
+24,Abu Dhabi,Aston Martin,ALO,14,12,111.792
+24,Abu Dhabi,McLaren,PIA,14,13,89.319
+24,Abu Dhabi,Aston Martin,STR,14,14,90.544
+24,Abu Dhabi,Haas,MAG,14,15,89.826
+24,Abu Dhabi,Williams,ALB,14,16,89.897
+24,Abu Dhabi,Kick Sauber,ZHO,14,17,90.128
+24,Abu Dhabi,Kick Sauber,BOT,14,18,89.482
+24,Abu Dhabi,Williams,COL,14,19,92.731
+24,Abu Dhabi,McLaren,NOR,57,1,87.929
+24,Abu Dhabi,Ferrari,SAI,57,2,87.851
+24,Abu Dhabi,Ferrari,LEC,57,3,88.296
+24,Abu Dhabi,Mercedes,RUS,57,4,88.207
+24,Abu Dhabi,Mercedes,HAM,57,5,87.751
+24,Abu Dhabi,Red Bull,VER,57,6,88.174
+24,Abu Dhabi,Alpine,GAS,57,7,89.936
+24,Abu Dhabi,Haas,HUL,57,8,90.284
+24,Abu Dhabi,Aston Martin,ALO,57,9,88.937
+24,Abu Dhabi,McLaren,PIA,57,10,88.554
+24,Abu Dhabi,Williams,ALB,57,11,90.858
+24,Abu Dhabi,Aston Martin,STR,57,12,89.334
+24,Abu Dhabi,Racing Bulls,TSU,57,13,89.531
+24,Abu Dhabi,Kick Sauber,ZHO,57,14,88.374
+24,Abu Dhabi,,DOO,57,15,89.566
+24,Abu Dhabi,Haas,MAG,57,16,85.637
+24,Abu Dhabi,McLaren,NOR,48,1,88.205
+24,Abu Dhabi,Ferrari,SAI,48,2,88.144
+24,Abu Dhabi,Ferrari,LEC,48,3,88.171
+24,Abu Dhabi,Mercedes,RUS,48,4,88.505
+24,Abu Dhabi,Mercedes,HAM,48,5,87.727
+24,Abu Dhabi,Red Bull,VER,48,6,87.893
+24,Abu Dhabi,Alpine,GAS,48,7,89.434
+24,Abu Dhabi,Haas,HUL,48,8,89.573
+24,Abu Dhabi,Williams,ALB,48,9,90.058
+24,Abu Dhabi,Aston Martin,ALO,48,10,87.997
+24,Abu Dhabi,McLaren,PIA,48,11,88.407
+24,Abu Dhabi,Racing Bulls,TSU,48,12,90.439
+24,Abu Dhabi,Aston Martin,STR,48,13,88.831
+24,Abu Dhabi,,DOO,48,14,89.454
+24,Abu Dhabi,Kick Sauber,ZHO,48,15,88.619
+24,Abu Dhabi,Haas,MAG,48,16,90.029
+24,Abu Dhabi,Racing Bulls,LAW,48,17,89.587
+24,Abu Dhabi,McLaren,NOR,18,1,89.222
+24,Abu Dhabi,Ferrari,SAI,18,2,89.01
+24,Abu Dhabi,Mercedes,RUS,18,3,89.919
+24,Abu Dhabi,Ferrari,LEC,18,4,89.841
+24,Abu Dhabi,Red Bull,VER,18,5,89.826
+24,Abu Dhabi,Mercedes,HAM,18,6,89.756
+24,Abu Dhabi,Racing Bulls,LAW,18,7,90.723
+24,Abu Dhabi,Alpine,GAS,18,8,90.123
+24,Abu Dhabi,Racing Bulls,TSU,18,9,91.196
+24,Abu Dhabi,Haas,HUL,18,10,89.806
+24,Abu Dhabi,,DOO,18,11,90.964
+24,Abu Dhabi,Aston Martin,ALO,18,12,89.565
+24,Abu Dhabi,McLaren,PIA,18,13,89.607
+24,Abu Dhabi,Aston Martin,STR,18,14,89.744
+24,Abu Dhabi,Haas,MAG,18,15,89.837
+24,Abu Dhabi,Williams,ALB,18,16,89.854
+24,Abu Dhabi,Kick Sauber,ZHO,18,17,90.04
+24,Abu Dhabi,Kick Sauber,BOT,18,18,89.68
+24,Abu Dhabi,Williams,COL,18,19,90.259
+24,Abu Dhabi,McLaren,NOR,1,1,91.142
+24,Abu Dhabi,Ferrari,SAI,1,2,92.999
+24,Abu Dhabi,Alpine,GAS,1,3,93.984
+24,Abu Dhabi,Mercedes,RUS,1,4,94.679
+24,Abu Dhabi,Haas,HUL,1,5,95.498
+24,Abu Dhabi,Aston Martin,ALO,1,6,96.166
+24,Abu Dhabi,Haas,MAG,1,7,96.949
+24,Abu Dhabi,Ferrari,LEC,1,8,97.644
+24,Abu Dhabi,Aston Martin,STR,1,9,98.324
+24,Abu Dhabi,Racing Bulls,LAW,1,10,99.017
+24,Abu Dhabi,Red Bull,VER,1,11,99.51
+24,Abu Dhabi,Mercedes,HAM,1,12,99.884
+24,Abu Dhabi,Kick Sauber,BOT,1,13,100.183
+24,Abu Dhabi,Kick Sauber,ZHO,1,14,100.718
+24,Abu Dhabi,Williams,ALB,1,15,101.19
+24,Abu Dhabi,,DOO,1,16,101.564
+24,Abu Dhabi,Racing Bulls,TSU,1,17,102.007
+24,Abu Dhabi,Williams,COL,1,18,102.506
+24,Abu Dhabi,McLaren,PIA,1,19,103.757
+24,Abu Dhabi,McLaren,NOR,6,1,89.361
+24,Abu Dhabi,Ferrari,SAI,6,2,89.253
+24,Abu Dhabi,Alpine,GAS,6,3,90.014
+24,Abu Dhabi,Mercedes,RUS,6,4,89.791
+24,Abu Dhabi,Haas,HUL,6,5,89.787
+24,Abu Dhabi,Aston Martin,ALO,6,6,89.829
+24,Abu Dhabi,Haas,MAG,6,7,90.186
+24,Abu Dhabi,Ferrari,LEC,6,8,89.997
+24,Abu Dhabi,Red Bull,VER,6,9,89.412
+24,Abu Dhabi,Aston Martin,STR,6,10,91.119
+24,Abu Dhabi,Racing Bulls,LAW,6,11,90.563
+24,Abu Dhabi,Mercedes,HAM,6,12,90.693
+24,Abu Dhabi,Kick Sauber,ZHO,6,13,89.914
+24,Abu Dhabi,Williams,ALB,6,14,90.815
+24,Abu Dhabi,Racing Bulls,TSU,6,15,90.747
+24,Abu Dhabi,Kick Sauber,BOT,6,16,93.388
+24,Abu Dhabi,,DOO,6,17,90.503
+24,Abu Dhabi,McLaren,PIA,6,18,88.95
+24,Abu Dhabi,Williams,COL,6,19,89.861
+24,Abu Dhabi,McLaren,NOR,39,1,87.76
+24,Abu Dhabi,Ferrari,SAI,39,2,87.924
+24,Abu Dhabi,Ferrari,LEC,39,3,88.135
+24,Abu Dhabi,Mercedes,RUS,39,4,88.329
+24,Abu Dhabi,Alpine,GAS,39,5,89.321
+24,Abu Dhabi,Haas,HUL,39,6,89.234
+24,Abu Dhabi,Mercedes,HAM,39,7,88.001
+24,Abu Dhabi,Red Bull,VER,39,8,88.296
+24,Abu Dhabi,Williams,ALB,39,9,89.536
+24,Abu Dhabi,Kick Sauber,ZHO,39,10,91.75
+24,Abu Dhabi,Racing Bulls,TSU,39,11,89.26
+24,Abu Dhabi,Aston Martin,ALO,39,12,88.735
+24,Abu Dhabi,McLaren,PIA,39,13,88.206
+24,Abu Dhabi,,DOO,39,14,90.663
+24,Abu Dhabi,Aston Martin,STR,39,15,89.453
+24,Abu Dhabi,Haas,MAG,39,16,88.842
+24,Abu Dhabi,Racing Bulls,LAW,39,17,89.459
+24,Abu Dhabi,McLaren,NOR,38,1,87.907
+24,Abu Dhabi,Ferrari,SAI,38,2,88.103
+24,Abu Dhabi,Ferrari,LEC,38,3,88.189
+24,Abu Dhabi,Mercedes,RUS,38,4,88.463
+24,Abu Dhabi,Alpine,GAS,38,5,89.506
+24,Abu Dhabi,Haas,HUL,38,6,89.682
+24,Abu Dhabi,Mercedes,HAM,38,7,88.061
+24,Abu Dhabi,Red Bull,VER,38,8,88.36
+24,Abu Dhabi,Williams,ALB,38,9,89.589
+24,Abu Dhabi,Kick Sauber,ZHO,38,10,89.736
+24,Abu Dhabi,Racing Bulls,TSU,38,11,89.462
+24,Abu Dhabi,Aston Martin,ALO,38,12,109.629
+24,Abu Dhabi,,DOO,38,13,89.501
+24,Abu Dhabi,McLaren,PIA,38,14,88.238
+24,Abu Dhabi,Aston Martin,STR,38,15,89.877
+24,Abu Dhabi,Haas,MAG,38,16,88.655
+24,Abu Dhabi,Racing Bulls,LAW,38,17,89.492
+24,Abu Dhabi,McLaren,NOR,12,1,89.084
+24,Abu Dhabi,Ferrari,SAI,12,2,89.15
+24,Abu Dhabi,Alpine,GAS,12,3,90.174
+24,Abu Dhabi,Mercedes,RUS,12,4,90.038
+24,Abu Dhabi,Ferrari,LEC,12,5,89.507
+24,Abu Dhabi,Haas,HUL,12,6,91.288
+24,Abu Dhabi,Red Bull,VER,12,7,90.164
+24,Abu Dhabi,Aston Martin,ALO,12,8,91.821
+24,Abu Dhabi,Haas,MAG,12,9,92.565
+24,Abu Dhabi,Mercedes,HAM,12,10,89.955
+24,Abu Dhabi,Racing Bulls,LAW,12,11,91.887
+24,Abu Dhabi,Kick Sauber,ZHO,12,12,92.863
+24,Abu Dhabi,Racing Bulls,TSU,12,13,90.675
+24,Abu Dhabi,Williams,ALB,12,14,92.201
+24,Abu Dhabi,,DOO,12,15,90.859
+24,Abu Dhabi,Aston Martin,STR,12,16,111.685
+24,Abu Dhabi,McLaren,PIA,12,17,89.841
+24,Abu Dhabi,Kick Sauber,BOT,12,18,89.883
+24,Abu Dhabi,Williams,COL,12,19,90.208
+24,Abu Dhabi,McLaren,NOR,34,1,88.108
+24,Abu Dhabi,Ferrari,SAI,34,2,88.251
+24,Abu Dhabi,Ferrari,LEC,34,3,88.536
+24,Abu Dhabi,Mercedes,HAM,34,4,91.792
+24,Abu Dhabi,Mercedes,RUS,34,5,88.373
+24,Abu Dhabi,Alpine,GAS,34,6,89.431
+24,Abu Dhabi,Haas,HUL,34,7,89.535
+24,Abu Dhabi,Aston Martin,ALO,34,8,89.65
+24,Abu Dhabi,Red Bull,VER,34,9,88.409
+24,Abu Dhabi,Williams,ALB,34,10,89.768
+24,Abu Dhabi,Kick Sauber,ZHO,34,11,89.912
+24,Abu Dhabi,Racing Bulls,TSU,34,12,89.566
+24,Abu Dhabi,,DOO,34,13,90.025
+24,Abu Dhabi,Aston Martin,STR,34,14,89.589
+24,Abu Dhabi,McLaren,PIA,34,15,88.576
+24,Abu Dhabi,Haas,MAG,34,16,89.457
+24,Abu Dhabi,Racing Bulls,LAW,34,17,89.315
+24,Abu Dhabi,McLaren,NOR,41,1,87.857
+24,Abu Dhabi,Ferrari,SAI,41,2,88.032
+24,Abu Dhabi,Ferrari,LEC,41,3,88.403
+24,Abu Dhabi,Mercedes,RUS,41,4,88.677
+24,Abu Dhabi,Alpine,GAS,41,5,89.504
+24,Abu Dhabi,Mercedes,HAM,41,6,88.653
+24,Abu Dhabi,Haas,HUL,41,7,89.416
+24,Abu Dhabi,Red Bull,VER,41,8,88.439
+24,Abu Dhabi,Williams,ALB,41,9,89.471
+24,Abu Dhabi,Racing Bulls,TSU,41,10,89.2
+24,Abu Dhabi,Aston Martin,ALO,41,11,88.402
+24,Abu Dhabi,McLaren,PIA,41,12,88.112
+24,Abu Dhabi,Aston Martin,STR,41,13,88.995
+24,Abu Dhabi,,DOO,41,14,90.023
+24,Abu Dhabi,Kick Sauber,ZHO,41,15,88.255
+24,Abu Dhabi,Haas,MAG,41,16,88.637
+24,Abu Dhabi,Racing Bulls,LAW,41,17,89.079
+24,Abu Dhabi,McLaren,NOR,15,1,89.07
+24,Abu Dhabi,Ferrari,SAI,15,2,89.222
+24,Abu Dhabi,Mercedes,RUS,15,3,90.094
+24,Abu Dhabi,Ferrari,LEC,15,4,89.675
+24,Abu Dhabi,Red Bull,VER,15,5,89.876
+24,Abu Dhabi,Mercedes,HAM,15,6,89.872
+24,Abu Dhabi,Racing Bulls,LAW,15,7,90.46
+24,Abu Dhabi,Racing Bulls,TSU,15,8,90.686
+24,Abu Dhabi,Alpine,GAS,15,9,109.784
+24,Abu Dhabi,,DOO,15,10,92.119
+24,Abu Dhabi,Haas,HUL,15,11,89.786
+24,Abu Dhabi,Aston Martin,ALO,15,12,89.756
+24,Abu Dhabi,McLaren,PIA,15,13,89.895
+24,Abu Dhabi,Aston Martin,STR,15,14,89.963
+24,Abu Dhabi,Haas,MAG,15,15,89.899
+24,Abu Dhabi,Williams,ALB,15,16,89.994
+24,Abu Dhabi,Kick Sauber,ZHO,15,17,90.086
+24,Abu Dhabi,Kick Sauber,BOT,15,18,89.572
+24,Abu Dhabi,Williams,COL,15,19,92.892
+24,Abu Dhabi,McLaren,NOR,25,1,89.21
+24,Abu Dhabi,Ferrari,SAI,25,2,90.842
+24,Abu Dhabi,Mercedes,RUS,25,3,89.945
+24,Abu Dhabi,Red Bull,VER,25,4,89.852
+24,Abu Dhabi,Mercedes,HAM,25,5,89.616
+24,Abu Dhabi,Ferrari,LEC,25,6,88.912
+24,Abu Dhabi,Alpine,GAS,25,7,89.75
+24,Abu Dhabi,Haas,HUL,25,8,90.113
+24,Abu Dhabi,Aston Martin,ALO,25,9,89.802
+24,Abu Dhabi,McLaren,PIA,25,10,89.894
+24,Abu Dhabi,Aston Martin,STR,25,11,90.24
+24,Abu Dhabi,Haas,MAG,25,12,90.418
+24,Abu Dhabi,Williams,ALB,25,13,90.095
+24,Abu Dhabi,Kick Sauber,ZHO,25,14,90.31
+24,Abu Dhabi,Racing Bulls,TSU,25,15,89.911
+24,Abu Dhabi,,DOO,25,16,89.949
+24,Abu Dhabi,Kick Sauber,BOT,25,17,91.52
+24,Abu Dhabi,Racing Bulls,LAW,25,18,110.532
+24,Abu Dhabi,Williams,COL,25,19,90.254
+24,Abu Dhabi,McLaren,NOR,47,1,88.237
+24,Abu Dhabi,Ferrari,SAI,47,2,88.404
+24,Abu Dhabi,Ferrari,LEC,47,3,88.252
+24,Abu Dhabi,Mercedes,RUS,47,4,88.836
+24,Abu Dhabi,Mercedes,HAM,47,5,87.586
+24,Abu Dhabi,Red Bull,VER,47,6,88.304
+24,Abu Dhabi,Alpine,GAS,47,7,89.523
+24,Abu Dhabi,Haas,HUL,47,8,89.331
+24,Abu Dhabi,Williams,ALB,47,9,89.471
+24,Abu Dhabi,Aston Martin,ALO,47,10,88.231
+24,Abu Dhabi,Racing Bulls,TSU,47,11,89.505
+24,Abu Dhabi,McLaren,PIA,47,12,89.671
+24,Abu Dhabi,Aston Martin,STR,47,13,88.794
+24,Abu Dhabi,,DOO,47,14,89.753
+24,Abu Dhabi,Kick Sauber,ZHO,47,15,88.682
+24,Abu Dhabi,Haas,MAG,47,16,90.841
+24,Abu Dhabi,Racing Bulls,LAW,47,17,91.416
+24,Abu Dhabi,McLaren,NOR,30,1,88.235
+24,Abu Dhabi,Ferrari,SAI,30,2,88.184
+24,Abu Dhabi,Mercedes,HAM,30,3,89.486
+24,Abu Dhabi,Ferrari,LEC,30,4,88.609
+24,Abu Dhabi,Mercedes,RUS,30,5,88.35
+24,Abu Dhabi,Alpine,GAS,30,6,89.251
+24,Abu Dhabi,Haas,HUL,30,7,89.322
+24,Abu Dhabi,Aston Martin,ALO,30,8,89.9
+24,Abu Dhabi,McLaren,PIA,30,9,89.907
+24,Abu Dhabi,Aston Martin,STR,30,10,90.13
+24,Abu Dhabi,Red Bull,VER,30,11,119.495
+24,Abu Dhabi,Williams,ALB,30,12,89.835
+24,Abu Dhabi,Kick Sauber,ZHO,30,13,90.241
+24,Abu Dhabi,Racing Bulls,TSU,30,14,89.511
+24,Abu Dhabi,,DOO,30,15,90.119
+24,Abu Dhabi,Haas,MAG,30,16,121.98
+24,Abu Dhabi,Racing Bulls,LAW,30,17,123.413
+24,Abu Dhabi,Kick Sauber,BOT,30,18,143.554
+24,Abu Dhabi,McLaren,NOR,22,1,89.189
+24,Abu Dhabi,Ferrari,SAI,22,2,88.909
+24,Abu Dhabi,Mercedes,RUS,22,3,89.896
+24,Abu Dhabi,Red Bull,VER,22,4,89.889
+24,Abu Dhabi,Mercedes,HAM,22,5,89.655
+24,Abu Dhabi,Racing Bulls,LAW,22,6,91.167
+24,Abu Dhabi,Alpine,GAS,22,7,90.627
+24,Abu Dhabi,Ferrari,LEC,22,8,89.802
+24,Abu Dhabi,Haas,HUL,22,9,90.1
+24,Abu Dhabi,Racing Bulls,TSU,22,10,92.597
+24,Abu Dhabi,Aston Martin,ALO,22,11,90.178
+24,Abu Dhabi,McLaren,PIA,22,12,90.173
+24,Abu Dhabi,,DOO,22,13,93.037
+24,Abu Dhabi,Aston Martin,STR,22,14,90.376
+24,Abu Dhabi,Haas,MAG,22,15,90.25
+24,Abu Dhabi,Williams,ALB,22,16,90.183
+24,Abu Dhabi,Kick Sauber,ZHO,22,17,90.298
+24,Abu Dhabi,Kick Sauber,BOT,22,18,90.476
+24,Abu Dhabi,Williams,COL,22,19,90.317
+24,Abu Dhabi,McLaren,NOR,8,1,88.86
+24,Abu Dhabi,Ferrari,SAI,8,2,89.202
+24,Abu Dhabi,Alpine,GAS,8,3,89.732
+24,Abu Dhabi,Mercedes,RUS,8,4,89.988
+24,Abu Dhabi,Haas,HUL,8,5,90.089
+24,Abu Dhabi,Aston Martin,ALO,8,6,90.032
+24,Abu Dhabi,Ferrari,LEC,8,7,89.784
+24,Abu Dhabi,Haas,MAG,8,8,90.423
+24,Abu Dhabi,Red Bull,VER,8,9,89.824
+24,Abu Dhabi,Aston Martin,STR,8,10,90.467
+24,Abu Dhabi,Racing Bulls,LAW,8,11,90.345
+24,Abu Dhabi,Mercedes,HAM,8,12,90.218
+24,Abu Dhabi,Kick Sauber,ZHO,8,13,90.298
+24,Abu Dhabi,Williams,ALB,8,14,90.705
+24,Abu Dhabi,Racing Bulls,TSU,8,15,90.392
+24,Abu Dhabi,,DOO,8,16,90.952
+24,Abu Dhabi,McLaren,PIA,8,17,89.482
+24,Abu Dhabi,Kick Sauber,BOT,8,18,89.597
+24,Abu Dhabi,Williams,COL,8,19,90.27
+24,Abu Dhabi,McLaren,NOR,13,1,89.272
+24,Abu Dhabi,Ferrari,SAI,13,2,89.192
+24,Abu Dhabi,Alpine,GAS,13,3,90.173
+24,Abu Dhabi,Mercedes,RUS,13,4,90.08
+24,Abu Dhabi,Ferrari,LEC,13,5,89.834
+24,Abu Dhabi,Red Bull,VER,13,6,90.178
+24,Abu Dhabi,Haas,HUL,13,7,92.49
+24,Abu Dhabi,Aston Martin,ALO,13,8,93.244
+24,Abu Dhabi,Mercedes,HAM,13,9,90.28
+24,Abu Dhabi,Racing Bulls,LAW,13,10,91.234
+24,Abu Dhabi,Racing Bulls,TSU,13,11,90.727
+24,Abu Dhabi,,DOO,13,12,90.584
+24,Abu Dhabi,Aston Martin,STR,13,13,89.88
+24,Abu Dhabi,McLaren,PIA,13,14,89.567
+24,Abu Dhabi,Haas,MAG,13,15,113.873
+24,Abu Dhabi,Williams,ALB,13,16,109.973
+24,Abu Dhabi,Kick Sauber,ZHO,13,17,112.329
+24,Abu Dhabi,Kick Sauber,BOT,13,18,89.812
+24,Abu Dhabi,Williams,COL,13,19,90.26
+24,Abu Dhabi,McLaren,NOR,10,1,89.244
+24,Abu Dhabi,Ferrari,SAI,10,2,89.32
+24,Abu Dhabi,Alpine,GAS,10,3,90.127
+24,Abu Dhabi,Mercedes,RUS,10,4,90.056
+24,Abu Dhabi,Haas,HUL,10,5,90.401
+24,Abu Dhabi,Ferrari,LEC,10,6,90.008
+24,Abu Dhabi,Aston Martin,ALO,10,7,91.708
+24,Abu Dhabi,Red Bull,VER,10,8,90.449
+24,Abu Dhabi,Haas,MAG,10,9,91.035
+24,Abu Dhabi,Aston Martin,STR,10,10,90.836
+24,Abu Dhabi,Racing Bulls,LAW,10,11,90.759
+24,Abu Dhabi,Mercedes,HAM,10,12,90.655
+24,Abu Dhabi,Kick Sauber,ZHO,10,13,90.523
+24,Abu Dhabi,Williams,ALB,10,14,90.748
+24,Abu Dhabi,Racing Bulls,TSU,10,15,90.79
+24,Abu Dhabi,,DOO,10,16,91.054
+24,Abu Dhabi,McLaren,PIA,10,17,89.669
+24,Abu Dhabi,Kick Sauber,BOT,10,18,89.838
+24,Abu Dhabi,Williams,COL,10,19,90.4
+24,Abu Dhabi,McLaren,NOR,19,1,89.139
+24,Abu Dhabi,Ferrari,SAI,19,2,89.32
+24,Abu Dhabi,Mercedes,RUS,19,3,89.857
+24,Abu Dhabi,Ferrari,LEC,19,4,90.082
+24,Abu Dhabi,Red Bull,VER,19,5,90.076
+24,Abu Dhabi,Mercedes,HAM,19,6,89.849
+24,Abu Dhabi,Racing Bulls,LAW,19,7,90.896
+24,Abu Dhabi,Alpine,GAS,19,8,89.567
+24,Abu Dhabi,Haas,HUL,19,9,89.496
+24,Abu Dhabi,Racing Bulls,TSU,19,10,91.681
+24,Abu Dhabi,,DOO,19,11,90.902
+24,Abu Dhabi,Aston Martin,ALO,19,12,89.708
+24,Abu Dhabi,McLaren,PIA,19,13,90.058
+24,Abu Dhabi,Aston Martin,STR,19,14,90.074
+24,Abu Dhabi,Haas,MAG,19,15,90.041
+24,Abu Dhabi,Williams,ALB,19,16,90.012
+24,Abu Dhabi,Kick Sauber,ZHO,19,17,90.017
+24,Abu Dhabi,Kick Sauber,BOT,19,18,90.046
+24,Abu Dhabi,Williams,COL,19,19,90.441
+24,Abu Dhabi,McLaren,NOR,46,1,88.078
+24,Abu Dhabi,Ferrari,SAI,46,2,88.682
+24,Abu Dhabi,Ferrari,LEC,46,3,88.303
+24,Abu Dhabi,Mercedes,RUS,46,4,88.549
+24,Abu Dhabi,Mercedes,HAM,46,5,87.571
+24,Abu Dhabi,Red Bull,VER,46,6,88.231
+24,Abu Dhabi,Alpine,GAS,46,7,89.65
+24,Abu Dhabi,Haas,HUL,46,8,89.592
+24,Abu Dhabi,Williams,ALB,46,9,89.438
+24,Abu Dhabi,Aston Martin,ALO,46,10,88.583
+24,Abu Dhabi,Racing Bulls,TSU,46,11,89.8
+24,Abu Dhabi,McLaren,PIA,46,12,89.677
+24,Abu Dhabi,Aston Martin,STR,46,13,89.006
+24,Abu Dhabi,,DOO,46,14,92.136
+24,Abu Dhabi,Kick Sauber,ZHO,46,15,88.862
+24,Abu Dhabi,Haas,MAG,46,16,89.66
+24,Abu Dhabi,Racing Bulls,LAW,46,17,89.048
+24,Abu Dhabi,McLaren,NOR,40,1,87.707
+24,Abu Dhabi,Ferrari,SAI,40,2,88.662
+24,Abu Dhabi,Ferrari,LEC,40,3,88.565
+24,Abu Dhabi,Mercedes,RUS,40,4,88.454
+24,Abu Dhabi,Alpine,GAS,40,5,89.372
+24,Abu Dhabi,Mercedes,HAM,40,6,87.726
+24,Abu Dhabi,Haas,HUL,40,7,90.404
+24,Abu Dhabi,Red Bull,VER,40,8,88.345
+24,Abu Dhabi,Williams,ALB,40,9,89.549
+24,Abu Dhabi,Racing Bulls,TSU,40,10,89.567
+24,Abu Dhabi,Aston Martin,ALO,40,11,88.937
+24,Abu Dhabi,McLaren,PIA,40,12,88.325
+24,Abu Dhabi,Aston Martin,STR,40,13,89.037
+24,Abu Dhabi,,DOO,40,14,90.987
+24,Abu Dhabi,Kick Sauber,ZHO,40,15,116.496
+24,Abu Dhabi,Haas,MAG,40,16,88.917
+24,Abu Dhabi,Racing Bulls,LAW,40,17,89.195
+24,Abu Dhabi,McLaren,NOR,52,1,87.438
+24,Abu Dhabi,Ferrari,SAI,52,2,88.266
+24,Abu Dhabi,Ferrari,LEC,52,3,88.455
+24,Abu Dhabi,Mercedes,RUS,52,4,88.394
+24,Abu Dhabi,Mercedes,HAM,52,5,87.799
+24,Abu Dhabi,Red Bull,VER,52,6,88.047
+24,Abu Dhabi,Alpine,GAS,52,7,89.65
+24,Abu Dhabi,Haas,HUL,52,8,89.518
+24,Abu Dhabi,Aston Martin,ALO,52,9,88.277
+24,Abu Dhabi,Williams,ALB,52,10,90.136
+24,Abu Dhabi,McLaren,PIA,52,11,88.491
+24,Abu Dhabi,Racing Bulls,TSU,52,12,89.308
+24,Abu Dhabi,Aston Martin,STR,52,13,90.945
+24,Abu Dhabi,Kick Sauber,ZHO,52,14,88.23
+24,Abu Dhabi,,DOO,52,15,89.582
+24,Abu Dhabi,Haas,MAG,52,16,90.322
+24,Abu Dhabi,Racing Bulls,LAW,52,17,88.751
+24,Abu Dhabi,McLaren,NOR,32,1,88.414
+24,Abu Dhabi,Ferrari,SAI,32,2,88.333
+24,Abu Dhabi,Mercedes,HAM,32,3,89.802
+24,Abu Dhabi,Ferrari,LEC,32,4,88.536
+24,Abu Dhabi,Mercedes,RUS,32,5,88.447
+24,Abu Dhabi,Alpine,GAS,32,6,89.647
+24,Abu Dhabi,Haas,HUL,32,7,89.676
+24,Abu Dhabi,Aston Martin,ALO,32,8,89.986
+24,Abu Dhabi,McLaren,PIA,32,9,91.627
+24,Abu Dhabi,Red Bull,VER,32,10,88.528
+24,Abu Dhabi,Williams,ALB,32,11,89.837
+24,Abu Dhabi,Aston Martin,STR,32,12,92.228
+24,Abu Dhabi,Kick Sauber,ZHO,32,13,90.212
+24,Abu Dhabi,Racing Bulls,TSU,32,14,89.904
+24,Abu Dhabi,,DOO,32,15,90.404
+24,Abu Dhabi,Haas,MAG,32,16,87.235
+24,Abu Dhabi,Racing Bulls,LAW,32,17,89.434
+24,Abu Dhabi,McLaren,NOR,51,1,87.867
+24,Abu Dhabi,Ferrari,SAI,51,2,88.476
+24,Abu Dhabi,Ferrari,LEC,51,3,88.018
+24,Abu Dhabi,Mercedes,RUS,51,4,88.25
+24,Abu Dhabi,Mercedes,HAM,51,5,87.319
+24,Abu Dhabi,Red Bull,VER,51,6,87.82
+24,Abu Dhabi,Alpine,GAS,51,7,89.571
+24,Abu Dhabi,Haas,HUL,51,8,89.448
+24,Abu Dhabi,Aston Martin,ALO,51,9,87.948
+24,Abu Dhabi,Williams,ALB,51,10,90.973
+24,Abu Dhabi,McLaren,PIA,51,11,87.69
+24,Abu Dhabi,Racing Bulls,TSU,51,12,89.772
+24,Abu Dhabi,Aston Martin,STR,51,13,89.847
+24,Abu Dhabi,Kick Sauber,ZHO,51,14,88.732
+24,Abu Dhabi,,DOO,51,15,90.38
+24,Abu Dhabi,Haas,MAG,51,16,90.043
+24,Abu Dhabi,Racing Bulls,LAW,51,17,88.96
+24,Abu Dhabi,McLaren,NOR,9,1,89.007
+24,Abu Dhabi,Ferrari,SAI,9,2,89.187
+24,Abu Dhabi,Alpine,GAS,9,3,89.631
+24,Abu Dhabi,Mercedes,RUS,9,4,89.816
+24,Abu Dhabi,Haas,HUL,9,5,89.959
+24,Abu Dhabi,Aston Martin,ALO,9,6,90.085
+24,Abu Dhabi,Ferrari,LEC,9,7,89.913
+24,Abu Dhabi,Red Bull,VER,9,8,89.445
+24,Abu Dhabi,Haas,MAG,9,9,91.089
+24,Abu Dhabi,Aston Martin,STR,9,10,90.505
+24,Abu Dhabi,Racing Bulls,LAW,9,11,90.303
+24,Abu Dhabi,Mercedes,HAM,9,12,90.296
+24,Abu Dhabi,Kick Sauber,ZHO,9,13,90.42
+24,Abu Dhabi,Williams,ALB,9,14,90.469
+24,Abu Dhabi,Racing Bulls,TSU,9,15,90.656
+24,Abu Dhabi,,DOO,9,16,90.96
+24,Abu Dhabi,McLaren,PIA,9,17,89.553
+24,Abu Dhabi,Kick Sauber,BOT,9,18,89.903
+24,Abu Dhabi,Williams,COL,9,19,89.938
+24,Abu Dhabi,McLaren,NOR,17,1,88.955
+24,Abu Dhabi,Ferrari,SAI,17,2,89.187
+24,Abu Dhabi,Mercedes,RUS,17,3,89.766
+24,Abu Dhabi,Ferrari,LEC,17,4,89.57
+24,Abu Dhabi,Red Bull,VER,17,5,89.909
+24,Abu Dhabi,Mercedes,HAM,17,6,89.637
+24,Abu Dhabi,Racing Bulls,LAW,17,7,90.556
+24,Abu Dhabi,Alpine,GAS,17,8,89.986
+24,Abu Dhabi,Racing Bulls,TSU,17,9,92.003
+24,Abu Dhabi,Haas,HUL,17,10,89.152
+24,Abu Dhabi,,DOO,17,11,91.563
+24,Abu Dhabi,Aston Martin,ALO,17,12,89.892
+24,Abu Dhabi,McLaren,PIA,17,13,89.659
+24,Abu Dhabi,Aston Martin,STR,17,14,89.772
+24,Abu Dhabi,Haas,MAG,17,15,89.941
+24,Abu Dhabi,Williams,ALB,17,16,89.711
+24,Abu Dhabi,Kick Sauber,ZHO,17,17,90.264
+24,Abu Dhabi,Kick Sauber,BOT,17,18,89.819
+24,Abu Dhabi,Williams,COL,17,19,90.197
