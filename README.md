@@ -16,7 +16,6 @@ The repo is structured as:
 - `requirements` contains the necessary dependencies for the project.
 - `main_script.py` is the Python script responsible for data collection and cleaning.
 - `report_script.R` is the R script used to create visualizations.
-- `report.pdf` contains a final report for a specific GP race.
 
 ## Usage
 
